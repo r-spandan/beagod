@@ -7,17 +7,62 @@ import { useBookmarks } from './hooks/useBookmarks';
 import { IntelEdition, EditionIndexManifest, IntelItem } from './types/intel';
 import { Terminal, RefreshCw, AlertTriangle, Filter } from 'lucide-react';
 
+import initialLatest from '../public/data/latest.json';
+import initialIndex from '../public/data/index.json';
+import initialFlagship from '../public/data/constant_opportunities.json';
+
+// Resilient multi-mirror JSON fetcher (Local -> GitHub Raw -> jsDelivr CDN -> Bundled Fallback)
+async function fetchJsonWithFallback<T>(relPath: string, fallbackData?: T): Promise<T> {
+  // 1. Try local path first
+  try {
+    const res = await fetch(`./${relPath.replace(/^\.?\/?/, '')}`, { cache: 'no-cache' });
+    if (res.ok) {
+      const text = await res.text();
+      // Ensure it's valid JSON and not an HTML redirect or bot challenge
+      if (!text.trim().startsWith('<') && !text.includes('<!DOCTYPE') && !text.includes('<html')) {
+        return JSON.parse(text);
+      }
+    }
+  } catch (err) {
+    console.warn(`Local fetch for ${relPath} bypassed:`, err);
+  }
+
+  // 2. Try raw.githubusercontent.com and jsDelivr CDN mirrors
+  const cleanPath = relPath.replace(/^\.?\/?/, '');
+  const cdnMirrors = [
+    `https://raw.githubusercontent.com/r-spandan/beagod/main/public/${cleanPath}`,
+    `https://cdn.jsdelivr.net/gh/r-spandan/beagod@main/public/${cleanPath}`
+  ];
+
+  for (const cdnUrl of cdnMirrors) {
+    try {
+      const res = await fetch(cdnUrl, { cache: 'no-cache' });
+      if (res.ok) {
+        const text = await res.text();
+        if (!text.trim().startsWith('<')) {
+          return JSON.parse(text);
+        }
+      }
+    } catch {
+      // try next mirror
+    }
+  }
+
+  if (fallbackData !== undefined) {
+    return fallbackData;
+  }
+
+  throw new Error(`Failed to load ${relPath} from host or mirrors`);
+}
+
 export function App() {
-  const [edition, setEdition] = useState<IntelEdition | null>(null);
-  const [indexManifest, setIndexManifest] = useState<EditionIndexManifest>({
-    latest_edition_id: 'latest',
-    editions: []
-  });
+  const [edition, setEdition] = useState<IntelEdition | null>(initialLatest as unknown as IntelEdition);
+  const [indexManifest, setIndexManifest] = useState<EditionIndexManifest>(initialIndex as unknown as EditionIndexManifest);
   const [selectedEditionId, setSelectedEditionId] = useState<string>('latest');
   const [activeTab, setActiveTab] = useState<TabKey>('ALL');
   const [bookmarkCategoryFilter, setBookmarkCategoryFilter] = useState<string>('ALL');
   const [searchQuery, setSearchQuery] = useState<string>('');
-  const [loading, setLoading] = useState<boolean>(true);
+  const [loading, setLoading] = useState<boolean>(false);
   const [error, setError] = useState<string | null>(null);
 
   const {
@@ -39,56 +84,38 @@ export function App() {
     setExpandAllVersion((v) => v + 1);
   };
 
-  const [flagshipOpportunities, setFlagshipOpportunities] = useState<IntelItem[]>([]);
+  const [flagshipOpportunities, setFlagshipOpportunities] = useState<IntelItem[]>(
+    initialFlagship as unknown as IntelItem[]
+  );
 
-  // Load manifest index and flagship opportunities on mount
+  // Background refresh of manifest index and flagship opportunities on mount
   useEffect(() => {
-    fetch('./data/index.json')
-      .then((res) => {
-        if (!res.ok) throw new Error(`HTTP error ${res.status}`);
-        return res.json();
-      })
-      .then((data: EditionIndexManifest) => {
-        setIndexManifest(data);
-      })
-      .catch((err) => {
-        console.warn('Could not load edition index manifest, defaulting to latest only', err);
-      });
+    fetchJsonWithFallback<EditionIndexManifest>('data/index.json', initialIndex as unknown as EditionIndexManifest)
+      .then((data) => setIndexManifest(data))
+      .catch((err) => console.warn('Manifest index notice:', err));
 
-    fetch('./data/constant_opportunities.json')
-      .then((res) => {
-        if (!res.ok) throw new Error(`HTTP error ${res.status}`);
-        return res.json();
-      })
-      .then((data: IntelItem[]) => {
-        setFlagshipOpportunities(data);
-      })
-      .catch((err) => {
-        console.warn('Could not load constant opportunities', err);
-      });
+    fetchJsonWithFallback<IntelItem[]>('data/constant_opportunities.json', initialFlagship as unknown as IntelItem[])
+      .then((data) => setFlagshipOpportunities(data))
+      .catch((err) => console.warn('Flagship opportunities notice:', err));
   }, []);
 
-  // Load edition data based on selection
+  // Fetch or refresh edition data based on selection
   useEffect(() => {
-    setLoading(true);
-    setError(null);
+    const targetPath = selectedEditionId === 'latest' 
+      ? 'data/latest.json'
+      : `data/archive/${selectedEditionId}.json`;
 
-    const targetUrl = selectedEditionId === 'latest' 
-      ? './data/latest.json'
-      : `./data/archive/${selectedEditionId}.json`;
-
-    fetch(targetUrl)
-      .then((res) => {
-        if (!res.ok) throw new Error(`Failed to load edition (${res.status} ${res.statusText})`);
-        return res.json();
-      })
-      .then((data: IntelEdition) => {
+    fetchJsonWithFallback<IntelEdition>(targetPath, initialLatest as unknown as IntelEdition)
+      .then((data) => {
         setEdition(data);
         setLoading(false);
+        setError(null);
       })
       .catch((err) => {
-        console.error('Error fetching edition data:', err);
-        setError(err.message || 'Failed to load intelligence feed');
+        console.warn('Edition fetch notice:', err);
+        if (!edition) {
+          setError(err.message || 'Failed to load intelligence feed');
+        }
         setLoading(false);
       });
   }, [selectedEditionId]);

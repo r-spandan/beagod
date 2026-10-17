@@ -2,6 +2,9 @@
   RewriteEngine On
   RewriteBase /
   RewriteRule ^index\.html$ - [L]
+  # Never rewrite static data or assets to index.html
+  RewriteCond %{REQUEST_URI} \.(json|js|css|png|jpg|jpeg|gif|svg|ico|woff|woff2|ttf)$ [NC]
+  RewriteRule .* - [L]
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d
   RewriteRule . /index.html [L]
@@ -12,7 +15,7 @@ AddType application/javascript .js
 AddType text/css .css
 AddType application/json .json
 
-# Enable CORS for data fetching
+# Enable CORS everywhere
 <IfModule mod_headers.c>
   Header set Access-Control-Allow-Origin "*"
 </IfModule>
