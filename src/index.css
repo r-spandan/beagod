@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    border-color: #1F2330;
+  }
+  
+  body {
+    background-color: #050505;
+    color: #E2E8F0;
+    overflow-x: hidden;
+  }
+}
+
+/* Custom terminal scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #050505;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1F2330;
+  border-radius: 0px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #00FF66;
+}
+
+/* Blinking terminal cursor */
+@keyframes cursor-blink {
+  0%, 49% {
+    opacity: 1;
+  }
+  50%, 100% {
+    opacity: 0;
+  }
+}
+
+.terminal-cursor {
+  animation: cursor-blink 1.06s infinite;
+}
+
+/* Subtle CRT scanline effect (optional accent for header/cards) */
+.scanline-effect {
+  position: relative;
+}
+
+.scanline-effect::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%);
+  background-size: 100% 4px;
+  z-index: 2;
+  pointer-events: none;
+  opacity: 0.2;
+}
+
+/* Code block highlight border */
+.terminal-card {
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.terminal-card:hover {
+  border-color: #2e364a;
+  box-shadow: 0 0 15px rgba(0, 255, 102, 0.03);
+}
