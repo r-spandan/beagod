@@ -34,7 +34,7 @@ export const TerminalHeader: React.FC<TerminalHeaderProps> = ({
           </div>
           <span className="hidden md:inline-flex items-center space-x-1 text-[#64748B]">
             <Cpu className="w-3 h-3 text-[#A855F7]" />
-            <span>GEMINI_2.5_CORE</span>
+            <span>GEMINI_3.8_CORE</span>
           </span>
         </div>
 

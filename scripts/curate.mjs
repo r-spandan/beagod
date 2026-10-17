@@ -58,6 +58,18 @@ function isTitleSimilar(t1, t2) {
   return similarity > 0.75;
 }
 
+// Clean and robust title extractor
+function cleanTitle(raw) {
+  if (!raw) return '';
+  if (typeof raw === 'string') return raw.trim();
+  if (typeof raw === 'object') {
+    if (raw._ && typeof raw._ === 'string') return raw._.trim();
+    if (raw.text && typeof raw.text === 'string') return raw.text.trim();
+    if (raw['#text'] && typeof raw['#text'] === 'string') return raw['#text'].trim();
+  }
+  return String(raw).trim();
+}
+
 // Fetch all RSS sources safely
 async function fetchRssSources() {
   console.log(`[INGEST] Fetching ${SOURCES.length} RSS endpoints...`);
@@ -66,7 +78,7 @@ async function fetchRssSources() {
       try {
         const feed = await rssParser.parseURL(src.url);
         return (feed.items || []).slice(0, 10).map((item) => ({
-          title: item.title?.trim() || '',
+          title: cleanTitle(item.title),
           url: item.link?.trim() || '',
           contentSnippet: item.contentSnippet || item.summary || item.content || '',
           pubDate: item.pubDate || item.isoDate || new Date().toISOString(),
@@ -360,7 +372,7 @@ RETURN STRICT VALID JSON MATCHING THIS EXACT SCHEMA:
 `;
 
   const response = await ai.models.generateContent({
-    model: 'gemini-2.5-flash',
+    model: 'gemini-3.8-flash',
     contents: aiPrompt,
     config: {
       responseMimeType: 'application/json'
