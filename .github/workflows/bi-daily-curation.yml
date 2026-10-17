@@ -4,6 +4,8 @@ on:
   schedule:
     # 00:00 UTC = 6:00 AM BST | 12:00 UTC = 6:00 PM BST
     - cron: '0 0,12 * * *'
+  push:
+    branches: [ main ]
   workflow_dispatch: # Allows manual 1-click trigger anytime
 
 permissions:
