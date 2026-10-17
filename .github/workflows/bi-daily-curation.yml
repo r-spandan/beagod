@@ -43,6 +43,18 @@ jobs:
       - name: Build Static Frontend
         run: npm run build
 
+      - name: Deploy to InfinityFree via FTP (Automated Sync)
+        if: env.INFINITYFREE_FTP_SERVER != ''
+        env:
+          INFINITYFREE_FTP_SERVER: ${{ secrets.INFINITYFREE_FTP_SERVER }}
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.INFINITYFREE_FTP_SERVER }}
+          username: ${{ secrets.INFINITYFREE_FTP_USERNAME }}
+          password: ${{ secrets.INFINITYFREE_FTP_PASSWORD }}
+          server-dir: htdocs/
+          local-dir: ./dist/
+
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
         with:
