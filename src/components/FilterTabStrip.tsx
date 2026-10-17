@@ -8,6 +8,7 @@ export type TabKey =
   | 'TECH_ENGINEERING'
   | 'ADULTING_MENTAL_MODELS'
   | 'OPPORTUNITIES'
+  | 'FLAGSHIP_FELLOWSHIPS'
   | 'BOOKMARKS';
 
 interface FilterTabStripProps {
@@ -15,6 +16,7 @@ interface FilterTabStripProps {
   onTabChange: (tab: TabKey) => void;
   counts: Record<string, number>;
   bookmarkCount: number;
+  flagshipCount?: number;
   onExportJSON?: () => void;
   onExportMD?: () => void;
   onClearBookmarks?: () => void;
@@ -33,6 +35,7 @@ const TABS: TabDef[] = [
   { key: 'TECH_ENGINEERING', label: '03_tech_engineering.rs', extColor: 'text-[#F43F5E]' },
   { key: 'ADULTING_MENTAL_MODELS', label: '04_adulting_models.txt', extColor: 'text-[#A855F7]' },
   { key: 'OPPORTUNITIES', label: '05_opportunities.json', extColor: 'text-[#00E5FF]' },
+  { key: 'FLAGSHIP_FELLOWSHIPS', label: '06_flagship_fellowships.db', extColor: 'text-[#34D399]' },
   { key: 'BOOKMARKS', label: 'saved_bookmarks.db', extColor: 'text-[#FFB800]' },
 ];
 
@@ -41,6 +44,7 @@ export const FilterTabStrip: React.FC<FilterTabStripProps> = ({
   onTabChange,
   counts,
   bookmarkCount,
+  flagshipCount,
   onExportJSON,
   onExportMD,
   onClearBookmarks
@@ -52,7 +56,11 @@ export const FilterTabStrip: React.FC<FilterTabStripProps> = ({
         <div className="flex items-center space-x-1 py-1">
           {TABS.map((tab) => {
             const isActive = activeTab === tab.key;
-            const count = tab.key === 'BOOKMARKS' ? bookmarkCount : (counts[tab.key] || 0);
+            const count = tab.key === 'BOOKMARKS' 
+              ? bookmarkCount 
+              : tab.key === 'FLAGSHIP_FELLOWSHIPS'
+              ? (flagshipCount || 6)
+              : (counts[tab.key] || 0);
 
             return (
               <button

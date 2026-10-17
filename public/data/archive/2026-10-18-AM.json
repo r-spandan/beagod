@@ -5,8 +5,8 @@
   "edition_shift": "MORNING_0600_BST",
   "executive_pulse": "Semiconductor supply chains pivot towards Southeast Asian backends as TSMC 2nm schedules firm up; Bangladesh foreign reserves consolidate above $21B following structural export tax adjustments; elite Oxford and GSoC fellowship cycles open.",
   "stats": {
-    "total_items": 10,
-    "news_count": 7,
+    "total_items": 12,
+    "news_count": 9,
     "opportunities_count": 3,
     "sources_scanned": 154
   },
@@ -371,6 +371,80 @@
           "credibility_note": "Official IEEE Region 10 student competition portal with accredited university sponsorship",
           "original_url": "https://www.ieee.org",
           "discussion_or_secondary_url": "https://opportunitydesk.org"
+        }
+      }
+    },
+    {
+      "id": "econ-nbr-digital-tax-20261018-11",
+      "topic_slug": "nbr-mandatory-online-etax-return-psr",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "National Board Of Revenue (NBR) Mandates Universal Online Tax Return (e-Return) Filing And Expands Zero-Tax Threshold",
+      "summary_points": [
+        "The NBR has gazetted a universal mandate requiring all individual taxpayers in city corporations to submit income tax returns exclusively online via the etaxnbr.gov.bd portal.",
+        "The general annual tax-exempt threshold remains stabilized at 3.5 Lakh BDT (4 Lakh BDT for women and senior citizens), with streamlined automated tax acknowledgment certificates generated instantly.",
+        "Proof of Submission of Return (PSR) is now digitally validated across 43 essential civic services, including opening merchant bank accounts, obtaining trade licenses, and endorsing dual-currency credit cards."
+      ],
+      "why_it_matters": "Directly impacts every working adult and family in Bangladesh. Filing your zero-tax or standard tax e-Return legitimizes your income, prevents banking holds on formal freelancing/salary deposits, and creates an official verifiable tax trail required for international visa and overseas postgraduate applications.",
+      "deep_dive_analysis": "The shift to mandatory digital e-Return filing marks the end of discretionary harassment by local tax circles and represents a core pillar of Bangladesh's fiscal modernization.\n\nCivic & Legal Mechanics:\n- Who Must File: Anyone earning above 3.5 Lakh BDT/year, OR anyone who holds an e-TIN and requires PSR for government/banking services (even if their income is below the taxable threshold, requiring a 'Zero Return').\n- Digital Audit Integration: The e-Return portal automatically cross-references banking interest certificates, vehicle registrations, and property ownership via National ID (NID) integration, making undeclared asset concealment significantly harder.\n- Recommendation for Undergrads & Young Professionals: Submit your e-Return annually as soon as you turn 18 and register your e-TIN. Establishing a 3-year spotless tax filing record is the single highest-credibility asset when proving financial ties to Bangladesh during embassy visa interviews.",
+      "opportunity_meta": {
+        "is_opportunity": false
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Proof of Submission of Return (PSR)",
+            "definition": "An official certificate issued by the NBR verifying that an individual has submitted their income tax return for the current assessment year."
+          },
+          {
+            "term": "Zero Return",
+            "definition": "An income tax return filed by an individual whose total annual income falls below the statutory minimum taxable threshold, resulting in zero tax liability."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Business Standard (TBS) & NBR Gazette",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Official Statutory Regulatory Order (SRO) published by the National Board of Revenue",
+          "original_url": "https://www.tbsnews.net",
+          "discussion_or_secondary_url": "https://etaxnbr.gov.bd"
+        }
+      }
+    },
+    {
+      "id": "geo-bd-energy-tariff-20261018-12",
+      "topic_slug": "interim-govt-energy-tariff-automated-pricing-formula",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Interim Government Overhauls National Energy Tariffs & Fuel Import Pricing With Monthly Automated International Indexing",
+      "summary_points": [
+        "The Ministry of Power, Energy and Mineral Resources enacted an automated pricing formula linking domestic retail fuel (petrol, octane, diesel) directly to monthly international benchmark averages (Platts Singapore).",
+        "Direct sovereign-to-sovereign fuel procurement contracts with Middle Eastern suppliers (Saudi Aramco and ADNOC) eliminate middleman premiums, saving an estimated $420M annually in foreign currency.",
+        "Bangladesh Energy Regulatory Commission (BERC) initiated open public hearings to audit state power generation agency (BPDB) balance sheets and phase out non-operational capacity charges."
+      ],
+      "why_it_matters": "Energy prices are the master variable driving inflation across the entire Bangladeshi economy — from public transport and bus fares in Dhaka to agricultural irrigation and commodity prices at local bazaars. Transparent automated pricing prevents unpredictable price spikes and directly protects every family's monthly budget.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Automated Pricing Formula",
+            "definition": "A mathematical mechanism where domestic retail fuel prices are automatically updated monthly based on prevailing international market crude and refined petroleum prices."
+          },
+          {
+            "term": "Capacity Charges",
+            "definition": "Contractual fees paid to private power plant operators to guarantee electricity generation capacity, regardless of whether the plant is actively producing power."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Daily Star National & Business Desk",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Executive directive confirmed by Ministry of Power, Energy and Mineral Resources official press release",
+          "original_url": "https://www.thedailystar.net",
+          "discussion_or_secondary_url": "https://www.tbsnews.net"
         }
       }
     }

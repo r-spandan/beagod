@@ -39,7 +39,9 @@ export function App() {
     setExpandAllVersion((v) => v + 1);
   };
 
-  // Load manifest index on mount
+  const [flagshipOpportunities, setFlagshipOpportunities] = useState<IntelItem[]>([]);
+
+  // Load manifest index and flagship opportunities on mount
   useEffect(() => {
     fetch('./data/index.json')
       .then((res) => {
@@ -51,6 +53,18 @@ export function App() {
       })
       .catch((err) => {
         console.warn('Could not load edition index manifest, defaulting to latest only', err);
+      });
+
+    fetch('./data/constant_opportunities.json')
+      .then((res) => {
+        if (!res.ok) throw new Error(`HTTP error ${res.status}`);
+        return res.json();
+      })
+      .then((data: IntelItem[]) => {
+        setFlagshipOpportunities(data);
+      })
+      .catch((err) => {
+        console.warn('Could not load constant opportunities', err);
       });
   }, []);
 
@@ -110,6 +124,8 @@ export function App() {
       if (bookmarkCategoryFilter !== 'ALL') {
         sourceList = sourceList.filter((item) => item.category === bookmarkCategoryFilter);
       }
+    } else if (activeTab === 'FLAGSHIP_FELLOWSHIPS') {
+      sourceList = flagshipOpportunities;
     } else {
       if (!edition) return [];
       sourceList = edition.items;
@@ -155,6 +171,7 @@ export function App() {
         onTabChange={setActiveTab}
         counts={counts}
         bookmarkCount={bookmarkCount}
+        flagshipCount={flagshipOpportunities.length}
         onExportJSON={exportBookmarksJSON}
         onExportMD={exportBookmarksMD}
         onClearBookmarks={clearAllBookmarks}
@@ -167,6 +184,23 @@ export function App() {
         allExpanded={expandAll}
         onToggleExpandAll={handleToggleExpandAll}
       />
+
+      {/* Flagship Fellowships Banner */}
+      {activeTab === 'FLAGSHIP_FELLOWSHIPS' && (
+        <div className="border-b border-[#1F2330] bg-[#0D0E12] px-3 sm:px-4 py-2.5">
+          <div className="max-w-[1600px] mx-auto flex flex-wrap items-center justify-between gap-2 text-xs">
+            <div className="flex items-center space-x-2 text-[#34D399]">
+              <span className="font-bold">// PERENNIAL_GLOBAL_FELLOWSHIPS:</span>
+              <span className="text-[#E2E8F0]">
+                Perpetual flagship scholarships (Erasmus Mundus, Fulbright, DAAD, Commonwealth, MEXT, Chevening) with full funding &amp; annual cycles.
+              </span>
+            </div>
+            <div className="text-[11px] text-[#64748B]">
+              DATABASE: <span className="text-[#00E5FF]">constant_opportunities.json</span>
+            </div>
+          </div>
+        </div>
+      )}
 
       {/* 4. Bookmarks Sub-Filter Bar (When viewing saved_bookmarks.db) */}
       {activeTab === 'BOOKMARKS' && (
