@@ -58,9 +58,11 @@ jobs:
           local-dir: ./dist/
 
       - name: Upload Pages Artifact
+        continue-on-error: true
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist
 
       - name: Deploy to GitHub Pages
+        continue-on-error: true
         uses: actions/deploy-pages@v4
