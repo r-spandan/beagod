@@ -32,7 +32,7 @@ const TABS: TabDef[] = [
   { key: 'ECONOMY_FINANCE', label: '02_economy_finance.py', extColor: 'text-[#FBBF24]' },
   { key: 'TECH_ENGINEERING', label: '03_tech_engineering.rs', extColor: 'text-[#F43F5E]' },
   { key: 'ADULTING_MENTAL_MODELS', label: '04_adulting_models.txt', extColor: 'text-[#A855F7]' },
-  { key: 'OPPORTUNITIES', label: '05_opportunities.json (30%)', extColor: 'text-[#00E5FF]' },
+  { key: 'OPPORTUNITIES', label: '05_opportunities.json', extColor: 'text-[#00E5FF]' },
   { key: 'BOOKMARKS', label: 'saved_bookmarks.db', extColor: 'text-[#FFB800]' },
 ];
 

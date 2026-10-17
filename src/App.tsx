@@ -31,6 +31,14 @@ export function App() {
     bookmarkCount
   } = useBookmarks();
 
+  const [expandAll, setExpandAll] = useState<boolean>(false);
+  const [expandAllVersion, setExpandAllVersion] = useState<number>(0);
+
+  const handleToggleExpandAll = () => {
+    setExpandAll((prev) => !prev);
+    setExpandAllVersion((v) => v + 1);
+  };
+
   // Load manifest index on mount
   useEffect(() => {
     fetch('./data/index.json')
@@ -156,6 +164,8 @@ export function App() {
       <StatsBar
         edition={edition}
         filteredCount={displayedItems.length}
+        allExpanded={expandAll}
+        onToggleExpandAll={handleToggleExpandAll}
       />
 
       {/* 4. Bookmarks Sub-Filter Bar (When viewing saved_bookmarks.db) */}
@@ -235,16 +245,17 @@ export function App() {
             )}
           </div>
         ) : (
-          <div className="space-y-4">
+          <div className="space-y-3">
             {displayedItems.map((item, index) => (
               <IntelCard
-                key={item.id}
+                key={`${item.id}-${expandAllVersion}`}
                 item={item}
                 index={index}
                 isBookmarked={isBookmarked(item.id)}
                 onToggleBookmark={toggleBookmark}
                 onRemoveBookmark={removeBookmark}
                 isBookmarkView={activeTab === 'BOOKMARKS'}
+                defaultExpanded={expandAll}
               />
             ))}
           </div>

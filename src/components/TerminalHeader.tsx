@@ -41,20 +41,27 @@ export const TerminalHeader: React.FC<TerminalHeaderProps> = ({
         {/* Center: System Status Bar */}
         <div className="flex items-center flex-wrap gap-2 sm:gap-3">
           {currentEdition ? (
-            <>
-              <div className="flex items-center space-x-1.5 px-2.5 py-1 bg-[#0D0E12] border border-[#1F2330]">
-                <Calendar className="w-3 h-3 text-[#00E5FF]" />
-                <span className="text-[#64748B]">EDITION:</span>
-                <span className="text-[#00E5FF] font-semibold">{currentEdition.edition_id}</span>
-                <span className="text-[#64748B]">[{currentEdition.edition_shift}]</span>
-              </div>
-              <div className="hidden lg:flex items-center space-x-1 px-2 py-1 bg-[#0D0E12] border border-[#1F2330]">
-                <span className="text-[#64748B]">SIGNAL_SPLIT:</span>
-                <span className="text-[#00FF66] font-bold">70% INTEL</span>
-                <span className="text-[#64748B]">/</span>
-                <span className="text-[#00E5FF] font-bold">30% OPP</span>
-              </div>
-            </>
+            <div className="flex items-center space-x-2 px-3 py-1 bg-[#0D0E12] border border-[#1F2330]">
+              <Calendar className="w-3.5 h-3.5 text-[#00E5FF]" />
+              <span className="text-[#00E5FF] font-semibold text-xs tracking-wide">
+                {(() => {
+                  const isMorning = 
+                    currentEdition.edition_shift?.toLowerCase().includes('morning') || 
+                    currentEdition.edition_id?.toUpperCase().endsWith('-AM') ||
+                    currentEdition.edition_shift?.toLowerCase().includes('0600');
+                  const shift = isMorning ? 'Morning' : 'Evening';
+                  try {
+                    const d = new Date(currentEdition.generated_at_utc || currentEdition.edition_id);
+                    if (!isNaN(d.getTime())) {
+                      return `${shift}, ${d.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}`;
+                    }
+                  } catch {
+                    // fallback
+                  }
+                  return `${shift}, ${currentEdition.edition_id.replace(/-AM|-PM/i, '')}`;
+                })()}
+              </span>
+            </div>
           ) : (
             <div className="text-[#FFB800] animate-pulse">CONNECTING_TO_MAINFRAME...</div>
           )}

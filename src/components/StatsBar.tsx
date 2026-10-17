@@ -1,13 +1,20 @@
 import React from 'react';
-import { Activity, Clock, Database, Globe } from 'lucide-react';
+import { Activity, Clock, Database, ChevronDown, ChevronUp } from 'lucide-react';
 import { IntelEdition } from '../types/intel';
 
 interface StatsBarProps {
   edition: IntelEdition | null;
   filteredCount: number;
+  allExpanded?: boolean;
+  onToggleExpandAll?: () => void;
 }
 
-export const StatsBar: React.FC<StatsBarProps> = ({ edition, filteredCount }) => {
+export const StatsBar: React.FC<StatsBarProps> = ({
+  edition,
+  filteredCount,
+  allExpanded,
+  onToggleExpandAll
+}) => {
   if (!edition) return null;
 
   return (
@@ -36,17 +43,23 @@ export const StatsBar: React.FC<StatsBarProps> = ({ edition, filteredCount }) =>
           </div>
         </div>
 
-        {/* Right: Timestamps */}
+        {/* Right: Expand/Collapse All and Timestamp */}
         <div className="flex flex-wrap items-center gap-3 text-[11px]">
+          {onToggleExpandAll && (
+            <button
+              onClick={onToggleExpandAll}
+              className="flex items-center space-x-1 px-2 py-0.5 bg-[#0D0E12] border border-[#1F2330] text-[#00FF66] hover:border-[#00FF66] transition-colors"
+              title={allExpanded ? 'Collapse All Cards' : 'Expand All Cards'}
+            >
+              {allExpanded ? <ChevronUp className="w-3 h-3" /> : <ChevronDown className="w-3 h-3" />}
+              <span>{allExpanded ? '[COLLAPSE_ALL]' : '[EXPAND_ALL]'}</span>
+            </button>
+          )}
+
           <div className="flex items-center space-x-1 text-[#64748B]">
             <Clock className="w-3 h-3 text-[#FFB800]" />
             <span>BST:</span>
             <span className="text-[#E2E8F0]">{edition.generated_at_bst}</span>
-          </div>
-          <div className="hidden md:flex items-center space-x-1 text-[#64748B]">
-            <Globe className="w-3 h-3 text-[#A855F7]" />
-            <span>UTC:</span>
-            <span className="text-[#64748B]">{edition.generated_at_utc}</span>
           </div>
         </div>
       </div>
