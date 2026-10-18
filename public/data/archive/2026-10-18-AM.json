@@ -1,450 +1,393 @@
 {
   "edition_id": "2026-10-18-AM",
-  "generated_at_utc": "2026-10-18T00:00:00Z",
-  "generated_at_bst": "2026-10-18 06:00:00 AM BST",
+  "generated_at_utc": "2026-10-18T04:01:09.661Z",
+  "generated_at_bst": "10/18/2026, 10:01:09 AM BST",
   "edition_shift": "MORNING_0600_BST",
-  "executive_pulse": "Semiconductor supply chains pivot towards Southeast Asian backends as TSMC 2nm schedules firm up; Bangladesh foreign reserves consolidate above $21B following structural export tax adjustments; elite Oxford and GSoC fellowship cycles open.",
+  "executive_pulse": "Naval tensions in the Persian Gulf reach a boiling point following naval mine detonations on VLCC tankers in the Strait of Hormuz, while domestic fiscal and energy reforms accelerate across Dhaka and Western Europe. For Bangladeshi engineers and citizens, shifting maritime freight insurance and national grid-wheeling policy adjustments demand immediate strategic adaptation.",
   "stats": {
-    "total_items": 12,
-    "news_count": 9,
+    "total_items": 10,
+    "news_count": 7,
     "opportunities_count": 3,
-    "sources_scanned": 154
+    "sources_scanned": 128
   },
   "items": [
     {
-      "id": "geo-semi-20261018-01",
-      "topic_slug": "global-semiconductor-chokepoint-malacca",
+      "id": "hormuz-tanker-mine-strikes-oil-shipping-crisis",
+      "topic_slug": "strait-of-hormuz-naval-mine-tanker-attacks-energy-shock",
       "type": "NEWS",
       "category": "GEOPOLITICS",
       "importance_tier": "CRITICAL_DEEP_DIVE",
-      "headline": "Maritime Defense Protocols Tighten Along Malacca Strait As 68% Of Asian Advanced Chip Shipments Reroute",
+      "headline": "Strait of Hormuz Chokepoint Crisis: Naval Mine Detonations Paralyze Dual VLCC Tankers",
       "summary_points": [
-        "Regional naval task forces have deployed updated automated escorts along the Malacca and Sunda straits in response to heightened commercial maritime tracking drills.",
-        "Over 68% of finished wafer transfers moving between Taiwanese foundries and Southeast Asian packaging hubs traverse this maritime corridor weekly.",
-        "Logistics freight forwarders report a 14% increase in contingency transit times and maritime insurance surcharges, accelerating secondary air-freight agreements."
+        "Two Very Large Crude Carriers (VLCCs), each hauling approximately 2 million barrels of crude oil, caught fire after striking underwater naval mines in the Strait of Hormuz.",
+        "Iran's Islamic Revolutionary Guard Corps (IRGC) claimed the vessels navigated an unauthorized maritime corridor, while international maritime security bureaus suspect asymmetric state-sponsored interdiction.",
+        "Lloyd's of London and global marine underwriters have unilaterally doubled war-risk premiums for Persian Gulf transit, triggering immediate upward pressure on Brent crude futures."
       ],
-      "why_it_matters": "For a Bangladeshi engineering student, geopolitical shipping bottlenecks directly influence component lead times and prices for laboratory-grade development boards, MCUs, and enterprise GPUs in Dhaka. More broadly, understanding how maritime chokepoints dictate global compute infrastructure is vital for macroscopic strategic literacy.",
-      "deep_dive_analysis": "The Straits of Malacca represent one of the narrowest and most critical economic arteries on earth, handling approximately 25% of all global maritime oil and the vast preponderance of intermediate silicon moving between Taiwanese front-end fabs and Malaysian/Vietnamese packaging facilities (ASE, Amkor, and Intel Penang).\n\nSecond-Order Consequences: The enforcement of restricted maritime corridors forces container lines to price in 72-hour delay buffers. In response, Tier-1 hardware vendors are standardizing on air cargo for high-margin AI accelerators (e.g. H100/B200 successors), leaving consumer silicon and raw PCB substrates exposed to maritime rate volatility. In South Asia, procurement cycles for educational institutions and regional data centers face an anticipated 3-to-5 week latency expansion through Q1 2027.",
+      "why_it_matters": "Bangladesh imports more than 80% of its refined fuel and crude petroleum via maritime channels originating in the Middle East. A spike in war-risk insurance premiums directly inflates the import bill for the Bangladesh Petroleum Corporation (BPC), draining foreign currency reserves, raising domestic transport tariffs, and widening the balance-of-payments deficit.",
+      "deep_dive_analysis": "The detonation of naval limpet or tethered contact mines against commercial crude carriers inside the Strait of Hormuz represents an escalation from shadow harassment to direct kinetic interdiction. The Strait represents the transit corridor for roughly 20% of global petroleum liquids and significant volumes of Liquefied Natural Gas (LNG). By attributing the explosions to an 'unauthorized route', Iranian authorities have established a legalistic pretext that allows maritime harassment while preserving plausible deniability against direct military retaliation by Western and Gulf coalitions.\n\nThe immediate economic mechanism is financial rather than purely operational. While maritime passages are rarely fully blockaded due to the risk of triggering multinational military convoy escorts, marine insurance underwriters respond immediately. The Joint War Committee (JWC) listing expansion forces shipowners to absorb astronomical additional war-risk insurance (AWRP) rates, frequently surging from 0.05% of hull value to beyond 0.5% within 48 hours. This cost is transferred directly to importing sovereign nations via higher CIF (Cost, Insurance, and Freight) prices.\n\nFor developing net-energy-importing economies like Bangladesh, the second-order shock is severe. Bangladesh Bank must allocate additional hard US dollar reserves per shipment to ensure un-halted operation of national base-load power stations and industrial captive generators. If elevated freight rates persist into Q4, the pressure will accelerate domestic inflation and force fiscal authorities to either expand retail fuel subsidies or implement painful tariff hikes that compress consumer disposable income.",
       "opportunity_meta": {
-        "is_opportunity": false
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Chokepoint Economics",
-            "definition": "The strategic vulnerability where a large proportion of global trade passes through a narrow geographical passage that can be easily blocked or monitored."
+            "term": "VLCC (Very Large Crude Carrier)",
+            "definition": "A standard supertanker category capable of hauling between 200,000 and 320,000 deadweight tonnage (DWT) of crude oil, equivalent to roughly 2 million barrels."
           },
           {
-            "term": "OSAT",
-            "definition": "Outsourced Semiconductor Assembly and Test — third-party facilities that package, bond, and test raw silicon wafers into consumer-ready chips."
+            "term": "War-Risk Insurance Premium",
+            "definition": "A specialized surcharge levied by maritime insurers to cover merchant vessels operating in designated conflict or hostile territorial zones."
           }
         ],
         "source_verification": {
-          "primary_source_name": "Reuters Maritime & Defense Bureau",
+          "primary_source_name": "Al Jazeera English Wire",
           "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Direct maritime shipping telemetry confirmed by Lloyd's Register and regional naval port advisories",
-          "original_url": "https://www.reuters.com",
-          "discussion_or_secondary_url": "https://news.ycombinator.com"
+          "credibility_note": "Direct regional reporting corroborated by global tanker tracking bureaus and international maritime security alerts.",
+          "original_url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz",
+          "discussion_or_secondary_url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz"
         }
       }
     },
     {
-      "id": "econ-bd-reserves-20261018-02",
-      "topic_slug": "bangladesh-forex-reserves-stabilization-imf",
+      "id": "berc-rooftop-solar-net-metering-wheeling-policy",
+      "topic_slug": "berc-renewable-energy-wheeling-net-metering-reforms",
       "type": "NEWS",
       "category": "ECONOMY_FINANCE",
       "importance_tier": "CRITICAL_DEEP_DIVE",
-      "headline": "Bangladesh Bank Gross Forex Reserves Cross $21.4 Billion Threshold As Remittance Channels Modernize",
+      "headline": "BERC Overhauls Grid Regulations: Private Industrial Solar Wheeling and Captive Net Metering Approved",
       "summary_points": [
-        "Bangladesh Bank's latest BPM6-calculated foreign exchange reserves reached $21.42B, bolstered by formal banking channel incentives and sustained RMG export receipts.",
-        "The crawling peg exchange rate system has stabilized interbank US Dollar exchange rates within a predictable 118-121 BDT bandwidth over consecutive quarters.",
-        "The IMF technical mission praised fiscal rationalization and revenue modernization measures preceding the disbursement of the next extended credit facility tranche."
+        "The Bangladesh Energy Regulatory Commission (BERC) has issued a regulatory gazette allowing industrial manufacturing units to wheel self-generated solar and renewable power across the national transmission grid.",
+        "Under the revised Net Energy Metering (NEM) guidelines, commercial enterprises can export up to 100% of their rooftop PV plant capacity during off-peak and weekend operations to offset retail grid tariffs.",
+        "The measure is targeted at clearing export compliance bottlenecks for the Ready-Made Garment (RMG) sector, which faces strict European carbon border adjustment audits."
       ],
-      "why_it_matters": "Currency stability directly impacts your purchasing power in Bangladesh, tech import costs (laptops, electronics, cloud computing credits like AWS/GCP), tuition remittance for overseas graduate school applications, and regional job market stability in the technology and engineering sectors.",
-      "deep_dive_analysis": "The stabilization of foreign exchange reserves using IMF BPM6 methodology marks a decisive shift away from arbitrary currency defense toward real market-driven pricing. For two years, erratic spreads between official bank rates and the informal kerb market drained foreign currency from institutional accounts.\n\nMechanisms & Long-Term Outlook: By incentivizing formal remittance transfers through digital rails (bKash/Nagad overseas interoperability) and curbing under-invoicing, net reserves have found a reliable base. For young engineers planning masters programs abroad or working as remote contractors for US/European software firms, this ensures swift dollar-denominated repatriation and transparent foreign currency endorsement on dual-currency credit cards.",
+      "why_it_matters": "For engineering graduates and industrial technologists in Bangladesh, this policy breaks a multi-decade grid-access monopoly, unleashing an immediate wave of capital expenditure for solar PV integration, power electronics installation, and industrial microgrid design. For citizens, higher domestic renewable supply reduces costly reliance on foreign spot-market LNG imports.",
+      "deep_dive_analysis": "Historically, captive industrial power generation in Bangladesh was tightly shackled by geographic adjacency: a textile mill or factory could only consume renewable energy generated directly on its immediate rooftop, leaving vast off-site rural tracts unviable for commercial wheeling. Under the newly enacted BERC framework, third-party power purchase agreements (PPAs) and 'open access wheeling' are formally sanctioned. Industrial consumers pay a transparent wheeling tariff to the Power Grid Company of Bangladesh (PGCB) and respective distribution utilities (DPDC, DESCO, BREB) to transmit renewable electrons across regional transmission lines.\n\nThis structural reform addresses two existential crises simultaneously. First, the European Union's Carbon Border Adjustment Mechanism (CBAM) imposes severe financial penalties on imported industrial commodities with high embedded carbon footprints. Bangladeshi RMG and textile manufacturers—who contribute over 80% of national export earnings—now have a legally grounded mechanism to decarbonize their energy procurement without relying on dirty grid electricity.\n\nSecond, the financial dynamics of distribution companies will experience a fundamental pivot. Instead of bearing the burden of capacity charges from dormant fossil-fuel Independent Power Producers (IPPs), the national grid transitions into a common-carrier service provider generating fee-based wheeling revenue. For local electrical and energy engineers, this shifts the job market from traditional substation operations toward grid-scale solar farm development, SCADA synchronization, and battery energy storage system (BESS) network engineering.",
       "opportunity_meta": {
-        "is_opportunity": false
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "BPM6 Standard",
-            "definition": "The IMF Balance of Payments Manual 6th Edition — a strict accounting method that calculates only liquid, readily available foreign reserves without counting liabilities."
+            "term": "Open Access Wheeling",
+            "definition": "The regulatory right of an electricity generator to transmit power over a third party's transmission and distribution lines upon paying a standardized transmission fee."
           },
           {
-            "term": "Crawling Peg",
-            "definition": "An exchange rate regime that allows a currency to fluctuate within a narrow band around a central exchange rate that is periodically adjusted."
+            "term": "CBAM (Carbon Border Adjustment Mechanism)",
+            "definition": "A European Union policy that taxes imported goods based on greenhouse gas emissions generated during their production to prevent carbon leakage."
           }
         ],
         "source_verification": {
-          "primary_source_name": "The Business Standard (TBS) & Bangladesh Bank",
-          "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Official monetary policy release corroborated by Ministry of Finance gazettes and IMF staff reports",
-          "original_url": "https://www.tbsnews.net",
-          "discussion_or_secondary_url": "https://www.thedailystar.net/business"
-        }
-      }
-    },
-    {
-      "id": "tech-deepseek-inference-20261018-03",
-      "topic_slug": "open-weight-reasoning-models-quantization",
-      "type": "NEWS",
-      "category": "TECH_ENGINEERING",
-      "importance_tier": "STANDARD_BRIEF",
-      "headline": "Open-Weight Mixture-of-Experts Models Achieve High-Throughput Reasoning On Single Consumer RTX 4090 GPUs",
-      "summary_points": [
-        "Novel 2.5-bit to 3-bit activation-aware weight quantization schemes (AWQ/EXL2) enable 70B-parameter reasoning models to execute at 28 tokens/sec on 24GB VRAM.",
-        "Latency benchmarks verify that chain-of-thought verification stages run locally without leaking proprietary code or engineering datasets to remote cloud APIs.",
-        "Open-source inference runtimes (vLLM and llama.cpp) have merged unified kernel patches optimizing speculative decoding across consumer GPUs."
-      ],
-      "why_it_matters": "MIST students working on final-year design projects (FYDP), robotics controllers, or competitive programming no longer need expensive multi-thousand-dollar cloud API credits to run state-of-the-art reasoning models. You can run frontier-class models directly on lab or workstation GPUs.",
-      "deep_dive_analysis": null,
-      "opportunity_meta": {
-        "is_opportunity": false
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "Speculative Decoding",
-            "definition": "An acceleration technique where a small, fast draft model generates candidate tokens in advance, which are then verified simultaneously in one pass by the large model."
-          },
-          {
-            "term": "Quantization",
-            "definition": "Compressing neural network weights from 16-bit floating-point numbers into 4-bit or 3-bit integers to drastically reduce memory usage with minimal loss of accuracy."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "Hacker News & arXiv Computer Science",
-          "source_type": "SOCIAL_SIGNAL",
-          "credibility_note": "Community-validated benchmarks with 650+ points on Hacker News and verified GitHub reproduction scripts",
-          "original_url": "https://news.ycombinator.com",
-          "discussion_or_secondary_url": "https://github.com"
-        }
-      }
-    },
-    {
-      "id": "tech-tsmc-nanosheet-20261018-04",
-      "topic_slug": "tsmc-a16-nanosheet-transistor-volume-yield",
-      "type": "NEWS",
-      "category": "TECH_ENGINEERING",
-      "importance_tier": "STANDARD_BRIEF",
-      "headline": "TSMC Reports 72% Yields On N2 Gate-All-Around Nanosheet Process, Previews Backside Power Delivery (A16)",
-      "summary_points": [
-        "TSMC confirmed that initial risk production on its 2nm N2 process node has reached commercial yield thresholds ahead of scheduled volume delivery in 2026.",
-        "The node transitions away from FinFET to Gate-All-Around (GAA) nanosheets, offering 15% speed improvement at identical power or 30% power reduction at matched frequency.",
-        "The subsequent A16 node architecture introduces backside power rails (Super Power Rail), eliminating routing congestion between signal and power lines."
-      ],
-      "why_it_matters": "Understanding VLSI and transistor physics transitions from FinFET to GAA nanosheets is foundational for electronics, electrical, and computer engineering students. It sets the baseline hardware capability for the next decade of smartphone, data center, and autonomous edge robotics architectures.",
-      "deep_dive_analysis": null,
-      "opportunity_meta": {
-        "is_opportunity": false
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "Gate-All-Around (GAA)",
-            "definition": "A 3D transistor architecture where the gate material completely surrounds stacked horizontal silicon nanosheets on all sides, reducing electrical leakage."
-          },
-          {
-            "term": "Backside Power Delivery",
-            "definition": "Decoupling the power supply network from signal interconnects by routing power lines underneath the silicon wafer rather than on top."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "IEEE Spectrum / Semiconductor Digest",
+          "primary_source_name": "Ministry of Power, Energy & Mineral Resources Gazette",
           "source_type": "NICHE_CREDIBLE",
-          "credibility_note": "Official technical disclosures presented at IEEE International Electron Devices Meeting (IEDM)",
-          "original_url": "https://spectrum.ieee.org",
-          "discussion_or_secondary_url": "https://arstechnica.com"
+          "credibility_note": "Official statutory regulatory order by BERC corroborated by national utility distribution boards.",
+          "original_url": "https://berc.org.bd/notices/gazette-net-metering-wheeling-2026",
+          "discussion_or_secondary_url": "https://www.tbsnews.net/energy/berc-solar-wheeling-guidelines-reform"
         }
       }
     },
     {
-      "id": "geo-matarbari-port-20261018-05",
-      "topic_slug": "matarbari-deep-sea-port-infrastructure-milestone",
+      "id": "france-nationwide-cost-of-living-unrest-limoges-fire",
+      "topic_slug": "france-nationwide-civil-unrest-cost-of-living-austerity",
       "type": "NEWS",
       "category": "GEOPOLITICS",
       "importance_tier": "STANDARD_BRIEF",
-      "headline": "Matarbari Deep Sea Port Completes Phase-1 Navigational Dredging, Allowing Direct 8,000 TEU Mother Vessels",
+      "headline": "France Gripped by Civil Unrest: Over 1,000 Detained as Historic Limoges City Hall Torched",
       "summary_points": [
-        "Bangladesh's primary deep-sea infrastructure project at Matarbari completed its 16-meter draft navigational approach canal with JICA engineering oversight.",
-        "Direct berthing of mother vessels will slash export transit times to European ports from 38 days to 16 days by bypassing regional transshipment hubs in Colombo and Singapore.",
-        "Secondary railway and bridge infrastructure connecting the Cox's Bazar-Chittagong economic corridor enters final commissioning stages."
+        "More than half a million demonstrators swept across Paris, Marseille, Lyon, and Limoges protesting deteriorating purchasing power, rising living costs, and proposed public spending cuts.",
+        "The historic town hall of Limoges was largely destroyed by fire after radical demonstrators stormed the premises, prompting the deployment of tactical gendarmerie units.",
+        "Over 1,200 individuals have been taken into custody nationwide, as the French government warns that public infrastructure attacks cross red lines of lawful democratic dissent."
       ],
-      "why_it_matters": "Transforms Bangladesh from a feeder-dependent maritime periphery into a regional transshipment hub for Northeast India, Nepal, and Bhutan. For civil, mechanical, and industrial production engineers from MIST, it generates hundreds of high-value specialized project management, port logistics, and automation positions.",
+      "why_it_matters": "France is a leading political architect and financial core of the European Union. Prolonged social instability weakens the euro, exacerbates European sovereign debt spreads, and risks dampening European consumer demand—directly impacting Bangladesh's single largest destination bloc for garments and manufactured exports.",
       "deep_dive_analysis": null,
       "opportunity_meta": {
-        "is_opportunity": false
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Mother Vessel vs Feeder",
-            "definition": "Mother vessels are massive cargo ships that operate long-distance ocean routes, whereas feeder vessels are smaller craft that shuttle containers to shallow local ports."
-          },
-          {
-            "term": "TEU (Twenty-foot Equivalent)",
-            "definition": "The standard unit of measurement used in maritime shipping to quantify the cargo capacity of container ships and terminal handling facilities."
+            "term": "Gendarmerie Nationale",
+            "definition": "A branch of the French Armed Forces under the Ministry of the Interior tasked with public safety and riot control in suburban and regional zones."
           }
         ],
         "source_verification": {
-          "primary_source_name": "The Daily Star Infrastructure Wire",
+          "primary_source_name": "BBC News Europe",
           "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Chittagong Port Authority engineering briefing and Japan International Cooperation Agency (JICA) project reports",
-          "original_url": "https://www.thedailystar.net",
-          "discussion_or_secondary_url": "https://www.tbsnews.net"
+          "credibility_note": "Aggregated reports verified through French Ministry of the Interior statements and Agence France-Presse footage.",
+          "original_url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo",
+          "discussion_or_secondary_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZU5GMUJ0MnNEanZ4SWN6TmlDSWJ5VUttanhFSW1YT1hkcU9INTNDWlkxMVMydkpPa1NUN1RhUnZncWY5YzdjbDZETWZwejlTMGIxMFJ4T2t0dUNWS01pYUxwWkl0MU9CcG5lTGxzSkhYcHplM1VOdUM3b1NwRkliTTdMYVlLZWloRVlGVjZ0TzNWOTBsUl95eHExcUdfVVRpdmVBUEdJcjl2RlVndjJxNzkyU0lBZFpzNXVwZjZoNUxic1ZqcTQ4M9IBzgE"
         }
       }
     },
     {
-      "id": "adult-mental-ooda-20261018-06",
-      "topic_slug": "ooda-loop-asymmetric-career-leverage-farnam",
-      "type": "NEWS",
-      "category": "ADULTING_MENTAL_MODELS",
-      "importance_tier": "STANDARD_BRIEF",
-      "headline": "Mental Model In Focus: Compressing The OODA Loop For High-Leverage Career Trajectories",
-      "summary_points": [
-        "Military strategist John Boyd's OODA Loop (Observe, Orient, Decide, Act) provides a mathematical framework for operating inside rapid environmental volatility.",
-        "The bottleneck in adult skill acquisition is rarely 'Action' but rather 'Orientation' — the mental models, cultural biases, and outdated domain assumptions you use to filter raw facts.",
-        "By systematically accelerating your feedback loops from bi-monthly to daily sprints, you compound decision accuracy exponentially over peers stuck in static planning."
-      ],
-      "why_it_matters": "University students often fall into the trap of linear, passive studying. Applying the OODA loop to your tech stack choices, internship hunting, and scholarship applications ensures you test hypotheses rapidly, discard dead ends quickly, and capture outsized asymmetric upside.",
-      "deep_dive_analysis": null,
-      "opportunity_meta": {
-        "is_opportunity": false
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "Orientation Phase",
-            "definition": "The central cognitive step of the OODA loop where past experience, education, and genetic heritage actively synthesize incoming sensory data into situational awareness."
-          },
-          {
-            "term": "Asymmetric Upside",
-            "definition": "A scenario where the potential benefit of taking an action is orders of magnitude greater than the capped, minimal cost of failure."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "Farnam Street (Shane Parrish)",
-          "source_type": "NICHE_CREDIBLE",
-          "credibility_note": "Leading intellectual forum on cognitive science, decision architecture, and multidisciplinary mental models",
-          "original_url": "https://fs.blog",
-          "discussion_or_secondary_url": "https://fs.blog/mental-models/"
-        }
-      }
-    },
-    {
-      "id": "tech-rust-2024-edition-20261018-07",
-      "topic_slug": "rust-2024-edition-embedded-safety",
-      "type": "NEWS",
-      "category": "TECH_ENGINEERING",
-      "importance_tier": "QUICK_SIGNAL",
-      "headline": "Rust 2024 Edition Finalized With Enhanced Async Closures And Embedded Microcontroller Lifetimes",
-      "summary_points": [
-        "The Rust project has stabilized the 2024 Edition, introducing first-class async closures, generalized type aliases in trait implementations, and revised macro matchers.",
-        "Embedded robotics developers benefit from streamlined zero-cost abstractions when writing real-time safety critical code for ARM Cortex-M and RISC-V MCUs.",
-        "Standard toolchains now support seamless edition migration via the automated `cargo fix --edition` command."
-      ],
-      "why_it_matters": "If you are coding firmware, UAV flight controllers, or high-performance systems software at MIST, mastering modern Rust gives you a decisive competitive edge over legacy C/C++ developers in safety-critical robotics and aerospace industries.",
-      "deep_dive_analysis": null,
-      "opportunity_meta": {
-        "is_opportunity": false
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "Async Closures",
-            "definition": "Anonymous functions in Rust that can await asynchronous operations internally while borrowing captured state across suspension points."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "Rust Core Team Release Blog",
-          "source_type": "NICHE_CREDIBLE",
-          "credibility_note": "Official compiler release notes verified on the Rust Foundation release portal",
-          "original_url": "https://blog.rust-lang.org",
-          "discussion_or_secondary_url": "https://reddit.com/r/rust"
-        }
-      }
-    },
-    {
-      "id": "opp-rhodes-oxford-20261018-08",
-      "topic_slug": "rhodes-scholarship-oxford-global-south",
-      "type": "OPPORTUNITY",
-      "category": "OPPORTUNITIES",
-      "importance_tier": "CRITICAL_DEEP_DIVE",
-      "headline": "Rhodes Global Scholarship 2027 At University Of Oxford (Fully Funded Postgraduate Fellowship)",
-      "summary_points": [
-        "Full financial sponsorship covering all Oxford University course fees, a tax-free living stipend (£19,092/year), international round-trip airfare, and health surcharges.",
-        "Open to undergraduate students of all engineering, physical sciences, mathematical, and social disciplines with first-class academic standing.",
-        "Applications require an academic transcript, personal statement of impact, 4-5 academic/character recommendations, and demonstrated leadership commitment."
-      ],
-      "why_it_matters": "The world's oldest and most prestigious international graduate fellowship. A student from MIST who secures this gains instant access to Oxford's research institutes, zero debt, and an unmatched lifelong global network in policy, scientific leadership, and enterprise.",
-      "deep_dive_analysis": "Eligibility & Selection Dynamics:\nThe Global Rhodes Scholarship covers candidates from countries (such as Bangladesh) that do not possess a dedicated national constituency committee. Candidates must be between 18 and 24 years old (or up to 27 for individuals who completed their undergraduate degree within the prior 2 years).\n\nStrategic Application Blueprint for MIST Undergrads:\n1. Academic Distinction: A minimum CGPA of 3.80/4.00 or rank in the top 5% of your engineering class.\n2. Energy to Use One's Talents to the Full: Evidence of published IEEE/ACM research, open-source maintainership, or national defense/engineering design awards.\n3. Moral Force of Character: Clear demonstration of using engineering solutions to uplift underprivileged communities or drive sustainable national industrial capacity.",
-      "opportunity_meta": {
-        "is_opportunity": true,
-        "deadline": "2026-11-30",
-        "funding_or_reward": "Fully Funded (100% Fees + £19k/yr)",
-        "eligibility": "Undergraduate Seniors & Recent Graduates / Global"
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "Global Rhodes Constituency",
-            "definition": "A dedicated worldwide quota category for scholars from jurisdictions without an established local Rhodes trust committee."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "The Rhodes Trust (Oxford)",
-          "source_type": "OPPORTUNITY_PORTAL",
-          "credibility_note": "Direct official scholarship announcement from the Rhodes Trust at Oxford University",
-          "original_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/",
-          "discussion_or_secondary_url": "https://opportunitydesk.org"
-        }
-      }
-    },
-    {
-      "id": "opp-gsoc-mentorship-20261018-09",
-      "topic_slug": "google-summer-of-code-contributor-program",
-      "type": "OPPORTUNITY",
-      "category": "OPPORTUNITIES",
-      "importance_tier": "STANDARD_BRIEF",
-      "headline": "Google Summer Of Code (GSoC): Open-Source Contributor Organization Applications & Prep Phase",
-      "summary_points": [
-        "12-to-22 week paid remote software engineering and research contributor program working directly under top open-source organizations (Linux Foundation, TensorFlow, Apache, Blender).",
-        "Stipends scaled by purchasing power parity ($3,000 to $6,000 USD for Bangladesh contributors upon successful midterm and final milestone evaluations).",
-        "Open to university students and open-source beginners aged 18+ with strong Git, systems, or machine learning problem-solving skills."
-      ],
-      "why_it_matters": "One of the highest-signal remote credentials an undergraduate engineer in Dhaka can obtain. Passing GSoC bypasses initial automated resume filters at top global tech firms (FAANG, Jane Street, Palantir) and demonstrates proven production-grade collaboration capabilities.",
-      "deep_dive_analysis": null,
-      "opportunity_meta": {
-        "is_opportunity": true,
-        "deadline": "2026-11-20 (Orgs) / 2027-03-18 (Contributors)",
-        "funding_or_reward": "$3,000 - $6,000 USD Paid Stipend",
-        "eligibility": "University Students & New Open-Source Contributors"
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "Upstream Contribution",
-            "definition": "Submitting software code patches directly into the primary, public repository maintained by the original project owners."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "Google Open Source Programs Office",
-          "source_type": "OPPORTUNITY_PORTAL",
-          "credibility_note": "Official Google Open Source program guidelines and milestone release schedule",
-          "original_url": "https://summerofcode.withgoogle.com",
-          "discussion_or_secondary_url": "https://github.com"
-        }
-      }
-    },
-    {
-      "id": "opp-ieee-hackathon-grant-20261018-10",
-      "topic_slug": "ieee-global-student-hackathon-travel-grant",
-      "type": "OPPORTUNITY",
-      "category": "OPPORTUNITIES",
-      "importance_tier": "STANDARD_BRIEF",
-      "headline": "IEEE Global Engineering Student Challenge & Fully Funded Singapore Research Travel Grant",
-      "summary_points": [
-        "Worldwide student hardware/software design competition focusing on resilient edge compute, renewable microgrids, and disaster mitigation systems.",
-        "Top 10 collegiate finalist teams receive an all-expenses-paid travel grant (flights, accommodation, conference registration) to present at IEEE TENCON in Singapore.",
-        "Winner awards include $10,000 USD in equity-free project acceleration funding and fast-tracked publication in IEEE Xplore digital library."
-      ],
-      "why_it_matters": "Directly accessible to MIST IEEE Student Branch members. Provides an international competitive platform, global technical judging, and indexed research publication credentials before completing your bachelor's degree.",
-      "deep_dive_analysis": null,
-      "opportunity_meta": {
-        "is_opportunity": true,
-        "deadline": "2026-12-15",
-        "funding_or_reward": "$10,000 Award + Full Singapore Travel Grant",
-        "eligibility": "Undergraduate IEEE Student Members (Teams of 2-4)"
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "IEEE Xplore Indexing",
-            "definition": "The premier digital research repository for electrical, electronics, and computing papers, recognized globally for academic citation indexing."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "IEEE Region 10 (Asia-Pacific)",
-          "source_type": "OPPORTUNITY_PORTAL",
-          "credibility_note": "Official IEEE Region 10 student competition portal with accredited university sponsorship",
-          "original_url": "https://www.ieee.org",
-          "discussion_or_secondary_url": "https://opportunitydesk.org"
-        }
-      }
-    },
-    {
-      "id": "econ-nbr-digital-tax-20261018-11",
-      "topic_slug": "nbr-mandatory-online-etax-return-psr",
+      "id": "bangladesh-bank-interoperable-micro-transaction-zero-fee-mandate",
+      "topic_slug": "bangladesh-bank-interoperable-payments-binimoy-zero-fee-mandate",
       "type": "NEWS",
       "category": "ECONOMY_FINANCE",
-      "importance_tier": "CRITICAL_DEEP_DIVE",
-      "headline": "National Board Of Revenue (NBR) Mandates Universal Online Tax Return (e-Return) Filing And Expands Zero-Tax Threshold",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Bangladesh Bank Directs Zero Fees for Peer-to-Merchant Transactions Under 10,000 BDT",
       "summary_points": [
-        "The NBR has gazetted a universal mandate requiring all individual taxpayers in city corporations to submit income tax returns exclusively online via the etaxnbr.gov.bd portal.",
-        "The general annual tax-exempt threshold remains stabilized at 3.5 Lakh BDT (4 Lakh BDT for women and senior citizens), with streamlined automated tax acknowledgment certificates generated instantly.",
-        "Proof of Submission of Return (PSR) is now digitally validated across 43 essential civic services, including opening merchant bank accounts, obtaining trade licenses, and endorsing dual-currency credit cards."
+        "Bangladesh Bank has issued a directive mandating that all bank-to-MFS (Mobile Financial Services) and MFS-to-merchant digital micro-transactions under 10,000 BDT be processed at zero customer fee.",
+        "The policy utilizes the National Payment Switch Bangladesh (NPSB) and upgraded Interoperable Digital Transaction Platform (IDTP), shifting interchange costs onto clearing subsidies.",
+        "The move is explicitly designed to disincentivize cash handling, curb informal informal market settlements, and accelerate digital documentation of small and medium retail turnover."
       ],
-      "why_it_matters": "Directly impacts every working adult and family in Bangladesh. Filing your zero-tax or standard tax e-Return legitimizes your income, prevents banking holds on formal freelancing/salary deposits, and creates an official verifiable tax trail required for international visa and overseas postgraduate applications.",
-      "deep_dive_analysis": "The shift to mandatory digital e-Return filing marks the end of discretionary harassment by local tax circles and represents a core pillar of Bangladesh's fiscal modernization.\n\nCivic & Legal Mechanics:\n- Who Must File: Anyone earning above 3.5 Lakh BDT/year, OR anyone who holds an e-TIN and requires PSR for government/banking services (even if their income is below the taxable threshold, requiring a 'Zero Return').\n- Digital Audit Integration: The e-Return portal automatically cross-references banking interest certificates, vehicle registrations, and property ownership via National ID (NID) integration, making undeclared asset concealment significantly harder.\n- Recommendation for Undergrads & Young Professionals: Submit your e-Return annually as soon as you turn 18 and register your e-TIN. Establishing a 3-year spotless tax filing record is the single highest-credibility asset when proving financial ties to Bangladesh during embassy visa interviews.",
+      "why_it_matters": "For every resident and small business owner in Bangladesh, this eliminates the punitive 1.5%–1.8% cash-out and transfer overhead on everyday purchases, lowering transactional friction and keeping household capital within formal, interest-yielding bank accounts.",
+      "deep_dive_analysis": null,
       "opportunity_meta": {
-        "is_opportunity": false
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Proof of Submission of Return (PSR)",
-            "definition": "An official certificate issued by the NBR verifying that an individual has submitted their income tax return for the current assessment year."
+            "term": "Interchange Fee",
+            "definition": "A transaction fee that the merchant's financial service provider pays to the customer's payment-issuing institution during digital transactions."
           },
           {
-            "term": "Zero Return",
-            "definition": "An income tax return filed by an individual whose total annual income falls below the statutory minimum taxable threshold, resulting in zero tax liability."
+            "term": "NPSB (National Payment Switch Bangladesh)",
+            "definition": "The central electronic platform operated by Bangladesh Bank that facilitates routing and settlement of interbank automated teller machine, POS, and digital fund transfers."
           }
         ],
         "source_verification": {
-          "primary_source_name": "The Business Standard (TBS) & NBR Gazette",
-          "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Official Statutory Regulatory Order (SRO) published by the National Board of Revenue",
-          "original_url": "https://www.tbsnews.net",
-          "discussion_or_secondary_url": "https://etaxnbr.gov.bd"
+          "primary_source_name": "Bangladesh Bank Department of Payment Systems",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Direct banking circular cross-referenced with national financial regulation desks.",
+          "original_url": "https://www.bb.org.bd/en/index.php/mediaroom/circulars",
+          "discussion_or_secondary_url": "https://www.tbsnews.net/economy/banking/bb-slashes-interoperable-transaction-fees-2026"
         }
       }
     },
     {
-      "id": "geo-bd-energy-tariff-20261018-12",
-      "topic_slug": "interim-govt-energy-tariff-automated-pricing-formula",
+      "id": "ieee-laserbatman-ev-truck-battery-simulation-breakthrough",
+      "topic_slug": "ieee-multiscale-simulation-ev-battery-laser-welding-breakthrough",
       "type": "NEWS",
-      "category": "GEOPOLITICS",
+      "category": "TECH_ENGINEERING",
       "importance_tier": "STANDARD_BRIEF",
-      "headline": "Interim Government Overhauls National Energy Tariffs & Fuel Import Pricing With Monthly Automated International Indexing",
+      "headline": "Consortium Deploys 'LaserBATMAN' Multiphysics Model to Double Heavy EV Battery Life",
       "summary_points": [
-        "The Ministry of Power, Energy and Mineral Resources enacted an automated pricing formula linking domestic retail fuel (petrol, octane, diesel) directly to monthly international benchmark averages (Platts Singapore).",
-        "Direct sovereign-to-sovereign fuel procurement contracts with Middle Eastern suppliers (Saudi Aramco and ADNOC) eliminate middleman premiums, saving an estimated $420M annually in foreign currency.",
-        "Bangladesh Energy Regulatory Commission (BERC) initiated open public hearings to audit state power generation agency (BPDB) balance sheets and phase out non-operational capacity charges."
+        "A European research consortium partnered with Volvo Group and Resolvent unveiled a multiscale simulation application integrating COMSOL Multiphysics and Deep Neural Networks (DNN) for battery manufacturing.",
+        "The system models laser welding microstructures at the busbar junction down to the solid-electrolyte interface (SEI) degradation layer, identifying thermal failure modes before physical pack assembly.",
+        "The reduced-order predictive tool enables design teams to optimize cooling profiles and eliminate redundant battery cells while guaranteeing highway duty-cycle longevity."
       ],
-      "why_it_matters": "Energy prices are the master variable driving inflation across the entire Bangladeshi economy — from public transport and bus fares in Dhaka to agricultural irrigation and commodity prices at local bazaars. Transparent automated pricing prevents unpredictable price spikes and directly protects every family's monthly budget.",
+      "why_it_matters": "For MIST mechanical, electrical, and software engineering students, this demonstrates the real-world convergence of Finite Element Analysis (FEA) and surrogate neural networks. Designing commercial-scale electric logistics fleets hinges on weld-level electrothermal optimization rather than mere chemistry scaling.",
       "deep_dive_analysis": null,
       "opportunity_meta": {
-        "is_opportunity": false
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Automated Pricing Formula",
-            "definition": "A mathematical mechanism where domestic retail fuel prices are automatically updated monthly based on prevailing international market crude and refined petroleum prices."
+            "term": "SEI (Solid-Electrolyte Interface)",
+            "definition": "A passivation layer formed on battery anode surfaces during initial charging cycles; its uncontrolled growth causes capacity fade and thermal resistance."
           },
           {
-            "term": "Capacity Charges",
-            "definition": "Contractual fees paid to private power plant operators to guarantee electricity generation capacity, regardless of whether the plant is actively producing power."
+            "term": "Reduced-Order Model (ROM)",
+            "definition": "A simplified, computationally efficient mathematical representation that captures the essential physics of a complex high-dimensional simulation using trained neural networks."
           }
         ],
         "source_verification": {
-          "primary_source_name": "The Daily Star National & Business Desk",
+          "primary_source_name": "IEEE Spectrum",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Peer-reviewed technical journalism covering applied computational physics in industrial automation.",
+          "original_url": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
+          "discussion_or_secondary_url": "https://www.his.se/en/research/virtual-engineering/virtual-manufacturing-processes/LaserBatman/"
+        }
+      }
+    },
+    {
+      "id": "alberta-secession-referendum-energy-reserves-canada",
+      "topic_slug": "alberta-independence-referendum-oil-reserves-canadian-confederation",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Alberta Votes on Independence Framework: Custodian of 4th-Largest Global Oil Reserves Challenges Ottawa",
+      "summary_points": [
+        "The Canadian province of Alberta is holding a historic plebiscite on enacting procedural mechanisms to secede from the Canadian Confederation.",
+        "Separatist leaders cite disputes over federal emissions caps, equalization transfer payments, and regulatory delays on interprovincial crude pipelines.",
+        "A fractured Canadian federation threatens the stability of North American crude supply, as Alberta accounts for over 80% of Canada's crude production and extensive oil sands infrastructure."
+      ],
+      "why_it_matters": "Canada is one of the premier destinations for Bangladeshi STEM graduates pursuing skilled immigration (Express Entry/PNP). Constitutional turbulence and potential fiscal balkanization in Alberta could dramatically restructure regional provincial nominee quotas, resource employment, and federal tax structures.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Equalization Payments",
+            "definition": "A Canadian federal constitutional program designed to reduce fiscal disparities between resource-rich 'have' provinces and economically lagging 'have-not' provinces."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Fortune / Bloomberg Wire",
           "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Executive directive confirmed by Ministry of Power, Energy and Mineral Resources official press release",
-          "original_url": "https://www.thedailystar.net",
-          "discussion_or_secondary_url": "https://www.tbsnews.net"
+          "credibility_note": "Coordinated reporting verified across Canadian electoral boards and primary energy commodity monitors.",
+          "original_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXVQcVg2M0xpYVZPcV9JZUFLd2loVktlZEZfSnpOLU5Gd25rbnJnWGNHQXBDVGNxYUFyU0s1ejlsNDA0eGM0bDBsYzFFOTJjei1ZOW1Wa0htaUQ0c1ZfYlVLWVZFd3dnbUxUdVZXM2RhMFQ3Qmk4QkNDamNad2t3YzZ1TG1EcnJoQ2ZLUFYwOEdsQVpyNWxnanZHNUdHMFpTcy1CTTJuQmtxckFQQXQ0NGo3NkQ3VVFFYk10cUhB",
+          "discussion_or_secondary_url": "https://www.bloomberg.com/news/articles/alberta-secession-vote-oil-market"
+        }
+      }
+    },
+    {
+      "id": "nuclear-power-plant-uprating-compute-grid-constellation",
+      "topic_slug": "nuclear-uprating-engineering-baseload-power-ai-datacenters",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Nuclear Power Plant Uprates: Utilities Squeeze Gigawatts from Legacy Reactors to Feed Compute Grids",
+      "summary_points": [
+        "Major nuclear fleet operators, led by Constellation Energy, have initiated thermodynamic and steam-turbine upgrades across existing plants to harvest up to 15% more electric output without constructing new containment structures.",
+        "Engineering teams are replacing low-pressure turbine rotors, upgrading high-capacity feedwater pumps, and re-optimizing reactor thermal core margins using digital twin analytics.",
+        "The output surge is contracted in advance through bilateral power-purchase agreements with cloud hyperscalers seeking 24/7 carbon-free base-load electricity."
+      ],
+      "why_it_matters": "As Bangladesh operationalizes the Rooppur Nuclear Power Plant units, understanding reactor uprating and balance-of-plant thermodynamic efficiencies represents high-value domain knowledge for Bangladeshi nuclear and mechanical engineers entering the energy sector.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Power Uprate",
+            "definition": "The formal engineering and regulatory process of increasing the maximum thermal power rating and electrical output of an existing licensed nuclear power reactor."
+          },
+          {
+            "term": "Balance-of-Plant (BOP)",
+            "definition": "All supporting systems and auxiliary components of a power plant (turbines, condensers, transformers) outside the primary nuclear reactor vessel."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "MIT Technology Review",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Rigorous technical analysis covering utility regulatory filings and reactor thermodynamic engineering.",
+          "original_url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+          "discussion_or_secondary_url": "https://arstechnica.com/science/2026/10/nuclear-power-efficiency-turbines/"
+        }
+      }
+    },
+    {
+      "id": "cern-summer-student-programme-geneva-fellowship-2027",
+      "topic_slug": "opp-cern-summer-student-programme-undergraduate-research-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "CERN Summer Student Programme 2027: Fully Funded Physics & Computing Fellowships in Geneva",
+      "summary_points": [
+        "The European Organization for Nuclear Research (CERN) has opened applications for its flagship 8-to-13-week residential summer research programme in Geneva, Switzerland.",
+        "Open to undergraduate and master's students worldwide in Physics, Computing, Electrical Engineering, Mechanical Engineering, and Applied Mathematics with at least 3 years of university studies completed.",
+        "Fellowship provides a non-taxable daily allowance of 92 CHF (approx. $105/day), health insurance, travel reimbursement to/from Geneva, and hands-on lab placement on Large Hadron Collider (LHC) instrument teams."
+      ],
+      "why_it_matters": "For MIST engineering and computer science undergraduates, CERN offers one of the rarest opportunities to contribute directly to distributed high-performance computing, petabyte-scale data pipelines, and cryogenic sensor instrumentation alongside global Nobel laureates.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2027-01-31",
+        "funding_or_reward": "Fully Funded (92 CHF/day stipend + travel + health coverage)",
+        "eligibility": "Undergraduate/Master's STEM students who completed min. 6 semesters"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "LHC Computing Grid (WLCG)",
+            "definition": "A global computing infrastructure consortium that provides compute and storage resources to store, distribute, and analyze CERN experiment data."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "CERN Careers Official Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Direct international intergovernmental research organization recruitment mandate.",
+          "original_url": "https://careers.cern/summer-student-programme",
+          "discussion_or_secondary_url": "https://home.cern/summer-students-apply-2027"
+        }
+      }
+    },
+    {
+      "id": "institute-of-science-tokyo-igp-c-mext-fellowship-2027",
+      "topic_slug": "opp-tokyo-tech-science-tokyo-igp-mext-postgraduate-fellowship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Institute of Science Tokyo (formerly Tokyo Tech) IGP (C) MEXT Postgraduate Fellowship 2027",
+      "summary_points": [
+        "The newly merged Institute of Science Tokyo (amalgamating Tokyo Institute of Technology and Tokyo Medical and Dental University) has published its 2027 International Graduate Program (C) admissions.",
+        "Selected international engineering candidates receive the premier Japanese Government (MEXT) University Recommendation scholarship, covering 100% tuition, round-trip flights, and a monthly stipend of 144,000–147,000 JPY.",
+        "Research streams specifically target Advanced Robotics, Semiconductor Materials, Nanotechnology, and Embedded AI Systems."
+      ],
+      "why_it_matters": "Japan's national strategic initiatives to re-shore advanced semiconductor lithography and robotics make this one of the most prestigious debt-free pathways for Bangladeshi engineers to enter high-tier Asian academic and corporate R&D laboratories.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-08",
+        "funding_or_reward": "Fully Funded (Full tuition waiver + ¥144,000/mo stipend + airfare)",
+        "eligibility": "Graduating seniors & graduates in STEM disciplines (min CGPA 3.5/4.0)"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "MEXT Scholarship",
+            "definition": "Monbukagakusho scholarship funded by the Japanese Ministry of Education, Culture, Sports, Science and Technology covering full higher-education expenses."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Institute of Science Tokyo Admissions Office",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official university admissions wire for international graduate researchers.",
+          "original_url": "https://www.isct.ac.jp/en/admissions/graduate-programs/igp-c-2027",
+          "discussion_or_secondary_url": "https://www.titech.ac.jp/english/admissions/international-graduate-program"
+        }
+      }
+    },
+    {
+      "id": "gates-cambridge-scholarship-university-of-cambridge-2027",
+      "topic_slug": "opp-gates-cambridge-leadership-postgraduate-scholarship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Gates Cambridge Scholarship 2027: Fully Funded Postgrad STEM & Policy Degrees at Cambridge",
+      "summary_points": [
+        "The Bill & Melinda Gates Foundation and the University of Cambridge have opened applications for the 2027 Gates Cambridge Scholarships for international students outside the UK.",
+        "Covers the full cost of studying at Cambridge: University Composition Fee, an annual maintenance allowance of £20,000, airfare, and discretionary discretionary funding up to £2,000 for academic conferences.",
+        "Selection prioritizes academic brilliance, leadership potential, and an explicit commitment to improving the lives of others through technological or socio-economic breakthroughs."
+      ],
+      "why_it_matters": "Gates Cambridge is arguably the most prestigious fully funded postgraduate gateway to the United Kingdom, pairing technical graduate research in machine learning, bioengineering, or climate infrastructure with global governance networks.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-03",
+        "funding_or_reward": "Fully Funded (£20,000/year living allowance + full tuition + airfare)",
+        "eligibility": "Citizens of any country outside the UK applying for full-time postgrad degree"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "University Composition Fee",
+            "definition": "The compulsory comprehensive tuition and college membership fee charged by the University of Cambridge to cover teaching, examination, and facilities."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Gates Cambridge Trust",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official scholarship administration portal for the University of Cambridge.",
+          "original_url": "https://www.gatescambridge.org/apply/overview/",
+          "discussion_or_secondary_url": "https://www.cam.ac.uk/postgraduate-study/funding/gates-cambridge"
         }
       }
     }

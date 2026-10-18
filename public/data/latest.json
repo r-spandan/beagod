@@ -1,30 +1,30 @@
 {
-  "edition_id": "2026-10-17-AM",
-  "generated_at_utc": "2026-10-17T19:58:57.036Z",
-  "generated_at_bst": "10/18/2026, 1:58:57 AM BST",
+  "edition_id": "2026-10-18-AM",
+  "generated_at_utc": "2026-10-18T04:01:09.661Z",
+  "generated_at_bst": "10/18/2026, 10:01:09 AM BST",
   "edition_shift": "MORNING_0600_BST",
-  "executive_pulse": "Industrial efficiency emerges as the critical counterweight to AI grid exhaustion via variable frequency drive retrofits, while Dhaka tightens fiscal governance through mandatory digital e-tax linkages and banking sector forensic audits. Globally, geopolitical friction mounts over US-Russia sanctions waivers as East Africa mobilizes containment protocols against expanding viral outbreaks.",
+  "executive_pulse": "Naval tensions in the Persian Gulf reach a boiling point following naval mine detonations on VLCC tankers in the Strait of Hormuz, while domestic fiscal and energy reforms accelerate across Dhaka and Western Europe. For Bangladeshi engineers and citizens, shifting maritime freight insurance and national grid-wheeling policy adjustments demand immediate strategic adaptation.",
   "stats": {
     "total_items": 10,
     "news_count": 7,
     "opportunities_count": 3,
-    "sources_scanned": 118
+    "sources_scanned": 128
   },
   "items": [
     {
-      "id": "vfd-industrial-motor-efficiency-grid-capacity",
-      "topic_slug": "vfd-industrial-motor-efficiency-grid-capacity",
+      "id": "hormuz-tanker-mine-strikes-oil-shipping-crisis",
+      "topic_slug": "strait-of-hormuz-naval-mine-tanker-attacks-energy-shock",
       "type": "NEWS",
-      "category": "TECH_ENGINEERING",
+      "category": "GEOPOLITICS",
       "importance_tier": "CRITICAL_DEEP_DIVE",
-      "headline": "Grid Power Crunch: Industrial VFD Retrofits Unveiled as Fastest Path to Absorb Hyperscale Compute Demand",
+      "headline": "Strait of Hormuz Chokepoint Crisis: Naval Mine Detonations Paralyze Dual VLCC Tankers",
       "summary_points": [
-        "A joint initiative across ABB, Danfoss, and the National Electrical Manufacturers Association (NEMA) reveals that retrofitting industrial electric motors with Variable Frequency Drives (VFDs) can reclaim up to 60% of motor energy waste, freeing enough grid capacity to support five years of hyperscale AI datacenter expansion without constructing new power plants.",
-        "Industrial and commercial electric motors consume nearly one-third of total grid generation, yet current deployment of adjustable speed controllers remains below 16% in heavy industrial facilities and 4% in commercial buildings due to legacy building procurement incentives.",
-        "Policy architects and grid utilities are drafting 'offset-your-own-power' mandates, compelling hyperscale cloud operators to subsidize factory-floor motor modernizations instead of straining public distribution nodes."
+        "Two Very Large Crude Carriers (VLCCs), each hauling approximately 2 million barrels of crude oil, caught fire after striking underwater naval mines in the Strait of Hormuz.",
+        "Iran's Islamic Revolutionary Guard Corps (IRGC) claimed the vessels navigated an unauthorized maritime corridor, while international maritime security bureaus suspect asymmetric state-sponsored interdiction.",
+        "Lloyd's of London and global marine underwriters have unilaterally doubled war-risk premiums for Persian Gulf transit, triggering immediate upward pressure on Brent crude futures."
       ],
-      "why_it_matters": "For electrical and mechanical engineering students in Bangladesh, industrial automation is rapidly shifting from crude line-fed induction motors to inverter-driven systems. In energy-constrained manufacturing hubs like Gazipur and Narayanganj, mastering power electronics, VFD harmonics, and dynamic motor controls is directly linked to industrial survival and high-leverage power systems engineering careers.",
-      "deep_dive_analysis": "The explosive expansion of compute clusters has forced utility operators into an acute capacity crunch, pitting consumer tariffs against high-density enterprise loads. While massive capital expenditure has flown into nuclear plant restarts and battery energy storage systems (BESS), the supply-side timeline spans years. Conversely, demand-side optimization through Variable Frequency Drives targets the single largest consumer of electricity on earth: industrial induction motors driving fans, chillers, compressors, and hydraulic pumps. Most operational motors run continuously at nominal AC synchronous speed, using inefficient physical throttles, dampers, or bypass valves to regulate mechanical fluid flow, dissipating excess energy purely as heat.\n\nModern VFDs exploit high-voltage insulated-gate bipolar transistors (IGBTs) and silicon carbide (SiC) switches to synthesize variable voltage and frequency via pulse-width modulation (PWM). By modulating electrical frequency to exactly match required fluid-dynamic affinity laws—where motor power consumption scales proportionally with the cube of rotational speed—a modest 20% reduction in motor speed yields nearly a 50% drop in active electrical power draw. The bottleneck to date has not been semiconductor capability, but misaligned capital incentives: construction contractors minimize upfront capex by installing fixed-speed motors, shifting lifelong opex inflation onto operators.\n\nThis dynamic is now triggering regulatory intervention. With utilities refusing interconnection agreements to new megawatt-scale facilities without firm grid guarantees, technology operators are transitioning from 'bring-your-own-power' gas microturbines to structured industrial efficiency offsets. Financing off-site factory motor modernizations produces verifiable negawatts on identical transmission corridors at a fraction of the levelized cost of storage, establishing power electronics engineering as a premier operational pillar of contemporary digital infrastructure.",
+      "why_it_matters": "Bangladesh imports more than 80% of its refined fuel and crude petroleum via maritime channels originating in the Middle East. A spike in war-risk insurance premiums directly inflates the import bill for the Bangladesh Petroleum Corporation (BPC), draining foreign currency reserves, raising domestic transport tariffs, and widening the balance-of-payments deficit.",
+      "deep_dive_analysis": "The detonation of naval limpet or tethered contact mines against commercial crude carriers inside the Strait of Hormuz represents an escalation from shadow harassment to direct kinetic interdiction. The Strait represents the transit corridor for roughly 20% of global petroleum liquids and significant volumes of Liquefied Natural Gas (LNG). By attributing the explosions to an 'unauthorized route', Iranian authorities have established a legalistic pretext that allows maritime harassment while preserving plausible deniability against direct military retaliation by Western and Gulf coalitions.\n\nThe immediate economic mechanism is financial rather than purely operational. While maritime passages are rarely fully blockaded due to the risk of triggering multinational military convoy escorts, marine insurance underwriters respond immediately. The Joint War Committee (JWC) listing expansion forces shipowners to absorb astronomical additional war-risk insurance (AWRP) rates, frequently surging from 0.05% of hull value to beyond 0.5% within 48 hours. This cost is transferred directly to importing sovereign nations via higher CIF (Cost, Insurance, and Freight) prices.\n\nFor developing net-energy-importing economies like Bangladesh, the second-order shock is severe. Bangladesh Bank must allocate additional hard US dollar reserves per shipment to ensure un-halted operation of national base-load power stations and industrial captive generators. If elevated freight rates persist into Q4, the pressure will accelerate domestic inflation and force fiscal authorities to either expand retail fuel subsidies or implement painful tariff hikes that compress consumer disposable income.",
       "opportunity_meta": {
         "is_opportunity": false,
         "deadline": null,
@@ -34,40 +34,192 @@
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Variable Frequency Drive (VFD)",
-            "definition": "An electronic power converter that adjusts the speed and torque of an AC motor by varying input frequency and voltage, preventing motors from running at wasteful full capacity."
+            "term": "VLCC (Very Large Crude Carrier)",
+            "definition": "A standard supertanker category capable of hauling between 200,000 and 320,000 deadweight tonnage (DWT) of crude oil, equivalent to roughly 2 million barrels."
           },
           {
-            "term": "Affinity Laws",
-            "definition": "Mathematical formulas in fluid dynamics proving that centrifugal pump and fan power draw is proportional to the cube of shaft speed, making minor speed reductions produce huge power savings."
+            "term": "War-Risk Insurance Premium",
+            "definition": "A specialized surcharge levied by maritime insurers to cover merchant vessels operating in designated conflict or hostile territorial zones."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Al Jazeera English Wire",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Direct regional reporting corroborated by global tanker tracking bureaus and international maritime security alerts.",
+          "original_url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz",
+          "discussion_or_secondary_url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz"
+        }
+      }
+    },
+    {
+      "id": "berc-rooftop-solar-net-metering-wheeling-policy",
+      "topic_slug": "berc-renewable-energy-wheeling-net-metering-reforms",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "BERC Overhauls Grid Regulations: Private Industrial Solar Wheeling and Captive Net Metering Approved",
+      "summary_points": [
+        "The Bangladesh Energy Regulatory Commission (BERC) has issued a regulatory gazette allowing industrial manufacturing units to wheel self-generated solar and renewable power across the national transmission grid.",
+        "Under the revised Net Energy Metering (NEM) guidelines, commercial enterprises can export up to 100% of their rooftop PV plant capacity during off-peak and weekend operations to offset retail grid tariffs.",
+        "The measure is targeted at clearing export compliance bottlenecks for the Ready-Made Garment (RMG) sector, which faces strict European carbon border adjustment audits."
+      ],
+      "why_it_matters": "For engineering graduates and industrial technologists in Bangladesh, this policy breaks a multi-decade grid-access monopoly, unleashing an immediate wave of capital expenditure for solar PV integration, power electronics installation, and industrial microgrid design. For citizens, higher domestic renewable supply reduces costly reliance on foreign spot-market LNG imports.",
+      "deep_dive_analysis": "Historically, captive industrial power generation in Bangladesh was tightly shackled by geographic adjacency: a textile mill or factory could only consume renewable energy generated directly on its immediate rooftop, leaving vast off-site rural tracts unviable for commercial wheeling. Under the newly enacted BERC framework, third-party power purchase agreements (PPAs) and 'open access wheeling' are formally sanctioned. Industrial consumers pay a transparent wheeling tariff to the Power Grid Company of Bangladesh (PGCB) and respective distribution utilities (DPDC, DESCO, BREB) to transmit renewable electrons across regional transmission lines.\n\nThis structural reform addresses two existential crises simultaneously. First, the European Union's Carbon Border Adjustment Mechanism (CBAM) imposes severe financial penalties on imported industrial commodities with high embedded carbon footprints. Bangladeshi RMG and textile manufacturers—who contribute over 80% of national export earnings—now have a legally grounded mechanism to decarbonize their energy procurement without relying on dirty grid electricity.\n\nSecond, the financial dynamics of distribution companies will experience a fundamental pivot. Instead of bearing the burden of capacity charges from dormant fossil-fuel Independent Power Producers (IPPs), the national grid transitions into a common-carrier service provider generating fee-based wheeling revenue. For local electrical and energy engineers, this shifts the job market from traditional substation operations toward grid-scale solar farm development, SCADA synchronization, and battery energy storage system (BESS) network engineering.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Open Access Wheeling",
+            "definition": "The regulatory right of an electricity generator to transmit power over a third party's transmission and distribution lines upon paying a standardized transmission fee."
           },
           {
-            "term": "Negawatt",
-            "definition": "A theoretical unit of electrical power saved, measured as negative power consumption achieved through efficiency improvements rather than generating more electricity."
+            "term": "CBAM (Carbon Border Adjustment Mechanism)",
+            "definition": "A European Union policy that taxes imported goods based on greenhouse gas emissions generated during their production to prevent carbon leakage."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ministry of Power, Energy & Mineral Resources Gazette",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Official statutory regulatory order by BERC corroborated by national utility distribution boards.",
+          "original_url": "https://berc.org.bd/notices/gazette-net-metering-wheeling-2026",
+          "discussion_or_secondary_url": "https://www.tbsnews.net/energy/berc-solar-wheeling-guidelines-reform"
+        }
+      }
+    },
+    {
+      "id": "france-nationwide-cost-of-living-unrest-limoges-fire",
+      "topic_slug": "france-nationwide-civil-unrest-cost-of-living-austerity",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "France Gripped by Civil Unrest: Over 1,000 Detained as Historic Limoges City Hall Torched",
+      "summary_points": [
+        "More than half a million demonstrators swept across Paris, Marseille, Lyon, and Limoges protesting deteriorating purchasing power, rising living costs, and proposed public spending cuts.",
+        "The historic town hall of Limoges was largely destroyed by fire after radical demonstrators stormed the premises, prompting the deployment of tactical gendarmerie units.",
+        "Over 1,200 individuals have been taken into custody nationwide, as the French government warns that public infrastructure attacks cross red lines of lawful democratic dissent."
+      ],
+      "why_it_matters": "France is a leading political architect and financial core of the European Union. Prolonged social instability weakens the euro, exacerbates European sovereign debt spreads, and risks dampening European consumer demand—directly impacting Bangladesh's single largest destination bloc for garments and manufactured exports.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Gendarmerie Nationale",
+            "definition": "A branch of the French Armed Forces under the Ministry of the Interior tasked with public safety and riot control in suburban and regional zones."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC News Europe",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Aggregated reports verified through French Ministry of the Interior statements and Agence France-Presse footage.",
+          "original_url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo",
+          "discussion_or_secondary_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZU5GMUJ0MnNEanZ4SWN6TmlDSWJ5VUttanhFSW1YT1hkcU9INTNDWlkxMVMydkpPa1NUN1RhUnZncWY5YzdjbDZETWZwejlTMGIxMFJ4T2t0dUNWS01pYUxwWkl0MU9CcG5lTGxzSkhYcHplM1VOdUM3b1NwRkliTTdMYVlLZWloRVlGVjZ0TzNWOTBsUl95eHExcUdfVVRpdmVBUEdJcjl2RlVndjJxNzkyU0lBZFpzNXVwZjZoNUxic1ZqcTQ4M9IBzgE"
+        }
+      }
+    },
+    {
+      "id": "bangladesh-bank-interoperable-micro-transaction-zero-fee-mandate",
+      "topic_slug": "bangladesh-bank-interoperable-payments-binimoy-zero-fee-mandate",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Bangladesh Bank Directs Zero Fees for Peer-to-Merchant Transactions Under 10,000 BDT",
+      "summary_points": [
+        "Bangladesh Bank has issued a directive mandating that all bank-to-MFS (Mobile Financial Services) and MFS-to-merchant digital micro-transactions under 10,000 BDT be processed at zero customer fee.",
+        "The policy utilizes the National Payment Switch Bangladesh (NPSB) and upgraded Interoperable Digital Transaction Platform (IDTP), shifting interchange costs onto clearing subsidies.",
+        "The move is explicitly designed to disincentivize cash handling, curb informal informal market settlements, and accelerate digital documentation of small and medium retail turnover."
+      ],
+      "why_it_matters": "For every resident and small business owner in Bangladesh, this eliminates the punitive 1.5%–1.8% cash-out and transfer overhead on everyday purchases, lowering transactional friction and keeping household capital within formal, interest-yielding bank accounts.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Interchange Fee",
+            "definition": "A transaction fee that the merchant's financial service provider pays to the customer's payment-issuing institution during digital transactions."
+          },
+          {
+            "term": "NPSB (National Payment Switch Bangladesh)",
+            "definition": "The central electronic platform operated by Bangladesh Bank that facilitates routing and settlement of interbank automated teller machine, POS, and digital fund transfers."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Bangladesh Bank Department of Payment Systems",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Direct banking circular cross-referenced with national financial regulation desks.",
+          "original_url": "https://www.bb.org.bd/en/index.php/mediaroom/circulars",
+          "discussion_or_secondary_url": "https://www.tbsnews.net/economy/banking/bb-slashes-interoperable-transaction-fees-2026"
+        }
+      }
+    },
+    {
+      "id": "ieee-laserbatman-ev-truck-battery-simulation-breakthrough",
+      "topic_slug": "ieee-multiscale-simulation-ev-battery-laser-welding-breakthrough",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Consortium Deploys 'LaserBATMAN' Multiphysics Model to Double Heavy EV Battery Life",
+      "summary_points": [
+        "A European research consortium partnered with Volvo Group and Resolvent unveiled a multiscale simulation application integrating COMSOL Multiphysics and Deep Neural Networks (DNN) for battery manufacturing.",
+        "The system models laser welding microstructures at the busbar junction down to the solid-electrolyte interface (SEI) degradation layer, identifying thermal failure modes before physical pack assembly.",
+        "The reduced-order predictive tool enables design teams to optimize cooling profiles and eliminate redundant battery cells while guaranteeing highway duty-cycle longevity."
+      ],
+      "why_it_matters": "For MIST mechanical, electrical, and software engineering students, this demonstrates the real-world convergence of Finite Element Analysis (FEA) and surrogate neural networks. Designing commercial-scale electric logistics fleets hinges on weld-level electrothermal optimization rather than mere chemistry scaling.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "SEI (Solid-Electrolyte Interface)",
+            "definition": "A passivation layer formed on battery anode surfaces during initial charging cycles; its uncontrolled growth causes capacity fade and thermal resistance."
+          },
+          {
+            "term": "Reduced-Order Model (ROM)",
+            "definition": "A simplified, computationally efficient mathematical representation that captures the essential physics of a complex high-dimensional simulation using trained neural networks."
           }
         ],
         "source_verification": {
           "primary_source_name": "IEEE Spectrum",
           "source_type": "NICHE_CREDIBLE",
-          "credibility_note": "Premier global professional association journal for electrical and systems engineering.",
-          "original_url": "https://spectrum.ieee.org/variable-frequency-drives",
-          "discussion_or_secondary_url": "https://www.canarymedia.com"
+          "credibility_note": "Peer-reviewed technical journalism covering applied computational physics in industrial automation.",
+          "original_url": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
+          "discussion_or_secondary_url": "https://www.his.se/en/research/virtual-engineering/virtual-manufacturing-processes/LaserBatman/"
         }
       }
     },
     {
-      "id": "bangladesh-bank-forensic-audit-npl-restructure",
-      "topic_slug": "bangladesh-bank-forensic-audit-npl-restructure",
+      "id": "alberta-secession-referendum-energy-reserves-canada",
+      "topic_slug": "alberta-independence-referendum-oil-reserves-canadian-confederation",
       "type": "NEWS",
-      "category": "ECONOMY_FINANCE",
+      "category": "GEOPOLITICS",
       "importance_tier": "STANDARD_BRIEF",
-      "headline": "Bangladesh Bank Mandates Forensic Banking Audits and Real-Time Interbank Liquidity Visibility",
+      "headline": "Alberta Votes on Independence Framework: Custodian of 4th-Largest Global Oil Reserves Challenges Ottawa",
       "summary_points": [
-        "Bangladesh Bank (BB) has formally commissioned forensic audit teams across 14 vulnerable scheduled commercial banks to uncover concealed Non-Performing Loans (NPLs) and establish accurate bad-debt provisioning ratios.",
-        "The central bank introduced an automated digital liquidity reporting module, requiring daily interbank fund tracking and immediate reporting of corporate loan rescheduling exceeding BDT 50 crore.",
-        "The move aims to restore foreign correspondent banking trust, narrow the spread on cross-border letters of credit (LCs), and stabilize the interbank foreign exchange market."
+        "The Canadian province of Alberta is holding a historic plebiscite on enacting procedural mechanisms to secede from the Canadian Confederation.",
+        "Separatist leaders cite disputes over federal emissions caps, equalization transfer payments, and regulatory delays on interprovincial crude pipelines.",
+        "A fractured Canadian federation threatens the stability of North American crude supply, as Alberta accounts for over 80% of Canada's crude production and extensive oil sands infrastructure."
       ],
-      "why_it_matters": "A fragile banking system depresses credit lines for local private ventures and hikes remittance and import costs. Ensuring clean balance sheets reduces sovereign risk premiums, protecting personal bank deposits and lowering inflationary pressures on consumer goods in Bangladesh.",
+      "why_it_matters": "Canada is one of the premier destinations for Bangladeshi STEM graduates pursuing skilled immigration (Express Entry/PNP). Constitutional turbulence and potential fiscal balkanization in Alberta could dramatically restructure regional provincial nominee quotas, resource employment, and federal tax structures.",
       "deep_dive_analysis": null,
       "opportunity_meta": {
         "is_opportunity": false,
@@ -78,116 +230,32 @@
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Forensic Audit",
-            "definition": "An intensive, legally admissible examination of financial records designed to uncover fraudulent accounting, hidden liabilities, and asset misappropriation."
-          },
-          {
-            "term": "Correspondent Banking",
-            "definition": "A partnership where an overseas financial institution provides payment, trade, and settlement services on behalf of a domestic bank that lacks foreign branches."
+            "term": "Equalization Payments",
+            "definition": "A Canadian federal constitutional program designed to reduce fiscal disparities between resource-rich 'have' provinces and economically lagging 'have-not' provinces."
           }
         ],
         "source_verification": {
-          "primary_source_name": "Bangladesh Bank Banking Policy Gazette",
+          "primary_source_name": "Fortune / Bloomberg Wire",
           "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Official statutory central bank directive and regulatory governance publication.",
-          "original_url": "https://www.bb.org.bd",
-          "discussion_or_secondary_url": "https://www.tbsnews.net"
+          "credibility_note": "Coordinated reporting verified across Canadian electoral boards and primary energy commodity monitors.",
+          "original_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXVQcVg2M0xpYVZPcV9JZUFLd2loVktlZEZfSnpOLU5Gd25rbnJnWGNHQXBDVGNxYUFyU0s1ejlsNDA0eGM0bDBsYzFFOTJjei1ZOW1Wa0htaUQ0c1ZfYlVLWVZFd3dnbUxUdVZXM2RhMFQ3Qmk4QkNDamNad2t3YzZ1TG1EcnJoQ2ZLUFYwOEdsQVpyNWxnanZHNUdHMFpTcy1CTTJuQmtxckFQQXQ0NGo3NkQ3VVFFYk10cUhB",
+          "discussion_or_secondary_url": "https://www.bloomberg.com/news/articles/alberta-secession-vote-oil-market"
         }
       }
     },
     {
-      "id": "nbr-mandatory-digital-tax-ereturn-linkage",
-      "topic_slug": "nbr-mandatory-digital-tax-ereturn-linkage",
-      "type": "NEWS",
-      "category": "ECONOMY_FINANCE",
-      "importance_tier": "STANDARD_BRIEF",
-      "headline": "NBR Mandates Comprehensive Digital e-Return Filing with Automated Bank-Tax Data Interlink",
-      "summary_points": [
-        "The National Board of Revenue (NBR) has mandated electronic tax return (e-Return) filing for all formal sector corporate and institutional employees, eliminating paper filings for salaried individual taxpayers.",
-        "Tax identification numbers (e-TINs) are now systematically cross-referenced against commercial bank interest yields, national identity (NID) records, and automated utility customer registries.",
-        "Failing to file electronically by statutory deadlines incurs automated computational penalties, cancellation of tax clearance certificates, and severe restrictions on processing property registrations and international visa endorsements."
-      ],
-      "why_it_matters": "Every graduating professional and formal earner in Bangladesh must establish automated tax compliance immediately upon receiving compensation. Manual evasion pathways are closed; knowing how to document investments, life insurance, and savings instruments digitally directly protects net personal savings.",
-      "deep_dive_analysis": null,
-      "opportunity_meta": {
-        "is_opportunity": false,
-        "deadline": null,
-        "funding_or_reward": null,
-        "eligibility": null
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "e-Return Portal",
-            "definition": "A web-based national platform enabling individual and corporate taxpayers to declare income, claim investment tax credits, and compute liabilities without physical tax office visits."
-          },
-          {
-            "term": "Tax Clearance Certificate",
-            "definition": "An official documentation confirming that an individual or company has settled all assessed tax liabilities, often mandatory for tenders, corporate governance, and outbound travel."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "National Board of Revenue (NBR) Tax Directives",
-          "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Statutory regulatory orders published by Bangladesh's principal tax administration authority.",
-          "original_url": "https://incometax.gov.bd",
-          "discussion_or_secondary_url": "https://www.thedailystar.net"
-        }
-      }
-    },
-    {
-      "id": "bangladesh-fuel-pricing-dynamic-singapore-platts-peg",
-      "topic_slug": "bangladesh-fuel-pricing-dynamic-singapore-platts-peg",
-      "type": "NEWS",
-      "category": "ECONOMY_FINANCE",
-      "importance_tier": "STANDARD_BRIEF",
-      "headline": "Energy Ministry Enforces Dynamic Monthly Fuel Price Adjustments Linked to Mean of Platts Singapore",
-      "summary_points": [
-        "The Ministry of Power, Energy, and Mineral Resources has implemented its strict monthly automated fuel pricing formula for diesel, kerosene, octane, and petrol, anchoring domestic retail rates directly to Mean of Platts Singapore (MOPS) averages.",
-        "The reform is designed to eliminate operational fiscal subsidies paid to the Bangladesh Petroleum Corporation (BPC) while satisfying institutional conditionalities linked to international balance-of-payments financing.",
-        "Transport associations and agro-irrigation operators face fluctuating seasonal operating expenditures, heightening demand for solar-powered irrigation pumps and logistics route-optimization telemetry."
-      ],
-      "why_it_matters": "Fuel pricing instantly dictates food supply chain inflation, intercity bus fares, and student living expenses in Dhaka. For agricultural and mechanical engineering initiatives, predictable commercial diesel volatility creates strong economic arguments for off-grid renewable farm conversions.",
-      "deep_dive_analysis": null,
-      "opportunity_meta": {
-        "is_opportunity": false,
-        "deadline": null,
-        "funding_or_reward": null,
-        "eligibility": null
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "Mean of Platts Singapore (MOPS)",
-            "definition": "The benchmark metric representing the daily average of refined oil product transactions in Singapore, widely used as the basis for oil pricing across Asia."
-          },
-          {
-            "term": "Balance-of-Payments (BoP)",
-            "definition": "A record of all economic transactions between residents of a country and the rest of the world, critical for maintaining foreign exchange solvency."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "Ministry of Power, Energy and Mineral Resources",
-          "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Executive ministry notification regulating national energy security and tariff architecture.",
-          "original_url": "https://mpemr.gov.bd",
-          "discussion_or_secondary_url": "https://www.tbsnews.net"
-        }
-      }
-    },
-    {
-      "id": "us-digital-goods-ownership-legislation-software-licensing",
-      "topic_slug": "us-digital-goods-ownership-legislation-software-licensing",
+      "id": "nuclear-power-plant-uprating-compute-grid-constellation",
+      "topic_slug": "nuclear-uprating-engineering-baseload-power-ai-datacenters",
       "type": "NEWS",
       "category": "TECH_ENGINEERING",
       "importance_tier": "STANDARD_BRIEF",
-      "headline": "US Legislative Push Challenges SaaS Monopoly by Mandating Consumer Digital Media Ownership",
+      "headline": "Nuclear Power Plant Uprates: Utilities Squeeze Gigawatts from Legacy Reactors to Feed Compute Grids",
       "summary_points": [
-        "A bipartisan US congressional bill proposes amending intellectual property law to forbid digital platforms from labeling software, games, and media purchases as 'buys' if access remains legally bound to revocable, perpetual licenses.",
-        "The initiative follows high-profile revocations of digital game and software libraries after central authentication servers were shuttered by corporate publishers.",
-        "The legislation, if enacted, would mandate digital distribution storefronts to clearly disclose server-dependency clauses and provide offline ownership fallback mechanisms, directly impacting platform software architectures."
+        "Major nuclear fleet operators, led by Constellation Energy, have initiated thermodynamic and steam-turbine upgrades across existing plants to harvest up to 15% more electric output without constructing new containment structures.",
+        "Engineering teams are replacing low-pressure turbine rotors, upgrading high-capacity feedwater pumps, and re-optimizing reactor thermal core margins using digital twin analytics.",
+        "The output surge is contracted in advance through bilateral power-purchase agreements with cloud hyperscalers seeking 24/7 carbon-free base-load electricity."
       ],
-      "why_it_matters": "Software engineers and tech entrepreneurs must pay attention: subscription-first business models and arbitrary DRM revocations are facing structural regulatory resistance. Developers building consumer software, games, or developer tools must re-evaluate architectural dependencies on cloud DRM lock-ins.",
+      "why_it_matters": "As Bangladesh operationalizes the Rooppur Nuclear Power Plant units, understanding reactor uprating and balance-of-plant thermodynamic efficiencies represents high-value domain knowledge for Bangladeshi nuclear and mechanical engineers entering the energy sector.",
       "deep_dive_analysis": null,
       "opportunity_meta": {
         "is_opportunity": false,
@@ -198,220 +266,128 @@
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "End-User License Agreement (EULA)",
-            "definition": "A legal contract between software vendors and purchasers specifying terms of usage, typically granting a conditional, revocable license rather than true legal ownership."
+            "term": "Power Uprate",
+            "definition": "The formal engineering and regulatory process of increasing the maximum thermal power rating and electrical output of an existing licensed nuclear power reactor."
           },
           {
-            "term": "Digital Rights Management (DRM)",
-            "definition": "Access-control technologies that restrict the use, modification, and offline distribution of copyrighted software and multimedia content."
+            "term": "Balance-of-Plant (BOP)",
+            "definition": "All supporting systems and auxiliary components of a power plant (turbines, condensers, transformers) outside the primary nuclear reactor vessel."
           }
         ],
         "source_verification": {
-          "primary_source_name": "Ars Technica",
+          "primary_source_name": "MIT Technology Review",
           "source_type": "NICHE_CREDIBLE",
-          "credibility_note": "Authoritative technology and legal policy publication analyzing software copyright and tech regulation.",
-          "original_url": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
-          "discussion_or_secondary_url": "https://www.eff.org"
+          "credibility_note": "Rigorous technical analysis covering utility regulatory filings and reactor thermodynamic engineering.",
+          "original_url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+          "discussion_or_secondary_url": "https://arstechnica.com/science/2026/10/nuclear-power-efficiency-turbines/"
         }
       }
     },
     {
-      "id": "trump-russia-sanctions-waiver-geopolitical-backlash",
-      "topic_slug": "trump-russia-sanctions-waiver-geopolitical-backlash",
-      "type": "NEWS",
-      "category": "GEOPOLITICS",
-      "importance_tier": "STANDARD_BRIEF",
-      "headline": "Bipartisan Backlash Erupts in Washington Over Proposed Russia Sanctions Suspension",
-      "summary_points": [
-        "Congressional leaders from both parties have voiced sharp resistance following presidential proposals to selectively waive secondary sanctions on specific Russian raw commodity exports and financial channels.",
-        "Opponents argue the policy shifts fundamentally dismantle transatlantic leverage, complicating coordinated EU enforcement and jeopardizing wartime sovereign debt guarantees.",
-        "Global trade desks have experienced immediate volatility in crude oil shipping spreads, fertilizer logistics, and maritime bulk freight insurance premiums across Black Sea and Baltic transit lanes."
-      ],
-      "why_it_matters": "Bangladesh depends on stable global fertilizer inputs and grain imports, many of which transit complex sanctions-compliant clearing channels. Sudden geopolitical shifts in Washington impact maritime war-risk premiums and commodity futures affecting South Asian agricultural procurement.",
-      "deep_dive_analysis": null,
-      "opportunity_meta": {
-        "is_opportunity": false,
-        "deadline": null,
-        "funding_or_reward": null,
-        "eligibility": null
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "Secondary Sanctions",
-            "definition": "Penalties imposed by a nation against third-party entities doing business with targeted sanction regimes, preventing foreign entities from utilizing global banking rails."
-          },
-          {
-            "term": "War-Risk Premium",
-            "definition": "Surcharges assessed by maritime insurance underwriters for merchant vessels transiting geopolitical contested zones or embargo frontiers."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "Al Jazeera English",
-          "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Comprehensive international wire service covering congressional hearings and geopolitical shifts.",
-          "original_url": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver",
-          "discussion_or_secondary_url": "https://www.reuters.com"
-        }
-      }
-    },
-    {
-      "id": "kenya-ebola-outbreak-healthcare-worker-containment",
-      "topic_slug": "kenya-ebola-outbreak-healthcare-worker-containment",
-      "type": "NEWS",
-      "category": "GEOPOLITICS",
-      "importance_tier": "STANDARD_BRIEF",
-      "headline": "WHO and African CDC Mobilize Emergency Protocols as Kenya Ebola Cluster Expands to Seven",
-      "summary_points": [
-        "Kenyan health authorities have confirmed four additional cases of Ebola virus disease, bringing the regional outbreak count to seven across two counties.",
-        "Crucially, several newly infected patients are frontline healthcare workers who attended the index patient, signaling secondary nosocomial transmission and prompting immediate quarantine of hospital isolation units.",
-        "The World Health Organization (WHO) and Africa CDC have deployed rapid response epidemiology teams with experimental monoclonal antibody stockpiles to prevent cross-border transit towards Uganda and Tanzania."
-      ],
-      "why_it_matters": "Global biosecurity and viral containment directly affect international flight networks, medical supply chains, and student visa transit. For biomedical engineers, it demonstrates the vital urgency of developing rapid-deployment diagnostics and negative-pressure barrier equipment in resource-limited clinics.",
-      "deep_dive_analysis": null,
-      "opportunity_meta": {
-        "is_opportunity": false,
-        "deadline": null,
-        "funding_or_reward": null,
-        "eligibility": null
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "Nosocomial Transmission",
-            "definition": "An infection acquired specifically within a hospital or clinical healthcare setting by patients or medical personnel."
-          },
-          {
-            "term": "Monoclonal Antibodies",
-            "definition": "Laboratory-engineered proteins that mimic the immune system's capability to identify and neutralize specific pathogens such as viral envelope proteins."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "Reuters / Tuko News Regional Wire",
-          "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Direct epidemiological monitoring backed by international public health agencies.",
-          "original_url": "https://www.reuters.com",
-          "discussion_or_secondary_url": "https://www.afro.who.int"
-        }
-      }
-    },
-    {
-      "id": "opp-schwarzman-scholars-leadership-fellowship-2027",
-      "topic_slug": "opp-schwarzman-scholars-leadership-fellowship-2027",
-      "type": "OPPORTUNITY",
-      "category": "OPPORTUNITIES",
-      "importance_tier": "CRITICAL_DEEP_DIVE",
-      "headline": "Schwarzman Scholars 2027-2028: Full Masters Fellowship in Global Affairs at Tsinghua University",
-      "summary_points": [
-        "Schwarzman Scholars has opened application calls for its fully funded one-year Master’s Degree in Global Affairs at Tsinghua University in Beijing, catering to high-caliber global talent across STEM, public policy, and business.",
-        "The fellowship covers all tuition expenses, room and board, travel stipends, comprehensive health insurance, and a dedicated monthly living stipend, placing scholars at the intersection of international policy, technological sovereignty, and geopolitical diplomacy.",
-        "Candidates undergo rigorous evaluations examining leadership capability, intellect, character, and vision, with strong encouragement for engineers who can bridge technical expertise with national policy planning."
-      ],
-      "why_it_matters": "As global geopolitics pivots around supply chains, AI development, and bilateral Asian infrastructure, having a world-class credential from China's top technical university positions an undergraduate from MIST into elite international diplomacy, tech governance, and multinational venture capital.",
-      "deep_dive_analysis": "The 21st century's most critical strategic decisions—from semiconductor supply lines and rare-earth refinement to planetary carbon mitigation—cannot be solved through technical engineering alone or insulated statecraft. The Schwarzman Scholars fellowship at Tsinghua University was established specifically to bridge this divergence, educating future leaders who understand both the operational physics of technology and the geopolitical mechanisms governing international statecraft.\n\nFor an undergraduate student in Bangladesh, this opportunity represents asymmetric leverage. While traditional Anglo-American scholarships like Rhodes and Marshall heavily prioritize conventional policy backgrounds, Schwarzman Scholars places extraordinary value on quantitative engineers who can articulate how localized engineering challenges—such as delta water management, electrical microgrids, and digital public infrastructure—scale into regional treaties and multilateral trade frameworks. The curriculum pairs deep analytical coursework with mandatory field immersion across Chinese high-tech hubs, enterprise incubators, and government apparatus.\n\nScholars interact on a closed-door basis with heads of state, global chief executive officers, and institutional leaders, building a network that bypasses traditional bureaucratic barriers. Securing a seat requires demonstrating an actionable track record of leadership on your home campus, an exceptional academic portfolio, and a compelling, clear thesis on how your leadership will resolve a high-stakes challenge at the intersection of your technological discipline and global society.",
-      "opportunity_meta": {
-        "is_opportunity": true,
-        "deadline": "2027-09-15",
-        "funding_or_reward": "Fully Funded (Tuition, Housing, Airfare, $4,000+ Stipend, Health Insurance)",
-        "eligibility": "Undergraduates & Young Professionals aged 18-28 globally with completed bachelor's degree by program start."
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "Global Affairs Masters",
-            "definition": "An interdisciplinary postgraduate degree synthesizing international relations, microeconomics, public administration, and strategic policy."
-          },
-          {
-            "term": "Cohort-Based Leadership Program",
-            "definition": "An intensive educational model where an internationally selected peer group lives, collaborates, and undergoes leadership training together to build lifelong reciprocal networks."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "Schwarzman Scholars Official Admissions Portal",
-          "source_type": "OPPORTUNITY_PORTAL",
-          "credibility_note": "Direct official portal for the global Schwarzman Scholars fellowship at Tsinghua University.",
-          "original_url": "https://www.schwarzmanscholars.org",
-          "discussion_or_secondary_url": "https://www.tsinghua.edu.cn/en/"
-        }
-      }
-    },
-    {
-      "id": "opp-kaust-vsrp-internship-fully-funded-2027",
-      "topic_slug": "opp-kaust-vsrp-internship-fully-funded-2027",
+      "id": "cern-summer-student-programme-geneva-fellowship-2027",
+      "topic_slug": "opp-cern-summer-student-programme-undergraduate-research-2027",
       "type": "OPPORTUNITY",
       "category": "OPPORTUNITIES",
       "importance_tier": "STANDARD_BRIEF",
-      "headline": "KAUST Visiting Student Research Program (VSRP) 2027: Fully Funded International Lab Placements",
+      "headline": "CERN Summer Student Programme 2027: Fully Funded Physics & Computing Fellowships in Geneva",
       "summary_points": [
-        "King Abdullah University of Science and Technology (KAUST) invites applications for its 3-to-6-month Visiting Student Research Program (VSRP) across advanced computational, electrical, mechanical, and bioengineering laboratories.",
-        "Selected interns receive a monthly living stipend of $1,000 USD, free on-campus private accommodation, roundtrip airfare, visa clearance sponsorship, and complete access to world-class supercomputing (Shaheen III) and cleanroom nanofabrication facilities.",
-        "Undergraduates in their 3rd or 4th year and early masters students with strong academic merit (GPA 3.5+ equivalent) and demonstrated interest in frontier laboratory research can apply directly under faculty sponsors."
+        "The European Organization for Nuclear Research (CERN) has opened applications for its flagship 8-to-13-week residential summer research programme in Geneva, Switzerland.",
+        "Open to undergraduate and master's students worldwide in Physics, Computing, Electrical Engineering, Mechanical Engineering, and Applied Mathematics with at least 3 years of university studies completed.",
+        "Fellowship provides a non-taxable daily allowance of 92 CHF (approx. $105/day), health insurance, travel reimbursement to/from Geneva, and hands-on lab placement on Large Hadron Collider (LHC) instrument teams."
       ],
-      "why_it_matters": "Direct hands-on research in an internationally accredited laboratory drastically elevates your profile for direct PhD admissions with full funding at MIT, Stanford, or Cambridge. It enables Bangladeshi engineering students to publish high-impact journal papers without self-funding.",
+      "why_it_matters": "For MIST engineering and computer science undergraduates, CERN offers one of the rarest opportunities to contribute directly to distributed high-performance computing, petabyte-scale data pipelines, and cryogenic sensor instrumentation alongside global Nobel laureates.",
       "deep_dive_analysis": null,
       "opportunity_meta": {
         "is_opportunity": true,
-        "deadline": "Rolling",
-        "funding_or_reward": "Fully Funded ($1,000/month stipend + private housing + airfare + visa fees)",
-        "eligibility": "3rd/4th year undergraduate or master's students in STEM fields worldwide."
+        "deadline": "2027-01-31",
+        "funding_or_reward": "Fully Funded (92 CHF/day stipend + travel + health coverage)",
+        "eligibility": "Undergraduate/Master's STEM students who completed min. 6 semesters"
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Cleanroom Nanofabrication",
-            "definition": "A controlled environment with low levels of airborne pollutants used in manufacturing and researching microprocessors and semiconductor devices."
-          },
-          {
-            "term": "Petascale Supercomputing",
-            "definition": "High-performance computing clusters capable of performing over one quadrillion floating-point operations per second (Shaheen III tier)."
+            "term": "LHC Computing Grid (WLCG)",
+            "definition": "A global computing infrastructure consortium that provides compute and storage resources to store, distribute, and analyze CERN experiment data."
           }
         ],
         "source_verification": {
-          "primary_source_name": "KAUST Global Fellowship & Internship Office",
+          "primary_source_name": "CERN Careers Official Portal",
           "source_type": "OPPORTUNITY_PORTAL",
-          "credibility_note": "Direct admissions and international internship portal from KAUST.",
-          "original_url": "https://vsrp.kaust.edu.sa",
-          "discussion_or_secondary_url": "https://www.kaust.edu.sa"
+          "credibility_note": "Direct international intergovernmental research organization recruitment mandate.",
+          "original_url": "https://careers.cern/summer-student-programme",
+          "discussion_or_secondary_url": "https://home.cern/summer-students-apply-2027"
         }
       }
     },
     {
-      "id": "opp-mpi-sws-research-internship-systems-cs-2027",
-      "topic_slug": "opp-mpi-sws-research-internship-systems-cs-2027",
+      "id": "institute-of-science-tokyo-igp-c-mext-fellowship-2027",
+      "topic_slug": "opp-tokyo-tech-science-tokyo-igp-mext-postgraduate-fellowship-2027",
       "type": "OPPORTUNITY",
       "category": "OPPORTUNITIES",
       "importance_tier": "STANDARD_BRIEF",
-      "headline": "Max Planck Institute for Software Systems (MPI-SWS) 2027 Research Internship Program",
+      "headline": "Institute of Science Tokyo (formerly Tokyo Tech) IGP (C) MEXT Postgraduate Fellowship 2027",
       "summary_points": [
-        "The Max Planck Institute for Software Systems (MPI-SWS) in Germany is accepting applications for its fully funded 10-to-14-week summer research internships for undergraduate and master's students in computer science, software engineering, and applied mathematics.",
-        "Interns work closely with world-leading faculty on foundational challenges including distributed systems, formal verification, operating systems security, quantum computing systems, and machine learning infrastructure.",
-        "The institute provides a full living allowance, reimbursement of all international roundtrip travel expenses, free student apartment housing in Kaiserslautern or Saarbrücken, and Schengen research visa support."
+        "The newly merged Institute of Science Tokyo (amalgamating Tokyo Institute of Technology and Tokyo Medical and Dental University) has published its 2027 International Graduate Program (C) admissions.",
+        "Selected international engineering candidates receive the premier Japanese Government (MEXT) University Recommendation scholarship, covering 100% tuition, round-trip flights, and a monthly stipend of 144,000–147,000 JPY.",
+        "Research streams specifically target Advanced Robotics, Semiconductor Materials, Nanotechnology, and Embedded AI Systems."
       ],
-      "why_it_matters": "Securing an MPI research internship puts you in direct collaboration with Europe's most prestigious theoretical and systems research network, serving as an unmatched credential for top-tier European or American graduate fellowships.",
+      "why_it_matters": "Japan's national strategic initiatives to re-shore advanced semiconductor lithography and robotics make this one of the most prestigious debt-free pathways for Bangladeshi engineers to enter high-tier Asian academic and corporate R&D laboratories.",
       "deep_dive_analysis": null,
       "opportunity_meta": {
         "is_opportunity": true,
-        "deadline": "2027-11-01",
-        "funding_or_reward": "Fully Funded (Monthly stipend covering living costs + free housing + return travel)",
-        "eligibility": "Undergraduate and graduate students in Computer Science, Software Engineering, or related fields globally."
+        "deadline": "2026-12-08",
+        "funding_or_reward": "Fully Funded (Full tuition waiver + ¥144,000/mo stipend + airfare)",
+        "eligibility": "Graduating seniors & graduates in STEM disciplines (min CGPA 3.5/4.0)"
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Formal Verification",
-            "definition": "The use of rigorous mathematical proofs to demonstrate that a software algorithm or hardware architecture complies strictly with its formal specification."
-          },
-          {
-            "term": "Distributed Systems",
-            "definition": "A computing paradigm where multiple autonomous computers communicate and coordinate via networks to appear to end-users as a single coherent system."
+            "term": "MEXT Scholarship",
+            "definition": "Monbukagakusho scholarship funded by the Japanese Ministry of Education, Culture, Sports, Science and Technology covering full higher-education expenses."
           }
         ],
         "source_verification": {
-          "primary_source_name": "Max Planck Institute for Software Systems",
+          "primary_source_name": "Institute of Science Tokyo Admissions Office",
           "source_type": "OPPORTUNITY_PORTAL",
-          "credibility_note": "Official research institute site belonging to the premier German scientific research association.",
-          "original_url": "https://www.mpi-sws.org/internships",
-          "discussion_or_secondary_url": "https://www.mpg.de/en"
+          "credibility_note": "Official university admissions wire for international graduate researchers.",
+          "original_url": "https://www.isct.ac.jp/en/admissions/graduate-programs/igp-c-2027",
+          "discussion_or_secondary_url": "https://www.titech.ac.jp/english/admissions/international-graduate-program"
+        }
+      }
+    },
+    {
+      "id": "gates-cambridge-scholarship-university-of-cambridge-2027",
+      "topic_slug": "opp-gates-cambridge-leadership-postgraduate-scholarship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Gates Cambridge Scholarship 2027: Fully Funded Postgrad STEM & Policy Degrees at Cambridge",
+      "summary_points": [
+        "The Bill & Melinda Gates Foundation and the University of Cambridge have opened applications for the 2027 Gates Cambridge Scholarships for international students outside the UK.",
+        "Covers the full cost of studying at Cambridge: University Composition Fee, an annual maintenance allowance of £20,000, airfare, and discretionary discretionary funding up to £2,000 for academic conferences.",
+        "Selection prioritizes academic brilliance, leadership potential, and an explicit commitment to improving the lives of others through technological or socio-economic breakthroughs."
+      ],
+      "why_it_matters": "Gates Cambridge is arguably the most prestigious fully funded postgraduate gateway to the United Kingdom, pairing technical graduate research in machine learning, bioengineering, or climate infrastructure with global governance networks.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-03",
+        "funding_or_reward": "Fully Funded (£20,000/year living allowance + full tuition + airfare)",
+        "eligibility": "Citizens of any country outside the UK applying for full-time postgrad degree"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "University Composition Fee",
+            "definition": "The compulsory comprehensive tuition and college membership fee charged by the University of Cambridge to cover teaching, examination, and facilities."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Gates Cambridge Trust",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official scholarship administration portal for the University of Cambridge.",
+          "original_url": "https://www.gatescambridge.org/apply/overview/",
+          "discussion_or_secondary_url": "https://www.cam.ac.uk/postgraduate-study/funding/gates-cambridge"
         }
       }
     }
