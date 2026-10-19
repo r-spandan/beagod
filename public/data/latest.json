@@ -1,393 +1,409 @@
 {
-  "edition_id": "2026-10-18-AM",
-  "generated_at_utc": "2026-10-18T04:01:09.661Z",
-  "generated_at_bst": "10/18/2026, 10:01:09 AM BST",
+  "edition_id": "2026-10-19-AM",
+  "generated_at_utc": "2026-10-19T04:10:27.822Z",
+  "generated_at_bst": "10/19/2026, 10:10:27 AM BST",
   "edition_shift": "MORNING_0600_BST",
-  "executive_pulse": "Naval tensions in the Persian Gulf reach a boiling point following naval mine detonations on VLCC tankers in the Strait of Hormuz, while domestic fiscal and energy reforms accelerate across Dhaka and Western Europe. For Bangladeshi engineers and citizens, shifting maritime freight insurance and national grid-wheeling policy adjustments demand immediate strategic adaptation.",
+  "executive_pulse": "Anthropic executes an unprecedented governance pivot ahead of public listing by committing 5% of equity to public interest and granting independent safety auditors unvetted access. Meanwhile, Bangladesh Bank accelerates interbank forex modernization with automated matching systems as domestic tech and industrial regulatory reforms take center stage.",
   "stats": {
     "total_items": 10,
     "news_count": 7,
     "opportunities_count": 3,
-    "sources_scanned": 128
+    "sources_scanned": 121
   },
   "items": [
     {
-      "id": "hormuz-tanker-mine-strikes-oil-shipping-crisis",
-      "topic_slug": "strait-of-hormuz-naval-mine-tanker-attacks-energy-shock",
+      "id": "anthropic-5pct-equity-independent-auditing-pivot",
+      "topic_slug": "anthropic-public-benefit-fund-independent-governance",
       "type": "NEWS",
-      "category": "GEOPOLITICS",
+      "category": "TECH_ENGINEERING",
       "importance_tier": "CRITICAL_DEEP_DIVE",
-      "headline": "Strait of Hormuz Chokepoint Crisis: Naval Mine Detonations Paralyze Dual VLCC Tankers",
+      "headline": "Anthropic Pledges 5% Equity to Public Benefit Trust and Grants External Watchdogs Unrestricted Technical Access",
       "summary_points": [
-        "Two Very Large Crude Carriers (VLCCs), each hauling approximately 2 million barrels of crude oil, caught fire after striking underwater naval mines in the Strait of Hormuz.",
-        "Iran's Islamic Revolutionary Guard Corps (IRGC) claimed the vessels navigated an unauthorized maritime corridor, while international maritime security bureaus suspect asymmetric state-sponsored interdiction.",
-        "Lloyd's of London and global marine underwriters have unilaterally doubled war-risk premiums for Persian Gulf transit, triggering immediate upward pressure on Brent crude futures."
+        "Anthropic has formally allocated a 5% equity tranche—valued in the billions ahead of its anticipated IPO—into an autonomous Public Benefit Trust mandated to fund safety engineering, open science, and direct civic dividends.",
+        "Simultaneously, the frontier lab granted the UK and US AI Safety Institutes and external independent auditing consortia direct, 'employee-like' red-teaming access to its unreleased foundation models with zero pre-publication censorship rights.",
+        "The dual move establishes a new structural paradigm for commercial frontier AI labs, attempting to resolve the long-standing corporate governance tension between venture-scale returns and existential alignment guarantees."
       ],
-      "why_it_matters": "Bangladesh imports more than 80% of its refined fuel and crude petroleum via maritime channels originating in the Middle East. A spike in war-risk insurance premiums directly inflates the import bill for the Bangladesh Petroleum Corporation (BPC), draining foreign currency reserves, raising domestic transport tariffs, and widening the balance-of-payments deficit.",
-      "deep_dive_analysis": "The detonation of naval limpet or tethered contact mines against commercial crude carriers inside the Strait of Hormuz represents an escalation from shadow harassment to direct kinetic interdiction. The Strait represents the transit corridor for roughly 20% of global petroleum liquids and significant volumes of Liquefied Natural Gas (LNG). By attributing the explosions to an 'unauthorized route', Iranian authorities have established a legalistic pretext that allows maritime harassment while preserving plausible deniability against direct military retaliation by Western and Gulf coalitions.\n\nThe immediate economic mechanism is financial rather than purely operational. While maritime passages are rarely fully blockaded due to the risk of triggering multinational military convoy escorts, marine insurance underwriters respond immediately. The Joint War Committee (JWC) listing expansion forces shipowners to absorb astronomical additional war-risk insurance (AWRP) rates, frequently surging from 0.05% of hull value to beyond 0.5% within 48 hours. This cost is transferred directly to importing sovereign nations via higher CIF (Cost, Insurance, and Freight) prices.\n\nFor developing net-energy-importing economies like Bangladesh, the second-order shock is severe. Bangladesh Bank must allocate additional hard US dollar reserves per shipment to ensure un-halted operation of national base-load power stations and industrial captive generators. If elevated freight rates persist into Q4, the pressure will accelerate domestic inflation and force fiscal authorities to either expand retail fuel subsidies or implement painful tariff hikes that compress consumer disposable income.",
+      "why_it_matters": "For software engineers and AI practitioners in Bangladesh, Anthropic's move signals that model auditability and safety telemetry are becoming mandatory institutional disciplines rather than academic afterthoughts. Knowing how to interface with formal interpretability benchmarks and red-teaming harnesses will distinguish elite system architects from standard prompt engineers in the global market.",
+      "deep_dive_analysis": "The decision by Anthropic to lock 5% of its total equity capitalization into a dedicated Public Benefit Trust represents an unprecedented corporate structural intervention in Silicon Valley. Historically, frontier technology companies approaching public markets dilute public-interest covenants to satisfy institutional underwriters and maximize pre-IPO valuations. Anthropic's Long-Term Benefit Trust model, however, legally decouples fiduciary duties to shareholders from core safety mandates. By assigning five percent of commercial equity directly to non-profit stewardship, the company creates a permanent, self-funding balance sheet dedicated exclusively to existential risk mitigation, automated mechanistic interpretability research, and direct compute grants for the developing world.\n\nTechnically, the granting of unconstrained, 'employee-like' access to independent external watchdogs solves a critical systemic bottleneck: the information asymmetry between commercial model developers and external safety evaluators. Historically, independent researchers could only interrogate models via sandboxed, rate-limited APIs with safety filters already applied, obscuring latent capabilities, base model vulnerabilities, and automated evasion vectors. Unfettered internal access permits real-time gradient inspection, activation vector steering evaluation, and raw token distribution analysis without corporate approval bottlenecks.\n\nFor emerging economies like Bangladesh, this governance shift accelerates the open dissemination of frontier safety evaluations. By removing corporate veto power over external audit findings, third-party labs worldwide gain verified ground-truth data on frontier model capabilities, jailbreak persistence, and autonomous cyber-offensive tendencies. As enterprise workloads transition to high-agency Claude tool-use workflows, Bangladeshi software exporters and engineering teams can design deployment architectures against empirically verified risk profiles rather than vendor marketing collateral.",
       "opportunity_meta": {
         "is_opportunity": false,
         "deadline": null,
-        "funding_or_reward": null,
-        "eligibility": null
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "VLCC (Very Large Crude Carrier)",
-            "definition": "A standard supertanker category capable of hauling between 200,000 and 320,000 deadweight tonnage (DWT) of crude oil, equivalent to roughly 2 million barrels."
+            "term": "Public Benefit Trust",
+            "definition": "A legal structure where corporate assets or equity are bound to pursue social, ecological, or public-good outcomes alongside commercial operations."
           },
           {
-            "term": "War-Risk Insurance Premium",
-            "definition": "A specialized surcharge levied by maritime insurers to cover merchant vessels operating in designated conflict or hostile territorial zones."
+            "term": "Mechanistic Interpretability",
+            "definition": "Reverse-engineering the weights, activations, and internal neural circuits of large language models to understand precisely why and how they produce specific outputs."
+          },
+          {
+            "term": "Activation Steering",
+            "definition": "A technique that modifies an AI model's internal activation vectors at inference time to systematically control its behavior or prevent unsafe responses."
           }
         ],
         "source_verification": {
-          "primary_source_name": "Al Jazeera English Wire",
-          "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Direct regional reporting corroborated by global tanker tracking bureaus and international maritime security alerts.",
-          "original_url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz",
-          "discussion_or_secondary_url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz"
-        }
-      }
-    },
-    {
-      "id": "berc-rooftop-solar-net-metering-wheeling-policy",
-      "topic_slug": "berc-renewable-energy-wheeling-net-metering-reforms",
-      "type": "NEWS",
-      "category": "ECONOMY_FINANCE",
-      "importance_tier": "CRITICAL_DEEP_DIVE",
-      "headline": "BERC Overhauls Grid Regulations: Private Industrial Solar Wheeling and Captive Net Metering Approved",
-      "summary_points": [
-        "The Bangladesh Energy Regulatory Commission (BERC) has issued a regulatory gazette allowing industrial manufacturing units to wheel self-generated solar and renewable power across the national transmission grid.",
-        "Under the revised Net Energy Metering (NEM) guidelines, commercial enterprises can export up to 100% of their rooftop PV plant capacity during off-peak and weekend operations to offset retail grid tariffs.",
-        "The measure is targeted at clearing export compliance bottlenecks for the Ready-Made Garment (RMG) sector, which faces strict European carbon border adjustment audits."
-      ],
-      "why_it_matters": "For engineering graduates and industrial technologists in Bangladesh, this policy breaks a multi-decade grid-access monopoly, unleashing an immediate wave of capital expenditure for solar PV integration, power electronics installation, and industrial microgrid design. For citizens, higher domestic renewable supply reduces costly reliance on foreign spot-market LNG imports.",
-      "deep_dive_analysis": "Historically, captive industrial power generation in Bangladesh was tightly shackled by geographic adjacency: a textile mill or factory could only consume renewable energy generated directly on its immediate rooftop, leaving vast off-site rural tracts unviable for commercial wheeling. Under the newly enacted BERC framework, third-party power purchase agreements (PPAs) and 'open access wheeling' are formally sanctioned. Industrial consumers pay a transparent wheeling tariff to the Power Grid Company of Bangladesh (PGCB) and respective distribution utilities (DPDC, DESCO, BREB) to transmit renewable electrons across regional transmission lines.\n\nThis structural reform addresses two existential crises simultaneously. First, the European Union's Carbon Border Adjustment Mechanism (CBAM) imposes severe financial penalties on imported industrial commodities with high embedded carbon footprints. Bangladeshi RMG and textile manufacturers—who contribute over 80% of national export earnings—now have a legally grounded mechanism to decarbonize their energy procurement without relying on dirty grid electricity.\n\nSecond, the financial dynamics of distribution companies will experience a fundamental pivot. Instead of bearing the burden of capacity charges from dormant fossil-fuel Independent Power Producers (IPPs), the national grid transitions into a common-carrier service provider generating fee-based wheeling revenue. For local electrical and energy engineers, this shifts the job market from traditional substation operations toward grid-scale solar farm development, SCADA synchronization, and battery energy storage system (BESS) network engineering.",
-      "opportunity_meta": {
-        "is_opportunity": false,
-        "deadline": null,
-        "funding_or_reward": null,
-        "eligibility": null
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "Open Access Wheeling",
-            "definition": "The regulatory right of an electricity generator to transmit power over a third party's transmission and distribution lines upon paying a standardized transmission fee."
-          },
-          {
-            "term": "CBAM (Carbon Border Adjustment Mechanism)",
-            "definition": "A European Union policy that taxes imported goods based on greenhouse gas emissions generated during their production to prevent carbon leakage."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "Ministry of Power, Energy & Mineral Resources Gazette",
+          "primary_source_name": "Ars Technica",
           "source_type": "NICHE_CREDIBLE",
-          "credibility_note": "Official statutory regulatory order by BERC corroborated by national utility distribution boards.",
-          "original_url": "https://berc.org.bd/notices/gazette-net-metering-wheeling-2026",
-          "discussion_or_secondary_url": "https://www.tbsnews.net/energy/berc-solar-wheeling-guidelines-reform"
+          "credibility_note": "Rigorous technical journalism tracking AI system safety, regulatory policies, and semiconductor architecture",
+          "original_url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+          "discussion_or_secondary_url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko"
         }
       }
     },
     {
-      "id": "france-nationwide-cost-of-living-unrest-limoges-fire",
-      "topic_slug": "france-nationwide-civil-unrest-cost-of-living-austerity",
-      "type": "NEWS",
-      "category": "GEOPOLITICS",
-      "importance_tier": "STANDARD_BRIEF",
-      "headline": "France Gripped by Civil Unrest: Over 1,000 Detained as Historic Limoges City Hall Torched",
-      "summary_points": [
-        "More than half a million demonstrators swept across Paris, Marseille, Lyon, and Limoges protesting deteriorating purchasing power, rising living costs, and proposed public spending cuts.",
-        "The historic town hall of Limoges was largely destroyed by fire after radical demonstrators stormed the premises, prompting the deployment of tactical gendarmerie units.",
-        "Over 1,200 individuals have been taken into custody nationwide, as the French government warns that public infrastructure attacks cross red lines of lawful democratic dissent."
-      ],
-      "why_it_matters": "France is a leading political architect and financial core of the European Union. Prolonged social instability weakens the euro, exacerbates European sovereign debt spreads, and risks dampening European consumer demand—directly impacting Bangladesh's single largest destination bloc for garments and manufactured exports.",
-      "deep_dive_analysis": null,
-      "opportunity_meta": {
-        "is_opportunity": false,
-        "deadline": null,
-        "funding_or_reward": null,
-        "eligibility": null
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "Gendarmerie Nationale",
-            "definition": "A branch of the French Armed Forces under the Ministry of the Interior tasked with public safety and riot control in suburban and regional zones."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "BBC News Europe",
-          "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Aggregated reports verified through French Ministry of the Interior statements and Agence France-Presse footage.",
-          "original_url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo",
-          "discussion_or_secondary_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZU5GMUJ0MnNEanZ4SWN6TmlDSWJ5VUttanhFSW1YT1hkcU9INTNDWlkxMVMydkpPa1NUN1RhUnZncWY5YzdjbDZETWZwejlTMGIxMFJ4T2t0dUNWS01pYUxwWkl0MU9CcG5lTGxzSkhYcHplM1VOdUM3b1NwRkliTTdMYVlLZWloRVlGVjZ0TzNWOTBsUl95eHExcUdfVVRpdmVBUEdJcjl2RlVndjJxNzkyU0lBZFpzNXVwZjZoNUxic1ZqcTQ4M9IBzgE"
-        }
-      }
-    },
-    {
-      "id": "bangladesh-bank-interoperable-micro-transaction-zero-fee-mandate",
-      "topic_slug": "bangladesh-bank-interoperable-payments-binimoy-zero-fee-mandate",
+      "id": "china-ai-hardware-export-surge-macro-divergence",
+      "topic_slug": "china-ai-hardware-export-surge-macro-divergence",
       "type": "NEWS",
       "category": "ECONOMY_FINANCE",
       "importance_tier": "STANDARD_BRIEF",
-      "headline": "Bangladesh Bank Directs Zero Fees for Peer-to-Merchant Transactions Under 10,000 BDT",
+      "headline": "China AI Hardware and Clean Energy Exports Surge, Countering Domestic Property Headwinds",
       "summary_points": [
-        "Bangladesh Bank has issued a directive mandating that all bank-to-MFS (Mobile Financial Services) and MFS-to-merchant digital micro-transactions under 10,000 BDT be processed at zero customer fee.",
-        "The policy utilizes the National Payment Switch Bangladesh (NPSB) and upgraded Interoperable Digital Transaction Platform (IDTP), shifting interchange costs onto clearing subsidies.",
-        "The move is explicitly designed to disincentivize cash handling, curb informal informal market settlements, and accelerate digital documentation of small and medium retail turnover."
+        "China's customs data reveals double-digit export acceleration led by power electronics, edge computing hardware, and photovoltaic infrastructure, outstripping domestic retail sluggishness.",
+        "International Monetary Fund delegates convening in Bangkok warned that China's aggressive manufacturing surplus in industrial automation could trigger another round of tariff retaliation from Western blocs.",
+        "Beijing's export surge has lowered capital costs for intermediate engineering goods across South and Southeast Asia, stabilizing local industrial plant expansion despite global inflation."
       ],
-      "why_it_matters": "For every resident and small business owner in Bangladesh, this eliminates the punitive 1.5%–1.8% cash-out and transfer overhead on everyday purchases, lowering transactional friction and keeping household capital within formal, interest-yielding bank accounts.",
+      "why_it_matters": "Bangladeshi industrial automation engineers and manufacturing units benefit directly from cheaper Chinese automation PLCs, power inverters, and switchgear, enabling domestic RMG and light-engineering factories to upgrade plant efficiency at significantly reduced capital expenditure.",
       "deep_dive_analysis": null,
       "opportunity_meta": {
         "is_opportunity": false,
         "deadline": null,
-        "funding_or_reward": null,
-        "eligibility": null
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Interchange Fee",
-            "definition": "A transaction fee that the merchant's financial service provider pays to the customer's payment-issuing institution during digital transactions."
+            "term": "Intermediate Goods",
+            "definition": "Semi-finished products or industrial components used as inputs in the production of finished downstream goods."
           },
           {
-            "term": "NPSB (National Payment Switch Bangladesh)",
-            "definition": "The central electronic platform operated by Bangladesh Bank that facilitates routing and settlement of interbank automated teller machine, POS, and digital fund transfers."
+            "term": "Current Account Surplus",
+            "definition": "When a country's total value of exported goods and services exceeds the total value of its imports."
           }
         ],
         "source_verification": {
-          "primary_source_name": "Bangladesh Bank Department of Payment Systems",
-          "source_type": "NICHE_CREDIBLE",
-          "credibility_note": "Direct banking circular cross-referenced with national financial regulation desks.",
-          "original_url": "https://www.bb.org.bd/en/index.php/mediaroom/circulars",
-          "discussion_or_secondary_url": "https://www.tbsnews.net/economy/banking/bb-slashes-interoperable-transaction-fees-2026"
+          "primary_source_name": "BBC Business & Finance",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Primary global macroeconomic desk covering trade balances, central banking, and international manufacturing flows",
+          "original_url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo",
+          "discussion_or_secondary_url": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo"
         }
       }
     },
     {
-      "id": "ieee-laserbatman-ev-truck-battery-simulation-breakthrough",
-      "topic_slug": "ieee-multiscale-simulation-ev-battery-laser-welding-breakthrough",
-      "type": "NEWS",
-      "category": "TECH_ENGINEERING",
-      "importance_tier": "STANDARD_BRIEF",
-      "headline": "Consortium Deploys 'LaserBATMAN' Multiphysics Model to Double Heavy EV Battery Life",
-      "summary_points": [
-        "A European research consortium partnered with Volvo Group and Resolvent unveiled a multiscale simulation application integrating COMSOL Multiphysics and Deep Neural Networks (DNN) for battery manufacturing.",
-        "The system models laser welding microstructures at the busbar junction down to the solid-electrolyte interface (SEI) degradation layer, identifying thermal failure modes before physical pack assembly.",
-        "The reduced-order predictive tool enables design teams to optimize cooling profiles and eliminate redundant battery cells while guaranteeing highway duty-cycle longevity."
-      ],
-      "why_it_matters": "For MIST mechanical, electrical, and software engineering students, this demonstrates the real-world convergence of Finite Element Analysis (FEA) and surrogate neural networks. Designing commercial-scale electric logistics fleets hinges on weld-level electrothermal optimization rather than mere chemistry scaling.",
-      "deep_dive_analysis": null,
-      "opportunity_meta": {
-        "is_opportunity": false,
-        "deadline": null,
-        "funding_or_reward": null,
-        "eligibility": null
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "SEI (Solid-Electrolyte Interface)",
-            "definition": "A passivation layer formed on battery anode surfaces during initial charging cycles; its uncontrolled growth causes capacity fade and thermal resistance."
-          },
-          {
-            "term": "Reduced-Order Model (ROM)",
-            "definition": "A simplified, computationally efficient mathematical representation that captures the essential physics of a complex high-dimensional simulation using trained neural networks."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "IEEE Spectrum",
-          "source_type": "NICHE_CREDIBLE",
-          "credibility_note": "Peer-reviewed technical journalism covering applied computational physics in industrial automation.",
-          "original_url": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
-          "discussion_or_secondary_url": "https://www.his.se/en/research/virtual-engineering/virtual-manufacturing-processes/LaserBatman/"
-        }
-      }
-    },
-    {
-      "id": "alberta-secession-referendum-energy-reserves-canada",
-      "topic_slug": "alberta-independence-referendum-oil-reserves-canadian-confederation",
+      "id": "ukraine-drone-saturation-strike-baltic-energy",
+      "topic_slug": "ukraine-deep-drone-swarm-russian-energy-baltic",
       "type": "NEWS",
       "category": "GEOPOLITICS",
       "importance_tier": "STANDARD_BRIEF",
-      "headline": "Alberta Votes on Independence Framework: Custodian of 4th-Largest Global Oil Reserves Challenges Ottawa",
+      "headline": "Ukraine Deploys Massive 1,000-Drone Swarm Against Russian Energy Infrastructure Near St. Petersburg",
       "summary_points": [
-        "The Canadian province of Alberta is holding a historic plebiscite on enacting procedural mechanisms to secede from the Canadian Confederation.",
-        "Separatist leaders cite disputes over federal emissions caps, equalization transfer payments, and regulatory delays on interprovincial crude pipelines.",
-        "A fractured Canadian federation threatens the stability of North American crude supply, as Alberta accounts for over 80% of Canada's crude production and extensive oil sands infrastructure."
+        "Ukrainian forces conducted one of the largest coordinated long-range unmanned aerial strikes of the conflict, deploying over 1,000 low-cost strike drones against critical oil refineries and maritime export terminals near St. Petersburg.",
+        "The operation disrupted primary export logistics along the Baltic seaboard, demonstrating deep strategic reach despite ongoing diplomatic pressure from Washington regarding sanction suspensions.",
+        "The strike highlights the evolving doctrine of massed, distributed kinetic attrition, overwhelming legacy surface-to-air missile belts via sheer volumetric target saturation."
       ],
-      "why_it_matters": "Canada is one of the premier destinations for Bangladeshi STEM graduates pursuing skilled immigration (Express Entry/PNP). Constitutional turbulence and potential fiscal balkanization in Alberta could dramatically restructure regional provincial nominee quotas, resource employment, and federal tax structures.",
+      "why_it_matters": "Disruptions to Russian seaborne petroleum exports tighten global maritime freight insurance and refined distillate spreads, which directly feeds into higher import costs for Bangladesh's state petroleum procurement agency (BPC).",
       "deep_dive_analysis": null,
       "opportunity_meta": {
         "is_opportunity": false,
         "deadline": null,
-        "funding_or_reward": null,
-        "eligibility": null
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Equalization Payments",
-            "definition": "A Canadian federal constitutional program designed to reduce fiscal disparities between resource-rich 'have' provinces and economically lagging 'have-not' provinces."
+            "term": "Saturation Attack",
+            "definition": "A military tactic that fires more offensive missiles or drones than a defender's tracking radar and interceptors can physically engage simultaneously."
+          },
+          {
+            "term": "Crude Distillate Spread",
+            "definition": "The difference between the market price of crude oil and the refined petroleum products (diesel, kerosene, gasoline) produced from it."
           }
         ],
         "source_verification": {
-          "primary_source_name": "Fortune / Bloomberg Wire",
+          "primary_source_name": "Al Jazeera English",
           "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Coordinated reporting verified across Canadian electoral boards and primary energy commodity monitors.",
-          "original_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXVQcVg2M0xpYVZPcV9JZUFLd2loVktlZEZfSnpOLU5Gd25rbnJnWGNHQXBDVGNxYUFyU0s1ejlsNDA0eGM0bDBsYzFFOTJjei1ZOW1Wa0htaUQ0c1ZfYlVLWVZFd3dnbUxUdVZXM2RhMFQ3Qmk4QkNDamNad2t3YzZ1TG1EcnJoQ2ZLUFYwOEdsQVpyNWxnanZHNUdHMFpTcy1CTTJuQmtxckFQQXQ0NGo3NkQ3VVFFYk10cUhB",
-          "discussion_or_secondary_url": "https://www.bloomberg.com/news/articles/alberta-secession-vote-oil-market"
+          "credibility_note": "Verified field-reported international defense and geopolitical conflict wire",
+          "original_url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites",
+          "discussion_or_secondary_url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo"
         }
       }
     },
     {
-      "id": "nuclear-power-plant-uprating-compute-grid-constellation",
-      "topic_slug": "nuclear-uprating-engineering-baseload-power-ai-datacenters",
+      "id": "jaxa-mmx-phobos-sample-return-launch-prep",
+      "topic_slug": "jaxa-mmx-phobos-sample-return-launch-prep",
       "type": "NEWS",
       "category": "TECH_ENGINEERING",
       "importance_tier": "STANDARD_BRIEF",
-      "headline": "Nuclear Power Plant Uprates: Utilities Squeeze Gigawatts from Legacy Reactors to Feed Compute Grids",
+      "headline": "JAXA's MMX Mars Moon Exploration Clears Integration Testing for Historic Phobos Sample Return",
       "summary_points": [
-        "Major nuclear fleet operators, led by Constellation Energy, have initiated thermodynamic and steam-turbine upgrades across existing plants to harvest up to 15% more electric output without constructing new containment structures.",
-        "Engineering teams are replacing low-pressure turbine rotors, upgrading high-capacity feedwater pumps, and re-optimizing reactor thermal core margins using digital twin analytics.",
-        "The output surge is contracted in advance through bilateral power-purchase agreements with cloud hyperscalers seeking 24/7 carbon-free base-load electricity."
+        "Japan Aerospace Exploration Agency (JAXA), in collaboration with CNES, DLR, and NASA, has finalized flight integration for the Martian Moons eXploration (MMX) spacecraft targeting Phobos and Deimos.",
+        "The mission features a micro-rover weighing only 15 grams alongside a sophisticated robotic core-sampling drill designed to gather pristine regolith containing ancient ejecta from the Martian surface.",
+        "MMX is engineered to complete a full round-trip trajectory, performing orbital insertion around Mars, landing on Phobos, and delivering surface samples back to Earth by late decade."
       ],
-      "why_it_matters": "As Bangladesh operationalizes the Rooppur Nuclear Power Plant units, understanding reactor uprating and balance-of-plant thermodynamic efficiencies represents high-value domain knowledge for Bangladeshi nuclear and mechanical engineers entering the energy sector.",
+      "why_it_matters": "For aerospace, mechanical, and robotics students at MIST, MMX showcases state-of-the-art miniaturization, ultra-low-gravity mobility systems, and high-precision autonomous navigation without relying on real-time Earth telemetry.",
       "deep_dive_analysis": null,
       "opportunity_meta": {
         "is_opportunity": false,
         "deadline": null,
-        "funding_or_reward": null,
-        "eligibility": null
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Power Uprate",
-            "definition": "The formal engineering and regulatory process of increasing the maximum thermal power rating and electrical output of an existing licensed nuclear power reactor."
+            "term": "Regolith",
+            "definition": "A layer of loose, heterogeneous superficial deposits covering solid bedrock on planetary bodies, moons, or asteroids."
           },
           {
-            "term": "Balance-of-Plant (BOP)",
-            "definition": "All supporting systems and auxiliary components of a power plant (turbines, condensers, transformers) outside the primary nuclear reactor vessel."
+            "term": "Microgravity Locomotion",
+            "definition": "Mobility mechanisms engineered to traverse surfaces where gravitational pull is near-zero without bouncing uncontrollably into space."
           }
         ],
         "source_verification": {
-          "primary_source_name": "MIT Technology Review",
+          "primary_source_name": "Space.com / JAXA Aerospace Wire",
           "source_type": "NICHE_CREDIBLE",
-          "credibility_note": "Rigorous technical analysis covering utility regulatory filings and reactor thermodynamic engineering.",
-          "original_url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
-          "discussion_or_secondary_url": "https://arstechnica.com/science/2026/10/nuclear-power-efficiency-turbines/"
+          "credibility_note": "Premier aerospace and deep-space planetary exploration technical journalism",
+          "original_url": "https://www.space.com/science-astronomy/mars/inside-the-science-of-japans-bold-mmx-mission-to-mars",
+          "discussion_or_secondary_url": "https://phys.org/news/2026-10-japan-historic-round-trip-mission.html"
         }
       }
     },
     {
-      "id": "cern-summer-student-programme-geneva-fellowship-2027",
-      "topic_slug": "opp-cern-summer-student-programme-undergraduate-research-2027",
-      "type": "OPPORTUNITY",
-      "category": "OPPORTUNITIES",
+      "id": "bangladesh-bank-interbank-fx-electronic-matching-platform",
+      "topic_slug": "bangladesh-bank-interbank-fx-electronic-matching-platform",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
       "importance_tier": "STANDARD_BRIEF",
-      "headline": "CERN Summer Student Programme 2027: Fully Funded Physics & Computing Fellowships in Geneva",
+      "headline": "Bangladesh Bank Mandates Real-Time Centralized FX Order-Book to Eliminate Discretionary Dollar Spreads",
       "summary_points": [
-        "The European Organization for Nuclear Research (CERN) has opened applications for its flagship 8-to-13-week residential summer research programme in Geneva, Switzerland.",
-        "Open to undergraduate and master's students worldwide in Physics, Computing, Electrical Engineering, Mechanical Engineering, and Applied Mathematics with at least 3 years of university studies completed.",
-        "Fellowship provides a non-taxable daily allowance of 92 CHF (approx. $105/day), health insurance, travel reimbursement to/from Geneva, and hands-on lab placement on Large Hadron Collider (LHC) instrument teams."
+        "Bangladesh Bank has issued a regulatory circular requiring all Authorized Dealer (AD) scheduled commercial banks to route spot and forward foreign exchange transactions through an automated interbank electronic matching platform.",
+        "The mandate eliminates bilateral opaque OTC (over-the-counter) phone pricing, forcing transparent matching between import letters of credit (LCs) and export-remittance inflows within a defined market-driven band.",
+        "The central bank noted that gross official reserves held above $20.4 billion (BPM6 standard), with the real-time matching engine designed to starve the parallel Hundi market of institutional dollar leakage."
       ],
-      "why_it_matters": "For MIST engineering and computer science undergraduates, CERN offers one of the rarest opportunities to contribute directly to distributed high-performance computing, petabyte-scale data pipelines, and cryogenic sensor instrumentation alongside global Nobel laureates.",
+      "why_it_matters": "A transparent, electronically cleared interbank dollar exchange directly reduces arbitrary premiums charged by banks for student remittances, tuition payments abroad, and freelance inward remittances, protecting household purchasing power in Bangladesh.",
       "deep_dive_analysis": null,
       "opportunity_meta": {
-        "is_opportunity": true,
-        "deadline": "2027-01-31",
-        "funding_or_reward": "Fully Funded (92 CHF/day stipend + travel + health coverage)",
-        "eligibility": "Undergraduate/Master's STEM students who completed min. 6 semesters"
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "LHC Computing Grid (WLCG)",
-            "definition": "A global computing infrastructure consortium that provides compute and storage resources to store, distribute, and analyze CERN experiment data."
+            "term": "Central Order-Book",
+            "definition": "An electronic exchange mechanism where buy and sell orders are automatically ranked and matched by price and time without private backroom negotiation."
+          },
+          {
+            "term": "BPM6 Standard",
+            "definition": "The IMF Balance of Payments Manual (6th edition), which calculates strictly net, unencumbered liquid foreign currency reserves."
           }
         ],
         "source_verification": {
-          "primary_source_name": "CERN Careers Official Portal",
-          "source_type": "OPPORTUNITY_PORTAL",
-          "credibility_note": "Direct international intergovernmental research organization recruitment mandate.",
-          "original_url": "https://careers.cern/summer-student-programme",
-          "discussion_or_secondary_url": "https://home.cern/summer-students-apply-2027"
+          "primary_source_name": "The Business Standard (TBS)",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Authoritative domestic financial desk verifying central bank regulatory gazettes and forex circulars",
+          "original_url": "https://www.tbsnews.net/economy/banking/bangladesh-bank-fx-orderbook-matching-mandate",
+          "discussion_or_secondary_url": "https://www.bb.org.bd/mediaroom/circulars/fepd"
         }
       }
     },
     {
-      "id": "institute-of-science-tokyo-igp-c-mext-fellowship-2027",
-      "topic_slug": "opp-tokyo-tech-science-tokyo-igp-mext-postgraduate-fellowship-2027",
-      "type": "OPPORTUNITY",
-      "category": "OPPORTUNITIES",
+      "id": "btrc-iig-mandatory-domestic-ix-caching-mandate",
+      "topic_slug": "btrc-iig-mandatory-domestic-ix-caching-mandate",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
       "importance_tier": "STANDARD_BRIEF",
-      "headline": "Institute of Science Tokyo (formerly Tokyo Tech) IGP (C) MEXT Postgraduate Fellowship 2027",
+      "headline": "BTRC Directs Nationwide ISP and IIG Infrastructure to Route 100% Domestic Data via Local BDIX Nodes",
       "summary_points": [
-        "The newly merged Institute of Science Tokyo (amalgamating Tokyo Institute of Technology and Tokyo Medical and Dental University) has published its 2027 International Graduate Program (C) admissions.",
-        "Selected international engineering candidates receive the premier Japanese Government (MEXT) University Recommendation scholarship, covering 100% tuition, round-trip flights, and a monthly stipend of 144,000–147,000 JPY.",
-        "Research streams specifically target Advanced Robotics, Semiconductor Materials, Nanotechnology, and Embedded AI Systems."
+        "The Bangladesh Telecommunication Regulatory Commission (BTRC) has issued strict compliance orders to all International Internet Gateways (IIGs) and nationwide ISPs to prevent domestic IP traffic from trombone-routing through overseas transit nodes.",
+        "Under the directive, all localized educational, financial, and governmental digital service endpoints must interconnect directly via Bangladesh Internet Exchange (BDIX) peering fabrics.",
+        "The measure is aimed at insulating sovereign connectivity against international submarine cable cuts (SMW4/SMW5 maintenance) while driving down round-trip transit latency below 15ms inside the country."
       ],
-      "why_it_matters": "Japan's national strategic initiatives to re-shore advanced semiconductor lithography and robotics make this one of the most prestigious debt-free pathways for Bangladeshi engineers to enter high-tier Asian academic and corporate R&D laboratories.",
+      "why_it_matters": "Domestic engineers and developers building latency-critical APIs, fintech applications, or university services will experience faster domestic data speeds and continuous uptime even during international cable outages.",
       "deep_dive_analysis": null,
       "opportunity_meta": {
-        "is_opportunity": true,
-        "deadline": "2026-12-08",
-        "funding_or_reward": "Fully Funded (Full tuition waiver + ¥144,000/mo stipend + airfare)",
-        "eligibility": "Graduating seniors & graduates in STEM disciplines (min CGPA 3.5/4.0)"
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "MEXT Scholarship",
-            "definition": "Monbukagakusho scholarship funded by the Japanese Ministry of Education, Culture, Sports, Science and Technology covering full higher-education expenses."
+            "term": "Trombone Routing",
+            "definition": "The inefficient routing of data traffic where local packets travel to an overseas foreign server and back just to reach a nearby local destination."
+          },
+          {
+            "term": "BDIX (Bangladesh Internet Exchange)",
+            "definition": "The country's national carrier-neutral exchange point allowing local internet service providers to peer and exchange traffic domestically without international transit costs."
           }
         ],
         "source_verification": {
-          "primary_source_name": "Institute of Science Tokyo Admissions Office",
-          "source_type": "OPPORTUNITY_PORTAL",
-          "credibility_note": "Official university admissions wire for international graduate researchers.",
-          "original_url": "https://www.isct.ac.jp/en/admissions/graduate-programs/igp-c-2027",
-          "discussion_or_secondary_url": "https://www.titech.ac.jp/english/admissions/international-graduate-program"
+          "primary_source_name": "BTRC Policy Directives Wire",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Official telecommunications infrastructure regulatory notices in Bangladesh",
+          "original_url": "https://www.btrc.gov.bd/site/notices/bdix-domestic-routing-compliance-circular",
+          "discussion_or_secondary_url": "https://www.tbsnews.net/bangladesh/telecom/btrc-orders-strict-local-caching"
         }
       }
     },
     {
-      "id": "gates-cambridge-scholarship-university-of-cambridge-2027",
-      "topic_slug": "opp-gates-cambridge-leadership-postgraduate-scholarship-2027",
-      "type": "OPPORTUNITY",
-      "category": "OPPORTUNITIES",
+      "id": "nbr-ait-rationalization-industrial-capital-machinery",
+      "topic_slug": "nbr-ait-rationalization-industrial-capital-machinery",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
       "importance_tier": "STANDARD_BRIEF",
-      "headline": "Gates Cambridge Scholarship 2027: Fully Funded Postgrad STEM & Policy Degrees at Cambridge",
+      "headline": "NBR Slashes Advance Income Tax on Advanced Manufacturing Machinery to Spur Domestic CapEx",
       "summary_points": [
-        "The Bill & Melinda Gates Foundation and the University of Cambridge have opened applications for the 2027 Gates Cambridge Scholarships for international students outside the UK.",
-        "Covers the full cost of studying at Cambridge: University Composition Fee, an annual maintenance allowance of £20,000, airfare, and discretionary discretionary funding up to £2,000 for academic conferences.",
-        "Selection prioritizes academic brilliance, leadership potential, and an explicit commitment to improving the lives of others through technological or socio-economic breakthroughs."
+        "The National Board of Revenue (NBR) has published a gazette slashing the Advance Income Tax (AIT) levied on imports of precision CNC equipment, automated assembly robotics, and cleanroom hardware from 5% to a flat 1%.",
+        "The fiscal concession requires importers to maintain digital e-TIN and e-VAT compliance while certifying that the equipment is designated for high-tech domestic manufacturing rather than re-export.",
+        "The reform directly addresses prolonged complaints from engineering hardware manufacturers and automotive component fabricators who faced severe working capital lockups at customs ports."
       ],
-      "why_it_matters": "Gates Cambridge is arguably the most prestigious fully funded postgraduate gateway to the United Kingdom, pairing technical graduate research in machine learning, bioengineering, or climate infrastructure with global governance networks.",
+      "why_it_matters": "Lowers entry barriers for hardware startups, industrial engineering ventures, and fabrication labs in Bangladesh, making it significantly less expensive to import professional-grade machine tools and manufacturing apparatus.",
       "deep_dive_analysis": null,
       "opportunity_meta": {
-        "is_opportunity": true,
-        "deadline": "2026-12-03",
-        "funding_or_reward": "Fully Funded (£20,000/year living allowance + full tuition + airfare)",
-        "eligibility": "Citizens of any country outside the UK applying for full-time postgrad degree"
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "University Composition Fee",
-            "definition": "The compulsory comprehensive tuition and college membership fee charged by the University of Cambridge to cover teaching, examination, and facilities."
+            "term": "Advance Income Tax (AIT)",
+            "definition": "A withholding tax collected upfront by customs at the point of import, credited against the business's final yearly income tax return."
+          },
+          {
+            "term": "CapEx (Capital Expenditure)",
+            "definition": "Funds used by a business or industrial enterprise to acquire, upgrade, and maintain physical assets such as machinery and manufacturing plants."
           }
         ],
         "source_verification": {
-          "primary_source_name": "Gates Cambridge Trust",
+          "primary_source_name": "NBR Official Gazette Wire",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Statutory regulatory orders (SRO) published by Bangladesh National Board of Revenue",
+          "original_url": "https://nbr.gov.bd/regulations/sro-customs-ait-machinery-reduction",
+          "discussion_or_secondary_url": "https://www.tbsnews.net/economy/customs/nbr-cuts-ait-capital-machinery-imports"
+        }
+      }
+    },
+    {
+      "id": "opp-eth-zurich-ssrf-summer-fellowship-2027",
+      "topic_slug": "opp-eth-zurich-ssrf-summer-fellowship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "ETH Zurich Student Summer Research Fellowship (SSRF) 2027: Fully Funded CS & Systems Internship in Switzerland",
+      "summary_points": [
+        "ETH Zurich's Department of Computer Science is inviting global undergraduate and master's students to apply for its premier fully funded two-month summer research fellowship for 2027.",
+        "Selected fellows receive round-trip international airfare, dedicated visa facilitation, housing accommodations in Zurich, and a monthly stipend of CHF 1,750 (~BDT 2.45 lakh) to cover living costs.",
+        "Fellows work directly inside ETH Zurich research laboratories across systems engineering, cryptography, machine learning, robotics, and theoretical computer science."
+      ],
+      "why_it_matters": "A direct gateway for MIST and Bangladeshi engineering undergraduates to gain tier-1 European laboratory publication credentials, secure top-tier global letters of recommendation, and fast-track direct PhD admissions at institutions like ETH Zurich, EPFL, and Max Planck.",
+      "deep_dive_analysis": "The ETH Zurich Student Summer Research Fellowship (SSRF) represents one of the most prestigious and competitive fully funded research internships in the world for computer science, electrical, and systems engineering students. Unlike standard industry internships that prioritize routine software development cycles, ETH SSRF embeds students into core academic research teams working at the international frontier. Fellows spend July and August at ETH's Zurich campus, embedded in specialized research clusters covering topics such as hardware-software co-design, distributed systems, formal verification, neuromorphic computing, and foundational AI safety.\n\nFrom a financial and logistical standpoint, the fellowship completely eliminates the cost barrier that typically prevents Bangladeshi undergraduate researchers from accessing Swiss research infrastructure. The program awards a monthly stipend of CHF 1,750, provides comprehensive housing in student residences throughout Zurich, covers all international return flight costs, and issues formal support letters for Swiss Schengen visa processing. For an engineering student in Dhaka, this translates to zero out-of-pocket expenditure for an elite two-month European research tenure.\n\nStrategic Application Playbook: Admission to SSRF is fiercely merit-based, evaluating applicants on academic rigor, demonstrable coding competence, and research alignment. Bangladeshi applicants should prepare a tightly scoped Statement of Purpose (max 2 pages) identifying 2-3 specific ETH laboratory faculty members whose recent papers they have thoroughly analyzed. Emphasize prior project work—such as MIST thesis modules, open-source systems contributions, or published conference posters—that demonstrates you do not need basic training and can contribute code, run simulations, or analyze datasets from Day 1. Ensure your university transcript clearly documents advanced coursework in algorithms, operating systems, and mathematics.",
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-15",
+        "funding_or_reward": "Fully Funded (CHF 1,750/mo + Housing + Flight)",
+        "eligibility": "Undergraduate (year 2+) & Master's students in CS, EE, Math, or related STEM fields"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Formal Verification",
+            "definition": "Using mathematical proofs to prove the absolute correctness of hardware, software, or cryptographic protocols relative to a formal specification."
+          },
+          {
+            "term": "Hardware-Software Co-Design",
+            "definition": "Concurrently engineering both the computer hardware architecture and the software stack to maximize efficiency and computational performance."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "ETH Zurich Department of Computer Science",
           "source_type": "OPPORTUNITY_PORTAL",
-          "credibility_note": "Official scholarship administration portal for the University of Cambridge.",
-          "original_url": "https://www.gatescambridge.org/apply/overview/",
-          "discussion_or_secondary_url": "https://www.cam.ac.uk/postgraduate-study/funding/gates-cambridge"
+          "credibility_note": "Official institutional portal of ETH Zurich Department of Computer Science",
+          "original_url": "https://inf.ethz.ch/studies/summer-research-fellowship.html",
+          "discussion_or_secondary_url": "https://inf.ethz.ch/news-and-events/spotlights/ssrf-application-cycle-2027.html"
+        }
+      }
+    },
+    {
+      "id": "opp-singapore-astar-sipga-research-internship-2027",
+      "topic_slug": "opp-singapore-astar-sipga-research-internship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Singapore A*STAR International Pre-Graduate Award (SIPGA) 2027: Fully Funded STEM Laboratory Attachments",
+      "summary_points": [
+        "The Agency for Science, Technology and Research (A*STAR) Singapore is accepting applications for the SIPGA award, offering 2 to 6-month research attachments for international undergraduates.",
+        "Recipients receive a monthly stipend of SGD 2,000 (~BDT 1.8 lakh) to cover lodging and living expenses across Singapore, working in world-class A*STAR research institutes.",
+        "Research tracks span biomedical engineering, materials science, microelectronics, semiconductor fabrication, and high-performance computing."
+      ],
+      "why_it_matters": "Provides MIST and Bangladeshi science/engineering students with direct laboratory experience in semiconductor fabrication and applied engineering in Asia's foremost high-tech research hub, serving as a springboard for the prestigious SINGA PhD fellowship.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-11-30",
+        "funding_or_reward": "SGD 2,000/month stipend",
+        "eligibility": "3rd/4th year undergraduate & master's STEM students with strong academic records"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Semiconductor Fabrication",
+            "definition": "The multi-step process of creating integrated circuits and microchips on semiconductor wafers using photolithography and chemical deposition."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "A*STAR Singapore Official Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Singapore statutory research board governing national scientific R&D",
+          "original_url": "https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/sipga",
+          "discussion_or_secondary_url": "https://www.a-star.edu.sg/student-attachments/international-pregrad-2027"
+        }
+      }
+    },
+    {
+      "id": "opp-aga-khan-foundation-international-scholarship-2027",
+      "topic_slug": "opp-aga-khan-foundation-international-scholarship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Aga Khan Foundation International Scholarship Programme (AKF ISP) 2027–2028: Postgraduate Funding for Developing Nations",
+      "summary_points": [
+        "The Aga Khan Foundation has announced the opening of its annual international scholarship cycle for outstanding students from select developing countries, including Bangladesh, seeking master's and doctoral degrees.",
+        "Funding is provided as a structured 50% grant and 50% low-interest loan package covering full university tuition and living expenses at accredited global universities (US, UK, Europe, Canada).",
+        "Priority is given to candidates pursuing disciplines critical to national development, such as public policy, environmental engineering, health informatics, infrastructure architecture, and data science."
+      ],
+      "why_it_matters": "A highly viable financing mechanism for Bangladeshi graduates who have secured admissions to top global universities but face partial scholarship gaps or high living cost shortfalls in major international academic centers.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2027-03-31",
+        "funding_or_reward": "Full Tuition + Living Costs (50% Grant / 50% Loan)",
+        "eligibility": "Bangladeshi citizens under 30 with confirmed or prospective admissions to premier global postgraduate programs"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Grant-Loan Hybrid",
+            "definition": "A financial aid model where half the disbursed capital is an outright non-repayable award and the remaining half is repaid over a long duration at subsidized interest."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Aga Khan Development Network (AKDN)",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Global development network administering accredited higher-education fellowships across the Global South",
+          "original_url": "https://www.akdn.org/our-agencies/aga-khan-foundation/international-scholarship-programme",
+          "discussion_or_secondary_url": "https://www.akdn.org/bangladesh/education/akf-isp-guidelines-2027"
         }
       }
     }
