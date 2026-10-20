@@ -1,409 +1,401 @@
 {
-  "edition_id": "2026-10-19-AM",
-  "generated_at_utc": "2026-10-19T04:10:27.822Z",
-  "generated_at_bst": "10/19/2026, 10:10:27 AM BST",
+  "edition_id": "2026-10-20-AM",
+  "generated_at_utc": "2026-10-20T05:15:25.509Z",
+  "generated_at_bst": "10/20/2026, 11:15:25 AM BST",
   "edition_shift": "MORNING_0600_BST",
-  "executive_pulse": "Anthropic executes an unprecedented governance pivot ahead of public listing by committing 5% of equity to public interest and granting independent safety auditors unvetted access. Meanwhile, Bangladesh Bank accelerates interbank forex modernization with automated matching systems as domestic tech and industrial regulatory reforms take center stage.",
+  "executive_pulse": "The US federal government has formally blacklisted DeepSeek AI models across executive agencies and defense supply chains amid escalating sovereign tech warfare. Domestically, Bangladesh Bank tightens liquidity surveillance over distressed commercial banks while the National Board of Revenue mandates digital e-Return filing across the formal private workforce.",
   "stats": {
     "total_items": 10,
     "news_count": 7,
     "opportunities_count": 3,
-    "sources_scanned": 121
+    "sources_scanned": 120
   },
   "items": [
     {
-      "id": "anthropic-5pct-equity-independent-auditing-pivot",
-      "topic_slug": "anthropic-public-benefit-fund-independent-governance",
+      "id": "us-deepseek-ai-federal-procurement-ban-2026",
+      "topic_slug": "us-deepseek-ai-federal-procurement-ban",
       "type": "NEWS",
       "category": "TECH_ENGINEERING",
       "importance_tier": "CRITICAL_DEEP_DIVE",
-      "headline": "Anthropic Pledges 5% Equity to Public Benefit Trust and Grants External Watchdogs Unrestricted Technical Access",
+      "headline": "US Government Imposes Total Federal Ban on China's DeepSeek AI Over Security and Telemetry Vulnerabilities",
       "summary_points": [
-        "Anthropic has formally allocated a 5% equity tranche—valued in the billions ahead of its anticipated IPO—into an autonomous Public Benefit Trust mandated to fund safety engineering, open science, and direct civic dividends.",
-        "Simultaneously, the frontier lab granted the UK and US AI Safety Institutes and external independent auditing consortia direct, 'employee-like' red-teaming access to its unreleased foundation models with zero pre-publication censorship rights.",
-        "The dual move establishes a new structural paradigm for commercial frontier AI labs, attempting to resolve the long-standing corporate governance tension between venture-scale returns and existential alignment guarantees."
+        "The US Federal Acquisition Regulatory Council has prohibited all federal agencies and prime contractors from deploying models developed by Chinese AI lab DeepSeek on government systems.",
+        "The directive cites intelligence assessments alleging sovereign Chinese data interception risks, proprietary weights telemetry leakage, and automated supply chain vulnerabilities in defense code generation.",
+        "The move escalates the decoupling of foundational AI model infrastructure, creating bifurcated international regulatory standards for open-weights vs. proprietary sovereign models."
       ],
-      "why_it_matters": "For software engineers and AI practitioners in Bangladesh, Anthropic's move signals that model auditability and safety telemetry are becoming mandatory institutional disciplines rather than academic afterthoughts. Knowing how to interface with formal interpretability benchmarks and red-teaming harnesses will distinguish elite system architects from standard prompt engineers in the global market.",
-      "deep_dive_analysis": "The decision by Anthropic to lock 5% of its total equity capitalization into a dedicated Public Benefit Trust represents an unprecedented corporate structural intervention in Silicon Valley. Historically, frontier technology companies approaching public markets dilute public-interest covenants to satisfy institutional underwriters and maximize pre-IPO valuations. Anthropic's Long-Term Benefit Trust model, however, legally decouples fiduciary duties to shareholders from core safety mandates. By assigning five percent of commercial equity directly to non-profit stewardship, the company creates a permanent, self-funding balance sheet dedicated exclusively to existential risk mitigation, automated mechanistic interpretability research, and direct compute grants for the developing world.\n\nTechnically, the granting of unconstrained, 'employee-like' access to independent external watchdogs solves a critical systemic bottleneck: the information asymmetry between commercial model developers and external safety evaluators. Historically, independent researchers could only interrogate models via sandboxed, rate-limited APIs with safety filters already applied, obscuring latent capabilities, base model vulnerabilities, and automated evasion vectors. Unfettered internal access permits real-time gradient inspection, activation vector steering evaluation, and raw token distribution analysis without corporate approval bottlenecks.\n\nFor emerging economies like Bangladesh, this governance shift accelerates the open dissemination of frontier safety evaluations. By removing corporate veto power over external audit findings, third-party labs worldwide gain verified ground-truth data on frontier model capabilities, jailbreak persistence, and autonomous cyber-offensive tendencies. As enterprise workloads transition to high-agency Claude tool-use workflows, Bangladeshi software exporters and engineering teams can design deployment architectures against empirically verified risk profiles rather than vendor marketing collateral.",
+      "why_it_matters": "For software engineers and tech builders in Bangladesh, DeepSeek's open-weights models have been the premier low-cost alternative for local hosting and commercial API wrappers. A US federal supply chain ban forces global IT services exporters in Dhaka and Chittagong to maintain dual-stack architectures—strictly separating Western client workloads from lower-cost Chinese foundational models to retain enterprise compliance.",
+      "deep_dive_analysis": "The US federal procurement ban on DeepSeek marks a decisive inflection point in the geopolitical weaponization of artificial intelligence foundational layers. By invoking national security directives under federal acquisition regulations, Washington is treating advanced Chinese generative models not merely as software products, but as dual-use kinetic assets capable of intelligence collection, automated exploitation discovery, and code poisoning within mission-critical infrastructure.\n\nTechnically, DeepSeek had achieved international renown by demonstrating that competitive mixture-of-experts (MoE) architectures and highly efficient reinforcement learning pipelines could be delivered at a fraction of the training capital expended by American frontier labs like OpenAI and Anthropic. However, intelligence audits flagged deep structural concerns: real-time telemetry packets routed through Chinese domestic hosting endpoints during inference, opaque dataset alignment vectors, and the inherent risk of backdoor vulnerabilities injected into code-generation outputs utilized by defense sub-tier suppliers.\n\nThis embargo will accelerate the splintering of the global open-source AI ecosystem into strictly vetted ideological silos. Enterprise clients operating across North American and European jurisdictions will mandate full software bill of materials (SBOM) provenance guarantees, disqualifying contractors whose continuous integration pipelines utilize unverified Chinese base checkpoints. For emerging market developers, this creates high-stakes compliance frictions between accessible open-weights economics and lucrative Western software outsourcing contracts.",
       "opportunity_meta": {
         "is_opportunity": false,
         "deadline": null,
-        "funding_or_reward": "N/A",
-        "eligibility": "N/A"
+        "funding_or_reward": null,
+        "eligibility": null
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Public Benefit Trust",
-            "definition": "A legal structure where corporate assets or equity are bound to pursue social, ecological, or public-good outcomes alongside commercial operations."
+            "term": "Mixture-of-Experts (MoE)",
+            "definition": "An AI architecture that activates only a specific subset of specialized neural network parameters per token, drastically lowering computational cost while maintaining high model performance."
           },
           {
-            "term": "Mechanistic Interpretability",
-            "definition": "Reverse-engineering the weights, activations, and internal neural circuits of large language models to understand precisely why and how they produce specific outputs."
-          },
-          {
-            "term": "Activation Steering",
-            "definition": "A technique that modifies an AI model's internal activation vectors at inference time to systematically control its behavior or prevent unsafe responses."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "Ars Technica",
-          "source_type": "NICHE_CREDIBLE",
-          "credibility_note": "Rigorous technical journalism tracking AI system safety, regulatory policies, and semiconductor architecture",
-          "original_url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-          "discussion_or_secondary_url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko"
-        }
-      }
-    },
-    {
-      "id": "china-ai-hardware-export-surge-macro-divergence",
-      "topic_slug": "china-ai-hardware-export-surge-macro-divergence",
-      "type": "NEWS",
-      "category": "ECONOMY_FINANCE",
-      "importance_tier": "STANDARD_BRIEF",
-      "headline": "China AI Hardware and Clean Energy Exports Surge, Countering Domestic Property Headwinds",
-      "summary_points": [
-        "China's customs data reveals double-digit export acceleration led by power electronics, edge computing hardware, and photovoltaic infrastructure, outstripping domestic retail sluggishness.",
-        "International Monetary Fund delegates convening in Bangkok warned that China's aggressive manufacturing surplus in industrial automation could trigger another round of tariff retaliation from Western blocs.",
-        "Beijing's export surge has lowered capital costs for intermediate engineering goods across South and Southeast Asia, stabilizing local industrial plant expansion despite global inflation."
-      ],
-      "why_it_matters": "Bangladeshi industrial automation engineers and manufacturing units benefit directly from cheaper Chinese automation PLCs, power inverters, and switchgear, enabling domestic RMG and light-engineering factories to upgrade plant efficiency at significantly reduced capital expenditure.",
-      "deep_dive_analysis": null,
-      "opportunity_meta": {
-        "is_opportunity": false,
-        "deadline": null,
-        "funding_or_reward": "N/A",
-        "eligibility": "N/A"
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "Intermediate Goods",
-            "definition": "Semi-finished products or industrial components used as inputs in the production of finished downstream goods."
-          },
-          {
-            "term": "Current Account Surplus",
-            "definition": "When a country's total value of exported goods and services exceeds the total value of its imports."
+            "term": "Software Bill of Materials (SBOM)",
+            "definition": "A comprehensive list detailing every open-source component, library, and module utilized within a piece of software to verify security provenance and license compliance."
           }
         ],
         "source_verification": {
           "primary_source_name": "BBC Business & Finance",
           "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Primary global macroeconomic desk covering trade balances, central banking, and international manufacturing flows",
-          "original_url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo",
-          "discussion_or_secondary_url": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo"
+          "credibility_note": "Direct reporting cross-verified against US federal acquisition regulatory filings and agency notices.",
+          "original_url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo",
+          "discussion_or_secondary_url": "https://arstechnica.com/information-technology/2026/10/us-bans-deepseek-ai-government-contractors/"
         }
       }
     },
     {
-      "id": "ukraine-drone-saturation-strike-baltic-energy",
-      "topic_slug": "ukraine-deep-drone-swarm-russian-energy-baltic",
-      "type": "NEWS",
-      "category": "GEOPOLITICS",
-      "importance_tier": "STANDARD_BRIEF",
-      "headline": "Ukraine Deploys Massive 1,000-Drone Swarm Against Russian Energy Infrastructure Near St. Petersburg",
-      "summary_points": [
-        "Ukrainian forces conducted one of the largest coordinated long-range unmanned aerial strikes of the conflict, deploying over 1,000 low-cost strike drones against critical oil refineries and maritime export terminals near St. Petersburg.",
-        "The operation disrupted primary export logistics along the Baltic seaboard, demonstrating deep strategic reach despite ongoing diplomatic pressure from Washington regarding sanction suspensions.",
-        "The strike highlights the evolving doctrine of massed, distributed kinetic attrition, overwhelming legacy surface-to-air missile belts via sheer volumetric target saturation."
-      ],
-      "why_it_matters": "Disruptions to Russian seaborne petroleum exports tighten global maritime freight insurance and refined distillate spreads, which directly feeds into higher import costs for Bangladesh's state petroleum procurement agency (BPC).",
-      "deep_dive_analysis": null,
-      "opportunity_meta": {
-        "is_opportunity": false,
-        "deadline": null,
-        "funding_or_reward": "N/A",
-        "eligibility": "N/A"
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "Saturation Attack",
-            "definition": "A military tactic that fires more offensive missiles or drones than a defender's tracking radar and interceptors can physically engage simultaneously."
-          },
-          {
-            "term": "Crude Distillate Spread",
-            "definition": "The difference between the market price of crude oil and the refined petroleum products (diesel, kerosene, gasoline) produced from it."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "Al Jazeera English",
-          "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Verified field-reported international defense and geopolitical conflict wire",
-          "original_url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites",
-          "discussion_or_secondary_url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo"
-        }
-      }
-    },
-    {
-      "id": "jaxa-mmx-phobos-sample-return-launch-prep",
-      "topic_slug": "jaxa-mmx-phobos-sample-return-launch-prep",
-      "type": "NEWS",
-      "category": "TECH_ENGINEERING",
-      "importance_tier": "STANDARD_BRIEF",
-      "headline": "JAXA's MMX Mars Moon Exploration Clears Integration Testing for Historic Phobos Sample Return",
-      "summary_points": [
-        "Japan Aerospace Exploration Agency (JAXA), in collaboration with CNES, DLR, and NASA, has finalized flight integration for the Martian Moons eXploration (MMX) spacecraft targeting Phobos and Deimos.",
-        "The mission features a micro-rover weighing only 15 grams alongside a sophisticated robotic core-sampling drill designed to gather pristine regolith containing ancient ejecta from the Martian surface.",
-        "MMX is engineered to complete a full round-trip trajectory, performing orbital insertion around Mars, landing on Phobos, and delivering surface samples back to Earth by late decade."
-      ],
-      "why_it_matters": "For aerospace, mechanical, and robotics students at MIST, MMX showcases state-of-the-art miniaturization, ultra-low-gravity mobility systems, and high-precision autonomous navigation without relying on real-time Earth telemetry.",
-      "deep_dive_analysis": null,
-      "opportunity_meta": {
-        "is_opportunity": false,
-        "deadline": null,
-        "funding_or_reward": "N/A",
-        "eligibility": "N/A"
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "Regolith",
-            "definition": "A layer of loose, heterogeneous superficial deposits covering solid bedrock on planetary bodies, moons, or asteroids."
-          },
-          {
-            "term": "Microgravity Locomotion",
-            "definition": "Mobility mechanisms engineered to traverse surfaces where gravitational pull is near-zero without bouncing uncontrollably into space."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "Space.com / JAXA Aerospace Wire",
-          "source_type": "NICHE_CREDIBLE",
-          "credibility_note": "Premier aerospace and deep-space planetary exploration technical journalism",
-          "original_url": "https://www.space.com/science-astronomy/mars/inside-the-science-of-japans-bold-mmx-mission-to-mars",
-          "discussion_or_secondary_url": "https://phys.org/news/2026-10-japan-historic-round-trip-mission.html"
-        }
-      }
-    },
-    {
-      "id": "bangladesh-bank-interbank-fx-electronic-matching-platform",
-      "topic_slug": "bangladesh-bank-interbank-fx-electronic-matching-platform",
+      "id": "bb-islamic-banking-liquidity-stress-test-mandate-2026",
+      "topic_slug": "bangladesh-bank-islamic-banking-stress-tests-governance",
       "type": "NEWS",
       "category": "ECONOMY_FINANCE",
-      "importance_tier": "STANDARD_BRIEF",
-      "headline": "Bangladesh Bank Mandates Real-Time Centralized FX Order-Book to Eliminate Discretionary Dollar Spreads",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Bangladesh Bank Imposes Stringent Capital Stress Tests and Forensic Asset Audits Across Restructured Shariah Banks",
       "summary_points": [
-        "Bangladesh Bank has issued a regulatory circular requiring all Authorized Dealer (AD) scheduled commercial banks to route spot and forward foreign exchange transactions through an automated interbank electronic matching platform.",
-        "The mandate eliminates bilateral opaque OTC (over-the-counter) phone pricing, forcing transparent matching between import letters of credit (LCs) and export-remittance inflows within a defined market-driven band.",
-        "The central bank noted that gross official reserves held above $20.4 billion (BPM6 standard), with the real-time matching engine designed to starve the parallel Hundi market of institutional dollar leakage."
+        "Bangladesh Bank has ordered rigorous forensic audits and bi-weekly liquidity stress tests across all five recently reconstructed Shariah-compliant commercial lenders.",
+        "The central bank has halted discretionary lending ceilings and frozen arbitrary reclassifications of delinquent corporate debt to ensure authentic non-performing loan (NPL) reporting.",
+        "The regulator affirmed that targeted emergency repo windows will remain strictly pegged to verifiable balance-sheet recapitalization milestones."
       ],
-      "why_it_matters": "A transparent, electronically cleared interbank dollar exchange directly reduces arbitrary premiums charged by banks for student remittances, tuition payments abroad, and freelance inward remittances, protecting household purchasing power in Bangladesh.",
-      "deep_dive_analysis": null,
+      "why_it_matters": "Every young professional and household in Bangladesh depends on the solvency of the domestic banking apparatus. With Shariah-compliant institutions holding over 20% of private sector deposits, genuine balance sheet transparency eliminates predatory loan masking, directly protecting your savings, stabilizing the taka, and preventing banking sector insolvency from cascading into hyper-inflationary currency printing.",
+      "deep_dive_analysis": "The central bank's forceful intervention represents a decisive break from decades of systemic regulatory forbearance that permitted politically connected conglomerates to hollow out Islamic private commercial banks. By instituting mandatory forensic audits through independent accounting panels, Bangladesh Bank is systematically stripping away off-balance-sheet guarantees, fictitious collateral appraisals, and related-party circular lending mechanisms that previously obscured massive capital deficiencies.\n\nThe technical core of this directive targets liquidity mismatch vulnerabilities. For months, several restructured Shariah lenders operated on structural overdrafts through special liquidity support windows, relying on ad-hoc central bank accommodations to honor daily clearinghouse settlements. The new regime institutes quantitative liquidity coverage ratios (LCR) and net stable funding ratios (NSFR) calculated under stressed market conditions, demanding immediate asset sales and aggressive recovery actions on defaulted industrial accounts.\n\nIn the medium term, this forensic sanitization will compress aggregate credit growth across Bangladesh's private sector as banks absorb severe provisioning hits and rebuild statutory capital adequacy. However, this painful contraction is an essential prerequisite for economic stabilization: it curbs speculative real estate expansion, directs remaining institutional liquidity into productive export manufacturing, and re-establishes international correspondent banking faith necessary for trade financing.",
       "opportunity_meta": {
         "is_opportunity": false,
         "deadline": null,
-        "funding_or_reward": "N/A",
-        "eligibility": "N/A"
+        "funding_or_reward": null,
+        "eligibility": null
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Central Order-Book",
-            "definition": "An electronic exchange mechanism where buy and sell orders are automatically ranked and matched by price and time without private backroom negotiation."
+            "term": "Liquidity Coverage Ratio (LCR)",
+            "definition": "The proportion of highly liquid assets held by a financial institution to ensure its ongoing ability to meet short-term debt obligations during a 30-day liquidity stress period."
           },
           {
-            "term": "BPM6 Standard",
-            "definition": "The IMF Balance of Payments Manual (6th edition), which calculates strictly net, unencumbered liquid foreign currency reserves."
+            "term": "Forensic Asset Audit",
+            "definition": "An investigative accounting inspection designed to identify fraudulent lending, unrecorded liabilities, and true ownership of distressed credit lines."
           }
         ],
         "source_verification": {
           "primary_source_name": "The Business Standard (TBS)",
           "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Authoritative domestic financial desk verifying central bank regulatory gazettes and forex circulars",
-          "original_url": "https://www.tbsnews.net/economy/banking/bangladesh-bank-fx-orderbook-matching-mandate",
-          "discussion_or_secondary_url": "https://www.bb.org.bd/mediaroom/circulars/fepd"
+          "credibility_note": "Verified regulatory policy reporting corroborated by Bangladesh Bank Department of Banking Inspection directives.",
+          "original_url": "https://www.tbsnews.net/economy/banking/central-bank-mandates-forensic-audits-shariah-lenders-2026",
+          "discussion_or_secondary_url": "https://www.bb.org.bd/en/index.php/mediaroom/pressrelease"
         }
       }
     },
     {
-      "id": "btrc-iig-mandatory-domestic-ix-caching-mandate",
-      "topic_slug": "btrc-iig-mandatory-domestic-ix-caching-mandate",
+      "id": "kosmos-2612-iceye-leo-space-intercept-maneuver",
+      "topic_slug": "russian-satellite-kosmos-2612-iceye-space-maneuver",
       "type": "NEWS",
       "category": "TECH_ENGINEERING",
       "importance_tier": "STANDARD_BRIEF",
-      "headline": "BTRC Directs Nationwide ISP and IIG Infrastructure to Route 100% Domestic Data via Local BDIX Nodes",
+      "headline": "Russian Inspector Satellite Executes Extreme Proximity Maneuver Against Commercial SAR Satellite ICEYE-X36",
       "summary_points": [
-        "The Bangladesh Telecommunication Regulatory Commission (BTRC) has issued strict compliance orders to all International Internet Gateways (IIGs) and nationwide ISPs to prevent domestic IP traffic from trombone-routing through overseas transit nodes.",
-        "Under the directive, all localized educational, financial, and governmental digital service endpoints must interconnect directly via Bangladesh Internet Exchange (BDIX) peering fabrics.",
-        "The measure is aimed at insulating sovereign connectivity against international submarine cable cuts (SMW4/SMW5 maintenance) while driving down round-trip transit latency below 15ms inside the country."
+        "Astrodynamics tracking data confirms Russian military spacecraft Kosmos 2612 closed to within hundreds of meters of ICEYE-X36 in Low Earth Orbit (LEO).",
+        "ICEYE-X36 provides high-resolution Synthetic Aperture Radar (SAR) imagery utilized by Ukrainian defense forces for all-weather, day-night battlefield reconnaissance.",
+        "The encounter signals an escalation in grey-zone orbital counter-space operations designed to intimidate and inspect dual-use commercial space constellations."
       ],
-      "why_it_matters": "Domestic engineers and developers building latency-critical APIs, fintech applications, or university services will experience faster domestic data speeds and continuous uptime even during international cable outages.",
+      "why_it_matters": "Modern telecommunications, disaster monitoring in the Bay of Bengal, and geopolitical security rely directly on unhindered LEO satellite constellations. Hostile close-proximity maneuvers risk orbital collisions, kinetic debris cascades (Kessler syndrome), and disruptions to the commercial radar imaging feeds that power global precision agriculture, navigation, and maritime surveillance.",
       "deep_dive_analysis": null,
       "opportunity_meta": {
         "is_opportunity": false,
         "deadline": null,
-        "funding_or_reward": "N/A",
-        "eligibility": "N/A"
+        "funding_or_reward": null,
+        "eligibility": null
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Trombone Routing",
-            "definition": "The inefficient routing of data traffic where local packets travel to an overseas foreign server and back just to reach a nearby local destination."
+            "term": "Synthetic Aperture Radar (SAR)",
+            "definition": "A radar imaging technique that creates high-resolution two-dimensional images unaffected by cloud cover, rain, or night conditions by exploiting satellite orbital motion."
           },
           {
-            "term": "BDIX (Bangladesh Internet Exchange)",
-            "definition": "The country's national carrier-neutral exchange point allowing local internet service providers to peer and exchange traffic domestically without international transit costs."
+            "term": "Co-orbital Rendezvous",
+            "definition": "A space orbital maneuver where one satellite deliberately adjusts its trajectory and altitude to match and closely shadow another orbiting spacecraft."
           }
         ],
         "source_verification": {
-          "primary_source_name": "BTRC Policy Directives Wire",
-          "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Official telecommunications infrastructure regulatory notices in Bangladesh",
-          "original_url": "https://www.btrc.gov.bd/site/notices/bdix-domestic-routing-compliance-circular",
-          "discussion_or_secondary_url": "https://www.tbsnews.net/bangladesh/telecom/btrc-orders-strict-local-caching"
+          "primary_source_name": "Ars Technica",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Specialized aerospace engineering coverage utilizing public US Space Command and commercial orbital tracking data.",
+          "original_url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+          "discussion_or_secondary_url": "https://swfound.org/counterspace-capabilities-report-2026"
         }
       }
     },
     {
-      "id": "nbr-ait-rationalization-industrial-capital-machinery",
-      "topic_slug": "nbr-ait-rationalization-industrial-capital-machinery",
+      "id": "nbr-mandatory-digital-ereturn-rollout-november-2026",
+      "topic_slug": "nbr-mandatory-digital-ereturn-rollout-private-sector",
       "type": "NEWS",
       "category": "ECONOMY_FINANCE",
       "importance_tier": "STANDARD_BRIEF",
-      "headline": "NBR Slashes Advance Income Tax on Advanced Manufacturing Machinery to Spur Domestic CapEx",
+      "headline": "NBR Expands Mandatory Digital e-Return System to All Formal Private Sector Employees Ahead of Tax Filing Deadline",
       "summary_points": [
-        "The National Board of Revenue (NBR) has published a gazette slashing the Advance Income Tax (AIT) levied on imports of precision CNC equipment, automated assembly robotics, and cleanroom hardware from 5% to a flat 1%.",
-        "The fiscal concession requires importers to maintain digital e-TIN and e-VAT compliance while certifying that the equipment is designated for high-tech domestic manufacturing rather than re-export.",
-        "The reform directly addresses prolonged complaints from engineering hardware manufacturers and automotive component fabricators who faced severe working capital lockups at customs ports."
+        "The National Board of Revenue (NBR) has gazetted a circular making the digital e-Return portal (etaxnbr.gov.bd) mandatory for all private sector salaried individuals and corporate employees.",
+        "Manual paper returns will no longer be accepted for individual taxpayers registered within city corporation zones, with automatic cross-verification linked to national identification (NID) and bank TIN registries.",
+        "Failure to submit electronic tax returns prior to the November 30 statutory deadline triggers automatic monthly penalty surcharges and disqualification from key banking and public service clearances."
       ],
-      "why_it_matters": "Lowers entry barriers for hardware startups, industrial engineering ventures, and fabrication labs in Bangladesh, making it significantly less expensive to import professional-grade machine tools and manufacturing apparatus.",
+      "why_it_matters": "For any graduating engineer or working adult in Bangladesh, an electronic Tax Return Acknowledgement Receipt is now non-negotiable for renewing passports, opening enterprise bank accounts, obtaining credit cards, or purchasing real estate. Mastering the e-Return platform prevents bureaucratic extortion and ensures your personal fiscal profile is fully compliant.",
       "deep_dive_analysis": null,
       "opportunity_meta": {
         "is_opportunity": false,
         "deadline": null,
-        "funding_or_reward": "N/A",
-        "eligibility": "N/A"
+        "funding_or_reward": null,
+        "eligibility": null
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Advance Income Tax (AIT)",
-            "definition": "A withholding tax collected upfront by customs at the point of import, credited against the business's final yearly income tax return."
+            "term": "e-Return Portal",
+            "definition": "The government's centralized digital infrastructure for automated income assessment, tax computation, online payment, and electronic tax certificate generation."
           },
           {
-            "term": "CapEx (Capital Expenditure)",
-            "definition": "Funds used by a business or industrial enterprise to acquire, upgrade, and maintain physical assets such as machinery and manufacturing plants."
+            "term": "Tax Deduction at Source (TDS)",
+            "definition": "The statutory advance income tax withheld by employers or financial institutions directly from payroll or interest disbursements before crediting the net amount."
           }
         ],
         "source_verification": {
-          "primary_source_name": "NBR Official Gazette Wire",
+          "primary_source_name": "The Business Standard (TBS)",
           "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Statutory regulatory orders (SRO) published by Bangladesh National Board of Revenue",
-          "original_url": "https://nbr.gov.bd/regulations/sro-customs-ait-machinery-reduction",
-          "discussion_or_secondary_url": "https://www.tbsnews.net/economy/customs/nbr-cuts-ait-capital-machinery-imports"
+          "credibility_note": "Direct review of National Board of Revenue (NBR) statutory regulatory order (SRO) gazette.",
+          "original_url": "https://www.tbsnews.net/economy/nbr/e-return-mandatory-private-sector-employees-2026",
+          "discussion_or_secondary_url": "https://etaxnbr.gov.bd/"
         }
       }
     },
     {
-      "id": "opp-eth-zurich-ssrf-summer-fellowship-2027",
-      "topic_slug": "opp-eth-zurich-ssrf-summer-fellowship-2027",
+      "id": "bpdb-petrobangla-winter-gas-power-allocation-rationing",
+      "topic_slug": "bpdb-petrobangla-winter-gas-allocation-industry",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Petrobangla and BPDB Finalize Winter Gas-to-Power Allocation Plan to Curb High-Cost Spot LNG Imports",
+      "summary_points": [
+        "Petrobangla has recalibrated national natural gas dispatch priorities for the upcoming winter quarter, capping power generation supply at 850 MMCFD to prioritize industrial captive generators and fertilizer plants.",
+        "Bangladesh Power Development Board (BPDB) will throttle inefficient gas-turbine peaking plants and maximize coal-fired baseload dispatch from Rampal and Matarbari to manage national electricity demand.",
+        "The strategy aims to conserve scarce US foreign exchange reserves by avoiding volatile winter spot-market Liquefied Natural Gas (LNG) cargoes from the European-driven global spot trade."
+      ],
+      "why_it_matters": "Energy dispatch choices dictate both power stability and factory operation across Gazipur, Narayanganj, and Chattogram. For engineering professionals, this pivot stabilizes industrial manufacturing during seasonal off-peak months and shields the national treasury from bleeding foreign exchange reserves on hyper-inflated winter spot energy shipments.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "MMCFD",
+            "definition": "Million Metric Standard Cubic Feet per Day; the standard volumetric metric used to measure natural gas production and flow rates."
+          },
+          {
+            "term": "Spot LNG",
+            "definition": "Liquefied Natural Gas purchased on open commodity exchanges for immediate short-term delivery, subject to extreme price volatility compared to long-term bilateral contracts."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Business Standard (TBS)",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Verified energy sector reporting based on joint Petrobangla-BPDB operational review committee data.",
+          "original_url": "https://www.tbsnews.net/bangladesh/energy/petrobangla-finalizes-winter-gas-rationing-power-plants-2026",
+          "discussion_or_secondary_url": "https://petrobangla.org.bd/"
+        }
+      }
+    },
+    {
+      "id": "openai-spy-court-filing-saudi-sovereign-ties",
+      "topic_slug": "openai-insider-threat-espionage-saudi-filing",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "US Federal Court Unseals Espionage Indictment Against Ex-OpenAI Engineer Highlighting Sovereign AI Espionage",
+      "summary_points": [
+        "Unsealed US Department of Justice court documents allege a former OpenAI systems engineer exfiltrated sensitive proprietary model optimization weights under foreign sovereign sponsorship.",
+        "FBI forensic analysis uncovered dedicated encrypted directories designated as 'Saudi Gov Docs' containing internal cluster infrastructure specifications and algorithmic hardware topologies.",
+        "The case prompts Silicon Valley frontier labs to implement hyper-restrictive zero-trust enclave restrictions, endpoint forensic telemetry, and national-origin clearances for infrastructure engineers."
+      ],
+      "why_it_matters": "Frontier AI codebases are the new geopolitical uranium. For computer science and software engineering students targeting international research roles, access to high-compute clusters will face unprecedented zero-trust compartmentalization, severe counter-intelligence background checks, and stringent legal accountability.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Zero-Trust Architecture",
+            "definition": "A cybersecurity operational framework requiring continuous, strict identity verification and least-privilege access controls for every user and device inside or outside the network."
+          },
+          {
+            "term": "Exfiltration",
+            "definition": "The unauthorized, illegal copying, transfer, or retrieval of sensitive proprietary data from an organization's internal infrastructure."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Rigorous legal and technical reporting drawn directly from US District Court charging filings.",
+          "original_url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+          "discussion_or_secondary_url": "https://www.justice.gov/opa/pr"
+        }
+      }
+    },
+    {
+      "id": "subsea-hydrothermal-geothermal-energy-proof-point",
+      "topic_slug": "subsea-geothermal-volcano-energy-proof-point",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "QUICK_SIGNAL",
+      "headline": "Deep-Tech Startup Validates Closed-Loop Supercritical Geothermal Tapping of Submarine Volcanic Systems",
+      "summary_points": [
+        "A deep-tech engineering consortium has completed initial offshore field trials extracting power from a shallow underwater volcano along the Pacific Rim using corrosion-resistant closed-loop heat exchangers.",
+        "The thermodynamic proof-of-concept converts 400°C supercritical subsea hydrothermal fluid temperatures into continuous clean baseload electricity without drilling into deep terrestrial crust.",
+        "If scaled, the technology offers island nations and littoral developing economies an infinite, zero-carbon alternative to expensive fossil fuel importation."
+      ],
+      "why_it_matters": "Bangladesh sits on a vast deltaic shelf with heavy maritime energy requirements and land constraints. Understanding offshore closed-loop geothermal innovations expands the technological horizon for engineering graduates considering marine, mechanical, and thermodynamics careers.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Supercritical Fluid",
+            "definition": "A thermodynamic state of a substance at temperatures and pressures above its critical point, where distinct liquid and gas phases do not exist, allowing ultra-efficient heat transfer."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Engineering and thermodynamics analysis covering clean energy field demonstrations.",
+          "original_url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+          "discussion_or_secondary_url": "https://www.nature.com/articles/s41560-energy-subsea-geothermal"
+        }
+      }
+    },
+    {
+      "id": "opp-daad-wise-research-internship-germany-2027",
+      "topic_slug": "opp-daad-wise-undergraduate-research-internship-germany-2027",
       "type": "OPPORTUNITY",
       "category": "OPPORTUNITIES",
       "importance_tier": "CRITICAL_DEEP_DIVE",
-      "headline": "ETH Zurich Student Summer Research Fellowship (SSRF) 2027: Fully Funded CS & Systems Internship in Switzerland",
+      "headline": "DAAD WISE Fellowship 2027: Fully Funded Summer Research Internships in Germany for Undergraduate Engineers & Scientists",
       "summary_points": [
-        "ETH Zurich's Department of Computer Science is inviting global undergraduate and master's students to apply for its premier fully funded two-month summer research fellowship for 2027.",
-        "Selected fellows receive round-trip international airfare, dedicated visa facilitation, housing accommodations in Zurich, and a monthly stipend of CHF 1,750 (~BDT 2.45 lakh) to cover living costs.",
-        "Fellows work directly inside ETH Zurich research laboratories across systems engineering, cryptography, machine learning, robotics, and theoretical computer science."
+        "The German Academic Exchange Service (DAAD) has opened calls for the 2027 Working Internships in Science and Engineering (WISE) program.",
+        "Provides 2 to 3-month fully funded placements at public German universities, Max Planck Institutes, Helmholtz Centers, and Fraunhofer research laboratories.",
+        "Includes a monthly stipend of €934, comprehensive health/accident insurance, and a fixed international travel subsidy covering round-trip flights from Bangladesh."
       ],
-      "why_it_matters": "A direct gateway for MIST and Bangladeshi engineering undergraduates to gain tier-1 European laboratory publication credentials, secure top-tier global letters of recommendation, and fast-track direct PhD admissions at institutions like ETH Zurich, EPFL, and Max Planck.",
-      "deep_dive_analysis": "The ETH Zurich Student Summer Research Fellowship (SSRF) represents one of the most prestigious and competitive fully funded research internships in the world for computer science, electrical, and systems engineering students. Unlike standard industry internships that prioritize routine software development cycles, ETH SSRF embeds students into core academic research teams working at the international frontier. Fellows spend July and August at ETH's Zurich campus, embedded in specialized research clusters covering topics such as hardware-software co-design, distributed systems, formal verification, neuromorphic computing, and foundational AI safety.\n\nFrom a financial and logistical standpoint, the fellowship completely eliminates the cost barrier that typically prevents Bangladeshi undergraduate researchers from accessing Swiss research infrastructure. The program awards a monthly stipend of CHF 1,750, provides comprehensive housing in student residences throughout Zurich, covers all international return flight costs, and issues formal support letters for Swiss Schengen visa processing. For an engineering student in Dhaka, this translates to zero out-of-pocket expenditure for an elite two-month European research tenure.\n\nStrategic Application Playbook: Admission to SSRF is fiercely merit-based, evaluating applicants on academic rigor, demonstrable coding competence, and research alignment. Bangladeshi applicants should prepare a tightly scoped Statement of Purpose (max 2 pages) identifying 2-3 specific ETH laboratory faculty members whose recent papers they have thoroughly analyzed. Emphasize prior project work—such as MIST thesis modules, open-source systems contributions, or published conference posters—that demonstrates you do not need basic training and can contribute code, run simulations, or analyze datasets from Day 1. Ensure your university transcript clearly documents advanced coursework in algorithms, operating systems, and mathematics.",
+      "why_it_matters": "DAAD WISE is the gold standard gateway for undergraduate students at institutions like MIST, BUET, and DU to execute high-impact research in Germany. A completed DAAD internship provides elite European research lineage, direct letters of recommendation from German professors, and effectively guarantees future funding for Erasmus Mundus or German Master's/PhD programs.",
+      "deep_dive_analysis": "The DAAD Working Internships in Science and Engineering (WISE) fellowship is one of the highest-leverage undergraduate research credentials globally, offering Bangladeshi STEM students an institutional springboard directly into Germany's world-leading scientific ecosystem. Unlike generic software or corporate internships, WISE embeds students within elite academic labs, including TU Munich, RWTH Aachen, Karlsruhe Institute of Technology (KIT), and prestigious Max Planck Institutes.\n\nThe application mechanism demands proactive strategic positioning. Eligible candidates must be in their 5th or 6th semester (3rd year) of a 4-year undergraduate degree in engineering, natural sciences, or mathematics, maintaining an aggregate CGPA of 8.5/10 (or minimum 85% / equivalent ~3.75+ out of 4.0). Most critically, applicants must independently secure an official 'Letter of Acceptance' (Form 6) from a German host professor before submitting their dossier to DAAD.\n\nTo maximize selection probability, engineering candidates should systematically audit departmental faculty directories at top German universities, identifying principal investigators whose recent literature aligns with their undergraduate thesis or design projects. When contacting prospective hosts via email, include a concise research proposal abstract, a clean GitHub or research portfolio link, and a CV demonstrating specialized laboratory, simulation, or hardware competence. Securing this placement transforms an undergraduate career, providing fully funded European research exposure without personal financial outlay.",
       "opportunity_meta": {
         "is_opportunity": true,
-        "deadline": "2026-12-15",
-        "funding_or_reward": "Fully Funded (CHF 1,750/mo + Housing + Flight)",
-        "eligibility": "Undergraduate (year 2+) & Master's students in CS, EE, Math, or related STEM fields"
+        "deadline": "2026-11-01",
+        "funding_or_reward": "Fully Funded (€934/month + Travel Subsidy + Insurance)",
+        "eligibility": "Undergraduate STEM students (3rd year / 5th-6th semester) enrolled in recognized universities with strong academic standing"
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Formal Verification",
-            "definition": "Using mathematical proofs to prove the absolute correctness of hardware, software, or cryptographic protocols relative to a formal specification."
+            "term": "Host Acceptance Letter",
+            "definition": "A formal commitment document signed by a German university professor confirming their willingness to provide laboratory bench space and scientific supervision."
           },
           {
-            "term": "Hardware-Software Co-Design",
-            "definition": "Concurrently engineering both the computer hardware architecture and the software stack to maximize efficiency and computational performance."
+            "term": "DAAD",
+            "definition": "Deutscher Akademischer Austauschdienst; the central statutory organization in Germany promoting international academic relations and scientific exchanges."
           }
         ],
         "source_verification": {
-          "primary_source_name": "ETH Zurich Department of Computer Science",
+          "primary_source_name": "DAAD Official Scholarship Portal",
           "source_type": "OPPORTUNITY_PORTAL",
-          "credibility_note": "Official institutional portal of ETH Zurich Department of Computer Science",
-          "original_url": "https://inf.ethz.ch/studies/summer-research-fellowship.html",
-          "discussion_or_secondary_url": "https://inf.ethz.ch/news-and-events/spotlights/ssrf-application-cycle-2027.html"
+          "credibility_note": "Official federal German academic scholarship registry and portal guidelines.",
+          "original_url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-scholarships/",
+          "discussion_or_secondary_url": "https://www.daad-bangladesh.org/en/"
         }
       }
     },
     {
-      "id": "opp-singapore-astar-sipga-research-internship-2027",
-      "topic_slug": "opp-singapore-astar-sipga-research-internship-2027",
+      "id": "opp-knight-hennessy-scholars-stanford-fellowship-2027",
+      "topic_slug": "opp-knight-hennessy-scholars-stanford-2027",
       "type": "OPPORTUNITY",
       "category": "OPPORTUNITIES",
       "importance_tier": "STANDARD_BRIEF",
-      "headline": "Singapore A*STAR International Pre-Graduate Award (SIPGA) 2027: Fully Funded STEM Laboratory Attachments",
+      "headline": "Knight-Hennessy Scholars Program 2027: Fully Funded Multidisciplinary Graduate Leadership Fellowship at Stanford University",
       "summary_points": [
-        "The Agency for Science, Technology and Research (A*STAR) Singapore is accepting applications for the SIPGA award, offering 2 to 6-month research attachments for international undergraduates.",
-        "Recipients receive a monthly stipend of SGD 2,000 (~BDT 1.8 lakh) to cover lodging and living expenses across Singapore, working in world-class A*STAR research institutes.",
-        "Research tracks span biomedical engineering, materials science, microelectronics, semiconductor fabrication, and high-performance computing."
+        "Stanford University is accepting applications for the 2027 cohort of Knight-Hennessy Scholars, funding full graduate study across any of Stanford’s seven schools.",
+        "Provides 100% tuition coverage, a generous living and academic stipend, round-trip annual economy airfare, and participation in the King Global Leadership Program.",
+        "Open to graduating undergraduate seniors and recent alumni who earned their bachelor's degree within the last five years, with no citizenship restrictions."
       ],
-      "why_it_matters": "Provides MIST and Bangladeshi science/engineering students with direct laboratory experience in semiconductor fabrication and applied engineering in Asia's foremost high-tech research hub, serving as a springboard for the prestigious SINGA PhD fellowship.",
+      "why_it_matters": "Knight-Hennessy offers a transformative trajectory for ambitious Bangladeshi engineers and leaders aiming to pursue Stanford MS or PhD degrees in Computer Science, Electrical Engineering, Aeronautics, or Bioengineering. It eliminates the crippling cost of US private graduate education while embedding you in Silicon Valley's venture and technological core.",
       "deep_dive_analysis": null,
       "opportunity_meta": {
         "is_opportunity": true,
-        "deadline": "2026-11-30",
-        "funding_or_reward": "SGD 2,000/month stipend",
-        "eligibility": "3rd/4th year undergraduate & master's STEM students with strong academic records"
+        "deadline": "2026-10-28",
+        "funding_or_reward": "Fully Funded (Full Tuition + Living Stipend + Travel Allowances)",
+        "eligibility": "Undergraduate seniors or graduates (degree received after Jan 2021) applying concurrently to a Stanford graduate degree program"
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Semiconductor Fabrication",
-            "definition": "The multi-step process of creating integrated circuits and microchips on semiconductor wafers using photolithography and chemical deposition."
+            "term": "Multidisciplinary Fellowship",
+            "definition": "A scholarship structure that convenes scholars from engineering, law, medicine, business, and humanities into joint leadership and problem-solving cohorts."
           }
         ],
         "source_verification": {
-          "primary_source_name": "A*STAR Singapore Official Portal",
+          "primary_source_name": "Stanford University Knight-Hennessy Portal",
           "source_type": "OPPORTUNITY_PORTAL",
-          "credibility_note": "Singapore statutory research board governing national scientific R&D",
-          "original_url": "https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/sipga",
-          "discussion_or_secondary_url": "https://www.a-star.edu.sg/student-attachments/international-pregrad-2027"
+          "credibility_note": "Direct official portal for Stanford University graduate admissions and scholarship administration.",
+          "original_url": "https://knight-hennessy.stanford.edu/admission/planning-apply",
+          "discussion_or_secondary_url": "https://knight-hennessy.stanford.edu/"
         }
       }
     },
     {
-      "id": "opp-aga-khan-foundation-international-scholarship-2027",
-      "topic_slug": "opp-aga-khan-foundation-international-scholarship-2027",
+      "id": "opp-epfl-summer-research-fellowship-cs-2027",
+      "topic_slug": "opp-epfl-summer-research-fellowship-cs-systems-2027",
       "type": "OPPORTUNITY",
       "category": "OPPORTUNITIES",
       "importance_tier": "STANDARD_BRIEF",
-      "headline": "Aga Khan Foundation International Scholarship Programme (AKF ISP) 2027–2028: Postgraduate Funding for Developing Nations",
+      "headline": "EPFL Summer Research Fellowship 2027: Fully Funded Computer Science & Engineering Internships in Switzerland",
       "summary_points": [
-        "The Aga Khan Foundation has announced the opening of its annual international scholarship cycle for outstanding students from select developing countries, including Bangladesh, seeking master's and doctoral degrees.",
-        "Funding is provided as a structured 50% grant and 50% low-interest loan package covering full university tuition and living expenses at accredited global universities (US, UK, Europe, Canada).",
-        "Priority is given to candidates pursuing disciplines critical to national development, such as public policy, environmental engineering, health informatics, infrastructure architecture, and data science."
+        "École Polytechnique Fédérale de Lausanne (EPFL) has launched applications for its prestigious Summer Research Program in Computer and Communication Sciences (School of IC).",
+        "Selected undergraduate and master's students spend 3 months (July to September 2027) conducting cutting-edge research in distributed systems, machine learning, cryptography, or computer architecture.",
+        "Fellows receive a monthly living allowance of CHF 1,800 (~$2,050 USD), paid single-room Swiss housing, and full reimbursement of international travel expenses."
       ],
-      "why_it_matters": "A highly viable financing mechanism for Bangladeshi graduates who have secured admissions to top global universities but face partial scholarship gaps or high living cost shortfalls in major international academic centers.",
+      "why_it_matters": "EPFL ranks alongside ETH Zurich and Cambridge as the premier engineering institution in Europe. Landing a funded summer fellowship in Lausanne gives Bangladeshi computer engineering students direct access to world-class supercomputing clusters and direct pipeline advantages for Swiss doctoral assistantships.",
       "deep_dive_analysis": null,
       "opportunity_meta": {
         "is_opportunity": true,
-        "deadline": "2027-03-31",
-        "funding_or_reward": "Full Tuition + Living Costs (50% Grant / 50% Loan)",
-        "eligibility": "Bangladeshi citizens under 30 with confirmed or prospective admissions to premier global postgraduate programs"
+        "deadline": "2026-11-15",
+        "funding_or_reward": "Fully Funded (CHF 1,800/month + Housing + International Airfare)",
+        "eligibility": "Enrolled BSc or MSc students in Computer Science, Computer Engineering, Telecommunications, or Electrical Engineering"
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Grant-Loan Hybrid",
-            "definition": "A financial aid model where half the disbursed capital is an outright non-repayable award and the remaining half is repaid over a long duration at subsidized interest."
+            "term": "School of IC (EPFL)",
+            "definition": "The School of Computer and Communication Sciences at EPFL, renowned globally for breakthroughs in systems architecture, formal verification, and network security."
           }
         ],
         "source_verification": {
-          "primary_source_name": "Aga Khan Development Network (AKDN)",
+          "primary_source_name": "EPFL Official Program Portal",
           "source_type": "OPPORTUNITY_PORTAL",
-          "credibility_note": "Global development network administering accredited higher-education fellowships across the Global South",
-          "original_url": "https://www.akdn.org/our-agencies/aga-khan-foundation/international-scholarship-programme",
-          "discussion_or_secondary_url": "https://www.akdn.org/bangladesh/education/akf-isp-guidelines-2027"
+          "credibility_note": "Direct official academic portal administered by École Polytechnique Fédérale de Lausanne.",
+          "original_url": "https://www.epfl.ch/schools/ic/education/summer-at-epfl/",
+          "discussion_or_secondary_url": "https://www.epfl.ch/en/"
         }
       }
     }
