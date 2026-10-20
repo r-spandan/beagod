@@ -19,6 +19,9 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -36,11 +39,12 @@ jobs:
         run: node scripts/curate.mjs
 
       - name: Commit & Push Updated Intelligence Database
+        continue-on-error: true
         run: |
           git config --global user.name "BeAGod-AutoBot"
           git config --global user.email "bot@beagod.terminal"
           git add public/data/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(intel): autonomous edition update [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(intel): autonomous edition update [skip ci]" && git pull --rebase origin main && git push origin main) || true
 
       - name: Build Static Frontend
         run: npm run build
