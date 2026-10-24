@@ -1,30 +1,30 @@
 {
-  "edition_id": "2026-10-20-AM",
-  "generated_at_utc": "2026-10-20T05:15:25.509Z",
-  "generated_at_bst": "10/20/2026, 11:15:25 AM BST",
+  "edition_id": "2026-10-24-AM",
+  "generated_at_utc": "2026-10-24T04:07:45.420Z",
+  "generated_at_bst": "10/24/2026, 10:07:45 AM BST",
   "edition_shift": "MORNING_0600_BST",
-  "executive_pulse": "The US federal government has formally blacklisted DeepSeek AI models across executive agencies and defense supply chains amid escalating sovereign tech warfare. Domestically, Bangladesh Bank tightens liquidity surveillance over distressed commercial banks while the National Board of Revenue mandates digital e-Return filing across the formal private workforce.",
+  "executive_pulse": "Global technology governance faces immediate operational realities as Intel secures vital fab automation exemptions while the UK seeds sovereign biosecurity infrastructure. Domestically, Bangladesh Bank tightens single-borrower exposure ceilings to safeguard retail deposits, paired with new open-access grid wheeling tariffs for renewable industrial power.",
   "stats": {
     "total_items": 10,
     "news_count": 7,
     "opportunities_count": 3,
-    "sources_scanned": 120
+    "sources_scanned": 131
   },
   "items": [
     {
-      "id": "us-deepseek-ai-federal-procurement-ban-2026",
-      "topic_slug": "us-deepseek-ai-federal-procurement-ban",
+      "id": "intel-fab-robotics-ban-waiver-supply-chain",
+      "topic_slug": "intel-fab-robotics-ban-waiver-chips-act",
       "type": "NEWS",
       "category": "TECH_ENGINEERING",
-      "importance_tier": "CRITICAL_DEEP_DIVE",
-      "headline": "US Government Imposes Total Federal Ban on China's DeepSeek AI Over Security and Telemetry Vulnerabilities",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Intel Secures Regulatory Waiver on Foreign Automated Vehicles to Avert US Semiconductor Fab Delays",
       "summary_points": [
-        "The US Federal Acquisition Regulatory Council has prohibited all federal agencies and prime contractors from deploying models developed by Chinese AI lab DeepSeek on government systems.",
-        "The directive cites intelligence assessments alleging sovereign Chinese data interception risks, proprietary weights telemetry leakage, and automated supply chain vulnerabilities in defense code generation.",
-        "The move escalates the decoupling of foundational AI model infrastructure, creating bifurcated international regulatory standards for open-weights vs. proprietary sovereign models."
+        "The US Department of Commerce granted Intel an emergency regulatory waiver exempting foreign-built Automated Guided Vehicles (AGVs) from proposed federal procurement restrictions on overseas industrial robotics.",
+        "Intel petitioned regulators after demonstrating that domestic semiconductor fabrication cleanrooms rely essentially on specialized automated material handling systems (AMHS) produced primarily in East Asia and Europe.",
+        "Halting the integration of these foreign-sourced robotic tracks would have stalled cleanroom tool installations across multiple multi-billion-dollar domestic fab projects supported by the CHIPS Act."
       ],
-      "why_it_matters": "For software engineers and tech builders in Bangladesh, DeepSeek's open-weights models have been the premier low-cost alternative for local hosting and commercial API wrappers. A US federal supply chain ban forces global IT services exporters in Dhaka and Chittagong to maintain dual-stack architectures—strictly separating Western client workloads from lower-cost Chinese foundational models to retain enterprise compliance.",
-      "deep_dive_analysis": "The US federal procurement ban on DeepSeek marks a decisive inflection point in the geopolitical weaponization of artificial intelligence foundational layers. By invoking national security directives under federal acquisition regulations, Washington is treating advanced Chinese generative models not merely as software products, but as dual-use kinetic assets capable of intelligence collection, automated exploitation discovery, and code poisoning within mission-critical infrastructure.\n\nTechnically, DeepSeek had achieved international renown by demonstrating that competitive mixture-of-experts (MoE) architectures and highly efficient reinforcement learning pipelines could be delivered at a fraction of the training capital expended by American frontier labs like OpenAI and Anthropic. However, intelligence audits flagged deep structural concerns: real-time telemetry packets routed through Chinese domestic hosting endpoints during inference, opaque dataset alignment vectors, and the inherent risk of backdoor vulnerabilities injected into code-generation outputs utilized by defense sub-tier suppliers.\n\nThis embargo will accelerate the splintering of the global open-source AI ecosystem into strictly vetted ideological silos. Enterprise clients operating across North American and European jurisdictions will mandate full software bill of materials (SBOM) provenance guarantees, disqualifying contractors whose continuous integration pipelines utilize unverified Chinese base checkpoints. For emerging market developers, this creates high-stakes compliance frictions between accessible open-weights economics and lucrative Western software outsourcing contracts.",
+      "why_it_matters": "Demonstrates the extreme hyper-specialization of modern semiconductor manufacturing: cutting-edge cleanrooms cannot operate without precise automated wafer pods (FOUPs) and overhead transport robotics, proving that full national onshoring remains tethered to transnational supply chains.",
+      "deep_dive_analysis": null,
       "opportunity_meta": {
         "is_opportunity": false,
         "deadline": null,
@@ -34,37 +34,153 @@
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Mixture-of-Experts (MoE)",
-            "definition": "An AI architecture that activates only a specific subset of specialized neural network parameters per token, drastically lowering computational cost while maintaining high model performance."
+            "term": "AMHS (Automated Material Handling System)",
+            "definition": "Cleanroom robotic overhead transport networks that move 300mm silicon wafer pods between lithography, etching, and metrology stations without human contamination."
           },
           {
-            "term": "Software Bill of Materials (SBOM)",
-            "definition": "A comprehensive list detailing every open-source component, library, and module utilized within a piece of software to verify security provenance and license compliance."
+            "term": "FOUP (Front Opening Unified Pod)",
+            "definition": "A hermetically sealed enclosure engineered to hold silicon wafers securely in a controlled nitrogen or vacuum mini-environment during cleanroom transfer."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Specialized semiconductor and regulatory analysis based on public filings and agency waiver documents.",
+          "original_url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+          "discussion_or_secondary_url": "https://www.reuters.com/technology"
+        }
+      }
+    },
+    {
+      "id": "nasa-orion-lunar-heatshield-resolution",
+      "topic_slug": "nasa-artemis-orion-heatshield-redesign-lunar-lander",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "NASA Formalizes Root-Cause Fix for Orion Heatshield Charring, Clearing Path for Crewed Artemis Trajectory",
+      "summary_points": [
+        "NASA mission directors have officially resolved the long-standing post-flight anomaly from Artemis I, where the Orion spacecraft's Avcoat ablative heatshield lost unexpected material chunks during skip re-entry.",
+        "Engineers identified trapped volatile gases during re-entry heating as the driver of sub-surface delamination, prompting an operational re-entry angle adjustment and a revised thermal protection curing protocol.",
+        "Concurrently, NASA updated its lunar lander milestone schedules, solidifying testing checkpoints for commercial landing partners and confirming flight baselines for Artemis II and Artemis III."
+      ],
+      "why_it_matters": "For aerospace and mechanical engineers, atmospheric entry thermal protection systems (TPS) represent an absolute single point of failure. Resolving Orion's re-entry boundary-layer dynamics removes the single largest technical blocker preventing humans from returning to lunar orbit and surface operations.",
+      "deep_dive_analysis": "During the Artemis I uncrewed circumlunar flight, Orion entered Earth's atmosphere at lunar return velocities of roughly 40,000 km/h (Mach 32). While the vehicle safely splashed down, post-recovery inspections revealed over 100 liberation zones where chunks of the Avcoat thermal material had flaked off unevenly rather than cleanly ablating, defying baseline mathematical simulations.\n\nA rigorous cross-institutional investigation involving NASA Ames, Langley, and prime contractor Lockheed Martin established that internal gas pressure from pyrolysis in the honeycomb resin exceeded the structural shear strength of the char layer during deceleration. To solve this without adding deadweight titanium shields or scrubbing the capsule architecture, NASA has altered both the skip re-entry trajectory—optimizing the deceleration dip to dissipate thermal loads over a longer duration—and adapted the Avcoat composite curing cycle to introduce microscopic venting pathways for pyrolyzed gases.\n\nThis structural resolution unblocks Artemis II's crewed orbital flight and provides a stable engineering foundation for deep-space vehicle architecture. For space systems engineering worldwide, the transparent publication of non-linear ablative TPS behavior establishes a modern computational baseline for ultra-high-enthalpy atmospheric entry modeling.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Ablative Heatshield",
+            "definition": "A sacrificial heat-resistant layer that absorbs extreme re-entry friction by melting, vaporizing, and carrying thermal energy away from the spacecraft."
+          },
+          {
+            "term": "Pyrolysis",
+            "definition": "The chemical decomposition of organic materials at elevated temperatures in the absence of oxygen, generating expanding internal gases."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica Space",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Detailed technical briefing corroborated by NASA Exploration Systems Development Directorate reports.",
+          "original_url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+          "discussion_or_secondary_url": "https://www.nasa.gov/news-release"
+        }
+      }
+    },
+    {
+      "id": "uk-100m-ai-biosecurity-lab",
+      "topic_slug": "uk-ai-biosecurity-lab-dna-screening",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "UK Allocates £100M to Construct Dedicated Sovereign AI Biosecurity Screening Facility",
+      "summary_points": [
+        "The UK Treasury announced a £100 million capital allocation to build the world's first national AI Biosecurity Laboratory ahead of the upcoming Autumn Budget.",
+        "The facility is tasked with stress-testing generative AI protein-design models against dual-use pathogen synthesis and engineering real-time automated DNA print order verification engines.",
+        "The laboratory will create a centralized benchmarking sandbox where commercial DNA synthesis vendors must run orders through state-supervised neural verification to block rogue toxin generation."
+      ],
+      "why_it_matters": "As generative biology models (such as AlphaFold successors and RFdiffusion) make de novo viral and toxin design trivial on consumer GPUs, state-level containment is pivoting from software restrictions to controlling the physical bottleneck: commercial DNA synthesis foundries.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Gene Synthesis Screening",
+            "definition": "The computational process of inspecting customer-submitted oligonucleotide sequences against known pathogen databases before physical DNA printing."
+          },
+          {
+            "term": "Dual-Use Research",
+            "definition": "Scientific biological research intended for beneficial public health outcomes that could simultaneously be repurposed to produce lethal bioweapons."
           }
         ],
         "source_verification": {
           "primary_source_name": "BBC Business & Finance",
           "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Direct reporting cross-verified against US federal acquisition regulatory filings and agency notices.",
-          "original_url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo",
-          "discussion_or_secondary_url": "https://arstechnica.com/information-technology/2026/10/us-bans-deepseek-ai-government-contractors/"
+          "credibility_note": "Direct Whitehall policy preview ahead of the official Autumn Budget statement.",
+          "original_url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
+          "discussion_or_secondary_url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
         }
       }
     },
     {
-      "id": "bb-islamic-banking-liquidity-stress-test-mandate-2026",
-      "topic_slug": "bangladesh-bank-islamic-banking-stress-tests-governance",
+      "id": "gulf-security-air-defense-missile-intercept",
+      "topic_slug": "red-sea-gulf-air-defense-escalation",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Saudi Air Defenses Neutralize Long-Range Missile Threat as US Downsizes Regional Diplomatic Footprints",
+      "summary_points": [
+        "Saudi Royal Air Defense forces intercepted a long-range ballistic projectile directed toward central Riyadh, confirming renewed vulnerability along critical Gulf commercial corridors.",
+        "Simultaneously, the US State Department quietly adjusted civilian staffing across four Middle Eastern diplomatic missions following intelligence memorandums warning of coordinated asymmetrical retaliation vectors.",
+        "Regional energy transit remains precarious as ongoing littoral drone strikes and naval skirmishes continue to inflate war-risk insurance premiums for commercial tanker transit in the Arabian Sea."
+      ],
+      "why_it_matters": "Rising maritime and kinetic instability across the Gulf directly impacts Bangladesh's national balance of payments: higher crude tanker insurance raises domestic imported energy import bills, while escalating regional friction threatens job safety and remittances for over 2.5 million expatriate Bangladeshi workers.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "War-Risk Insurance Premium",
+            "definition": "An additional, highly volatile maritime insurance surcharge levied on commercial cargo vessels sailing through designated high-risk conflict waterways."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Al Jazeera English Wire",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Cross-verified with Axios intelligence briefs and regional military command disclosures.",
+          "original_url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack",
+          "discussion_or_secondary_url": "https://www.reuters.com/world/middle-east"
+        }
+      }
+    },
+    {
+      "id": "bd-bank-single-borrower-exposure-audit",
+      "topic_slug": "bangladesh-bank-single-borrower-exposure-cap-forensic-audit",
       "type": "NEWS",
       "category": "ECONOMY_FINANCE",
       "importance_tier": "CRITICAL_DEEP_DIVE",
-      "headline": "Bangladesh Bank Imposes Stringent Capital Stress Tests and Forensic Asset Audits Across Restructured Shariah Banks",
+      "headline": "Bangladesh Bank Enforces Strict 25% Single-Borrower Exposure Cap with Mandatory External Forensic Audits",
       "summary_points": [
-        "Bangladesh Bank has ordered rigorous forensic audits and bi-weekly liquidity stress tests across all five recently reconstructed Shariah-compliant commercial lenders.",
-        "The central bank has halted discretionary lending ceilings and frozen arbitrary reclassifications of delinquent corporate debt to ensure authentic non-performing loan (NPL) reporting.",
-        "The regulator affirmed that targeted emergency repo windows will remain strictly pegged to verifiable balance-sheet recapitalization milestones."
+        "Bangladesh Bank has issued a binding directive ordering all scheduled commercial banks to immediately conform to the statutory 25% single-borrower exposure limit, eliminating past regulatory forbearance and ad-hoc exemptions.",
+        "The central bank announced that non-performing loan (NPL) classifications and restructured conglomerate credit books will undergo mandatory third-party forensic audits led by global accounting firms.",
+        "Banks found non-compliant by Q1 2027 will face prompt corrective action (PCA), including bans on opening new foreign branch letters of credit (L/Cs) and restrictions on executive dividend payouts."
       ],
-      "why_it_matters": "Every young professional and household in Bangladesh depends on the solvency of the domestic banking apparatus. With Shariah-compliant institutions holding over 20% of private sector deposits, genuine balance sheet transparency eliminates predatory loan masking, directly protecting your savings, stabilizing the taka, and preventing banking sector insolvency from cascading into hyper-inflationary currency printing.",
-      "deep_dive_analysis": "The central bank's forceful intervention represents a decisive break from decades of systemic regulatory forbearance that permitted politically connected conglomerates to hollow out Islamic private commercial banks. By instituting mandatory forensic audits through independent accounting panels, Bangladesh Bank is systematically stripping away off-balance-sheet guarantees, fictitious collateral appraisals, and related-party circular lending mechanisms that previously obscured massive capital deficiencies.\n\nThe technical core of this directive targets liquidity mismatch vulnerabilities. For months, several restructured Shariah lenders operated on structural overdrafts through special liquidity support windows, relying on ad-hoc central bank accommodations to honor daily clearinghouse settlements. The new regime institutes quantitative liquidity coverage ratios (LCR) and net stable funding ratios (NSFR) calculated under stressed market conditions, demanding immediate asset sales and aggressive recovery actions on defaulted industrial accounts.\n\nIn the medium term, this forensic sanitization will compress aggregate credit growth across Bangladesh's private sector as banks absorb severe provisioning hits and rebuild statutory capital adequacy. However, this painful contraction is an essential prerequisite for economic stabilization: it curbs speculative real estate expansion, directs remaining institutional liquidity into productive export manufacturing, and re-establishes international correspondent banking faith necessary for trade financing.",
+      "why_it_matters": "Directly impacts every citizen holding savings deposits in commercial banks. Breaking the stranglehold of oligarchic mega-conglomerates hoarding credit restores solvency to the banking sector, reduces banking panic risks, and forces domestic capital to flow to productive SMEs and consumer lending.",
+      "deep_dive_analysis": "For over a decade, Bangladesh's scheduled commercial banks suffered from systemic balance sheet opacity, driven by regulatory capture where politically connected business conglomerates secured credit facilities far exceeding statutory single-borrower caps. Through shell holding companies and syndicated debt restructuring, individual business groups amassed debt exposures exceeding 50% to 100% of individual lenders' total regulatory capital, effectively privatizing bank deposits for speculative real estate and unviable industrial expansion.\n\nUnder the newly structured directive, Bangladesh Bank eliminates discretionary exemptions and implements an automated supervisory monitoring module integrated directly into the Enterprise Data Warehouse (EDW). Any credit facility exceeding 15% (funded) or 25% (aggregate funded and non-funded) of a bank's capital base will automatically trigger automated margin haircuts and mandatory capital reserve deductions. Simultaneously, central-bank appointed independent forensic audit teams will comb through defaulted facilities across six troubled private and state-owned commercial banks to isolate willful default from structural macroeconomic stress.\n\nFor citizens and university graduates, the second-order economic consequences are profound. While the credit squeeze on over-leveraged conglomerates may generate short-term industrial friction, it insulates retail savings accounts from systemic insolvency, ends unbacked liquidity injections that drove food inflation, and begins restoring trust in interbank lending—a prerequisite for stabilizing the BDT exchange rate and attracting legitimate foreign direct investment.",
       "opportunity_meta": {
         "is_opportunity": false,
         "deadline": null,
@@ -74,76 +190,36 @@
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Liquidity Coverage Ratio (LCR)",
-            "definition": "The proportion of highly liquid assets held by a financial institution to ensure its ongoing ability to meet short-term debt obligations during a 30-day liquidity stress period."
+            "term": "Single-Borrower Exposure Limit",
+            "definition": "The maximum legal percentage of a commercial bank's total regulatory capital that can be lent to a single individual, company, or interconnected corporate group."
           },
           {
-            "term": "Forensic Asset Audit",
-            "definition": "An investigative accounting inspection designed to identify fraudulent lending, unrecorded liabilities, and true ownership of distressed credit lines."
+            "term": "Prompt Corrective Action (PCA)",
+            "definition": "A structured regulatory framework that automatically restricts a troubled bank's operational freedom (lending, dividend distribution, branch expansion) when capital ratios fall below safe thresholds."
           }
         ],
         "source_verification": {
-          "primary_source_name": "The Business Standard (TBS)",
+          "primary_source_name": "Bangladesh Bank Official Circular & Banking Intelligence",
           "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Verified regulatory policy reporting corroborated by Bangladesh Bank Department of Banking Inspection directives.",
-          "original_url": "https://www.tbsnews.net/economy/banking/central-bank-mandates-forensic-audits-shariah-lenders-2026",
-          "discussion_or_secondary_url": "https://www.bb.org.bd/en/index.php/mediaroom/pressrelease"
+          "credibility_note": "Official central bank monetary and prudential regulatory directive confirmed via national economic registries.",
+          "original_url": "https://www.bb.org.bd/mediaroom/circulars/circulars.php",
+          "discussion_or_secondary_url": "https://www.tbsnews.net/economy/banking"
         }
       }
     },
     {
-      "id": "kosmos-2612-iceye-leo-space-intercept-maneuver",
-      "topic_slug": "russian-satellite-kosmos-2612-iceye-space-maneuver",
-      "type": "NEWS",
-      "category": "TECH_ENGINEERING",
-      "importance_tier": "STANDARD_BRIEF",
-      "headline": "Russian Inspector Satellite Executes Extreme Proximity Maneuver Against Commercial SAR Satellite ICEYE-X36",
-      "summary_points": [
-        "Astrodynamics tracking data confirms Russian military spacecraft Kosmos 2612 closed to within hundreds of meters of ICEYE-X36 in Low Earth Orbit (LEO).",
-        "ICEYE-X36 provides high-resolution Synthetic Aperture Radar (SAR) imagery utilized by Ukrainian defense forces for all-weather, day-night battlefield reconnaissance.",
-        "The encounter signals an escalation in grey-zone orbital counter-space operations designed to intimidate and inspect dual-use commercial space constellations."
-      ],
-      "why_it_matters": "Modern telecommunications, disaster monitoring in the Bay of Bengal, and geopolitical security rely directly on unhindered LEO satellite constellations. Hostile close-proximity maneuvers risk orbital collisions, kinetic debris cascades (Kessler syndrome), and disruptions to the commercial radar imaging feeds that power global precision agriculture, navigation, and maritime surveillance.",
-      "deep_dive_analysis": null,
-      "opportunity_meta": {
-        "is_opportunity": false,
-        "deadline": null,
-        "funding_or_reward": null,
-        "eligibility": null
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "Synthetic Aperture Radar (SAR)",
-            "definition": "A radar imaging technique that creates high-resolution two-dimensional images unaffected by cloud cover, rain, or night conditions by exploiting satellite orbital motion."
-          },
-          {
-            "term": "Co-orbital Rendezvous",
-            "definition": "A space orbital maneuver where one satellite deliberately adjusts its trajectory and altitude to match and closely shadow another orbiting spacecraft."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "Ars Technica",
-          "source_type": "NICHE_CREDIBLE",
-          "credibility_note": "Specialized aerospace engineering coverage utilizing public US Space Command and commercial orbital tracking data.",
-          "original_url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
-          "discussion_or_secondary_url": "https://swfound.org/counterspace-capabilities-report-2026"
-        }
-      }
-    },
-    {
-      "id": "nbr-mandatory-digital-ereturn-rollout-november-2026",
-      "topic_slug": "nbr-mandatory-digital-ereturn-rollout-private-sector",
+      "id": "power-division-renewable-wheeling-tariff",
+      "topic_slug": "power-division-renewable-wheeling-tariff-merchant-solar-framework",
       "type": "NEWS",
       "category": "ECONOMY_FINANCE",
       "importance_tier": "STANDARD_BRIEF",
-      "headline": "NBR Expands Mandatory Digital e-Return System to All Formal Private Sector Employees Ahead of Tax Filing Deadline",
+      "headline": "Power Division Finalizes National Grid Wheeling Framework for Private Industrial Solar Power",
       "summary_points": [
-        "The National Board of Revenue (NBR) has gazetted a circular making the digital e-Return portal (etaxnbr.gov.bd) mandatory for all private sector salaried individuals and corporate employees.",
-        "Manual paper returns will no longer be accepted for individual taxpayers registered within city corporation zones, with automatic cross-verification linked to national identification (NID) and bank TIN registries.",
-        "Failure to submit electronic tax returns prior to the November 30 statutory deadline triggers automatic monthly penalty surcharges and disqualification from key banking and public service clearances."
+        "The Ministry of Power, Energy and Mineral Resources (MPEMR) has released the draft Open-Access Grid Wheeling Policy, establishing transparent transmission fees for private solar developers.",
+        "Under the framework, utility-scale and rooftop merchant solar producers can transmit clean electricity through the Bangladesh Power Development Board (BPDB) and PGCB national grid to supply industrial off-takers.",
+        "The wheeling tariff establishes a fixed per-kilowatt-hour transmission charge alongside an indexed capacity loss factor, replacing the legacy sovereign Power Purchase Agreement (PPA) model with direct bilateral corporate contracts."
       ],
-      "why_it_matters": "For any graduating engineer or working adult in Bangladesh, an electronic Tax Return Acknowledgement Receipt is now non-negotiable for renewing passports, opening enterprise bank accounts, obtaining credit cards, or purchasing real estate. Mastering the e-Return platform prevents bureaucratic extortion and ensures your personal fiscal profile is fully compliant.",
+      "why_it_matters": "Enables garment and manufacturing export hubs to bypass unstable fossil-fuel grid power by buying solar directly from remote solar parks, cutting industrial electricity costs and fulfilling stringent EU carbon compliance rules (CBAM).",
       "deep_dive_analysis": null,
       "opportunity_meta": {
         "is_opportunity": false,
@@ -154,36 +230,36 @@
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "e-Return Portal",
-            "definition": "The government's centralized digital infrastructure for automated income assessment, tax computation, online payment, and electronic tax certificate generation."
+            "term": "Grid Wheeling",
+            "definition": "The transmission of electric energy from a third-party private generator to a specific commercial consumer over existing public transmission and distribution lines for a fixed service fee."
           },
           {
-            "term": "Tax Deduction at Source (TDS)",
-            "definition": "The statutory advance income tax withheld by employers or financial institutions directly from payroll or interest disbursements before crediting the net amount."
+            "term": "CBAM (Carbon Border Adjustment Mechanism)",
+            "definition": "An EU regulatory tariff on carbon-intensive industrial imports (steel, aluminum, textiles) that penalizes products made using fossil-fuel grid electricity."
           }
         ],
         "source_verification": {
-          "primary_source_name": "The Business Standard (TBS)",
+          "primary_source_name": "Power Division Gazettes & BPDB Operational Reports",
           "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Direct review of National Board of Revenue (NBR) statutory regulatory order (SRO) gazette.",
-          "original_url": "https://www.tbsnews.net/economy/nbr/e-return-mandatory-private-sector-employees-2026",
-          "discussion_or_secondary_url": "https://etaxnbr.gov.bd/"
+          "credibility_note": "Inter-ministerial policy gazette on transmission system open access published by the Power Cell.",
+          "original_url": "https://powerdivision.gov.bd",
+          "discussion_or_secondary_url": "https://pgcb.gov.bd"
         }
       }
     },
     {
-      "id": "bpdb-petrobangla-winter-gas-power-allocation-rationing",
-      "topic_slug": "bpdb-petrobangla-winter-gas-allocation-industry",
+      "id": "nbr-passport-card-endorsement-tax-reconciliation",
+      "topic_slug": "nbr-automated-cross-border-card-endorsement-tax-reconciliation",
       "type": "NEWS",
       "category": "ECONOMY_FINANCE",
       "importance_tier": "STANDARD_BRIEF",
-      "headline": "Petrobangla and BPDB Finalize Winter Gas-to-Power Allocation Plan to Curb High-Cost Spot LNG Imports",
+      "headline": "NBR and Bangladesh Bank Link Foreign Currency Travel Quota directly to e-TIN Returns",
       "summary_points": [
-        "Petrobangla has recalibrated national natural gas dispatch priorities for the upcoming winter quarter, capping power generation supply at 850 MMCFD to prioritize industrial captive generators and fertilizer plants.",
-        "Bangladesh Power Development Board (BPDB) will throttle inefficient gas-turbine peaking plants and maximize coal-fired baseload dispatch from Rampal and Matarbari to manage national electricity demand.",
-        "The strategy aims to conserve scarce US foreign exchange reserves by avoiding volatile winter spot-market Liquefied Natural Gas (LNG) cargoes from the European-driven global spot trade."
+        "The National Board of Revenue (NBR) and Bangladesh Bank deployed an automated data handshake linking bank credit/debit card international foreign exchange endorsements directly with income tax assessment portals.",
+        "Under the new system, individuals endorsing foreign currency quotas exceeding $5,000 annually or conducting international e-commerce payments must demonstrate matching declared taxable income on their digital e-Return.",
+        "The initiative closes a chronic regulatory loophole used for unauthorized capital transfer and illicit cross-border digital merchant settlement outside conventional banking audit trails."
       ],
-      "why_it_matters": "Energy dispatch choices dictate both power stability and factory operation across Gazipur, Narayanganj, and Chattogram. For engineering professionals, this pivot stabilizes industrial manufacturing during seasonal off-peak months and shields the national treasury from bleeding foreign exchange reserves on hyper-inflated winter spot energy shipments.",
+      "why_it_matters": "Crucial for middle-class citizens, freelancers, and tech professionals: spending on overseas software subscriptions, university application fees, and international travel is now systematically reconciled against your filed tax return, making compliant digital e-Return filing non-negotiable.",
       "deep_dive_analysis": null,
       "opportunity_meta": {
         "is_opportunity": false,
@@ -194,208 +270,124 @@
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "MMCFD",
-            "definition": "Million Metric Standard Cubic Feet per Day; the standard volumetric metric used to measure natural gas production and flow rates."
-          },
-          {
-            "term": "Spot LNG",
-            "definition": "Liquefied Natural Gas purchased on open commodity exchanges for immediate short-term delivery, subject to extreme price volatility compared to long-term bilateral contracts."
+            "term": "Travel Quota Endorsement",
+            "definition": "The statutory authorization stamped on a Bangladeshi citizen's passport permitting commercial banks to allocate up to $12,000 USD equivalent per calendar year for overseas expenses."
           }
         ],
         "source_verification": {
-          "primary_source_name": "The Business Standard (TBS)",
+          "primary_source_name": "National Board of Revenue (NBR) Directive",
           "source_type": "MAJOR_OUTLET",
-          "credibility_note": "Verified energy sector reporting based on joint Petrobangla-BPDB operational review committee data.",
-          "original_url": "https://www.tbsnews.net/bangladesh/energy/petrobangla-finalizes-winter-gas-rationing-power-plants-2026",
-          "discussion_or_secondary_url": "https://petrobangla.org.bd/"
+          "credibility_note": "Joint regulatory framework executed between NBR Central Intelligence Cell and Foreign Exchange Policy Department.",
+          "original_url": "https://nbr.gov.bd",
+          "discussion_or_secondary_url": "https://www.bb.org.bd"
         }
       }
     },
     {
-      "id": "openai-spy-court-filing-saudi-sovereign-ties",
-      "topic_slug": "openai-insider-threat-espionage-saudi-filing",
-      "type": "NEWS",
-      "category": "TECH_ENGINEERING",
-      "importance_tier": "STANDARD_BRIEF",
-      "headline": "US Federal Court Unseals Espionage Indictment Against Ex-OpenAI Engineer Highlighting Sovereign AI Espionage",
-      "summary_points": [
-        "Unsealed US Department of Justice court documents allege a former OpenAI systems engineer exfiltrated sensitive proprietary model optimization weights under foreign sovereign sponsorship.",
-        "FBI forensic analysis uncovered dedicated encrypted directories designated as 'Saudi Gov Docs' containing internal cluster infrastructure specifications and algorithmic hardware topologies.",
-        "The case prompts Silicon Valley frontier labs to implement hyper-restrictive zero-trust enclave restrictions, endpoint forensic telemetry, and national-origin clearances for infrastructure engineers."
-      ],
-      "why_it_matters": "Frontier AI codebases are the new geopolitical uranium. For computer science and software engineering students targeting international research roles, access to high-compute clusters will face unprecedented zero-trust compartmentalization, severe counter-intelligence background checks, and stringent legal accountability.",
-      "deep_dive_analysis": null,
-      "opportunity_meta": {
-        "is_opportunity": false,
-        "deadline": null,
-        "funding_or_reward": null,
-        "eligibility": null
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "Zero-Trust Architecture",
-            "definition": "A cybersecurity operational framework requiring continuous, strict identity verification and least-privilege access controls for every user and device inside or outside the network."
-          },
-          {
-            "term": "Exfiltration",
-            "definition": "The unauthorized, illegal copying, transfer, or retrieval of sensitive proprietary data from an organization's internal infrastructure."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "Ars Technica",
-          "source_type": "NICHE_CREDIBLE",
-          "credibility_note": "Rigorous legal and technical reporting drawn directly from US District Court charging filings.",
-          "original_url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-          "discussion_or_secondary_url": "https://www.justice.gov/opa/pr"
-        }
-      }
-    },
-    {
-      "id": "subsea-hydrothermal-geothermal-energy-proof-point",
-      "topic_slug": "subsea-geothermal-volcano-energy-proof-point",
-      "type": "NEWS",
-      "category": "TECH_ENGINEERING",
-      "importance_tier": "QUICK_SIGNAL",
-      "headline": "Deep-Tech Startup Validates Closed-Loop Supercritical Geothermal Tapping of Submarine Volcanic Systems",
-      "summary_points": [
-        "A deep-tech engineering consortium has completed initial offshore field trials extracting power from a shallow underwater volcano along the Pacific Rim using corrosion-resistant closed-loop heat exchangers.",
-        "The thermodynamic proof-of-concept converts 400°C supercritical subsea hydrothermal fluid temperatures into continuous clean baseload electricity without drilling into deep terrestrial crust.",
-        "If scaled, the technology offers island nations and littoral developing economies an infinite, zero-carbon alternative to expensive fossil fuel importation."
-      ],
-      "why_it_matters": "Bangladesh sits on a vast deltaic shelf with heavy maritime energy requirements and land constraints. Understanding offshore closed-loop geothermal innovations expands the technological horizon for engineering graduates considering marine, mechanical, and thermodynamics careers.",
-      "deep_dive_analysis": null,
-      "opportunity_meta": {
-        "is_opportunity": false,
-        "deadline": null,
-        "funding_or_reward": null,
-        "eligibility": null
-      },
-      "side_panel": {
-        "jargon_buster": [
-          {
-            "term": "Supercritical Fluid",
-            "definition": "A thermodynamic state of a substance at temperatures and pressures above its critical point, where distinct liquid and gas phases do not exist, allowing ultra-efficient heat transfer."
-          }
-        ],
-        "source_verification": {
-          "primary_source_name": "Ars Technica",
-          "source_type": "NICHE_CREDIBLE",
-          "credibility_note": "Engineering and thermodynamics analysis covering clean energy field demonstrations.",
-          "original_url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
-          "discussion_or_secondary_url": "https://www.nature.com/articles/s41560-energy-subsea-geothermal"
-        }
-      }
-    },
-    {
-      "id": "opp-daad-wise-research-internship-germany-2027",
-      "topic_slug": "opp-daad-wise-undergraduate-research-internship-germany-2027",
+      "id": "opp-quad-fellowship-stem-postgraduate-2027",
+      "topic_slug": "quad-fellowship-stem-postgraduate-2027",
       "type": "OPPORTUNITY",
       "category": "OPPORTUNITIES",
       "importance_tier": "CRITICAL_DEEP_DIVE",
-      "headline": "DAAD WISE Fellowship 2027: Fully Funded Summer Research Internships in Germany for Undergraduate Engineers & Scientists",
+      "headline": "Quad Fellowship 2027 Opens for International STEM Master's and Doctoral Scholars in the United States",
       "summary_points": [
-        "The German Academic Exchange Service (DAAD) has opened calls for the 2027 Working Internships in Science and Engineering (WISE) program.",
-        "Provides 2 to 3-month fully funded placements at public German universities, Max Planck Institutes, Helmholtz Centers, and Fraunhofer research laboratories.",
-        "Includes a monthly stipend of €934, comprehensive health/accident insurance, and a fixed international travel subsidy covering round-trip flights from Bangladesh."
+        "The Quad Fellowship—administered by the Institute of International Education (IIE)—has opened global applications for exceptional STEM graduates pursuing master's or PhD degrees in the United States.",
+        "Fellows receive a $40,000 one-time stipend usable for tuition, research, books, room and board, alongside sponsored cross-cultural summits and access to premier international scientific networks.",
+        "Open to graduating seniors and bachelor's degree holders across engineering, computer science, mathematics, and physical sciences."
       ],
-      "why_it_matters": "DAAD WISE is the gold standard gateway for undergraduate students at institutions like MIST, BUET, and DU to execute high-impact research in Germany. A completed DAAD internship provides elite European research lineage, direct letters of recommendation from German professors, and effectively guarantees future funding for Erasmus Mundus or German Master's/PhD programs.",
-      "deep_dive_analysis": "The DAAD Working Internships in Science and Engineering (WISE) fellowship is one of the highest-leverage undergraduate research credentials globally, offering Bangladeshi STEM students an institutional springboard directly into Germany's world-leading scientific ecosystem. Unlike generic software or corporate internships, WISE embeds students within elite academic labs, including TU Munich, RWTH Aachen, Karlsruhe Institute of Technology (KIT), and prestigious Max Planck Institutes.\n\nThe application mechanism demands proactive strategic positioning. Eligible candidates must be in their 5th or 6th semester (3rd year) of a 4-year undergraduate degree in engineering, natural sciences, or mathematics, maintaining an aggregate CGPA of 8.5/10 (or minimum 85% / equivalent ~3.75+ out of 4.0). Most critically, applicants must independently secure an official 'Letter of Acceptance' (Form 6) from a German host professor before submitting their dossier to DAAD.\n\nTo maximize selection probability, engineering candidates should systematically audit departmental faculty directories at top German universities, identifying principal investigators whose recent literature aligns with their undergraduate thesis or design projects. When contacting prospective hosts via email, include a concise research proposal abstract, a clean GitHub or research portfolio link, and a CV demonstrating specialized laboratory, simulation, or hardware competence. Securing this placement transforms an undergraduate career, providing fully funded European research exposure without personal financial outlay.",
+      "why_it_matters": "Provides a non-debt pathway to fund graduate research at Tier-1 US universities (MIT, Stanford, UC Berkeley, Georgia Tech) without being constrained solely by department teaching assistantships (TA/RA), giving engineering graduates independent research autonomy.",
+      "deep_dive_analysis": "The Quad Fellowship represents one of the most prestigious multilateral scientific talent initiatives, originally established by the governments of Australia, India, Japan, and the United States, and now expanded to admit exceptional STEM candidates globally under IIE administration. Unlike traditional university-bound research assistantships that tie funding strictly to a specific professor's grant deliverables, the Quad Fellowship awards a direct $40,000 flexible academic stipend directly to the scholar.\n\nEvaluation is heavily weighted toward three core pillars: demonstrable mastery in technical fundamentals, cross-disciplinary problem-solving capacity in deep technologies (semiconductors, artificial intelligence, quantum systems, clean energy, or biotechnology), and a commitment to utilizing science and technology for broad public benefit. Finalist selection involves intensive technical peer review followed by high-level panel interviews focusing on real-world impact and policy literacy.\n\nFor an engineering undergraduate at MIST or similar technical institutes in Bangladesh, this fellowship can be stacked on top of existing departmental fellowships or university tuition waivers. Strategic applicants must begin immediately by drafting a rigorous research proposal focused on high-priority technological bottlenecks and securing three academic letters of recommendation evaluating both mathematical rigor and leadership potential.",
       "opportunity_meta": {
         "is_opportunity": true,
-        "deadline": "2026-11-01",
-        "funding_or_reward": "Fully Funded (€934/month + Travel Subsidy + Insurance)",
-        "eligibility": "Undergraduate STEM students (3rd year / 5th-6th semester) enrolled in recognized universities with strong academic standing"
+        "deadline": "2026-12-15",
+        "funding_or_reward": "$40,000 Direct Stipend + Fully Sponsored Global Summits",
+        "eligibility": "Undergraduate STEM seniors & degree holders admitted or applying to US Master's/PhD programs"
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Host Acceptance Letter",
-            "definition": "A formal commitment document signed by a German university professor confirming their willingness to provide laboratory bench space and scientific supervision."
-          },
-          {
-            "term": "DAAD",
-            "definition": "Deutscher Akademischer Austauschdienst; the central statutory organization in Germany promoting international academic relations and scientific exchanges."
+            "term": "IIE (Institute of International Education)",
+            "definition": "The premier global education organization that administers world-class exchange programs, including the Fulbright and Quad initiatives."
           }
         ],
         "source_verification": {
-          "primary_source_name": "DAAD Official Scholarship Portal",
+          "primary_source_name": "Quad Fellowship Official Portal",
           "source_type": "OPPORTUNITY_PORTAL",
-          "credibility_note": "Official federal German academic scholarship registry and portal guidelines.",
-          "original_url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-scholarships/",
-          "discussion_or_secondary_url": "https://www.daad-bangladesh.org/en/"
+          "credibility_note": "Verified primary application gateway maintained by the Institute of International Education.",
+          "original_url": "https://www.quadfellowship.org",
+          "discussion_or_secondary_url": "https://www.iie.org/programs/quad-fellowship"
         }
       }
     },
     {
-      "id": "opp-knight-hennessy-scholars-stanford-fellowship-2027",
-      "topic_slug": "opp-knight-hennessy-scholars-stanford-2027",
+      "id": "opp-riken-summer-student-computational-biology-2027",
+      "topic_slug": "opp-riken-summer-student-computational-biology-japan-2027",
       "type": "OPPORTUNITY",
       "category": "OPPORTUNITIES",
       "importance_tier": "STANDARD_BRIEF",
-      "headline": "Knight-Hennessy Scholars Program 2027: Fully Funded Multidisciplinary Graduate Leadership Fellowship at Stanford University",
+      "headline": "RIKEN Center for Biosystems Dynamics Research (BDR) Launches Summer Research Traineeship 2027 in Japan",
       "summary_points": [
-        "Stanford University is accepting applications for the 2027 cohort of Knight-Hennessy Scholars, funding full graduate study across any of Stanford’s seven schools.",
-        "Provides 100% tuition coverage, a generous living and academic stipend, round-trip annual economy airfare, and participation in the King Global Leadership Program.",
-        "Open to graduating undergraduate seniors and recent alumni who earned their bachelor's degree within the last five years, with no citizenship restrictions."
+        "Japan's premier national scientific research institute, RIKEN, is accepting international applications for its intensive 8-week summer research internship across Kobe and Yokohama laboratories.",
+        "Undergraduate and early master's students in computer science, bioengineering, physics, and electronics conduct hands-on laboratory research in biophysical modeling, high-content imaging, and supercomputing simulations.",
+        "The fellowship covers round-trip international airfare, furnished on-campus housing, and a daily subsistence allowance for the duration of the program."
       ],
-      "why_it_matters": "Knight-Hennessy offers a transformative trajectory for ambitious Bangladeshi engineers and leaders aiming to pursue Stanford MS or PhD degrees in Computer Science, Electrical Engineering, Aeronautics, or Bioengineering. It eliminates the crippling cost of US private graduate education while embedding you in Silicon Valley's venture and technological core.",
+      "why_it_matters": "A direct gateway to work inside Japan's top scientific institution alongside Fugaku supercomputer research teams. Strong performance frequently yields direct MEXT scholarship recommendations for tuition-free master's and doctoral degrees in Japan.",
       "deep_dive_analysis": null,
       "opportunity_meta": {
         "is_opportunity": true,
-        "deadline": "2026-10-28",
-        "funding_or_reward": "Fully Funded (Full Tuition + Living Stipend + Travel Allowances)",
-        "eligibility": "Undergraduate seniors or graduates (degree received after Jan 2021) applying concurrently to a Stanford graduate degree program"
+        "deadline": "2027-01-15",
+        "funding_or_reward": "Fully Funded (Flights + Housing + Daily Living Allowance)",
+        "eligibility": "Current undergraduate (3rd/4th year) and master's students in engineering, CS, or biological sciences"
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "Multidisciplinary Fellowship",
-            "definition": "A scholarship structure that convenes scholars from engineering, law, medicine, business, and humanities into joint leadership and problem-solving cohorts."
+            "term": "BDR (Biosystems Dynamics Research)",
+            "definition": "RIKEN's flagship center focused on deciphering biological life cycles using advanced physics, engineering, and high-performance computing."
           }
         ],
         "source_verification": {
-          "primary_source_name": "Stanford University Knight-Hennessy Portal",
+          "primary_source_name": "RIKEN BDR Portal",
           "source_type": "OPPORTUNITY_PORTAL",
-          "credibility_note": "Direct official portal for Stanford University graduate admissions and scholarship administration.",
-          "original_url": "https://knight-hennessy.stanford.edu/admission/planning-apply",
-          "discussion_or_secondary_url": "https://knight-hennessy.stanford.edu/"
+          "credibility_note": "Official Japanese government national institute research announcement.",
+          "original_url": "https://www.bdr.riken.jp/en/internship",
+          "discussion_or_secondary_url": "https://www.riken.jp/en/careers"
         }
       }
     },
     {
-      "id": "opp-epfl-summer-research-fellowship-cs-2027",
-      "topic_slug": "opp-epfl-summer-research-fellowship-cs-systems-2027",
+      "id": "opp-gsoc-open-source-engineering-mentorship-2027",
+      "topic_slug": "opp-gsoc-open-source-engineering-mentorship-2027",
       "type": "OPPORTUNITY",
       "category": "OPPORTUNITIES",
       "importance_tier": "STANDARD_BRIEF",
-      "headline": "EPFL Summer Research Fellowship 2027: Fully Funded Computer Science & Engineering Internships in Switzerland",
+      "headline": "Google Summer of Code (GSoC) 2027 Announces Open Source Contributor Planning Sprint",
       "summary_points": [
-        "École Polytechnique Fédérale de Lausanne (EPFL) has launched applications for its prestigious Summer Research Program in Computer and Communication Sciences (School of IC).",
-        "Selected undergraduate and master's students spend 3 months (July to September 2027) conducting cutting-edge research in distributed systems, machine learning, cryptography, or computer architecture.",
-        "Fellows receive a monthly living allowance of CHF 1,800 (~$2,050 USD), paid single-room Swiss housing, and full reimbursement of international travel expenses."
+        "Google Open Source has published the structural roadmap for GSoC 2027, preparing 12-week and extended 22-week technical coding projects under international mentor organizations.",
+        "Participants contribute to major core systems software—including Linux Kernel, LLVM, Apache Software Foundation, OpenCV, and CERN computational toolkits—while earning a geographically adjusted stipend (approx. $1,500 to $3,000 USD for Bangladesh).",
+        "Early preparation timeline requires candidates to identify target organizations, audit git repositories, and submit upstream pull requests prior to formal proposal submission."
       ],
-      "why_it_matters": "EPFL ranks alongside ETH Zurich and Cambridge as the premier engineering institution in Europe. Landing a funded summer fellowship in Lausanne gives Bangladeshi computer engineering students direct access to world-class supercomputing clusters and direct pipeline advantages for Swiss doctoral assistantships.",
+      "why_it_matters": "The single highest-ROI remote software credential for engineering undergraduates in Bangladesh: establishes verifiable production code commits in globally respected open-source codebases, bypassing traditional local hiring gatekeepers.",
       "deep_dive_analysis": null,
       "opportunity_meta": {
         "is_opportunity": true,
-        "deadline": "2026-11-15",
-        "funding_or_reward": "Fully Funded (CHF 1,800/month + Housing + International Airfare)",
-        "eligibility": "Enrolled BSc or MSc students in Computer Science, Computer Engineering, Telecommunications, or Electrical Engineering"
+        "deadline": "2027-02-15",
+        "funding_or_reward": "Stipend ($1,500 – $3,000 USD depending on project size) + Global Credential",
+        "eligibility": "Open to all software developers 18+ and enrolled students worldwide"
       },
       "side_panel": {
         "jargon_buster": [
           {
-            "term": "School of IC (EPFL)",
-            "definition": "The School of Computer and Communication Sciences at EPFL, renowned globally for breakthroughs in systems architecture, formal verification, and network security."
+            "term": "Pull Request (PR)",
+            "definition": "A formal submission of proposed code modifications to a centralized software repository for review, automated testing, and merge approval by senior maintainers."
           }
         ],
         "source_verification": {
-          "primary_source_name": "EPFL Official Program Portal",
+          "primary_source_name": "Google Open Source",
           "source_type": "OPPORTUNITY_PORTAL",
-          "credibility_note": "Direct official academic portal administered by École Polytechnique Fédérale de Lausanne.",
-          "original_url": "https://www.epfl.ch/schools/ic/education/summer-at-epfl/",
-          "discussion_or_secondary_url": "https://www.epfl.ch/en/"
+          "credibility_note": "Official global program timeline managed directly by Google Open Source Programs Office.",
+          "original_url": "https://summerofcode.withgoogle.com",
+          "discussion_or_secondary_url": "https://opensource.googleblog.com"
         }
       }
     }
