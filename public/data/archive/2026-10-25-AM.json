@@ -1,0 +1,395 @@
+{
+  "edition_id": "2026-10-25-AM",
+  "generated_at_utc": "2026-10-25T04:10:05.359Z",
+  "generated_at_bst": "10/25/2026, 10:10:05 AM BST",
+  "edition_shift": "MORNING_0600_BST",
+  "executive_pulse": "Heightened US-Iran brinkmanship and European austerity clashes rattle global energy and trade markets, while Bangladesh Bank enforces real-time forex surveillance to anchor the Crawling Peg corridor. Engineering undergraduates face shifting AI system harness paradigms alongside newly opened tier-one global fellowships.",
+  "stats": {
+    "total_items": 10,
+    "news_count": 7,
+    "opportunities_count": 3,
+    "sources_scanned": 130
+  },
+  "items": [
+    {
+      "id": "bb-crawling-peg-fx-realtime-mandate-2026",
+      "topic_slug": "bangladesh-bank-realtime-forex-monitoring-crawling-peg",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Bangladesh Bank Mandates Real-Time FX Liquidity Surveillance to Reinforce 122.50 BDT/USD Crawling Peg Band",
+      "summary_points": [
+        "Bangladesh Bank issues an emergency directive to all scheduled commercial banks requiring API-level, transaction-by-transaction reporting of interbank and retail foreign currency positions by 16:00 BST daily.",
+        "The central bank tightened enforcement of the Crawling Peg Mid-Rate (CPMR) band set at 122.50 BDT/USD (allowing a +/- 1.0% corridor) to prevent unauthorized informal offshore spreads.",
+        "The move directly curbs speculative hoarding by merchant exporters and unauthorized parallel curb-market premiums ahead of heavy sovereign external debt repayment obligations scheduled for November 2026."
+      ],
+      "why_it_matters": "For any citizen and tech professional in Bangladesh, currency stabilization determines domestic purchasing power, the real import cost of laptops/semiconductors, and credit card limit caps for global examinations (GRE/IELTS) or cloud infrastructure billing (AWS/GCP).",
+      "deep_dive_analysis": "The central bank's transition from passive aggregate reporting to granular, API-driven transaction tracking represents a major enforcement pivot in managing Bangladesh's external account. Throughout early autumn 2026, informal market diversions created persistent 3–5 taka spreads between interbank quotes and authorized dealer over-the-counter rates, draining prospective official remittance inflows and straining gross international reserves calculated under the IMF's BPM6 standard.\n\nBy forcing commercial treasuries into automated real-time settlement transparency, the central bank aims to eliminate hidden spread markups that banks previously charged to commercial importers. The immediate operational friction will fall on commercial trade divisions, who must now clear open LC positions without relying on off-the-books currency swaps, temporarily slowing high-value capital machinery clearances.\n\nFor the macroeconomic outlook, this clampdown serves as a critical firewall against imported energy inflation. If the crawling peg band holds sustainably at 122.50–123.70 BDT/USD, it reduces domestic budgetary pressure on fuel and LNG subsidies while preventing further erosion of student foreign exchange quotas, though liquidity across mid-tier private commercial banks will remain intensely constrained through Q4.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Crawling Peg",
+            "definition": "A regime of exchange rate management where an exchange rate is allowed to fluctuate within a narrow, pre-set band adjusted periodically based on inflation differentials."
+          },
+          {
+            "term": "BPM6 Reserves",
+            "definition": "The IMF's Balance of Payments Manual 6 standard, which measures strictly liquid, net spendable foreign assets excluding encumbered funds or forward liabilities."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Bangladesh Bank Banking Regulation and Policy Department (BRPD)",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Direct sovereign monetary policy directive published by Bangladesh's central bank",
+          "original_url": "https://www.bb.org.bd",
+          "discussion_or_secondary_url": "https://www.tbsnews.net/economy/banking"
+        }
+      }
+    },
+    {
+      "id": "us-iran-brinkmanship-crude-shock-threat-2026",
+      "topic_slug": "us-iran-military-strike-threat-strait-of-hormuz-oil",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "US Threatens Imminent Strikes on Tehran as Embassy Evacuations Escalate Global Crude Shock Warning",
+      "summary_points": [
+        "The United States reduced diplomatic staffing across four Middle Eastern embassies following verified intelligence warnings of advanced retaliatory plots targeting American personnel abroad.",
+        "US political leadership signaled possible direct kinetic military strikes against Iranian facilities, alternating with ultimatums for a sweeping non-proliferation agreement.",
+        "The Islamic Revolutionary Guard Corps (IRGC) published warnings projecting Brent crude surging to $117 per barrel should Gulf maritime transit corridors face disruption."
+      ],
+      "why_it_matters": "Bangladesh imports over 90% of its petroleum and LNG through maritime routes vulnerable to Middle Eastern chokepoints; a jump to triple-digit oil would instantly wipe out government fiscal buffers, spike freight costs for RMG exports, and trigger domestic transport fare hikes.",
+      "deep_dive_analysis": "The standoff between Washington and Tehran has escalated from localized proxy skirmishes to the threshold of open interstate confrontation. Intelligence disclosures pointing toward active operational staging against US diplomatic installations triggered immediate non-essential personnel evacuations across the region. Concurrently, US defense posture in the Persian Gulf and Red Sea has transitioned to defensive alert status, signaling that any offensive strike would immediately invite asymmetric strikes against maritime transit nodes.\n\nThe structural danger to global trade lies in the vulnerability of the Strait of Hormuz, through which roughly 20% of global petroleum liquids pass daily. Tehran's public projection of $117 crude is an economic coercion lever aimed directly at Western political leadership ahead of legislative midterms. Any kinetic confrontation involving coastal anti-ship missile batteries or drone salvos would instantly prompt maritime insurers to cancel war-risk coverage, locking crude in the Persian Gulf.\n\nFor non-oil-producing emerging economies like Bangladesh, an oil shock of this magnitude would be devastating. Even a temporary disruption would cascade into spot LNG import pricing (JKM), forcing Petrobangla to curtail natural gas supplies to industrial captive power plants and fertilizer factories. This elevates national fuel bills and compels domestic energy authorities to impose rolling load management across export processing zones.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "War-Risk Surcharge",
+            "definition": "An additional insurance fee levied by underwriters on cargo ships operating in zones deemed active combat areas or maritime conflict flashpoints."
+          },
+          {
+            "term": "Asymmetric Warfare",
+            "definition": "Unconventional military tactics—such as drone swarms, cyber attacks, and naval mines—used by a technologically or conventionally smaller force against a superior adversary."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Washington Post & Reuters Intelligence Wire",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Corroborated across official Pentagon intelligence briefs and international wire services",
+          "original_url": "https://www.washingtonpost.com/world/national-security/",
+          "discussion_or_secondary_url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live"
+        }
+      }
+    },
+    {
+      "id": "bpc-dynamic-fuel-pricing-gazette-nov-2026",
+      "topic_slug": "bpc-petrobangla-automated-fuel-pricing-formula-adjustment",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Energy Ministry Finalizes Automated Fuel Formula Adjustments Ahead of November 2026 Gazette",
+      "summary_points": [
+        "The Ministry of Power, Energy and Mineral Resources completed calculations under the dynamic fuel pricing mechanism, projecting a modest 50 to 75 poisha decrease per liter for diesel and kerosene.",
+        "Octane and petrol rates are projected to remain steady at 125 BDT and 121 BDT per liter, respectively, absorbing recent local currency exchange stabilization against the dollar.",
+        "Bangladesh Petroleum Corporation (BPC) noted that while spot crude benchmark prices eased slightly in early October, the pricing window remains narrow due to geopolitical tensions in the Middle East."
+      ],
+      "why_it_matters": "Diesel costs directly dictate irrigation pump operating expenses for winter Boro crop cultivation and logistics costs across Dhaka-Chattogram transport arteries, impacting everyday kitchen market inflation for every citizen.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Dynamic Fuel Pricing",
+            "definition": "A formula-based pricing system that automatically recalibrates retail fuel rates each month to mirror international benchmark procurement costs and foreign exchange movements."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ministry of Power, Energy and Mineral Resources",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Statutory energy regulatory authority gazette tracking national procurement tariffs",
+          "original_url": "https://powerdivision.gov.bd",
+          "discussion_or_secondary_url": "https://www.tbsnews.net/bangladesh/energy"
+        }
+      }
+    },
+    {
+      "id": "pentagon-memo-prediction-market-intel-ban",
+      "topic_slug": "pentagon-prediction-market-military-insider-ban",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Pentagon Issues Directive Prohibiting Military Personnel from Trading on Prediction Markets",
+      "summary_points": [
+        "A formal Pentagon memorandum warns that insider trading on decentralized and retail prediction markets (such as Polymarket and Kalshi) endangers operational security and troop safety.",
+        "Defense officials flagged that wagering on kinetic deployment timelines, weapons transfer dates, and conflict escalation provides foreign intelligence services with aggregated real-time signals.",
+        "The guidance establishes immediate Uniform Code of Military Justice (UCMJ) liabilities for service members and defense contractors placing bets on national security and geopolitical contracts."
+      ],
+      "why_it_matters": "Shows how decentralized financial tools and open prediction markets intersect with defense intelligence. For engineering students studying cybersecurity and open-source intelligence (OSINT), information leakage through financial incentives is now recognized as an attack vector.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Prediction Market",
+            "definition": "An exchange-traded market where participants trade contracts whose payoffs depend on the outcome of future events, creating crowd-sourced probability assessments."
+          },
+          {
+            "term": "Operational Security (OPSEC)",
+            "definition": "A systematic process that identifies critical information and prevents unclassified data points from being pieced together by adversaries to deduce military actions."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica Tech Policy Desk",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Specialized investigative reporting based on internal Department of Defense documentation",
+          "original_url": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
+          "discussion_or_secondary_url": "https://news.ycombinator.com"
+        }
+      }
+    },
+    {
+      "id": "ai-serving-harness-architecture-shift-mit",
+      "topic_slug": "enterprise-ai-serving-harness-low-latency-inference",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Inference Engineering Shift: Serving Harnesses Eclipse Model Scale in Enterprise AI Systems",
+      "summary_points": [
+        "Analysis published by MIT Technology Review indicates commercial competitive advantage in enterprise AI has decoupled from raw model parameter count, shifting toward custom inference serving harnesses.",
+        "Modern production deployments prioritize dynamic speculative decoding, continuous batching, and context-caching middleware over upgrading foundational model size.",
+        "Stateful agent orchestration and rigorous low-latency pipelines are proving decisive in enterprise reliability, shifting engineering hiring demand toward systems software rather than pure prompt engineering."
+      ],
+      "why_it_matters": "Undergraduate software and computer engineers at institutions like MIST must align their technical toolchains with production reality: mastering vLLM, TensorRT-LLM, KV-cache management, and Rust/C++ inference pipelines offers vastly higher market leverage than generic API-wrapper development.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Serving Harness",
+            "definition": "The complete software architecture that wraps around an AI model to handle routing, batching, hardware acceleration, memory allocation, and monitoring in production."
+          },
+          {
+            "term": "KV Cache",
+            "definition": "A memory optimization technique storing intermediate key-value projections during autoregressive generation to avoid redundant recalculation across long token sequences."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "MIT Technology Review",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Premier technology research and applied computing engineering analysis publication",
+          "original_url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+          "discussion_or_secondary_url": "https://arstechnica.com/gadgets"
+        }
+      }
+    },
+    {
+      "id": "western-europe-austerity-clashes-1000-arrests",
+      "topic_slug": "western-europe-mass-protests-inflation-austerity-strikes",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Over 1,100 Arrested Across France, Spain, and Italy as Anti-Austerity Protests Turn Violent",
+      "summary_points": [
+        "Coordinated mass demonstrations erupted across Paris, Barcelona, and Rome against rising living costs, pension freezes, and deep fiscal cuts to municipal public services.",
+        "In France, police detained nearly 1,000 demonstrators following clashes that resulted in water cannons being deployed in central Paris, while commercial storefronts faced property damage in Barcelona.",
+        "Labor unions across southern Europe have threatened synchronized rail, transport, and port strikes ahead of winter 2026 budget ratification votes."
+      ],
+      "why_it_matters": "Sustained unrest and potential port/freight slowdowns across major European economies threaten logistics throughput for Bangladeshi apparel exports entering Rotterdam and Hamburg, while highlighting the political fragility of fiscal tightening across the OECD.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Fiscal Austerity",
+            "definition": "Economic policies characterized by reduced government expenditure and increased tax enforcement aimed at reducing sovereign budget deficits."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC World News & Reuters Wire",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Consensus reporting from international broadcast wires and European bureau dispatches",
+          "original_url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo",
+          "discussion_or_secondary_url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap"
+        }
+      }
+    },
+    {
+      "id": "us-space-force-commercial-spaceport-expansion",
+      "topic_slug": "space-force-cape-canaveral-bottleneck-new-spaceport",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "QUICK_SIGNAL",
+      "headline": "Space Force Expedites Search for New Deep-Water Spaceport Site to Relieve Cape Canaveral Congestion",
+      "summary_points": [
+        "United States Space Force commanders warned that orbital launch cadence is on track to saturate Cape Canaveral and Vandenberg launch pads by 2030.",
+        "The Pentagon is evaluating public-private partnerships, federal coastal reservations, and state land leases to construct a resilient, high-capacity commercial-military spaceport.",
+        "Rapid launch expansion is driven by the deployment of distributed resilient satellite constellations and responsive military orbital replenishment doctrine."
+      ],
+      "why_it_matters": "Space logistics is shifting into an industrial-scale transport utility, creating long-term engineering demand for aerospace trajectories, autonomous launch-tower mechanical systems, and satellite bus engineering worldwide.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Responsive Launch",
+            "definition": "The capability to build, integrate, and launch an orbital payload within 24 to 72 hours of receiving a strategic mission directive."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica Space Division",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Specialized aerospace engineering journalism with direct defense briefings",
+          "original_url": "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/",
+          "discussion_or_secondary_url": "https://news.ycombinator.com"
+        }
+      }
+    },
+    {
+      "id": "opp-cern-summer-student-programme-2027",
+      "topic_slug": "cern-summer-student-programme-switzerland-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "CERN Summer Student Programme 2027 Opens Applications for Undergraduate Engineers and Physicists",
+      "summary_points": [
+        "The European Organization for Nuclear Research (CERN) has opened formal registrations for its flagship 8 to 13 week Summer Student Programme in Geneva, Switzerland.",
+        "Open to undergraduate and master's students who have completed at least 3 years of full-time university study in physics, computing, electrical engineering, mechanical engineering, or mathematics.",
+        "Covers complete round-trip travel expenses, a daily living allowance of 92 CHF/day (tax-free), comprehensive health insurance, and direct placement within LHC engineering and computing groups."
+      ],
+      "why_it_matters": "For a Bangladeshi engineering undergraduate at MIST, CERN is one of the highest-prestige international research credentials obtainable, providing direct operational experience with peta-scale distributed computing, FPGA acceleration, and cryogenic control systems.",
+      "deep_dive_analysis": "Securing a place in the CERN Summer Student Programme (Non-Member State track) is an established pipeline toward elite European and North American PhD programs and high-performance computing (HPC) research careers. Selected students are integrated directly into operational research groups at the Large Hadron Collider (LHC) and its affiliated experiments (ATLAS, CMS, ALICE, LHCb), working alongside leading global experimental physicists and hardware engineers.\n\nThe technical focus spans far beyond theoretical particle physics: over 50% of summer student projects are centered on computing, electronics, and instrumentation engineering. Tasks routinely involve developing real-time trigger firmware on Xilinx/AMD FPGAs, distributed data analysis with ROOT and Apache Spark, cryogenics sensor automation, and radiation-tolerant circuit design. Fellows also attend an intensive daily lecture series delivered by world authorities in accelerator physics and scientific computing.\n\nApplicants from Non-Member States (which includes Bangladesh) must submit academic transcripts showing strong quantitative standing, two professional or academic recommendation letters, and a CV highlighting practical laboratory or software engineering projects. Competitive applications typically demonstrate proficiency in C++, Python, Linux systems programming, or hardware description languages (Verilog/VHDL), accompanied by concrete Git-versioned coursework or competitive robotics/hackathon experience.",
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2027-01-26",
+        "funding_or_reward": "Fully Funded (92 CHF/day allowance + Flights + Insurance)",
+        "eligibility": "Undergraduate/Master's students in Physics, CS, EE, or Mechanical Eng with >= 3 years completed"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Trigger System",
+            "definition": "An ultra-fast hardware and software filtering pipeline that evaluates millions of particle collision events per second and decides which fraction to record to storage."
+          },
+          {
+            "term": "Non-Member State Track",
+            "definition": "A dedicated institutional quota and funding allocation reserved for researchers and students whose home countries are not formal financial members of CERN."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "CERN Careers Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official portal of the European Organization for Nuclear Research",
+          "original_url": "https://careers.cern/summer-student-programme",
+          "discussion_or_secondary_url": "https://cern.ch"
+        }
+      }
+    },
+    {
+      "id": "opp-amgen-scholars-asia-program-2027",
+      "topic_slug": "amgen-scholars-program-asia-tokyo-nus-biotech-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Amgen Scholars Asia 2027 Launches Applications for Undergraduate Biotech and Bio-Systems Research",
+      "summary_points": [
+        "The Amgen Foundation has opened its 2027 Asia cohort applications for 8-week summer research fellowships hosted at the University of Tokyo, Kyoto University, NUS, and Tsinghua University.",
+        "Fully funded program covering round-trip international airfare, furnished on-campus accommodation, a dedicated living stipend (approx. $2,000–$2,800 USD equivalent), and participation in the annual Amgen Scholars Asia Symposium.",
+        "Open to undergraduate students globally who are enrolled in accredited four-year colleges/universities and have completed at least their second undergraduate year in biomedical, chemical, bio-engineering, or computational sciences."
+      ],
+      "why_it_matters": "Provides South Asian engineering and life sciences students with access to tier-one East Asian wet-lab and computational biology infrastructure without the financial barrier of self-funded summer programs.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2027-02-01",
+        "funding_or_reward": "Fully Funded (Stipend + Housing + Roundtrip Airfare)",
+        "eligibility": "Undergraduate STEM students enrolled in accredited institutions worldwide (2nd year completed)"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Computational Biology",
+            "definition": "The application of data-analytical and theoretical methods, mathematical modeling, and computational simulation techniques to the study of biological, ecological, and behavioral systems."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Amgen Scholars Global Program Office",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official foundation portal managing multi-continent university research fellowships",
+          "original_url": "https://amgenscholars.com/asia-program/",
+          "discussion_or_secondary_url": "https://u-tokyo.ac.jp"
+        }
+      }
+    },
+    {
+      "id": "opp-ict-division-idea-grant-call-2026-2027",
+      "topic_slug": "ict-division-idea-project-preseed-innovation-grant-call",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "QUICK_SIGNAL",
+      "headline": "ICT Division iDEA Project Calls for University Deep-Tech Prototypes for Up to 10 Lakh BDT Pre-Seed Grants",
+      "summary_points": [
+        "The Innovation Design and Entrepreneurship Academy (iDEA) Project under the ICT Division of Bangladesh has opened its Q4 grant evaluation window for student-led and early-stage tech founders.",
+        "Provides an equity-free government grant of up to 10,000,000 BDT (10 Lakh) for proof-of-concept and prototype stage startups specializing in edge IoT, agritech, robotics, or localized AI software.",
+        "Recipients gain access to mentoring, co-working space at the Agargaon ICT Tower, legal incorporation support, and fast-track evaluation for downstream commercial venture funding."
+      ],
+      "why_it_matters": "Offers a direct domestic path for MIST and Bangladeshi engineering capstone project groups to convert undergraduate theses into funded, legally incorporated deep-tech startups without surrendering founder equity.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-11-30",
+        "funding_or_reward": "Equity-Free Grant up to 1,000,000 BDT (10 Lakh BDT)",
+        "eligibility": "Bangladeshi undergraduate students, fresh graduates, or early-stage tech ventures"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Equity-Free Grant",
+            "definition": "Financial capital awarded to an entrepreneur or researcher that does not require giving up ownership shares or intellectual property control in the venture."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "iDEA Project, ICT Division Bangladesh",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official startup ecosystem development vehicle of the Government of Bangladesh",
+          "original_url": "https://idea.gov.bd",
+          "discussion_or_secondary_url": "https://ictd.gov.bd"
+        }
+      }
+    }
+  ]
+}
