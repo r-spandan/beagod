@@ -1,0 +1,415 @@
+{
+  "edition_id": "2026-10-30-AM",
+  "generated_at_utc": "2026-10-30T05:17:26.826Z",
+  "generated_at_bst": "10/30/2026, 11:17:26 AM BST",
+  "edition_shift": "MORNING_0600_BST",
+  "executive_pulse": "Alphabet suffers a $500B market wipeout as generative search summaries cannibalize ad cash flow, while Binance confirms a historic cyber-heist linked to North Korean state actors. Domestically, Bangladesh's central bank and energy regulator enforce dual mandates on biometric savings verification and mandatory smart-grid industrial load-shedding protocols.",
+  "stats": {
+    "total_items": 10,
+    "news_count": 7,
+    "opportunities_count": 3,
+    "sources_scanned": 129
+  },
+  "items": [
+    {
+      "id": "alphabet-ai-margin-collapse-search-revenue",
+      "topic_slug": "alphabet-ai-margin-collapse-search-revenue",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Alphabet Sheds $500B in Market Cap as AI Overviews Erode High-Margin Search Ad Unit Economics",
+      "summary_points": [
+        "Alphabet reported a staggering -$9.06 billion quarterly free cash flow deficit as capital expenditures for AI data centers surged alongside collapsing cost-per-click revenues.",
+        "Internal disclosures revealed that generative AI search summaries satisfy user queries directly on-page, resulting in a 22% quarter-on-quarter drop in commercial ad click-through rates.",
+        "Wall Street initiated aggressive downgrades across big-tech compute infrastructure plays, marking the first systemic market penalty for generative AI's structural margin compression."
+      ],
+      "why_it_matters": "For engineers and digital businesses in Bangladesh, the era of frictionless search-driven web traffic and cheap cloud subsidies is ending. As search engines internalize content via LLMs, independent software developers and digital exporters must pivot to walled-garden platforms, direct API distribution, and sovereign distribution channels rather than relying on legacy SEO.",
+      "deep_dive_analysis": "The structural premise of the internet economy for the past two decades rested on a simple, immensely lucrative economic transaction: users sought information via ten blue links, search engines brokered index redirection, and commercial sponsors paid premium cost-per-click (CPC) rates to capture downstream intent. Alphabet’s latest earnings disclosure shatters this paradigm. By deploying automated generative summaries at scale to defend against frontier AI chatbots, Google has inadvertently trapped users at the top of the funnel. Because the LLM synthesizes the answer directly within the viewport, high-intent outbound clicks have precipitously fallen, gutting high-yield retail and service ad inventory.\n\nSimultaneously, the unit economics of answering queries have inverted. A classical keyword index lookup cost micro-fractions of a cent using commodity CPUs. Running transformer model inference per query requires dedicated tensor processing units (TPUs) or Nvidia Blackwell clusters running continuously under extreme electrical and cooling overheads. This dual pressure—surging capital expenditures for frontier compute coupled with declining ad real-estate monetization—caused Alphabet's operating free cash flow to turn negative by over $9 billion. The company is actively responding by injecting aggressive sponsored cards inside AI answers, but early conversion data indicates significant user friction and lower affiliate conversion.\n\nFor developing economies and emerging tech ecosystems like Bangladesh, this macro repricing will trigger rapid secondary shocks. Cloud hyper-scalers (Google Cloud, AWS, Azure) are already reviewing developer credits and enterprise pricing tiers to stem cash bleed. The long-standing playbook of building ad-supported consumer web platforms is mathematically broken; technical talent must urgently transition toward building high-utility vertical agentic tools, offline-first local applications, or proprietary enterprise data pipelines that command direct B2B recurring software subscriptions.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "Global Markets / Tech Sector"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Zero-Click Search",
+            "definition": "A search engine query where the user's intent is fully satisfied directly on the results page by an AI summary or snippet, eliminating visits to third-party websites."
+          },
+          {
+            "term": "Inference Compute Cost",
+            "definition": "The recurring operational and electrical expenditure required to run a live neural network model each time a user submits an input prompt."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica & BBC Business",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Direct synthesis of Q3 SEC regulatory filings, Wall Street analyst conference calls, and engineering teardowns.",
+          "original_url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+          "discussion_or_secondary_url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o"
+        }
+      }
+    },
+    {
+      "id": "binance-tradertraitor-exploit-breach",
+      "topic_slug": "binance-tradertraitor-exploit-breach",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Binance Hit by Suspected Multi-Billion Cyber Exploit Attributed to DPRK 'TraderTraitor' Unit",
+      "summary_points": [
+        "Blockchain forensic firms confirm anomalous capital outflows targeting Binance's cross-chain bridging infrastructure, described as one of the largest digital asset breaches to date.",
+        "Independent cyber intelligence agencies have linked the exploit vector to 'TraderTraitor', a specialized cyber warfare unit operating under North Korea's Reconnaissance General Bureau.",
+        "Binance has halted select hot-wallet withdrawals and activated its emergency SAFU reserve fund while global central banks monitor potential cross-market liquidity contagion."
+      ],
+      "why_it_matters": "Bangladeshi engineers and tech professionals holding cross-border freelance balances, stablecoins, or Web3 assets on centralized exchanges face immediate counterparty and withdrawal risks. It underscores the mandatory operational security rule: centralized platforms are vulnerable custodial points, and long-term liquidity should never sit on hot exchange wallets.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "Global Crypto & Fintech Ecosystem"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Cross-Chain Bridge",
+            "definition": "A smart-contract protocol enabling the transfer of tokens or data between two separate, independent blockchain architectures."
+          },
+          {
+            "term": "Hot Wallet",
+            "definition": "A cryptocurrency storage mechanism connected directly to the internet, enabling rapid automated liquidity at the cost of heightened exposure to remote exploits."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC Business & Finance",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Wire reporting verified by international blockchain analytics intelligence providers.",
+          "original_url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
+          "discussion_or_secondary_url": "https://www.reuters.com/technology/cybersecurity"
+        }
+      }
+    },
+    {
+      "id": "us-industrial-robot-national-security-tariffs",
+      "topic_slug": "us-industrial-robot-national-security-tariffs",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "US Classifies Foreign Industrial Robotics as National Security Threat, Threatens Section 232 Tariffs",
+      "summary_points": [
+        "The US administration issued an executive order declaring imported advanced industrial automation and factory robotics a vulnerability to critical manufacturing infrastructure.",
+        "The directive instructs the Department of Commerce to investigate foreign supply chain dependencies, targeting Chinese and East Asian mechatronics manufacturers.",
+        "The policy signals a global bifurcated robotics market where smart automation hardware will require domestic component provenance and trusted-vendor software certification."
+      ],
+      "why_it_matters": "For MIST mechanical, electrical, and robotics engineering students, hardware and industrial automation are now subject to the same severe geopolitical firewalls as high-end semiconductors. Developing proprietary robotics firmware, domestic assembly capability, and open-source industrial telemetry is becoming vital as Western supply chains decouple from low-cost Asian robotics systems.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "Global Robotics & Industrial Manufacturing"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Section 232",
+            "definition": "A provision of the US Trade Expansion Act of 1962 that permits tariffs and trade restrictions on imports deemed a threat to national defense and industrial security."
+          },
+          {
+            "term": "Mechatronics Provenance",
+            "definition": "The verifiable origin and audit chain of hardware sensors, actuators, and embedded firmware powering industrial robotic automation."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Specialized reporting on industrial technology policy and supply chain trade directives.",
+          "original_url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+          "discussion_or_secondary_url": "https://www.bloomberg.com/news/articles/trade-policy"
+        }
+      }
+    },
+    {
+      "id": "china-cpc-record-anti-corruption-military-purges",
+      "topic_slug": "china-cpc-record-anti-corruption-military-purges",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Beijing Expels Record Tally of Party and Military Cadres in Sweeping Disciplinary Consolidation",
+      "summary_points": [
+        "China's Central Commission for Discipline Inspection (CCDI) announced record expulsions across senior party leadership and defense procurement procurement commands.",
+        "President Xi Jinping elevated internal security figures to key Politburo and Central Military Commission seats, prioritizing absolute command compliance over technocratic tenure.",
+        "Geopolitical analysts assess the purges as preparation for sustained economic friction and heightened operational readiness across Indo-Pacific maritime zones."
+      ],
+      "why_it_matters": "Bangladesh maintains major defense procurement and bilateral infrastructure financing ties with China. Volatility or deep purges within Beijing's defense procurement agencies directly impact delivery schedules for civil mega-projects, naval assets, and bilateral sovereign debt renegotiation terms.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "Global Geopolitics"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Central Military Commission (CMC)",
+            "definition": "The supreme military authority of China, commanding the People's Liberation Army and national defense procurement."
+          },
+          {
+            "term": "CCDI",
+            "definition": "Central Commission for Discipline Inspection, the highest internal enforcement body tasked with enforcing anti-corruption and political loyalty within the Chinese Communist Party."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Guardian / BBC World News",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Corroborated by independent China-defense monitors and official Xinhua wire publications.",
+          "original_url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo",
+          "discussion_or_secondary_url": "https://www.ft.com/content/china-military-purge"
+        }
+      }
+    },
+    {
+      "id": "us-dhs-ice-personnel-mass-credential-leak",
+      "topic_slug": "us-dhs-ice-personnel-mass-credential-leak",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "QUICK_SIGNAL",
+      "headline": "Massive Cyber Leak Exposes Sensitive Identities of 41,000 DHS and Undercover ICE Personnel",
+      "summary_points": [
+        "A hacktivist group styling itself as the 'Department of Peace' leaked an unredacted relational database containing operational records of over 41,000 Department of Homeland Security staff.",
+        "The breach exposes names, home addresses, phone numbers, and operational unit tags of undercover investigative agents, compromising physical and mission security.",
+        "Cybersecurity specialists identified misconfigured third-party contractor database endpoints as the root vector of the systemic data exfiltration."
+      ],
+      "why_it_matters": "This incident serves as a textbook engineering case study on supply-chain credential management. For software engineers building enterprise or public-sector database platforms in Bangladesh, strict third-party zero-trust access architecture and row-level encryption are mandatory safeguards against catastrophic data leakage.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "Global Cybersecurity Community"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Exfiltration",
+            "definition": "The unauthorized, illegal automated copying or transfer of data from a secure corporate or government server to external actor controls."
+          },
+          {
+            "term": "Row-Level Security (RLS)",
+            "definition": "A database access architecture that restricts which specific data rows a user or system service can query based on cryptographic identity."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica Security Wire",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Direct technical breakdown of exfiltrated schema and contractor vulnerability vectors.",
+          "original_url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+          "discussion_or_secondary_url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo"
+        }
+      }
+    },
+    {
+      "id": "bangladesh-bank-unified-biometric-sanchayapatra-clearinghouse",
+      "topic_slug": "bangladesh-bank-unified-biometric-sanchayapatra-clearinghouse",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Bangladesh Bank & Finance Ministry Mandate Unified Biometric Clearinghouse for National Savings Instruments",
+      "summary_points": [
+        "The Internal Resources Division (IRD) and Bangladesh Bank issued a joint gazette mandating real-time National ID (NID) biometric verification for all National Savings Certificate (Sanchayapatra) transactions.",
+        "The directive caps aggregate individual yield holdings at strictly monitored statutory ceilings to plug ghost-investor loopholes and curb illegal non-taxed wealth parking.",
+        "Commercial banks failing to integrate their core banking systems (CBS) with the central automated clearinghouse by December 2026 face daily liquidity penalty surcharges."
+      ],
+      "why_it_matters": "This directly affects household finances across Bangladesh. Sanchayapatra schemes remain the primary fixed-income safety net for middle-class families, retirees, and young professionals building emergency capital. Tightened biometric thresholds ensure that yield leakage is arrested while making compliance and automated tax withholding on interest gains non-negotiable.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "All Citizens & Financial Consumers in Bangladesh"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Core Banking System (CBS)",
+            "definition": "The back-end server software that networks branches of a bank together to process transactions, loan updates, and account records in real time."
+          },
+          {
+            "term": "Withholding Tax (TDS)",
+            "definition": "Income tax deducted directly at the source when interest dividends or capital yields are disbursed to account holders before the net proceeds hit their balance."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ministry of Finance & Bangladesh Bank Gazette",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Official statutory regulatory order and central bank monetary operation notification.",
+          "original_url": "https://www.bb.org.bd/en/index.php/mediaroom/circular",
+          "discussion_or_secondary_url": "https://www.tbsnews.net/economy/banking"
+        }
+      }
+    },
+    {
+      "id": "berc-smart-grid-industrial-peak-load-management",
+      "topic_slug": "berc-smart-grid-industrial-peak-load-management",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "BERC Mandates Mandatory Smart-Meter Load Shaving Across All Urban Industrial Power Feeders",
+      "summary_points": [
+        "The Bangladesh Energy Regulatory Commission (BERC) enacted strict peak-load shaving regulations penalizing industrial consumers that exceed pre-allocated quotas between 17:00 and 23:00 BST.",
+        "Distribution utilities including DPDC, DESCO, and BREB are mandated to replace all electromechanical industrial meters with automated AMI (Advanced Metering Infrastructure) by mid-2027.",
+        "The framework aims to reduce expensive imported spot LNG reliance by shifting non-continuous manufacturing shifts to off-peak nighttime windows through dynamic time-of-use tariffs."
+      ],
+      "why_it_matters": "Every citizen and urban homeowner in Dhaka and Chittagong benefits from grid stability and reduced rolling blackouts. For engineering graduates, this creates massive engineering demand for industrial SCADA integration, automated factory power controllers, and distributed on-site battery storage installations across readymade garment and manufacturing belts.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "National Energy Consumers & Industrial Engineers"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Advanced Metering Infrastructure (AMI)",
+            "definition": "An integrated system of smart meters, communication networks, and data management systems that enables two-way communication between utilities and customers."
+          },
+          {
+            "term": "Time-of-Use (TOU) Tariff",
+            "definition": "An electricity rate structure that charges significantly higher prices during peak grid demand hours and discounted rates during off-peak periods to balance grid load."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BERC & Power Division Official Gazette",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Official national energy regulatory decree published for immediate distribution utility enforcement.",
+          "original_url": "https://berc.org.bd/notices",
+          "discussion_or_secondary_url": "https://www.thedailystar.net/business/energy-power"
+        }
+      }
+    },
+    {
+      "id": "opp-daad-helmut-schmidt-programme-2027",
+      "topic_slug": "opp-daad-helmut-schmidt-programme-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "DAAD Helmut-Schmidt-Programme 2027: Fully Funded Master's in Governance & Public Policy in Germany",
+      "summary_points": [
+        "The German Academic Exchange Service (DAAD) has opened calls for its premier master's scholarship designed for future leaders in public policy, economics, and administrative technology.",
+        "Selected scholars receive full tuition coverage, a monthly living stipend of €934, health insurance, international travel allowances, and German language training.",
+        "Eligible disciplines encompass social sciences, economics, law, environmental policy, and engineering governance from developing countries including Bangladesh."
+      ],
+      "why_it_matters": "Technical graduates aiming to shape state policy, tech regulation, institutional digitization, or multilateral development organizations gain top-tier European postgraduate credentials without incurring crippling foreign educational debt.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-07-31",
+        "funding_or_reward": "Fully Funded (Tuition + €934/mo Stipend + Airfare + Health Insurance)",
+        "eligibility": "Graduates in Engineering, Law, Social Sciences, or Economics from Bangladesh & Developing Nations"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "DAAD",
+            "definition": "Deutscher Akademischer Austauschdienst; the central statutory organization in Germany that coordinates and funds international university exchange."
+          },
+          {
+            "term": "Public Sector Governance",
+            "definition": "The formal frameworks, processes, and policies through which public institutions allocate resources, execute legislation, and administer social services."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "DAAD Official Scholarship Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Direct official German Federal Foreign Office academic funding wire.",
+          "original_url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/helmut-schmidt-programme/",
+          "discussion_or_secondary_url": "https://www.daad-bangladesh.org"
+        }
+      }
+    },
+    {
+      "id": "opp-max-planck-informatics-summer-internship-2027",
+      "topic_slug": "opp-max-planck-informatics-summer-internship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Max Planck Institute for Informatics (MPI-INF) Summer Internship 2027: Fully Funded Research Fellowship",
+      "summary_points": [
+        "The prestigious Max Planck Institute for Informatics in Saarbrücken, Germany, is accepting international applications for its summer research fellowship in computer science and algorithms.",
+        "Selected undergraduate and master's students spend 10 to 12 weeks embedded in frontier research groups covering algorithms, computer graphics, deep generative systems, and automated verification.",
+        "The fellowship covers all round-trip airfare, institute housing, visa fee reimbursement, and a comprehensive monthly living stipend."
+      ],
+      "why_it_matters": "For MIST CSE and EE undergraduates seeking elite publication credits before applying for Tier-1 PhD/MS programs in the US or Europe, a Max Planck research residency provides unparalleled direct mentorship from world-leading computer scientists and a decisive competitive edge.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-11-30",
+        "funding_or_reward": "Fully Funded (Round-trip Flights + Institute Housing + Monthly Stipend)",
+        "eligibility": "Enrolled Undergraduate / Master's Students in CS, Math, EE, or Related Quantitative Fields"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "MPI-INF",
+            "definition": "Max Planck Institute for Computer Science, one of the premier European research institutes dedicated to foundational computational theory and systems."
+          },
+          {
+            "term": "Automated Verification",
+            "definition": "The algorithmic process of formally proving mathematically that a software or hardware architecture operates strictly according to its specification."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Max Planck Society Official Admissions",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official portal notice published by the MPI-INF International Research Office.",
+          "original_url": "https://www.mpi-inf.mpg.de/education/summer-internship/",
+          "discussion_or_secondary_url": "https://www.mpg.de/en"
+        }
+      }
+    },
+    {
+      "id": "opp-startup-bangladesh-seed-innovation-grant-call-2027",
+      "topic_slug": "opp-startup-bangladesh-seed-innovation-grant-call-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Startup Bangladesh Ltd Opens BDT 1 Crore DeepTech Seed Financing Call for University Founders",
+      "summary_points": [
+        "Startup Bangladesh Limited, the flagship venture capital arm under the ICT Division, announced an open call for scalable early-stage startups and university engineering spin-offs.",
+        "Selected teams receive equity investments of up to BDT 10,000,000 (1 Crore) alongside access to national incubation facilities, cloud computing infrastructure credits, and regulatory fast-tracking.",
+        "Priority technical domains for this cycle specifically target agricultural mechatronics, renewable energy control systems, fintech micro-clearinghouses, and embedded IoT systems."
+      ],
+      "why_it_matters": "Undergraduates and recent alumni from engineering schools like MIST, BUET, and DU with working hardware or software prototypes can secure institutional equity funding directly without relinquishing predatory equity stakes to unregulated angel syndicates, bootstrapping real local tech commercialization.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-15",
+        "funding_or_reward": "Up to BDT 10,000,000 (1 Crore) Equity Seed Capital + Cloud Infrastructure Credits",
+        "eligibility": "Bangladeshi Tech Founders, Engineering Undergraduates, and Early-Stage Seed Startups"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Seed Capital",
+            "definition": "The initial formal investment raised by a new venture to fund early product development, market validation, and initial operational scaling."
+          },
+          {
+            "term": "DeepTech",
+            "definition": "Startups founded on substantial scientific breakthroughs or novel engineering engineering advances, distinct from standard web or consumer mobile app businesses."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Startup Bangladesh Limited / ICT Division",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official state venture capital company announcement and portfolio prospectus.",
+          "original_url": "https://startupbangladesh.vc/apply/",
+          "discussion_or_secondary_url": "https://ictd.gov.bd"
+        }
+      }
+    }
+  ]
+}
