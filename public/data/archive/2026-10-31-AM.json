@@ -1,0 +1,407 @@
+{
+  "edition_id": "2026-10-31-AM",
+  "generated_at_utc": "2026-10-31T04:59:48.635Z",
+  "generated_at_bst": "10/31/2026, 10:59:48 AM BST",
+  "edition_shift": "MORNING_0600_BST",
+  "executive_pulse": "Escalating maritime hostilities in the Strait of Hormuz threaten global crude shipping corridors while Big Tech faces an intensifying capex reckoning over near-trillion-dollar AI infrastructure spends. Domestically, Bangladesh Bank tightens liquidity via adjusted foreign-exchange crawling pegs as the National Board of Revenue mandates automated e-Return tax compliance across all formal employment brackets.",
+  "stats": {
+    "total_items": 10,
+    "news_count": 7,
+    "opportunities_count": 3,
+    "sources_scanned": 135
+  },
+  "items": [
+    {
+      "id": "item-20261031-01",
+      "topic_slug": "iran-hormuz-tanker-limpet-mine-attacks-oil-chokepoint",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Strait of Hormuz Mine Explosions Damage Four Tankers, Igniting Global Crude Freight Shockwaves",
+      "summary_points": [
+        "Four commercial oil and chemical tankers suffered hull breaches and secondary engine fires in the Strait of Hormuz after detonating suspected limpet mines along international transit corridors.",
+        "Brent crude futures spiked by 4.8% during pre-market trading, with marine war-risk insurers instantly imposing conditional transit surcharges across all Persian Gulf shipping lanes.",
+        "Regional naval forces have deployed minesweeping units, while Western energy import desks prepare for container and liquefied gas rerouting around the Cape of Good Hope."
+      ],
+      "why_it_matters": "Bangladesh relies on the Persian Gulf for over 80% of its imported refined diesel and liquefied natural gas (LNG). Any sustained naval blockade or asymmetric mine threat in Hormuz instantly inflates import bills, erodes Bangladesh Bank's foreign exchange buffer, and risks triggering emergency power-generation rationing in Dhaka and Chittagong.",
+      "deep_dive_analysis": "The coordinated mine attacks against commercial maritime traffic in the Strait of Hormuz represent the sharpest escalation in Persian Gulf chokepoint warfare since 2019. The Strait functions as the maritime transit artery for roughly 20-21% of total global petroleum consumption and roughly a third of globally traded liquefied natural gas. The detonation of sophisticated limpet mines against four separate vessels indicates a well-orchestrated asymmetric operation rather than a rogue actor incident, signaling an intent to raise the economic cost of maritime transit without precipitating direct state-on-state conventional naval warfare.\n\nThe immediate mechanism of disruption is economic and structural rather than merely tactical. Maritime insurance consortiums under the Joint War Committee (JWC) immediately reclassified the Hormuz corridor as an ultra-high-risk operational zone. This reclassification causes hull and machinery war-risk premiums to escalate from 0.05% of vessel value to upwards of 0.45% to 0.75% per transit. For supertankers carrying two million barrels of crude, these additional insurance expenses translate into millions of dollars in added voyage overhead, costs that are directly passed onto Asian buyers through inflated delivered CIF cargo prices.\n\nFor net energy-importing emerging economies like Bangladesh, the second-order consequences are immediate and severe. Elevated Brent benchmarks directly compress the fiscal space of the Bangladesh Petroleum Corporation (BPC) and Petrobangla. Because state-run energy tariffs operate on automated international cost-pass-through formulas, sudden maritime transit shocks in Hormuz inevitably trigger domestic fuel price adjustments within weeks, stoking local inflation and compounding industrial production costs across export-oriented readymade garment (RMG) factories.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Limpet Mine",
+            "definition": "A naval explosive device that attaches magnetically or mechanically to a ship's hull and detonates via timed or remote triggers."
+          },
+          {
+            "term": "Chokepoint",
+            "definition": "A narrow geographical maritime channel that compresses high-density naval traffic, creating systemic vulnerability to disruption."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Al Jazeera English & AP News",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Corroborated across major Middle East maritime security desks, naval monitors, and Bloomberg commodity feeds.",
+          "original_url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz",
+          "discussion_or_secondary_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ"
+        }
+      }
+    },
+    {
+      "id": "item-20261031-02",
+      "topic_slug": "anthropic-cursor-extension-supply-chain-compromise",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Official Anthropic VS Code Extension on Cursor Compromised in 12-Hour Supply-Chain Breach",
+      "summary_points": [
+        "Adversaries hijacked Anthropic's verified publisher credentials on the Cursor AI extension registry, deploying a backdoored build that remained active for nearly 12 hours.",
+        "The malicious payload harvested developer environment variables, SSH private keys, and active API access tokens before exfiltrating them via encrypted webhooks.",
+        "Security researchers confirm the incident highlights severe single-point-of-failure vulnerabilities in decentralized AI IDE extension marketplaces."
+      ],
+      "why_it_matters": "Engineering students, AI practitioners, and software engineers in Bangladesh widely use Cursor for accelerated development. If you updated or used the Anthropic extension during this window, assume all local environment secrets, cloud credentials (AWS/GCP/Azure), and Git keys are compromised and require immediate revocation.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Supply-Chain Attack",
+            "definition": "A cyberattack that targets a trusted third-party vendor, package, or tool to compromise end-users downstream."
+          },
+          {
+            "term": "Environment Variable Exfiltration",
+            "definition": "The illicit extraction of configuration files (e.g., .env) containing database credentials, secret salts, and API tokens."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Specialized reporting on developer tooling vulnerabilities, verified against registry commit hashes.",
+          "original_url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+          "discussion_or_secondary_url": "https://arstechnica.com"
+        }
+      }
+    },
+    {
+      "id": "item-20261031-03",
+      "topic_slug": "big-tech-trillion-dollar-ai-capex-market-correction",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Nasdaq Drops as Annual AI Capital Expenditure Approaches $1 Trillion Mark Amid Margin Skepticism",
+      "summary_points": [
+        "Major semiconductor and tech equities retreated sharply on Wall Street as cumulative annual hyperscaler AI capex projections crossed $1 trillion.",
+        "Institutional investors voiced alarm over delayed software enterprise monetization, pointing to decelerating cloud margins and ballooning server depreciation schedules.",
+        "Venture funding rounds for generic foundation model wrappers are drying up as enterprise buyers pivot exclusively toward proven unit-economic productivity tools."
+      ],
+      "why_it_matters": "The venture capital boom funding entry-level tech jobs and remote engineering contracts is facing a structural valuation reset. Bangladeshi software engineers must transition from building superficial LLM wrappers to developing deep systems engineering, data infrastructure, and cost-efficient edge-inference pipelines.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Capital Expenditure (Capex)",
+            "definition": "Funds spent by corporations to acquire, upgrade, and maintain physical assets such as datacenters, GPUs, and power networks."
+          },
+          {
+            "term": "Edge Inference",
+            "definition": "Running trained machine learning models locally on end-user hardware rather than on centralized high-cost cloud servers."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC Business & Finance",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Macroeconomic tech market reporting reflecting institutional investor sentiment and quarterly earnings data.",
+          "original_url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+          "discussion_or_secondary_url": "https://www.bloomberg.com/markets"
+        }
+      }
+    },
+    {
+      "id": "item-20261031-04",
+      "topic_slug": "poland-constitutional-court-tusk-nawrocki-standoff",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Polish Constitutional Crisis Escalates as Police Secure Top Court Following Judicial Suspensions",
+      "summary_points": [
+        "Polish riot police formed cordons around the Constitutional Tribunal building in Warsaw after Prime Minister Donald Tusk's administration suspended two senior justices facing corruption probes.",
+        "President Andrzej Duda aborted a state visit to Senegal, returning to Warsaw to denounce the move as an unlawful constitutional coup.",
+        "The clash threatens European Union post-pandemic judicial recovery disbursements and highlights the fragility of legal transitions in post-populist European democracies."
+      ],
+      "why_it_matters": "Poland’s constitutional impasse serves as a prime case study in the institutional friction that occurs when incoming administrations attempt rapid judicial rollbacks. For Bangladesh, which is undergoing its own post-interim institutional rewiring, it demonstrates how procedural legitimacy must accompany institutional reform to avert gridlock.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Constitutional Tribunal",
+            "definition": "The supreme judicial organ responsible for reviewing the compliance of parliamentary statutes with a nation's constitutional framework."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "POLITICO Europe & BBC World",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Primary European political coverage corroborated by international wire reporting on Polish constitutional governance.",
+          "original_url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o",
+          "discussion_or_secondary_url": "https://www.politico.eu"
+        }
+      }
+    },
+    {
+      "id": "item-20261031-05",
+      "topic_slug": "bangladesh-bank-interbank-fx-crawling-peg-stabilization",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Bangladesh Bank Tightens Interbank Crawling Peg Band to Stem Forex Arbitrage and Stabilize Reserves",
+      "summary_points": [
+        "Bangladesh Bank issued an emergency circular narrowing the permissible trading band for the interbank crawling peg foreign-exchange mechanism to 1.5% around the mid-rate.",
+        "Gross foreign exchange reserves stabilized near $20.4 billion (BPM6 standard), supported by increased inward remittances channeled through formal banking rails.",
+        "Authorized Dealer (AD) banks face forensic auditing if kerb-market premiums exceed the central bank's upper tolerance threshold."
+      ],
+      "why_it_matters": "A narrower crawling peg reduces speculative currency volatility, stabilizing import costs for consumer commodities, electronics, and educational tuition remittances. Bangladeshi citizens paying foreign exam fees (GRE, IELTS) or tuition abroad will experience predictable, lower spread charges from commercial banks.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Crawling Peg",
+            "definition": "An exchange rate regime where an authorized currency peg is adjusted in small, frequent increments to match market fundamentals."
+          },
+          {
+            "term": "BPM6 Standard",
+            "definition": "The IMF's Balance of Payments and International Investment Position Manual standard that counts only liquid, unencumbered foreign reserves."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Bangladesh Bank Official Circular & Financial Express",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Central banking statutory directive verified against Department of Foreign Exchange Operations notifications.",
+          "original_url": "https://www.bb.org.bd",
+          "discussion_or_secondary_url": "https://thefinancialexpress.com.bd"
+        }
+      }
+    },
+    {
+      "id": "item-20261031-06",
+      "topic_slug": "nbr-mandatory-digital-ereturn-individual-tax-compliance",
+      "type": "NEWS",
+      "category": "ADULTING_MENTAL_MODELS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "NBR Enforces Mandatory Digital e-Return System for All Formal Salaried Professionals and TIN Holders",
+      "summary_points": [
+        "The National Board of Revenue (NBR) announced that manual paper filings for individual income tax returns will no longer be accepted for corporate employees, professionals, and government staff.",
+        "All filings for Assessment Year 2026-27 must be completed through the online portal, linking biometric National Identity (NID) data directly with verified bank interest statements.",
+        "Failure to submit proof of tax submission by the statutory deadline restricts access to over 43 citizen services, including trade licenses, bank loans exceeding BDT 500,000, and vehicle registrations."
+      ],
+      "why_it_matters": "Every graduating undergraduate, entry-level engineer, and salaried employee in Bangladesh is now required by law to navigate the digital tax infrastructure independently. Mastering e-Return filing prevents penalties, unlocks formal financial instruments, and protects citizen compliance records.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": "2026-11-30",
+        "funding_or_reward": "N/A",
+        "eligibility": "All TIN-holding citizens and formal sector employees in Bangladesh"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "e-Return Portal",
+            "definition": "The automated online tax filing platform operated by Bangladesh's NBR for income verification and digital tax certificate issuance."
+          },
+          {
+            "term": "Assessment Year",
+            "definition": "The fiscal cycle immediately following the financial year during which an individual's earned income is assessed and taxed."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "National Board of Revenue (NBR) Gazette",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Official statutory tax gazette and official revenue board operational directives.",
+          "original_url": "https://etaxnbr.gov.bd",
+          "discussion_or_secondary_url": "https://nbr.gov.bd"
+        }
+      }
+    },
+    {
+      "id": "item-20261031-07",
+      "topic_slug": "petrobangla-berc-automated-gas-tariff-power-rationing",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "BERC Finalizes Automated Gas Tariff Indexing Model to Protect Grid Stability Ahead of Winter Industrial Peak",
+      "summary_points": [
+        "The Bangladesh Energy Regulatory Commission (BERC) in coordination with Petrobangla finalized a dynamic formula linking industrial gas supply tariffs directly to international spot LNG indexes.",
+        "The mechanism aims to eliminate state operational subsidies by automatically adjusting captive power tariffs on a rolling monthly review.",
+        "Industrial textile hubs and fertilizer factories are directed to implement energy conservation protocols as off-peak gas supplies are diverted to maintain baseload grid plants."
+      ],
+      "why_it_matters": "Automated energy pricing removes artificial price caps, forcing factories to increase operational efficiency. For citizens, this dynamic pricing minimizes sudden national budget deficits but translates into variable monthly utility costs and potential seasonal price adjustments across consumer goods.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Captive Power Plant",
+            "definition": "An independent electricity-generation facility dedicated to powering a specific industrial plant or factory outside the national grid."
+          },
+          {
+            "term": "Spot LNG",
+            "definition": "Liquefied natural gas purchased on short-term international markets rather than through multi-year bilateral contracts."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Bangladesh Energy Regulatory Commission (BERC)",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Statutory energy tariff framework notifications issued under BERC executive orders.",
+          "original_url": "https://berc.org.bd",
+          "discussion_or_secondary_url": "https://petrobangla.org.bd"
+        }
+      }
+    },
+    {
+      "id": "opp-20261031-01",
+      "topic_slug": "opp-kaust-visiting-student-research-program-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "KAUST Visiting Student Research Program (VSRP) 2027: Fully Funded STEM Internship in Saudi Arabia",
+      "summary_points": [
+        "King Abdullah University of Science and Technology (KAUST) has opened international applications for its prestigious 3 to 6-month Visiting Student Research Program.",
+        "Selected undergraduate and master's scholars work directly with faculty on frontier projects in computer science, robotics, electrical engineering, materials science, and energy.",
+        "The fellowship includes a monthly stipend of $1,000, private on-campus housing, round-trip international airfare, comprehensive health insurance, and full research project access."
+      ],
+      "why_it_matters": "This is one of the highest-yield, fully funded research fellowships available to MIST, BUET, and Bangladeshi STEM undergraduates. Completing a KAUST VSRP internship typically fast-tracks recipients directly into fully funded MS/PhD fellowships at KAUST and elite institutions across the US and Europe.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "Rolling (Earliest Intake: January 2027)",
+        "funding_or_reward": "Fully Funded ($1,000/mo stipend + free housing + return flights)",
+        "eligibility": "Undergraduate STEM students (3rd/4th year) and Master's students with strong GPA and English proficiency"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Research Internship",
+            "definition": "A structured program where university students conduct hands-on laboratory investigation under senior academic mentorship."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "KAUST VSRP Official Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official international admissions and research internship portal of KAUST.",
+          "original_url": "https://vsrp.kaust.edu.sa",
+          "discussion_or_secondary_url": "https://www.kaust.edu.sa"
+        }
+      }
+    },
+    {
+      "id": "opp-20261031-02",
+      "topic_slug": "opp-mext-tokyo-tech-igp-research-scholarship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Japan MEXT University Recommendation: Tokyo Tech IGP (A) 2027 Integrated Postgraduate Call",
+      "summary_points": [
+        "The Institute of Science Tokyo (formerly Tokyo Institute of Technology) has released pre-application guidelines for the Japanese Government (MEXT) Scholarship via the International Graduate Program (A).",
+        "The scholarship covers full tuition exemption, international airfare, and a monthly living allowance of ¥147,000 for Master's and PhD research fellows.",
+        "Priority engineering fields include mechanical design, computational materials, wireless communications, cyber-physical systems, and civil infrastructure."
+      ],
+      "why_it_matters": "Japanese MEXT university-track scholarships bypass the hyper-competitive embassy exam rounds by connecting students directly with laboratory principal investigators (PIs). For Bangladeshi engineering seniors, early outreach to prospective professors right now secures institutional nomination.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-10",
+        "funding_or_reward": "Fully Funded (100% Tuition + ¥147,000/month stipend + Airfare)",
+        "eligibility": "Graduating seniors or bachelor's graduates in engineering/science with min. 3.0/4.0 CGPA"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "MEXT Scholarship",
+            "definition": "A prestigious Japanese Ministry of Education, Culture, Sports, Science and Technology scholarship covering full costs for international researchers."
+          },
+          {
+            "term": "PI Outreach",
+            "definition": "The formal academic process of contacting a Principal Investigator (lab professor) to obtain research sponsorship prior to admission."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Institute of Science Tokyo Admissions Office",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official Japanese national university graduate international admissions portal.",
+          "original_url": "https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs",
+          "discussion_or_secondary_url": "https://www.mext.go.jp"
+        }
+      }
+    },
+    {
+      "id": "opp-20261031-03",
+      "topic_slug": "opp-edge-bangladesh-vlsi-chip-design-fellowship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "EDGE Project & ICT Division Launch Advanced VLSI and Semiconductor Architecture Fellowship 2027",
+      "summary_points": [
+        "The ICT Division's Enhancing Digital Government and Economy (EDGE) project opened applications for an intensive, fully sponsored 6-month semiconductor design fellowship.",
+        "Curriculum focuses on RTL design, physical verification (Cadence/Synopsys EDA tools), RISC-V processor architecture, and FPGA prototyping.",
+        "Top-performing fellows receive direct placement opportunities with domestic semiconductor design houses (e.g., Ulkasemi, Neural Semiconductor) and multinational fabless affiliates."
+      ],
+      "why_it_matters": "Bangladesh is actively attempting to carve out an entry-level niche in global semiconductor design. This government-funded initiative provides free access to enterprise-grade electronic design automation (EDA) licenses that are normally cost-prohibitive for university labs, making it an invaluable bridge into chip engineering.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-11-20",
+        "funding_or_reward": "Fully Sponsored Training + Industry Certification + Paid Placement Pipeline",
+        "eligibility": "Final-year undergrads or recent graduates (within 2 years) in EEE, CSE, or Applied Physics from recognized Bangladeshi universities"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "VLSI",
+            "definition": "Very Large Scale Integration; the process of creating an integrated circuit (IC) by combining millions of MOS transistors onto a single chip."
+          },
+          {
+            "term": "EDA Tools",
+            "definition": "Electronic Design Automation; specialized software suites used to design, simulate, and verify complex integrated circuits."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "ICT Division / EDGE Project Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official government initiative sponsored by Bangladesh Computer Council and the World Bank.",
+          "original_url": "https://edge.gov.bd",
+          "discussion_or_secondary_url": "https://ictd.gov.bd"
+        }
+      }
+    }
+  ]
+}
