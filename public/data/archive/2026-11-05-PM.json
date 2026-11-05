@@ -1,0 +1,415 @@
+{
+  "edition_id": "2026-11-05-PM",
+  "generated_at_utc": "2026-11-05T06:05:34.400Z",
+  "generated_at_bst": "11/5/2026, 12:05:34 PM BST",
+  "edition_shift": "EVENING_1800_BST",
+  "executive_pulse": "The political fallout from the US midterm blue wave reverberates across global energy, AI infrastructure, and Middle East geopolitics as Democrats secure Capitol Hill. Concurrently, Bangladesh accelerates domestic tax digitalization and banking oversight while critical cyber operations target cold-chain healthcare systems in Europe.",
+  "stats": {
+    "total_items": 10,
+    "news_count": 7,
+    "opportunities_count": 3,
+    "sources_scanned": 127
+  },
+  "items": [
+    {
+      "id": "us-midterm-blue-wave-ai-infrastructure-gridlock",
+      "topic_slug": "us-midterm-blue-wave-ai-energy-capitol-gridlock",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Democratic Midterm Sweep Shifts Regulatory Pressure onto Hyperscale AI Data Centers and Energy Grids",
+      "summary_points": [
+        "The Democratic Party captured majorities in the US Congress and key gubernatorial offices including Texas, shifting federal oversight toward Big Tech's massive energy consumption and unchecked AI capital expenditures.",
+        "Texas, previously the epicenter of deregulated ERCOT grid buildouts for multi-gigawatt AI clusters, faces immediate legislative pushes to restrict data center interconnection queues and mandate clean power sourcing.",
+        "Big Tech faces a fractured legislative landscape where federal subsidies for domestic compute clusters collide with populist anti-utility rate hike movements across suburban jurisdictions."
+      ],
+      "why_it_matters": "For engineers and compute researchers globally, including in Bangladesh, the throttling of unrestricted US hyperscaler buildouts alters global cloud compute pricing, limits API subsidization, and forces GPU infrastructure architects to optimize model efficiency rather than relying on endless brute-force data center scaling.",
+      "deep_dive_analysis": "The 2026 US midterm elections mark a structural pivot point for technological infrastructure. Over the past three years, hyperscalers—including Microsoft, Meta, Google, and Amazon—siphoned off multi-gigawatt power contracts across Texas, Virginia, and the Midwest. This rapid absorption strained regional transmission operators, leading to sharp electricity tariff spikes for residential consumers and prompting a bipartisan backlash that culminated in surprise Democratic victories in traditional energy strongholds like Texas.\n\nThe incoming congressional leadership has signaled plans to condition federal CHIPS Act and energy tax credits on local grid stability guarantees and water conservation metrics. Incoming state administrations are already preparing emergency moratoriums on new high-voltage data center interconnects until utilities demonstrate firm capacity reserves that do not rely on diesel peaking plants or emergency load shedding.\n\nThis legislative pivot will force a direct operational reckoning across Silicon Valley. With physical site expansion throttled by domestic regulatory and environmental hurdles, capital expenditure will rotate aggressively into sovereign AI data centers in the Global South, nuclear-adjacent colocations, and software-layer model quantization. Engineers working on distributed systems must prepare for compute scarcity to reassert itself as an architectural constraint.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "ERCOT",
+            "definition": "Electric Reliability Council of Texas; an independent, largely deregulated electrical grid operator managing the flow of electric power to 90 percent of Texas."
+          },
+          {
+            "term": "Interconnection Queue",
+            "definition": "A regulatory waiting list where power generation or large industrial consumer projects await utility engineering studies and physical grid hookups."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "MIT Technology Review",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Rigorous investigative reporting on emerging technological infrastructure and regulatory policy.",
+          "original_url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+          "discussion_or_secondary_url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/"
+        }
+      }
+    },
+    {
+      "id": "france-efs-blood-storage-cold-chain-cyberattack",
+      "topic_slug": "france-efs-blood-storage-cold-chain-cyberattack",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Sophisticated Cyberattack Compromises French National Blood Bank Cold-Chain Telemetry Systems",
+      "summary_points": [
+        "The French Blood Establishment (EFS) confirmed that malicious intrusions disrupted industrial IoT temperature control and telemetry units in blood storage cold rooms across several regional hubs.",
+        "Attackers targeted SCADA/BMS building management systems directly, bypassing traditional corporate IT networks to alter environmental threshold alarms rather than exfiltrating patient PII.",
+        "European cybersecurity agencies (ANSSI and ENISA) have issued critical advisories urging healthcare facilities to isolate operational technology (OT) network segments controlling medical preservation equipment."
+      ],
+      "why_it_matters": "Demonstrates the escalating vulnerability of physical operational technology (OT) and SCADA systems in critical civil infrastructure. For Bangladeshi engineers working on biomedical systems, industrial automation, or power telemetry, it reinforces that cybersecurity cannot stop at software APIs—embedded hardware controls are primary targets.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "BMS / SCADA",
+            "definition": "Building Management System / Supervisory Control and Data Acquisition; architecture that gathers real-time industrial sensor data to automate mechanical equipment like chillers and valves."
+          },
+          {
+            "term": "Air-Gapping",
+            "definition": "A network security measure ensuring a secure computer network is physically isolated from unsecured networks, including the public internet."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Deutsche Welle / BBC World News",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Official broadcast wire corroborated by ANSSI and French national health statements.",
+          "original_url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+          "discussion_or_secondary_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQXVNNEdlbnFOY3BmcGl1dmdfWjJIZVdDM0c0anpPOUNvZ2NESDdzWGtreTliZWkwM2ozR1AwVEg2SXhSS251aG1xNHVKU2Etdjc3RV8xeF9YV0ZCZGRVYXlaWGljMlk0RWx1OTlUWmJtTFNZQ3l6bkFBdDVoQm9aOS1YRG5MMENfWmlHRUlPd2hPQdIBkgFBVV95cUxQaUtuSWhpcEd3dGg3MG85UXNoclB3c084cjNuZTl1NGxqQjVCS2JhNHFOZ2dRNlA0WmdQYmhaTjllV3JRQWZxMk1hMDdWQ0JiQ2RtVDRSdVIza1FFcE0zZ05nY0pVeUxiUmd0b2Mtc0V6Wmk4Q1JmY1FPOXFnd1BLZU9BQ0NzcTdHX3pNSHBiLVlsQQ?oc=5"
+        }
+      }
+    },
+    {
+      "id": "binance-social-engineering-6-3bn-dev-interview-hack",
+      "topic_slug": "binance-social-engineering-dev-interview-supply-chain-attack",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Binance Forensics Reveal Multi-Month $6.3B Breach Orchestrated via Trojanized Developer Job Interviews",
+      "summary_points": [
+        "Cryptocurrency exchange Binance published post-mortem forensic findings detailing how state-sponsored APT groups compromised an engineer’s machine using a multi-stage fake hiring process.",
+        "Attackers constructed legitimate LinkedIn talent profiles, conducted multi-round technical interviews, and instructed the target engineer to clone an interview repo containing a poisoned npm dependency.",
+        "The malware established persistence inside developer tooling environments, bypassing corporate zero-trust hardware keys by intercepting local session cookies and code deployment tokens."
+      ],
+      "why_it_matters": "Undergraduates and working engineers in Bangladesh actively seeking global remote software roles are prime vectors for spear-phishing and repo poisoning. Running unverified code during 'take-home coding challenges' or technical interviews on personal or work machines can completely compromise development pipelines.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "APT (Advanced Persistent Threat)",
+            "definition": "A stealthy threat actor, typically a nation-state or state-sponsored group, that gains unauthorized access to a computer network and remains undetected for an extended period."
+          },
+          {
+            "term": "Dependency Confusion / Poisoning",
+            "definition": "A software supply-chain attack where malicious code is disguised as a legitimate open-source package or library and injected into a project's build process."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Forensic breakdown corroborated by published security bulletins and blockchain tracking teams.",
+          "original_url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
+          "discussion_or_secondary_url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
+        }
+      }
+    },
+    {
+      "id": "hong-kong-joshua-wong-10-year-sentencing-national-security",
+      "topic_slug": "hong-kong-joshua-wong-national-security-law-sentencing",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Hong Kong Court Sentences Democracy Activist Joshua Wong to 10 Years in Landmark Subversion Trial",
+      "summary_points": [
+        "Hong Kong’s High Court handed down a 10-year prison sentence to democracy figurehead Joshua Wong, 30, following his conviction under the Beijing-imposed National Security Law.",
+        "The sentencing concludes the protracted 'Hong Kong 47' legal proceedings, cementing Beijing's total judicial alignment over the Special Administrative Region's political and civil sphere.",
+        "Western diplomatic missions condemned the ruling as an irreversible dismantling of the 'One Country, Two Systems' framework, triggering fresh calls for targeted financial sanctions against Hong Kong officials."
+      ],
+      "why_it_matters": "A case study in modern institutional statecraft and legal warfare. For Bangladeshi citizens observing institutional reform and civic demonstrations, it illustrates how state-level legal mechanisms can permanently extinguish decentralized youth political movements once statutory legal dominance is asserted.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "National Security Law (NSL)",
+            "definition": "Sweeping legislation enacted over Hong Kong in 2020 by China's central government that criminalizes secession, subversion, terrorism, and collusion with foreign forces."
+          },
+          {
+            "term": "One Country, Two Systems",
+            "definition": "The constitutional principle under which Hong Kong retained its distinct legal and economic systems after the 1997 handover from the United Kingdom until 2047."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Guardian / BBC World News",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Direct reporting from courtroom proceedings in Hong Kong and verified legal registry filings.",
+          "original_url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+          "discussion_or_secondary_url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail?traffic_source=rss"
+        }
+      }
+    },
+    {
+      "id": "bangladesh-bank-interbank-liquidity-repo-reforms",
+      "topic_slug": "bangladesh-bank-interbank-liquidity-repo-reforms-2026",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Bangladesh Bank Tightens Standing Lending Facility to Enforce Interbank Call Money Discipline",
+      "summary_points": [
+        "Bangladesh Bank issued an official monetary circular restricting commercial banks' access to the daily Standing Lending Facility (SLF), capping overnight emergency borrowing at 1.5% of total liabilities.",
+        "The directive aims to halt zombie banks from relying indefinitely on central bank liquidity injections to patch non-performing asset deficits, forcing them to compete for organic retail deposits.",
+        "Interbank call money rates ticked up toward 10.25%, with the central bank declaring that weak institutions failing liquidity stress tests must merge or face prompt corrective action (PCA) directives."
+      ],
+      "why_it_matters": "Directly impacts every middle-class depositor and student in Bangladesh. The central bank's refusal to print emergency repo liquidity forces commercial banks to raise fixed-deposit (FDR) rates while accelerating the closure of distressed private banks. Depositors must vet bank balance sheet fundamentals.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Standing Lending Facility (SLF)",
+            "definition": "An overnight credit facility offered by the central bank to commercial banks facing temporary liquidity shortages, typically collateralized by government securities."
+          },
+          {
+            "term": "Prompt Corrective Action (PCA)",
+            "definition": "A supervisory framework triggered when a bank’s capital adequacy and asset quality fall below regulatory red lines, imposing restrictions on lending and dividends."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Business Standard / Bangladesh Bank Gazette",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Direct central bank policy tracking and domestic macroeconomic reporting.",
+          "original_url": "https://www.tbsnews.net/economy/banking",
+          "discussion_or_secondary_url": "https://www.bb.org.bd"
+        }
+      }
+    },
+    {
+      "id": "nbr-mandatory-digital-signature-audit-compliance-2026",
+      "topic_slug": "nbr-mandatory-digital-signature-audit-compliance-2026",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "National Board of Revenue Links Digital e-Return System with Citizen Land and Automobile Databases",
+      "summary_points": [
+        "The National Board of Revenue (NBR) announced the complete automated linkage of the income tax e-Return portal with the Ministry of Land's e-Mutation system and BRTA's vehicular registry.",
+        "Taxpayers submitting individual returns for the ongoing tax assessment year will face automated discrepancy flags if registered asset values fail to match declared net wealth statements.",
+        "The gazette confirms that salaried professionals earning above BDT 500,000 annually who fail to submit digital acknowledgments by November 30 will face automatic bank account debit holds and utility service verification blocks."
+      ],
+      "why_it_matters": "Vital civic policy awareness for every adult citizen in Bangladesh. Informal wealth concealment or underreporting real-estate transfers is now automatically detected by cross-database SQL audits. Early-career professionals must master compliant digital filing to avoid frozen accounts and penalty fines.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "e-Mutation",
+            "definition": "The government-run digital platform in Bangladesh that legally updates land ownership records after a transfer, inheritance, or purchase."
+          },
+          {
+            "term": "Wealth Statement (IT-10B)",
+            "definition": "A mandatory statutory form filed alongside an income tax return outlining all assets, liabilities, and lifestyle expenditures of an individual taxpayer."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "NBR Policy Gazette / The Financial Express Bangladesh",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Official administrative gazette and statutory tax regulation notice.",
+          "original_url": "https://nbr.gov.bd",
+          "discussion_or_secondary_url": "https://thefinancialexpress.com.bd/economy/bangladesh"
+        }
+      }
+    },
+    {
+      "id": "bop-interbank-fx-import-settlement-surplus-stabilization",
+      "topic_slug": "bangladesh-external-current-account-remittance-surplus-nov-2026",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Bangladesh External Account Posts Rare Monthly Surplus on Inward Remittance Surge and Curtailed Import LCs",
+      "summary_points": [
+        "Official external sector data for the month ending October revealed a trade deficit reduction to $1.1 billion, buoyed by formal remittances exceeding $2.35 billion through banking channels.",
+        "The central bank maintained its crawl-band corridor near 121.50 BDT per USD, allowing commercial banks to clear raw material import Letters of Credit (LCs) without emergency foreign exchange swaps.",
+        "While gross reserves under BPM6 stabilized above $20.8 billion, the central bank cautioned that impending Asian Clearing Union (ACU) payments in late November will require disciplined domestic energy import rationing."
+      ],
+      "why_it_matters": "A stable exchange rate directly shields Bangladeshi consumers from runaway inflation in imported essentials, edible oils, and consumer electronics. For students planning foreign graduate studies, it reduces volatility when securing bank student files and wire transfers.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "BPM6 Methodology",
+            "definition": "The IMF's Balance of Payments and International Investment Position Manual (6th edition), which calculates net, immediately usable foreign exchange reserves by excluding encumbered liabilities."
+          },
+          {
+            "term": "ACU Settlement",
+            "definition": "Asian Clearing Union; a regional payment arrangement where central banks clear trade transactions between member nations on a net basis every two months."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Bangladesh Bank Balance of Payments Wire",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Central bank external statistics and monthly macro-monitoring bulletins.",
+          "original_url": "https://www.bb.org.bd",
+          "discussion_or_secondary_url": "https://www.tbsnews.net/economy"
+        }
+      }
+    },
+    {
+      "id": "schwarzman-scholars-program-tsinghua-university-2027",
+      "topic_slug": "opp-schwarzman-scholars-tsinghua-leadership-fellowship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Schwarzman Scholars 2027–2028 Cohort Opens Applications: Fully Funded Global Affairs Master's at Tsinghua University",
+      "summary_points": [
+        "Schwarzman Scholars has officially opened global admissions for its one-year Master’s in Global Affairs cohort at Tsinghua University in Beijing, designed to cultivate geopolitical and technical leadership.",
+        "The fellowship covers all tuition, travel expenses, a generous living stipend, room and board, health insurance, and an executive-level immersion tour across China.",
+        "Undergraduates in their final year and recent graduates aged 18–28 from any academic discipline—including computer science and mechanical/electrical engineering—are fully eligible to apply."
+      ],
+      "why_it_matters": "One of the most prestigious, high-leverage graduate fellowships in the world, matching the prestige of the Rhodes and Marshall scholarships. For an ambitious STEM undergraduate from MIST or Bangladesh, it offers direct access to top-tier geopolitical and technological networks between China, the US, and emerging economies.",
+      "deep_dive_analysis": "The Schwarzman Scholarship represents one of the highest-signal fellowships available for young technical leaders looking to pivot into international policy, corporate strategy, or high-level technology governance. Anchored at Tsinghua University—often dubbed the 'MIT of China'—the scholarship was intentionally constructed to bridge the geopolitical and industrial knowledge divide between East and West, bringing together an elite international cohort of future founders, diplomats, and research executives.\n\nThe curriculum is centered around three pillars: global leadership, Chinese political and economic institutions, and technological innovation. Scholars reside at the state-of-the-art Schwarzman College within Tsinghua, taking courses taught by world-class visiting faculty from Stanford, Harvard, Oxford, and Chinese state research bodies. Beyond textbook academics, scholars are embedded into high-level industrial tours, visiting China's advanced semiconductor fabs, autonomous vehicle testbeds, and green energy infrastructure hubs in Shenzhen, Hangzhou, and Shanghai.\n\nFor an engineering graduate from Bangladesh, the ROI of this fellowship is exceptional. Alumni routinely transition into high-impact roles across international multilateral banks (World Bank, ADB, AIIB), global deep-tech venture capital firms, or founding teams tackling cross-border supply chain challenges. Applications require a demonstration of extraordinary leadership potential, academic competence, intellectual curiosity, and an articulate vision of how the candidate intends to navigate and influence global systemic challenges.",
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2027-09-15",
+        "funding_or_reward": "Fully Funded (Tuition, $10,000+ Stipend, Housing, Flights, Insurance)",
+        "eligibility": "Graduating seniors or recent graduates aged 18–28; all academic majors eligible."
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Schwarzman College",
+            "definition": "A dedicated residential college inside Tsinghua University in Beijing, built specifically for the Schwarzman Scholars cohort to facilitate intensive seminar-style learning."
+          },
+          {
+            "term": "Multilateral Fellowship",
+            "definition": "A merit-based international award designed to build cross-border diplomatic, technological, and corporate leadership networks."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Schwarzman Scholars Official Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official endowment-backed international scholarship trust administered in partnership with Tsinghua University.",
+          "original_url": "https://www.schwarzmanscholars.org/admissions/",
+          "discussion_or_secondary_url": "https://www.tsinghua.edu.cn/en/"
+        }
+      }
+    },
+    {
+      "id": "riken-summer-student-research-internship-japan-2027",
+      "topic_slug": "opp-riken-summer-student-research-internship-japan-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "RIKEN Center for Brain Science and Computational Science Calls for 2027 Summer Research Interns",
+      "summary_points": [
+        "Japan's premier scientific research institute, RIKEN, is accepting international applications for its intensive 2 to 3-month summer research program across Wako and Kobe campuses.",
+        "Undergraduate and master's students will be paired with principal investigators working on high-performance computing (Fugaku supercomputer architectures), neuro-engineering, and robotics.",
+        "The internship provides a daily research allowance, fully subsidized on-campus housing, and round-trip economy airfare from Dhaka to Tokyo/Kobe."
+      ],
+      "why_it_matters": "Provides hands-on exposure to world-class scientific infrastructure that is unavailable domestically. Securing a funded research paper or reference letter from a RIKEN Laboratory Director provides an unbeatable launchpad for direct PhD admissions into Tokyo Tech, Kyoto University, or US R1 institutions.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2027-01-15",
+        "funding_or_reward": "Fully Funded (Roundtrip Flights, Free Housing, Daily Living Allowance)",
+        "eligibility": "Undergraduate STEM juniors/seniors & Master's students worldwide."
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "RIKEN",
+            "definition": "Rikagaku Kenkyusho; Japan’s largest and most prestigious comprehensive natural sciences research institute, founded in 1917."
+          },
+          {
+            "term": "Supercomputer Fugaku",
+            "definition": "One of the world's most powerful exascale supercomputers, co-developed by RIKEN and Fujitsu using ARM-based A64FX microprocessors."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "RIKEN CBS & R-CCS Global Academic Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official Japanese national research institution portal.",
+          "original_url": "https://cbs.riken.jp/en/summer/",
+          "discussion_or_secondary_url": "https://www.r-ccs.riken.jp/en/"
+        }
+      }
+    },
+    {
+      "id": "bangladesh-ict-innovation-rnd-research-grants-2026-27",
+      "topic_slug": "opp-ict-division-national-rd-innovation-grant-call-2026-27",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "ICT Division Bangladesh Launches Annual FY26–27 Research & Innovation Grant Call for University Lab Projects",
+      "summary_points": [
+        "The Information and Communication Technology (ICT) Division has published its formal call for proposals for national research, innovation, and fellowship grants for fiscal year 2026–2027.",
+        "Grants range from BDT 500,000 for undergraduate thesis prototypes to BDT 2,500,000 for advanced faculty-supervised university lab initiatives in applied IoT, renewable microgrids, and defense electronics.",
+        "Engineering students collaborating with academic faculty must submit detailed technical proposals, component bill-of-materials (BOM), and ethical clearance documents through the digital portal."
+      ],
+      "why_it_matters": "Undergraduates at MIST and other engineering institutions often struggle with hardware fabrication costs for capstone design projects and international conference registrations. This grant offers non-dilutive, domestic institutional funding to build industrial-grade physical prototypes.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-15",
+        "funding_or_reward": "BDT 5,00,000 to BDT 25,00,000 non-dilutive grant capital",
+        "eligibility": "Bangladeshi undergraduate STEM researchers, graduate students, and university faculty."
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Non-Dilutive Funding",
+            "definition": "Financing that does not require an entrepreneur or researcher to surrender equity, intellectual property rights, or future shares in the project."
+          },
+          {
+            "term": "Bill of Materials (BOM)",
+            "definition": "A comprehensive inventory of raw materials, components, and assemblies needed to construct, manufacture, or repair a hardware device."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "ICT Division Bangladesh Official Gazette",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Government of the People's Republic of Bangladesh official notice board.",
+          "original_url": "https://ictd.gov.bd/site/notices",
+          "discussion_or_secondary_url": "https://service.ictd.gov.bd"
+        }
+      }
+    }
+  ]
+}

@@ -1,485 +1,5 @@
 [
   {
-    "url": "https://www.reuters.com",
-    "title": "Maritime Defense Protocols Tighten Along Malacca Strait As 68% Of Asian Advanced Chip Shipments Reroute",
-    "topic_slug": "global-semiconductor-chokepoint-malacca",
-    "timestamp": "2026-10-18T00:00:00Z"
-  },
-  {
-    "url": "https://www.tbsnews.net",
-    "title": "Bangladesh Bank Gross Forex Reserves Cross $21.4 Billion Threshold As Remittance Channels Modernize",
-    "topic_slug": "bangladesh-forex-reserves-stabilization-imf",
-    "timestamp": "2026-10-18T00:00:00Z"
-  },
-  {
-    "url": "https://news.ycombinator.com",
-    "title": "Open-Weight Mixture-of-Experts Models Achieve High-Throughput Reasoning On Single Consumer RTX 4090 GPUs",
-    "topic_slug": "open-weight-reasoning-models-quantization",
-    "timestamp": "2026-10-18T00:00:00Z"
-  },
-  {
-    "url": "https://spectrum.ieee.org",
-    "title": "TSMC Reports 72% Yields On N2 Gate-All-Around Nanosheet Process, Previews Backside Power Delivery (A16)",
-    "topic_slug": "tsmc-a16-nanosheet-transistor-volume-yield",
-    "timestamp": "2026-10-18T00:00:00Z"
-  },
-  {
-    "url": "https://www.thedailystar.net",
-    "title": "Matarbari Deep Sea Port Completes Phase-1 Navigational Dredging, Allowing Direct 8,000 TEU Mother Vessels",
-    "topic_slug": "matarbari-deep-sea-port-infrastructure-milestone",
-    "timestamp": "2026-10-18T00:00:00Z"
-  },
-  {
-    "url": "https://fs.blog",
-    "title": "Mental Model In Focus: Compressing The OODA Loop For High-Leverage Career Trajectories",
-    "topic_slug": "ooda-loop-asymmetric-career-leverage-farnam",
-    "timestamp": "2026-10-18T00:00:00Z"
-  },
-  {
-    "url": "https://blog.rust-lang.org",
-    "title": "Rust 2024 Edition Finalized With Enhanced Async Closures And Embedded Microcontroller Lifetimes",
-    "topic_slug": "rust-2024-edition-embedded-safety",
-    "timestamp": "2026-10-18T00:00:00Z"
-  },
-  {
-    "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/",
-    "title": "Rhodes Global Scholarship 2027 At University Of Oxford (Fully Funded Postgraduate Fellowship)",
-    "topic_slug": "rhodes-scholarship-oxford-global-south",
-    "timestamp": "2026-10-18T00:00:00Z"
-  },
-  {
-    "url": "https://summerofcode.withgoogle.com",
-    "title": "Google Summer Of Code (GSoC): Open-Source Contributor Organization Applications & Prep Phase",
-    "topic_slug": "gsoc-mentorship-20261018-09",
-    "timestamp": "2026-10-18T00:00:00Z"
-  },
-  {
-    "url": "https://www.ieee.org",
-    "title": "IEEE Global Engineering Student Challenge & Fully Funded Singapore Research Travel Grant",
-    "topic_slug": "ieee-global-student-hackathon-travel-grant",
-    "timestamp": "2026-10-18T00:00:00Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no",
-    "title": "Strait of Hormuz Ship Attacks Reach All-Time Record as Marine War-Risk Premiums Spike",
-    "topic_slug": "strait-of-hormuz-maritime-kinetic-escalation",
-    "timestamp": "2026-10-17T19:19:29.926Z"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-    "title": "Frontier AI Models Successfully Execute Autonomous Crypto Wallet Exploits and Target Infiltration",
-    "topic_slug": "frontier-ai-autonomous-cyber-exploit-capabilities",
-    "timestamp": "2026-10-17T19:19:29.926Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o",
-    "title": "White House Issues Waivers on Select Russian Sanctions, Igniting Bipartisan Capitol Hill Firestorm",
-    "topic_slug": "us-russia-sanctions-waiver-diplomatic-rift",
-    "timestamp": "2026-10-17T19:19:29.926Z"
-  },
-  {
-    "url": "https://www.tbsnews.net/economy/bazaar/commodities-continue-be-dearer-328855",
-    "title": "Commodity Prices Surge in Wholesale Hubs as Bangladesh Taskforce Mandates Market Monitoring",
-    "topic_slug": "bangladesh-commodity-market-surveillance-inflation",
-    "timestamp": "2026-10-17T19:19:29.926Z"
-  },
-  {
-    "url": "https://www.tbsnews.net/economy",
-    "title": "National Board of Revenue Enforces Mandatory Universal Digital e-Return Filing for Salaried Citizens",
-    "topic_slug": "nbr-mandatory-digital-tax-ereturn-compliance",
-    "timestamp": "2026-10-17T19:19:29.926Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo",
-    "title": "Anthropic Courts Institutional Backers for Landmark IPO Amid Scrutiny Over Trillion-Dollar AI Capex",
-    "topic_slug": "anthropic-ipo-valuation-ai-infrastructure-capex",
-    "timestamp": "2026-10-17T19:19:29.926Z"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
-    "title": "Firmware Vulnerability in Ray-Ban Meta Smart Glasses Captured Ambient Audio Without User Trigger",
-    "topic_slug": "meta-smart-glasses-covert-audio-vulnerability",
-    "timestamp": "2026-10-17T19:19:29.926Z"
-  },
-  {
-    "url": "https://www.gatescambridge.org/apply/overview/",
-    "title": "Gates Cambridge Scholarship 2027 Cohort: Fully Funded PhD & Master's Fellowships Open at Cambridge",
-    "topic_slug": "gates-cambridge-postgraduate-scholarship-applications",
-    "timestamp": "2026-10-17T19:19:29.926Z"
-  },
-  {
-    "url": "https://careers.cern/summer",
-    "title": "CERN Summer Student Programme 2027: Fully Funded Applied Physics & Engineering Research in Geneva",
-    "topic_slug": "cern-summer-student-programme-research-fellowship",
-    "timestamp": "2026-10-17T19:19:29.926Z"
-  },
-  {
-    "url": "https://edge.gov.bd",
-    "title": "ICT Division Bangladesh x EDGE: Digital Leadership & Microelectronics Fellowship Call",
-    "topic_slug": "bangladesh-ict-division-edge-digital-leadership-fellowship",
-    "timestamp": "2026-10-17T19:19:29.926Z"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-    "title": "PRIMA Retinal Bionic Sub-retinal Implant Restores Functional Sight in Macular Degeneration Patients",
-    "topic_slug": "prima-bionic-retinal-implant-clinical-clearance",
-    "timestamp": "2026-10-17T19:30:58.406Z"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "title": "Generative Foundation Models Synthesize Viable Microscopic Viral Blueprints",
-    "topic_slug": "ai-generative-viral-genome-synthesis-stanford",
-    "timestamp": "2026-10-17T19:30:58.406Z"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-    "title": "Meta Rewrites Commercial Terms of Service to Absorb Enterprise Data for AI Training",
-    "topic_slug": "meta-commercial-tos-ai-ip-exemption",
-    "timestamp": "2026-10-17T19:30:58.406Z"
-  },
-  {
-    "url": "https://www.tbsnews.net",
-    "title": "Power Division Formulates Capacity Charge Phase-Out and Industrial Tariff Restructuring",
-    "topic_slug": "bangladesh-power-tariff-reform-bids-advisory",
-    "timestamp": "2026-10-17T19:30:58.406Z"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOHNMYTNGOFd6SGhoRkpzVnhROFpRXzh1Y1B3ZXpUbjhWczk1djFfZUU3SHlRY25mNVQ5VUpNM0o1S3dERElYRnlkbnpTVnU3NTJySm81OHFhMldfdnFBcVMtRzVFSVl3MlpKNmJfc095dy02Y3B3YjNWa3FRUXh2MF9xLWEzNnJmSjNEY3hhdnlCS1lJ",
-    "title": "Mass Civil Strikes Erupt Across France Over Educational Cuts and Fiscal Austerity",
-    "topic_slug": "france-nationwide-civil-disruption-budget-austerity",
-    "timestamp": "2026-10-17T19:30:58.406Z"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPak00bUxUN0NveGU2a2ItdzNzdkZPUnR2Mk10SWVzVHBvTlFHMUZZSXZoNW5veWM2M0hsSjRJa1VDX2Zkc3dOTEI3cE42YkpMV3laYkdEYWVmalRudHkydHhCZnRVQUl4WjUtVE9TcHBFQVBtN1FqZ3Y0NUNvcjQ1MzJXSV80NUFqd0VROEhhamU2dG5vYlBkMjFnSUIwdmNfTElMS3ZmQ2RGRUxzSm5ZR1ZSbVJWSWVVWnVMbjcwbXU5Z1NzTzJTTkxR",
-    "title": "Settler Attack on European Diplomats and Press Sparks Diplomatic Crisis in West Bank",
-    "topic_slug": "west-bank-diplomatic-convoy-attack-geopolitical-fallout",
-    "timestamp": "2026-10-17T19:30:58.406Z"
-  },
-  {
-    "url": "https://www.tbsnews.net",
-    "title": "Bangladesh Bank Mandates Asset Quality Reviews and Single-Borrower Exposure Audits",
-    "topic_slug": "bangladesh-bank-non-performing-asset-reconstruction-framework",
-    "timestamp": "2026-10-17T19:30:58.406Z"
-  },
-  {
-    "url": "https://ethz.ch/en/studies/financial/excellence-scholarship.html",
-    "title": "ETH Zurich Master Fellowship in Robotics, Systems and Control Opens Applications",
-    "topic_slug": "opp-eth-zurich-robotics-systems-fellowship-2027",
-    "timestamp": "2026-10-17T19:30:58.406Z"
-  },
-  {
-    "url": "https://tib.metro.tokyo.lg.jp",
-    "title": "Tokyo Autonomous Mobility Challenge 2027 Opens Global Student Track With Travel Grants",
-    "topic_slug": "opp-da-vinci-autonomous-systems-hackathon-tokyo",
-    "timestamp": "2026-10-17T19:30:58.406Z"
-  },
-  {
-    "url": "https://www.a-star.edu.sg/scholarships/for-undergraduate-studies/sipga",
-    "title": "Singapore A*STAR International Pre-Graduate Award (SIPGA) 2027 Intake Announced",
-    "topic_slug": "opp-singapore-a-star-computational-internship-sipga",
-    "timestamp": "2026-10-17T19:30:58.406Z"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
-    "title": "Biomedical Cryopreservation Leap: Pig Kidneys Successfully Rewarmed and Functional After 12 Months at -150°C",
-    "topic_slug": "cryogenic-organ-vitrification-breakthrough-mit",
-    "timestamp": "2026-10-17T19:44:26.925Z"
-  },
-  {
-    "url": "https://www.tbsnews.net/bangladesh/energy-ministry-ipp-capacity-charge-audit-reform",
-    "title": "Energy Ministry Initiates Comprehensive Forensic Audit of Private IPP Contracts to Halt Sovereign Capacity Drains",
-    "topic_slug": "bangladesh-power-ipp-capacity-charge-audit",
-    "timestamp": "2026-10-17T19:44:26.925Z"
-  },
-  {
-    "url": "https://thefinancialexpress.com.bd/economy/nbr-cpa-national-single-window-rollout",
-    "title": "NBR Mandates Automated National Single Window for Chattogram Port to Curb Clearing Delays and Customs Rent-Seeking",
-    "topic_slug": "nbr-chattogram-port-single-window-customs",
-    "timestamp": "2026-10-17T19:44:26.925Z"
-  },
-  {
-    "url": "https://www.bb.org.bd/mediaroom/circulars/fepd/oct172026.pdf",
-    "title": "Bangladesh Bank Issues Comprehensive FX Forward Hedging Guidelines as Interbank Remittance Premium Compresses",
-    "topic_slug": "bangladesh-bank-forex-hedging-crawling-peg",
-    "timestamp": "2026-10-17T19:44:26.925Z"
-  },
-  {
-    "url": "https://www.nytimes.com/2026/10/17/world/europe/ukraine-drone-kill-zone-jet-turbines.html",
-    "title": "Micro-Jet Turbines on Loitering Drones Create 30-Kilometer Frontline 'Denial Kill Zones' in Modern Warfare",
-    "topic_slug": "jet-fpv-drones-killzone-warfare",
-    "timestamp": "2026-10-17T19:44:26.925Z"
-  },
-  {
-    "url": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate",
-    "title": "Albanian 'Flamingo Revolution' Escalates: Student Alliances Paralyze Tirana Over State Governance and Austerity",
-    "topic_slug": "albania-flamingo-revolution-student-protests",
-    "timestamp": "2026-10-17T19:44:26.925Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro",
-    "title": "Hyperscale AI Data Center Deployments Trigger Severe Municipal Energy Moratoriums Across US and Europe",
-    "topic_slug": "hyperscale-ai-datacenters-grid-backlash",
-    "timestamp": "2026-10-17T19:44:26.925Z"
-  },
-  {
-    "url": "https://www2.daad.de/deutschland/stipendien/datenbank/en/21148-scholarship-database/?status=3&origin=178&subjectGrps=&daad=&q=epos",
-    "title": "DAAD EPOS 2027-2028: Fully Funded Master's & PhD Scholarships in Germany for Engineers and Scientists",
-    "topic_slug": "opp-daad-epos-masters-phd-germany-2027",
-    "timestamp": "2026-10-17T19:44:26.925Z"
-  },
-  {
-    "url": "https://isif.asia/apply/",
-    "title": "ISIF Asia 2027 Grants: Up to $85,000 USD Funding for Open Internet Infrastructure & Cybersecurity Projects",
-    "topic_slug": "opp-isif-asia-network-infrastructure-grants",
-    "timestamp": "2026-10-17T19:44:26.925Z"
-  },
-  {
-    "url": "https://www.quadfellowship.org/apply",
-    "title": "Quad Fellowship 2027: $40,000 USD Graduate Award for Emerging STEM Innovators in the US",
-    "topic_slug": "opp-quad-fellowship-stem-leadership-us",
-    "timestamp": "2026-10-17T19:44:26.925Z"
-  },
-  {
-    "url": "https://spectrum.ieee.org/variable-frequency-drives",
-    "title": "Grid Power Crunch: Industrial VFD Retrofits Unveiled as Fastest Path to Absorb Hyperscale Compute Demand",
-    "topic_slug": "vfd-industrial-motor-efficiency-grid-capacity",
-    "timestamp": "2026-10-17T19:58:57.036Z"
-  },
-  {
-    "url": "https://www.bb.org.bd",
-    "title": "Bangladesh Bank Mandates Forensic Banking Audits and Real-Time Interbank Liquidity Visibility",
-    "topic_slug": "bangladesh-bank-forensic-audit-npl-restructure",
-    "timestamp": "2026-10-17T19:58:57.036Z"
-  },
-  {
-    "url": "https://incometax.gov.bd",
-    "title": "NBR Mandates Comprehensive Digital e-Return Filing with Automated Bank-Tax Data Interlink",
-    "topic_slug": "nbr-mandatory-digital-tax-ereturn-linkage",
-    "timestamp": "2026-10-17T19:58:57.036Z"
-  },
-  {
-    "url": "https://mpemr.gov.bd",
-    "title": "Energy Ministry Enforces Dynamic Monthly Fuel Price Adjustments Linked to Mean of Platts Singapore",
-    "topic_slug": "bangladesh-fuel-pricing-dynamic-singapore-platts-peg",
-    "timestamp": "2026-10-17T19:58:57.036Z"
-  },
-  {
-    "url": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
-    "title": "US Legislative Push Challenges SaaS Monopoly by Mandating Consumer Digital Media Ownership",
-    "topic_slug": "us-digital-goods-ownership-legislation-software-licensing",
-    "timestamp": "2026-10-17T19:58:57.036Z"
-  },
-  {
-    "url": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver",
-    "title": "Bipartisan Backlash Erupts in Washington Over Proposed Russia Sanctions Suspension",
-    "topic_slug": "trump-russia-sanctions-waiver-geopolitical-backlash",
-    "timestamp": "2026-10-17T19:58:57.036Z"
-  },
-  {
-    "url": "https://www.reuters.com",
-    "title": "WHO and African CDC Mobilize Emergency Protocols as Kenya Ebola Cluster Expands to Seven",
-    "topic_slug": "kenya-ebola-outbreak-healthcare-worker-containment",
-    "timestamp": "2026-10-17T19:58:57.036Z"
-  },
-  {
-    "url": "https://www.schwarzmanscholars.org",
-    "title": "Schwarzman Scholars 2027-2028: Full Masters Fellowship in Global Affairs at Tsinghua University",
-    "topic_slug": "opp-schwarzman-scholars-leadership-fellowship-2027",
-    "timestamp": "2026-10-17T19:58:57.036Z"
-  },
-  {
-    "url": "https://vsrp.kaust.edu.sa",
-    "title": "KAUST Visiting Student Research Program (VSRP) 2027: Fully Funded International Lab Placements",
-    "topic_slug": "opp-kaust-vsrp-internship-fully-funded-2027",
-    "timestamp": "2026-10-17T19:58:57.036Z"
-  },
-  {
-    "url": "https://www.mpi-sws.org/internships",
-    "title": "Max Planck Institute for Software Systems (MPI-SWS) 2027 Research Internship Program",
-    "topic_slug": "opp-mpi-sws-research-internship-systems-cs-2027",
-    "timestamp": "2026-10-17T19:58:57.036Z"
-  },
-  {
-    "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz",
-    "title": "Strait of Hormuz Chokepoint Crisis: Naval Mine Detonations Paralyze Dual VLCC Tankers",
-    "topic_slug": "strait-of-hormuz-naval-mine-tanker-attacks-energy-shock",
-    "timestamp": "2026-10-18T04:01:09.661Z"
-  },
-  {
-    "url": "https://berc.org.bd/notices/gazette-net-metering-wheeling-2026",
-    "title": "BERC Overhauls Grid Regulations: Private Industrial Solar Wheeling and Captive Net Metering Approved",
-    "topic_slug": "berc-renewable-energy-wheeling-net-metering-reforms",
-    "timestamp": "2026-10-18T04:01:09.661Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo",
-    "title": "France Gripped by Civil Unrest: Over 1,000 Detained as Historic Limoges City Hall Torched",
-    "topic_slug": "france-nationwide-civil-unrest-cost-of-living-austerity",
-    "timestamp": "2026-10-18T04:01:09.661Z"
-  },
-  {
-    "url": "https://www.bb.org.bd/en/index.php/mediaroom/circulars",
-    "title": "Bangladesh Bank Directs Zero Fees for Peer-to-Merchant Transactions Under 10,000 BDT",
-    "topic_slug": "bangladesh-bank-interoperable-payments-binimoy-zero-fee-mandate",
-    "timestamp": "2026-10-18T04:01:09.661Z"
-  },
-  {
-    "url": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
-    "title": "Consortium Deploys 'LaserBATMAN' Multiphysics Model to Double Heavy EV Battery Life",
-    "topic_slug": "ieee-multiscale-simulation-ev-battery-laser-welding-breakthrough",
-    "timestamp": "2026-10-18T04:01:09.661Z"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXVQcVg2M0xpYVZPcV9JZUFLd2loVktlZEZfSnpOLU5Gd25rbnJnWGNHQXBDVGNxYUFyU0s1ejlsNDA0eGM0bDBsYzFFOTJjei1ZOW1Wa0htaUQ0c1ZfYlVLWVZFd3dnbUxUdVZXM2RhMFQ3Qmk4QkNDamNad2t3YzZ1TG1EcnJoQ2ZLUFYwOEdsQVpyNWxnanZHNUdHMFpTcy1CTTJuQmtxckFQQXQ0NGo3NkQ3VVFFYk10cUhB",
-    "title": "Alberta Votes on Independence Framework: Custodian of 4th-Largest Global Oil Reserves Challenges Ottawa",
-    "topic_slug": "alberta-independence-referendum-oil-reserves-canadian-confederation",
-    "timestamp": "2026-10-18T04:01:09.661Z"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
-    "title": "Nuclear Power Plant Uprates: Utilities Squeeze Gigawatts from Legacy Reactors to Feed Compute Grids",
-    "topic_slug": "nuclear-uprating-engineering-baseload-power-ai-datacenters",
-    "timestamp": "2026-10-18T04:01:09.661Z"
-  },
-  {
-    "url": "https://careers.cern/summer-student-programme",
-    "title": "CERN Summer Student Programme 2027: Fully Funded Physics & Computing Fellowships in Geneva",
-    "topic_slug": "opp-cern-summer-student-programme-undergraduate-research-2027",
-    "timestamp": "2026-10-18T04:01:09.661Z"
-  },
-  {
-    "url": "https://www.isct.ac.jp/en/admissions/graduate-programs/igp-c-2027",
-    "title": "Institute of Science Tokyo (formerly Tokyo Tech) IGP (C) MEXT Postgraduate Fellowship 2027",
-    "topic_slug": "opp-tokyo-tech-science-tokyo-igp-mext-postgraduate-fellowship-2027",
-    "timestamp": "2026-10-18T04:01:09.661Z"
-  },
-  {
-    "url": "https://www.gatescambridge.org/apply/overview/",
-    "title": "Gates Cambridge Scholarship 2027: Fully Funded Postgrad STEM & Policy Degrees at Cambridge",
-    "topic_slug": "opp-gates-cambridge-leadership-postgraduate-scholarship-2027",
-    "timestamp": "2026-10-18T04:01:09.661Z"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-    "title": "Anthropic Pledges 5% Equity to Public Benefit Trust and Grants External Watchdogs Unrestricted Technical Access",
-    "topic_slug": "anthropic-public-benefit-fund-independent-governance",
-    "timestamp": "2026-10-19T04:10:27.822Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo",
-    "title": "China AI Hardware and Clean Energy Exports Surge, Countering Domestic Property Headwinds",
-    "topic_slug": "china-ai-hardware-export-surge-macro-divergence",
-    "timestamp": "2026-10-19T04:10:27.822Z"
-  },
-  {
-    "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites",
-    "title": "Ukraine Deploys Massive 1,000-Drone Swarm Against Russian Energy Infrastructure Near St. Petersburg",
-    "topic_slug": "ukraine-deep-drone-swarm-russian-energy-baltic",
-    "timestamp": "2026-10-19T04:10:27.822Z"
-  },
-  {
-    "url": "https://www.space.com/science-astronomy/mars/inside-the-science-of-japans-bold-mmx-mission-to-mars",
-    "title": "JAXA's MMX Mars Moon Exploration Clears Integration Testing for Historic Phobos Sample Return",
-    "topic_slug": "jaxa-mmx-phobos-sample-return-launch-prep",
-    "timestamp": "2026-10-19T04:10:27.822Z"
-  },
-  {
-    "url": "https://www.tbsnews.net/economy/banking/bangladesh-bank-fx-orderbook-matching-mandate",
-    "title": "Bangladesh Bank Mandates Real-Time Centralized FX Order-Book to Eliminate Discretionary Dollar Spreads",
-    "topic_slug": "bangladesh-bank-interbank-fx-electronic-matching-platform",
-    "timestamp": "2026-10-19T04:10:27.822Z"
-  },
-  {
-    "url": "https://www.btrc.gov.bd/site/notices/bdix-domestic-routing-compliance-circular",
-    "title": "BTRC Directs Nationwide ISP and IIG Infrastructure to Route 100% Domestic Data via Local BDIX Nodes",
-    "topic_slug": "btrc-iig-mandatory-domestic-ix-caching-mandate",
-    "timestamp": "2026-10-19T04:10:27.822Z"
-  },
-  {
-    "url": "https://nbr.gov.bd/regulations/sro-customs-ait-machinery-reduction",
-    "title": "NBR Slashes Advance Income Tax on Advanced Manufacturing Machinery to Spur Domestic CapEx",
-    "topic_slug": "nbr-ait-rationalization-industrial-capital-machinery",
-    "timestamp": "2026-10-19T04:10:27.822Z"
-  },
-  {
-    "url": "https://inf.ethz.ch/studies/summer-research-fellowship.html",
-    "title": "ETH Zurich Student Summer Research Fellowship (SSRF) 2027: Fully Funded CS & Systems Internship in Switzerland",
-    "topic_slug": "opp-eth-zurich-ssrf-summer-fellowship-2027",
-    "timestamp": "2026-10-19T04:10:27.822Z"
-  },
-  {
-    "url": "https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/sipga",
-    "title": "Singapore A*STAR International Pre-Graduate Award (SIPGA) 2027: Fully Funded STEM Laboratory Attachments",
-    "topic_slug": "opp-singapore-astar-sipga-research-internship-2027",
-    "timestamp": "2026-10-19T04:10:27.822Z"
-  },
-  {
-    "url": "https://www.akdn.org/our-agencies/aga-khan-foundation/international-scholarship-programme",
-    "title": "Aga Khan Foundation International Scholarship Programme (AKF ISP) 2027–2028: Postgraduate Funding for Developing Nations",
-    "topic_slug": "opp-aga-khan-foundation-international-scholarship-2027",
-    "timestamp": "2026-10-19T04:10:27.822Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo",
-    "title": "US Government Imposes Total Federal Ban on China's DeepSeek AI Over Security and Telemetry Vulnerabilities",
-    "topic_slug": "us-deepseek-ai-federal-procurement-ban",
-    "timestamp": "2026-10-20T05:15:25.509Z"
-  },
-  {
-    "url": "https://www.tbsnews.net/economy/banking/central-bank-mandates-forensic-audits-shariah-lenders-2026",
-    "title": "Bangladesh Bank Imposes Stringent Capital Stress Tests and Forensic Asset Audits Across Restructured Shariah Banks",
-    "topic_slug": "bangladesh-bank-islamic-banking-stress-tests-governance",
-    "timestamp": "2026-10-20T05:15:25.509Z"
-  },
-  {
-    "url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
-    "title": "Russian Inspector Satellite Executes Extreme Proximity Maneuver Against Commercial SAR Satellite ICEYE-X36",
-    "topic_slug": "russian-satellite-kosmos-2612-iceye-space-maneuver",
-    "timestamp": "2026-10-20T05:15:25.509Z"
-  },
-  {
-    "url": "https://www.tbsnews.net/economy/nbr/e-return-mandatory-private-sector-employees-2026",
-    "title": "NBR Expands Mandatory Digital e-Return System to All Formal Private Sector Employees Ahead of Tax Filing Deadline",
-    "topic_slug": "nbr-mandatory-digital-ereturn-rollout-private-sector",
-    "timestamp": "2026-10-20T05:15:25.509Z"
-  },
-  {
-    "url": "https://www.tbsnews.net/bangladesh/energy/petrobangla-finalizes-winter-gas-rationing-power-plants-2026",
-    "title": "Petrobangla and BPDB Finalize Winter Gas-to-Power Allocation Plan to Curb High-Cost Spot LNG Imports",
-    "topic_slug": "bpdb-petrobangla-winter-gas-allocation-industry",
-    "timestamp": "2026-10-20T05:15:25.509Z"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-    "title": "US Federal Court Unseals Espionage Indictment Against Ex-OpenAI Engineer Highlighting Sovereign AI Espionage",
-    "topic_slug": "openai-insider-threat-espionage-saudi-filing",
-    "timestamp": "2026-10-20T05:15:25.509Z"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
-    "title": "Deep-Tech Startup Validates Closed-Loop Supercritical Geothermal Tapping of Submarine Volcanic Systems",
-    "topic_slug": "subsea-geothermal-volcano-energy-proof-point",
-    "timestamp": "2026-10-20T05:15:25.509Z"
-  },
-  {
-    "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-scholarships/",
-    "title": "DAAD WISE Fellowship 2027: Fully Funded Summer Research Internships in Germany for Undergraduate Engineers & Scientists",
-    "topic_slug": "opp-daad-wise-undergraduate-research-internship-germany-2027",
-    "timestamp": "2026-10-20T05:15:25.509Z"
-  },
-  {
-    "url": "https://knight-hennessy.stanford.edu/admission/planning-apply",
-    "title": "Knight-Hennessy Scholars Program 2027: Fully Funded Multidisciplinary Graduate Leadership Fellowship at Stanford University",
-    "topic_slug": "opp-knight-hennessy-scholars-stanford-2027",
-    "timestamp": "2026-10-20T05:15:25.509Z"
-  },
-  {
-    "url": "https://www.epfl.ch/schools/ic/education/summer-at-epfl/",
-    "title": "EPFL Summer Research Fellowship 2027: Fully Funded Computer Science & Engineering Internships in Switzerland",
-    "topic_slug": "opp-epfl-summer-research-fellowship-cs-systems-2027",
-    "timestamp": "2026-10-20T05:15:25.509Z"
-  },
-  {
     "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
     "title": "Intel Secures Regulatory Waiver on Foreign Automated Vehicles to Avert US Semiconductor Fab Delays",
     "topic_slug": "intel-fab-robotics-ban-waiver-chips-act",
@@ -838,5 +358,65 @@
     "title": "ICT Division Launches National AI & Industrial Robotics R&D Fellowship for Bangladeshi STEM Grads",
     "topic_slug": "ict-division-bangladesh-national-ai-robotics-fellowship-2027",
     "timestamp": "2026-10-31T17:06:48.826Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "title": "Democratic Midterm Sweep Shifts Regulatory Pressure onto Hyperscale AI Data Centers and Energy Grids",
+    "topic_slug": "us-midterm-blue-wave-ai-energy-capitol-gridlock",
+    "timestamp": "2026-11-05T06:05:34.400Z"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+    "title": "Sophisticated Cyberattack Compromises French National Blood Bank Cold-Chain Telemetry Systems",
+    "topic_slug": "france-efs-blood-storage-cold-chain-cyberattack",
+    "timestamp": "2026-11-05T06:05:34.400Z"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
+    "title": "Binance Forensics Reveal Multi-Month $6.3B Breach Orchestrated via Trojanized Developer Job Interviews",
+    "topic_slug": "binance-social-engineering-dev-interview-supply-chain-attack",
+    "timestamp": "2026-11-05T06:05:34.400Z"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+    "title": "Hong Kong Court Sentences Democracy Activist Joshua Wong to 10 Years in Landmark Subversion Trial",
+    "topic_slug": "hong-kong-joshua-wong-national-security-law-sentencing",
+    "timestamp": "2026-11-05T06:05:34.400Z"
+  },
+  {
+    "url": "https://www.tbsnews.net/economy/banking",
+    "title": "Bangladesh Bank Tightens Standing Lending Facility to Enforce Interbank Call Money Discipline",
+    "topic_slug": "bangladesh-bank-interbank-liquidity-repo-reforms-2026",
+    "timestamp": "2026-11-05T06:05:34.400Z"
+  },
+  {
+    "url": "https://nbr.gov.bd",
+    "title": "National Board of Revenue Links Digital e-Return System with Citizen Land and Automobile Databases",
+    "topic_slug": "nbr-mandatory-digital-signature-audit-compliance-2026",
+    "timestamp": "2026-11-05T06:05:34.400Z"
+  },
+  {
+    "url": "https://www.bb.org.bd",
+    "title": "Bangladesh External Account Posts Rare Monthly Surplus on Inward Remittance Surge and Curtailed Import LCs",
+    "topic_slug": "bangladesh-external-current-account-remittance-surplus-nov-2026",
+    "timestamp": "2026-11-05T06:05:34.400Z"
+  },
+  {
+    "url": "https://www.schwarzmanscholars.org/admissions/",
+    "title": "Schwarzman Scholars 2027–2028 Cohort Opens Applications: Fully Funded Global Affairs Master's at Tsinghua University",
+    "topic_slug": "opp-schwarzman-scholars-tsinghua-leadership-fellowship-2027",
+    "timestamp": "2026-11-05T06:05:34.400Z"
+  },
+  {
+    "url": "https://cbs.riken.jp/en/summer/",
+    "title": "RIKEN Center for Brain Science and Computational Science Calls for 2027 Summer Research Interns",
+    "topic_slug": "opp-riken-summer-student-research-internship-japan-2027",
+    "timestamp": "2026-11-05T06:05:34.400Z"
+  },
+  {
+    "url": "https://ictd.gov.bd/site/notices",
+    "title": "ICT Division Bangladesh Launches Annual FY26–27 Research & Innovation Grant Call for University Lab Projects",
+    "topic_slug": "opp-ict-division-national-rd-innovation-grant-call-2026-27",
+    "timestamp": "2026-11-05T06:05:34.400Z"
   }
 ]
