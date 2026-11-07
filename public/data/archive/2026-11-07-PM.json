@@ -1,0 +1,403 @@
+{
+  "edition_id": "2026-11-07-PM",
+  "generated_at_utc": "2026-11-07T17:39:51.106Z",
+  "generated_at_bst": "11/7/2026, 11:39:51 PM BST",
+  "edition_shift": "EVENING_1800_BST",
+  "executive_pulse": "Global energy grids and tech hardware face dual strategic shifts as the US Senate advances fast-track permitting for AI datacenter power while Russian missile barrages strain Kyiv's electrical grid ahead of Gulf-mediated diplomacy. In Dhaka, fiscal authorities execute forensic audits on stressed shadow-banking balance sheets alongside structural cost-pass-through adjustments to national industrial energy tariffs.",
+  "stats": {
+    "total_items": 10,
+    "news_count": 7,
+    "opportunities_count": 3,
+    "sources_scanned": 131
+  },
+  "items": [
+    {
+      "id": "baaja-senate-energy-permitting-ai-grid-2026",
+      "topic_slug": "us-senate-baaja-energy-infrastructure-permitting-reform",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "US Senate Prepares Vote on BAAJA Legislation to Overhaul Energy Permitting for Hyperscale AI Datacenters",
+      "summary_points": [
+        "The United States Senate is scheduled to vote on November 9 on the Bipartisan American Affordability and Jobs Act (BAAJA), aimed at slashing regulatory review cycles for interstate electrical transmission and clean energy generation.",
+        "The bill introduces a statutory two-year cap on environmental impact statements (EIS) under the National Environmental Policy Act (NEPA) and expands Federal Energy Regulatory Commission (FERC) backstop siting authority.",
+        "The legislative push responds directly to a mounting power crunch where gigawatt-scale AI datacenter clusters in Virginia, Texas, and Ohio face grid-interconnection backlogs extending up to seven years."
+      ],
+      "why_it_matters": "Hyperscale AI deployment is no longer constrained primarily by GPU silicon supply, but by thermal and electrical grid interconnects. If passed, this legislation unlocks massive capital expenditures in electrical switchgear, high-voltage direct current (HVDC) transmission, and localized small modular reactor (SMR) installations, driving global engineering hiring and dictating where foundation AI models are physically trained.",
+      "deep_dive_analysis": "The explosive expansion of generative AI training clusters has collided with the physical realities of legacy electric utility infrastructure. Over the past three years, datacenter developers have encountered transmission queue delays that routinely exceed the operational lifecycle of successive GPU architectures. The Bipartisan American Affordability and Jobs Act (BAAJA) directly targets this friction point by revamping NEPA litigation rules, restricting legal injunction periods against energy infrastructure, and granting FERC preemptive siting powers over states that stall interstate transmission lines.\n\nMechanistically, the legislation mandates a streamlined single-agency federal review model, limiting the timeline of environmental assessments to one year and environmental impact statements to two years. Crucially for advanced computing facilities, BAAJA introduces a categorical exclusion for co-located zero-carbon generation, enabling tech conglomerates to rapidly build on-site nuclear, advanced geothermal, and closed-cycle natural gas facilities with carbon capture behind the utility meter without triggering multi-year regional reviews.\n\nFor international engineers and technology planners, this reform marks a permanent pivot from software-only optimization to heavy electrical and power systems engineering. Developing nations like Bangladesh—simultaneously attempting to modernize their national grids and integrate renewable capacity—will see the supply chain for high-voltage transformers, power electronics, and grid-scale storage tighten drastically as US hyperscalers absorb global electrical manufacturing capacity under newly expedited permitting pipelines.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "NEPA (National Environmental Policy Act)",
+            "definition": "A foundational US environmental statute requiring federal agencies to evaluate the environmental impact of proposed infrastructure projects before granting permits."
+          },
+          {
+            "term": "Interconnection Queue",
+            "definition": "The formal waiting list of planned power generation and industrial load projects awaiting technical review and grid connection approval from regional grid operators."
+          },
+          {
+            "term": "HVDC (High-Voltage Direct Current)",
+            "definition": "An electrical power transmission technology that uses direct current for efficient bulk transmission of power over long distances with significantly lower line losses than alternating current."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "MIT Technology Review",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Rigorous technical journalism covering breakthrough infrastructure, energy policy, and emerging compute systems.",
+          "original_url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+          "discussion_or_secondary_url": "https://www.energy.senate.gov/hearings"
+        }
+      }
+    },
+    {
+      "id": "bb-forensic-audit-troubled-nbfi-balance-sheets-2026",
+      "topic_slug": "bangladesh-bank-forensic-audit-nbfi-quarantine",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Bangladesh Bank Directs Forensic Portfolio Audits Across 14 Distressed NBFIs to Ring-Fence Bad Debt",
+      "summary_points": [
+        "Bangladesh Bank (BB) has formally commissioned independent chartered accounting consortiums to execute comprehensive forensic asset-quality audits across 14 vulnerable Non-Bank Financial Institutions (NBFIs).",
+        "The directive requires auditors to trace end-use capital flows of legacy loans issued between 2017 and 2024, identify shell entity exposure, and segregate non-performing assets into a special liquidation registry.",
+        "Healthy financial institutions and commercial depositors will receive regulatory liquidity backstops from the central bank while distressed balance sheets undergo structured restructuring or forced voluntary winding up."
+      ],
+      "why_it_matters": "For any citizen with savings, fixed deposits, or corporate payrolls tied to Bangladeshi financial institutions, this audit accelerates systemic cleanup. Distressed NBFIs will no longer be permitted to offer unviable, inflated deposit yields, establishing transparent credit pricing and stabilizing interbank trust.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "NBFI (Non-Bank Financial Institution)",
+            "definition": "Financial entities that provide banking and lending services without holding a full banking license and without participating in the central bank's national clearinghouse."
+          },
+          {
+            "term": "Forensic Audit",
+            "definition": "An intensive examination of an organization's financial records to detect fraudulent diversion, illegal asset siphoning, or regulatory non-compliance usable in legal proceedings."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Bangladesh Bank Financial Institutions Division",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Central banking statutory regulator and official financial surveillance bulletins of Bangladesh.",
+          "original_url": "https://www.bb.org.bd/en/index.php/mediaroom/circular",
+          "discussion_or_secondary_url": "https://www.tbsnews.net/economy/banking"
+        }
+      }
+    },
+    {
+      "id": "berc-industrial-captive-gas-automated-formula-2026",
+      "topic_slug": "berc-automated-monthly-captive-gas-tariff-adjustment",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "BERC Implements Dynamic Monthly Tariff Cost-Pass-Through Formula for Captive Power and Industrial Gas",
+      "summary_points": [
+        "The Bangladesh Energy Regulatory Commission (BERC) and the Energy and Mineral Resources Division have enacted an automated monthly pricing formula linking industrial and captive power natural gas tariffs directly to imported LNG spot rates and Brent crude benchmarks.",
+        "The mechanism removes discretionary ad-hoc tariff spikes, setting the domestic rate based on the preceding 30-day weighted average cost of domestic production combined with long-term and spot LNG deliveries into Moheshkhali.",
+        "Export manufacturing associations have received operational guidelines allowing monthly hedging and predictive fuel budgeting, though operational overhead is projected to see mild upward revision heading into December."
+      ],
+      "why_it_matters": "Automated energy tariffs eliminate sudden price shocks for factories, protecting national readymade garment (RMG) competitiveness and reducing government subsidy liabilities. For citizens, reduced sovereign energy borrowing alleviates pressure on national foreign exchange reserves.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Captive Power Plant",
+            "definition": "An on-site dedicated electricity generation facility built by an industrial factory to guarantee uninterrupted power supply independently of the national transmission grid."
+          },
+          {
+            "term": "Cost-Pass-Through Formula",
+            "definition": "A regulatory pricing rule that automatically transfers increases or decreases in raw procurement costs (like imported fuel) directly into consumer and industrial tariffs."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ministry of Power, Energy and Mineral Resources Gazette",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Official administrative gazette governing national energy pricing and regulatory directives.",
+          "original_url": "https://berc.org.bd/site/view/notices",
+          "discussion_or_secondary_url": "https://www.tbsnews.net/economy/energy"
+        }
+      }
+    },
+    {
+      "id": "ukraine-power-grid-strikes-abu-dhabi-talks-2026",
+      "topic_slug": "ukraine-grid-infrastructure-strikes-diplomacy-abu-dhabi",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Russian Missile Strikes Knock Out Kyiv Power Grid Ahead of High-Stakes Trilateral Talks in Abu Dhabi",
+      "summary_points": [
+        "Russian forces launched concentrated ballistic missile and drone salvos targeting critical transmission substations in Kyiv and central Ukraine, leaving over 400,000 households without power and disrupting municipal water supplies.",
+        "The infrastructure strikes occur days before Russian, Ukrainian, and international delegations convene in Abu Dhabi for closed-door trilateral security discussions mediated by Gulf partners.",
+        "Ukrainian energy operator Ukrenergo has instituted rolling emergency blackouts while maintenance crews work under winter conditions to bypass damaged high-voltage autotransformers."
+      ],
+      "why_it_matters": "Targeting energy grids right before diplomatic negotiations is a classic coercive leverage tactic. Escalation in Eastern Europe continues to keep global distillate and diesel refining margins elevated, directly impacting maritime freight rates and fertilizer production costs worldwide.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Autotransformer",
+            "definition": "A heavy electrical transformer with a single tapped winding that connects distinct high-voltage regional transmission grids to municipal distribution circuits."
+          },
+          {
+            "term": "Trilateral Talks",
+            "definition": "Formal diplomatic negotiations involving three sovereign or institutional parties working to establish interim ceasefire terms or technical agreements."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC World News Wire",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Official international wire service reporting field updates verified by Ukrainian energy ministries and municipal authorities.",
+          "original_url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po",
+          "discussion_or_secondary_url": "https://www.theguardian.com/world/ukraine"
+        }
+      }
+    },
+    {
+      "id": "tesla-cybertruck-discontinuation-cybercab-pivot-2026",
+      "topic_slug": "tesla-cybertruck-phaseout-cybercab-autonomous-robotaxi",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Tesla Signals Wind-Down of Cybertruck Lines to Reallocate Gigafactory Capacity Toward Cybercab Robotaxis",
+      "summary_points": [
+        "Tesla leadership has signaled plans to sunset Cybertruck assembly lines at Gigafactory Texas, reallocating advanced manufacturing floor space and structural battery production to the purpose-built Cybercab autonomous taxi.",
+        "The move reflects plateauing niche consumer demand for the stainless-steel pickup alongside heavy capital requirements to mass-produce driverless urban transit pods designed without steering wheels or pedals.",
+        "Autonomous vehicle analysts note the pivot confirms that software-driven transportation-as-a-service (TaaS) yields significantly higher projected operating margins than capital-intensive consumer electric trucks."
+      ],
+      "why_it_matters": "Automotive engineering is entering a structural consolidation phase where hardware sales take a backseat to autonomy software stacks and sensor-fusion compute. For electrical and mechatronics engineers, expertise in vision-language models, steer-by-wire redundancy, and fleet teleoperation will dominate future job growth.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "TaaS (Transportation-as-a-Service)",
+            "definition": "A mobility model where users access on-demand vehicle transportation via shared autonomous fleets rather than individually purchasing and owning vehicles."
+          },
+          {
+            "term": "Structural Battery Pack",
+            "definition": "An electric vehicle design paradigm where battery cells serve as an integral load-bearing structural component of the vehicle chassis, reducing weight and complexity."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC Business & Finance",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Global financial and corporate strategy bureau monitoring public automaker filings and production shifts.",
+          "original_url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
+          "discussion_or_secondary_url": "https://www.bloomberg.com/technology"
+        }
+      }
+    },
+    {
+      "id": "new-zealand-election-deadlock-hung-parliament-2026",
+      "topic_slug": "new-zealand-general-election-deadlock-coalition",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "QUICK_SIGNAL",
+      "headline": "New Zealand General Election Delivers Hung Parliament, Commencing Protracted Coalition Negotiations",
+      "summary_points": [
+        "Preliminary general election tallies in Wellington indicate no single party or traditional bloc has secured an outright parliamentary majority, plunging New Zealand into multi-week coalition talks.",
+        "Surging support for populist minor parties and indigenous advocacy blocs has fragmented the House of Representatives, leaving conservative and progressive party leaders reliant on complex cross-bench compromises.",
+        "Financial markets reacted with slight downward pressure on the New Zealand Dollar (NZD) as business chambers urge swift resolution to safeguard fiscal budgets and infrastructure commitments."
+      ],
+      "why_it_matters": "Prolonged political deadlocks across Commonwealth democracies delay bilateral trade adjustments and immigration quotas. Students and professionals evaluating international postgraduate work permits or residency pathways in Oceania must track how new coalition concessions alter skilled-migration thresholds.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "MMP (Mixed Member Proportional)",
+            "definition": "An electoral voting system combining local single-member districts with party lists, frequently resulting in multi-party coalition governments rather than single-party majorities."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Reuters / BBC World News",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Comprehensive international political reporting verified against New Zealand Electoral Commission returns.",
+          "original_url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o",
+          "discussion_or_secondary_url": "https://www.reuters.com/world/asia-pacific"
+        }
+      }
+    },
+    {
+      "id": "italy-foreign-ministry-cyberattack-pro-russian-leak-2026",
+      "topic_slug": "italy-foreign-ministry-cyberattack-data-leak",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "QUICK_SIGNAL",
+      "headline": "Italian Foreign Ministry Data Compromised in Coordinated Pro-Russian Hybrid Cyber Incursion",
+      "summary_points": [
+        "Italian Prime Minister Giorgia Meloni and Foreign Minister Antonio Tajani confirmed a critical state security breach after proprietary diplomatic communications and minister personal records were leaked online.",
+        "National cybersecurity agencies linked the vector to advanced persistent threat (APT) groups leveraging phishing credentials and zero-day perimeter flaws in ministerial remote-access gateways.",
+        "The incident comes amid a broader pattern of synchronized hybrid disruptions targeting critical administrative, aviation, and financial endpoints across southern and western European nations."
+      ],
+      "why_it_matters": "State-sponsored cyber espionage increasingly relies on exploiting mundane enterprise access channels rather than complex cryptographic cracks. For software and systems engineering undergraduates, this highlights the mandatory industry pivot toward zero-trust architecture, hardware security keys (FIDO2), and strict isolation of privileged government telemetry.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "APT (Advanced Persistent Threat)",
+            "definition": "A stealthy, continuous cyberattack campaign typically orchestrated by a state-sponsored entity targeting sensitive institutional networks over extended durations."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC World News",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Direct reporting cross-referenced against Italian government statements and European cybersecurity advisories.",
+          "original_url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o",
+          "discussion_or_secondary_url": "https://www.reuters.com/world/europe"
+        }
+      }
+    },
+    {
+      "id": "opp-ntu-singapore-summer-research-internship-sri-2027",
+      "topic_slug": "opp-ntu-singapore-summer-research-internship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "NTU Singapore Summer Research Internship (SRI) 2027: Funded 8-Week Global STEM Cohort",
+      "summary_points": [
+        "Nanyang Technological University (NTU), Singapore, has officially issued its call for the Summer Research Internship (SRI) 2027 program running from June to August 2027.",
+        "The program invites high-performing international undergraduate students across electrical, mechanical, aerospace, computer science, and bioengineering disciplines to work directly under leading NTU faculty.",
+        "Selected candidates receive an institutional living allowance, full on-campus accommodation coverage, and waived university registration fees alongside laboratory access."
+      ],
+      "why_it_matters": "NTU consistently ranks among the top 15 engineering institutions globally. Securing an SRI fellowship establishes direct mentorship with world-class faculty, significantly boosting your profile for fully funded direct-entry PhD applications at NTU, NUS, or top North American institutions without needing GRE scores.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-15",
+        "funding_or_reward": "SGD 1,500 monthly stipend + Subsidized on-campus housing + Waived registration",
+        "eligibility": "Pre-final year undergraduate students (graduating 2027 or 2028) with a minimum CGPA of 3.50/4.00 or equivalent."
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Direct-Entry PhD",
+            "definition": "A postgraduate doctoral track common in premier global universities where exceptional undergraduate students skip a terminal master's degree and matriculate straight into doctoral research."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Nanyang Technological University Global Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official NTU institutional admissions and international student mobility portal.",
+          "original_url": "https://www.ntu.edu.sg/education/student-exchanges/summer-research-internship-(sri)",
+          "discussion_or_secondary_url": "https://global.ntu.edu.sg"
+        }
+      }
+    },
+    {
+      "id": "opp-kaist-international-graduate-scholarship-fall-2027",
+      "topic_slug": "opp-kaist-international-graduate-scholarship-fall-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "KAIST Graduate International Scholarship Cohort Fall 2027: Full Tuition and Research Stipend Call",
+      "summary_points": [
+        "Korea Advanced Institute of Science and Technology (KAIST) has unveiled its early application cycle for international MS, MS-PhD integrated, and doctoral applicants for the Fall 2027 semester.",
+        "The KAIST International Student Scholarship covers 100% of tuition fees for all semesters of normal residency, providing a guaranteed monthly living stipend of KRW 350,000 to KRW 400,000 topped up by departmental laboratory research grants.",
+        "Priority research tracks include advanced semiconductor fabrication, humanoid robotics, quantum information science, and artificial intelligence hardware architectures."
+      ],
+      "why_it_matters": "South Korea's national semiconductor clusters (Samsung, SK Hynix) invest heavily into KAIST research labs. For Bangladeshi engineering graduates, this offers an immediate pathway to cutting-edge cleanroom fabrication and industrial electronics research with direct post-graduation employment visas (F-2-R and E-7).",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2027-01-20",
+        "funding_or_reward": "Full tuition waiver (approx. KRW 4,000,000/sem) + KRW 350,000-400,000 monthly living stipend + National Health Insurance",
+        "eligibility": "Graduating seniors and bachelor's degree holders in engineering and physical sciences with strong academic standing and English proficiency."
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Integrated MS-PhD",
+            "definition": "A unified academic graduate program allowing students to transition seamlessly from master's coursework into doctoral dissertations without completing a separate thesis defense in between."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "KAIST International Admissions Office",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official South Korean national research university international scholarship authority.",
+          "original_url": "https://admission.kaist.ac.kr/intl-graduate/scholarships",
+          "discussion_or_secondary_url": "https://www.kaist.ac.kr"
+        }
+      }
+    },
+    {
+      "id": "opp-bhtpa-edge-vlsi-embedded-design-fellowship-2027",
+      "topic_slug": "opp-bhtpa-edge-vlsi-embedded-hardware-fellowship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "BHTPA & EDGE Project Announce National VLSI and Embedded Hardware Fellowship 2027",
+      "summary_points": [
+        "The Bangladesh Hi-Tech Park Authority (BHTPA) in partnership with the World Bank-backed EDGE Project has opened competitive applications for the National VLSI and Embedded Systems Hardware Fellowship Cohort 2027.",
+        "Selected fellows will undergo intensive 6-month specialized physical chip design training using industry-standard Cadence and Synopsys EDA tool suites at designated Silicon Labs in Kaliakoir Hi-Tech City.",
+        "The fellowship includes full financial sponsorship, industrial mentorship with leading multinational semiconductor design firms, and placement guarantees for top performers."
+      ],
+      "why_it_matters": "Bangladesh is aggressively expanding its fabless semiconductor design ecosystem (UlkaSemi, Neural Semiconductor, etc.) to capture global chip design outsourcing. This initiative bypasses the multi-lakh-taka cost of proprietary EDA licensing, directly qualifying local electrical and computer engineers for international semiconductor design roles.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-10",
+        "funding_or_reward": "Fully funded 6-month specialized training + BDT 20,000 monthly living stipend + Industry EDA tool access",
+        "eligibility": "Final-year undergraduates or recent graduates (2025-2026) in EEE, CSE, ETE, or Mechatronics from recognized Bangladeshi universities."
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "EDA Tools (Electronic Design Automation)",
+            "definition": "Specialized software algorithms used by integrated circuit engineers to design, simulate, verify, and layout multi-billion-transistor silicon chips."
+          },
+          {
+            "term": "Fabless Semiconductor",
+            "definition": "A business model where a company designs hardware and microchips in-house but outsources physical silicon fabrication to specialized foundries (e.g., TSMC)."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Bangladesh Hi-Tech Park Authority (BHTPA) / EDGE Project",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official national ICT and frontier tech capability initiative under the ICT Division of Bangladesh.",
+          "original_url": "https://bhtpa.gov.bd/notices",
+          "discussion_or_secondary_url": "https://edge.gov.bd"
+        }
+      }
+    }
+  ]
+}
