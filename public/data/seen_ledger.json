@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-    "title": "Intel Secures Regulatory Waiver on Foreign Automated Vehicles to Avert US Semiconductor Fab Delays",
-    "topic_slug": "intel-fab-robotics-ban-waiver-chips-act",
-    "timestamp": "2026-10-24T04:07:45.420Z"
-  },
-  {
-    "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
-    "title": "NASA Formalizes Root-Cause Fix for Orion Heatshield Charring, Clearing Path for Crewed Artemis Trajectory",
-    "topic_slug": "nasa-artemis-orion-heatshield-redesign-lunar-lander",
-    "timestamp": "2026-10-24T04:07:45.420Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
-    "title": "UK Allocates £100M to Construct Dedicated Sovereign AI Biosecurity Screening Facility",
-    "topic_slug": "uk-ai-biosecurity-lab-dna-screening",
-    "timestamp": "2026-10-24T04:07:45.420Z"
-  },
-  {
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack",
-    "title": "Saudi Air Defenses Neutralize Long-Range Missile Threat as US Downsizes Regional Diplomatic Footprints",
-    "topic_slug": "red-sea-gulf-air-defense-escalation",
-    "timestamp": "2026-10-24T04:07:45.420Z"
-  },
-  {
-    "url": "https://www.bb.org.bd/mediaroom/circulars/circulars.php",
-    "title": "Bangladesh Bank Enforces Strict 25% Single-Borrower Exposure Cap with Mandatory External Forensic Audits",
-    "topic_slug": "bangladesh-bank-single-borrower-exposure-cap-forensic-audit",
-    "timestamp": "2026-10-24T04:07:45.420Z"
-  },
-  {
-    "url": "https://powerdivision.gov.bd",
-    "title": "Power Division Finalizes National Grid Wheeling Framework for Private Industrial Solar Power",
-    "topic_slug": "power-division-renewable-wheeling-tariff-merchant-solar-framework",
-    "timestamp": "2026-10-24T04:07:45.420Z"
-  },
-  {
-    "url": "https://nbr.gov.bd",
-    "title": "NBR and Bangladesh Bank Link Foreign Currency Travel Quota directly to e-TIN Returns",
-    "topic_slug": "nbr-automated-cross-border-card-endorsement-tax-reconciliation",
-    "timestamp": "2026-10-24T04:07:45.420Z"
-  },
-  {
-    "url": "https://www.quadfellowship.org",
-    "title": "Quad Fellowship 2027 Opens for International STEM Master's and Doctoral Scholars in the United States",
-    "topic_slug": "quad-fellowship-stem-postgraduate-2027",
-    "timestamp": "2026-10-24T04:07:45.420Z"
-  },
-  {
-    "url": "https://www.bdr.riken.jp/en/internship",
-    "title": "RIKEN Center for Biosystems Dynamics Research (BDR) Launches Summer Research Traineeship 2027 in Japan",
-    "topic_slug": "opp-riken-summer-student-computational-biology-japan-2027",
-    "timestamp": "2026-10-24T04:07:45.420Z"
-  },
-  {
-    "url": "https://summerofcode.withgoogle.com",
-    "title": "Google Summer of Code (GSoC) 2027 Announces Open Source Contributor Planning Sprint",
-    "topic_slug": "opp-gsoc-open-source-engineering-mentorship-2027",
-    "timestamp": "2026-10-24T04:07:45.420Z"
-  },
-  {
     "url": "https://www.bb.org.bd",
     "title": "Bangladesh Bank Mandates Real-Time FX Liquidity Surveillance to Reinforce 122.50 BDT/USD Crawling Peg Band",
     "topic_slug": "bangladesh-bank-realtime-forex-monitoring-crawling-peg",
@@ -418,5 +358,65 @@
     "title": "ICT Division Bangladesh Launches Annual FY26–27 Research & Innovation Grant Call for University Lab Projects",
     "topic_slug": "opp-ict-division-national-rd-innovation-grant-call-2026-27",
     "timestamp": "2026-11-05T06:05:34.400Z"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
+    "title": "Paraguayan Congress Impeaches and Arrests President Santiago Peña Following Catastrophic Retail Banking Run",
+    "topic_slug": "paraguay-santiago-pena-impeachment-banking-crisis",
+    "timestamp": "2026-11-07T05:31:57.943Z"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+    "title": "Chainalysis Discloses Total Customer Credential and Telemetry Compromise via Autonomous AI Attack Vectors",
+    "topic_slug": "chainalysis-autonomous-agent-telemetry-breach",
+    "timestamp": "2026-11-07T05:31:57.943Z"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+    "title": "Vessels Loiter Near Critical Subsea Cables Following Escalating Middle East Infrastructure Threats",
+    "topic_slug": "mideast-subsea-cables-maritime-transit-security",
+    "timestamp": "2026-11-07T05:31:57.943Z"
+  },
+  {
+    "url": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres",
+    "title": "Civic Backlash Against AI Infrastructure Mounts as US Municipalities and European Cities Block Data Center Permits",
+    "topic_slug": "hyperscale-datacenter-civic-energy-backlash",
+    "timestamp": "2026-11-07T05:31:57.943Z"
+  },
+  {
+    "url": "https://www.tbsnews.net/economy/bazaar/commodities-continue-be-dearer-328855",
+    "title": "Commerce Ministry Initiates Enforcement on Khatunganj Commodity Syndicates Amid Essential Food Price Spikes",
+    "topic_slug": "bangladesh-khatunganj-commodity-cartel-price-control",
+    "timestamp": "2026-11-07T05:31:57.943Z"
+  },
+  {
+    "url": "https://www.bb.org.bd/en/index.php",
+    "title": "Bangladesh Bank Issues Directives Mandating Full Interoperable 'Bangla QR' Deployment for Micro-Merchants",
+    "topic_slug": "bangladesh-bank-bangla-qr-merchant-interoperability",
+    "timestamp": "2026-11-07T05:31:57.943Z"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+    "title": "Commercial Satellite Operators Begin Developing Internal Launchers as Space Lift Shortages Worsen",
+    "topic_slug": "ast-spacemobile-blacklift-rocket-launch-scarcity",
+    "timestamp": "2026-11-07T05:31:57.943Z"
+  },
+  {
+    "url": "https://inf.ethz.ch/studies/summer-research-fellowship.html",
+    "title": "ETH Zurich Student Summer Research Fellowship (SSRF) 2027 Opens Applications for Global Undergraduates",
+    "topic_slug": "opp-eth-zurich-student-summer-research-fellowship-2027",
+    "timestamp": "2026-11-07T05:31:57.943Z"
+  },
+  {
+    "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/",
+    "title": "DAAD WISE Fellowship 2027: Funded STEM Research Internships Across German Public Universities",
+    "topic_slug": "opp-daad-wise-research-internship-germany-2027",
+    "timestamp": "2026-11-07T05:31:57.943Z"
+  },
+  {
+    "url": "https://big.gov.bd",
+    "title": "Bangabandhu Innovation Grant (BIG) 2027 Opens Applications for Student Hardware and Software Startups",
+    "topic_slug": "opp-bangabandhu-innovation-grant-national-startup-cohort-2027",
+    "timestamp": "2026-11-07T05:31:57.943Z"
   }
 ]

@@ -1,0 +1,391 @@
+{
+  "edition_id": "2026-11-07-AM",
+  "generated_at_utc": "2026-11-07T05:31:57.943Z",
+  "generated_at_bst": "11/7/2026, 11:31:57 AM BST",
+  "edition_shift": "MORNING_0600_BST",
+  "executive_pulse": "Paraguay's government fractures overnight as President Peña is impeached and detained over an acute national banking liquidity collapse, while Chainalysis suffers an unprecedented compromise of customer API tokens orchestrated by autonomous offensive agents. Domestically, Bangladesh's commerce authorities initiate aggressive market surveillance on Khatunganj import syndicates alongside central bank mandates for universal retail payment interoperability.",
+  "stats": {
+    "total_items": 10,
+    "news_count": 7,
+    "opportunities_count": 3,
+    "sources_scanned": 132
+  },
+  "items": [
+    {
+      "id": "paraguay-santiago-pena-impeachment-banking-collapse-2026",
+      "topic_slug": "paraguay-santiago-pena-impeachment-banking-crisis",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Paraguayan Congress Impeaches and Arrests President Santiago Peña Following Catastrophic Retail Banking Run",
+      "summary_points": [
+        "Paraguay's National Congress voted overwhelmingly to impeach President Santiago Peña, placing him under immediate house arrest following the systemic failure of Ueno Bank and affiliated credit institutions.",
+        "The crisis triggered nationwide capital freezes, leaving approximately 60% of the adult population unable to access basic liquidity, payroll disbursements, or transactional accounts for over 72 hours.",
+        "Vice President Pedro Alliana was sworn in as interim president amid mass street mobilizations in Asunción and emergency stabilization negotiations with regional central banks."
+      ],
+      "why_it_matters": "Demonstrates the catastrophic speed at which concentrated digital banking vulnerabilities and unhedged non-performing loan books can collapse a sovereign administration. For observers in developing economies like Bangladesh, it underscores how fragile institutional trust is when retail depositors lose physical access to fiat liquidity.",
+      "deep_dive_analysis": "The downfall of Santiago Peña represents the first sovereign head-of-state ouster directly precipitated by a fintech-interlinked banking contagion in Latin America. The immediate catalyst was the insolvency of Ueno Bank—an institution that expanded rapidly through aggressive retail app digitization and state-backed social disbursement integration, but operated with severe asset-liability mismatches and hidden non-performing commercial loans. When liquidity dried up and digital withdrawals were capped, panic migrated across the interbank settlement grid within forty-eight hours, paralyzing urban commercial corridors in Asunción and Ciudad del Este.\n\nPeña's administration attempted to counter the bank run by deploying central bank emergency discount windows and imposing emergency capital restrictions. However, the intervention failed to reassure mid-tier commercial depositors, who discovered that municipal and state pension funds had been heavily exposed to the bank's subordinated debt. As civic unrest escalated and cross-party coalitions within the Colorado Party fractured, Congress invoked Article 225 of the National Constitution, completing summary political trials before dawn.\n\nThe second-order ramifications for Mercosur and broader emerging market sovereign debt are profound. Paraguayan sovereign bonds fell over 450 basis points overnight, with credit rating agencies placing the country's sovereign debt on negative credit watch. The crisis illustrates how aggressive fintech financial inclusion without rigorous tier-1 capital reserves and independent auditing can turn a localized credit freeze into existential regime collapse.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Asset-Liability Mismatch (ALM)",
+            "definition": "A financial risk that arises when a financial institution's liabilities (such as short-term customer deposits) do not align in maturity or interest rate structure with its assets (such as long-term, illiquid loans)."
+          },
+          {
+            "term": "Subordinated Debt",
+            "definition": "Unsecured loans or bonds that rank below senior debt claims in the event of liquidation, meaning holders are paid only after senior creditors are fully satisfied."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC World News / Reuters Wire",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Multi-sourced verification across BBC World, Reuters Asunción bureau, and official Paraguayan congressional gazette recordings.",
+          "original_url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
+          "discussion_or_secondary_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13U2tMV01VSGd5ekZEWjNpRFh6SWhYMlFrNUNwa3Z2dkFrcmcxa29WcFNCUkNIbzZSS1NfVEtuWDJyZ1BwNV85ZW1oT2VBaUNVemNvUEdiVEJuTVE"
+        }
+      }
+    },
+    {
+      "id": "chainalysis-systemic-api-telemetry-breach-ai-agents",
+      "topic_slug": "chainalysis-autonomous-agent-telemetry-breach",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Chainalysis Discloses Total Customer Credential and Telemetry Compromise via Autonomous AI Attack Vectors",
+      "summary_points": [
+        "Blockchain forensics giant Chainalysis confirmed a sophisticated multi-stage intrusion that compromised customer API access tokens, internal monitoring telemetry, and analytical query histories across its entire client registry.",
+        "Forensic incident response teams determined that adversaries utilized synchronized autonomous AI agents executing machine-speed network reconnaissance and an on-path data interception vector.",
+        "The breach exposes sovereign law enforcement agencies, commercial banks, and crypto platforms to deanonymization of their ongoing active investigations and asset tracking vectors."
+      ],
+      "why_it_matters": "Chainalysis underpins virtually all global crypto-asset regulatory compliance, sanction enforcement, and national cyber-crime tracking. If you are developing web3 protocols, building fintech tools, or auditing digital assets, the metadata of every transaction monitor you rely on is now potentially accessible to sophisticated threat actors.",
+      "deep_dive_analysis": "The breach at Chainalysis represents a critical inflection point in enterprise cyber-defense, transitioning theoretical concerns about autonomous AI-driven offensive operations into confirmed reality. According to technical disclosures, the attack commenced when adversary agents weaponized a zero-day exploit chain across an internal developer orchestration platform. Rather than extracting bulk databases immediately, the threat actors deployed autonomous sub-agents tasked with persistent memory extraction and dynamic traffic routing via on-path interception, avoiding traditional signature-based security information and event management (SIEM) detection.\n\nOver several weeks, the offensive agents methodically harvested ephemeral session tokens, client-side API authentication keys, and historical query payloads. For institutional clients—which include the US Federal Bureau of Investigation, Europol, national financial intelligence units (FIUs), and global cryptocurrency exchanges—this compromise exposes the specific wallet addresses, clustering heuristics, and high-value criminal investigations currently underway. Attackers now possess an operational roadmap detailing precisely which transaction paths are flagged and which obfuscation patterns remain unnoticed.\n\nFrom a systems engineering perspective, this compromise highlights the severe vulnerabilities of centralization in security and compliance tooling. Organizations interfacing with analytics APIs must immediately rotate all root credentials, enforce cryptographic signing on outbound request payloads, and assume that passive telemetry logs stored with external SaaS compliance vendors have been compromised. The event will likely accelerate the development of zero-knowledge audit proofs, where compliance verification occurs without revealing transaction graphs or investigative targets to centralized intermediaries.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "On-Path Attack",
+            "definition": "A cyberattack (formerly known as Man-in-the-Middle) where an adversary secretly relays and alters communications between two parties who believe they are directly communicating with each other."
+          },
+          {
+            "term": "Telemetry Data",
+            "definition": "Automated logs and operational measurements collected from remote endpoints to track system activity, analytical queries, and performance heuristics."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica Security Bureau",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Direct technical breakdown based on corporate disclosures and verified cybersecurity incident response filings.",
+          "original_url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+          "discussion_or_secondary_url": "https://news.ycombinator.com"
+        }
+      }
+    },
+    {
+      "id": "persian-gulf-subsea-cable-vulnerabilities-red-sea-clearances",
+      "topic_slug": "mideast-subsea-cables-maritime-transit-security",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Vessels Loiter Near Critical Subsea Cables Following Escalating Middle East Infrastructure Threats",
+      "summary_points": [
+        "Maritime tracking data reveals specialized commercial and unflagged vessels loitering directly above vital fiber optic subsea trunklines in the Strait of Hormuz and Gulf of Oman following recent military exchanges.",
+        "Simultaneously, international shipping conglomerates have adopted ad-hoc email clearance protocols with regional authorities and Yemen-based factions to secure transit through the Bab el-Mandeb strait.",
+        "Telecommunications consortia warn that any deliberate severance of Red Sea or Persian Gulf cable corridors would force over 70% of Asia-to-Europe data traffic onto congested alternative terrestrial routes."
+      ],
+      "why_it_matters": "Bangladesh's internet connectivity and software export industry rely directly on undersea fiber systems like SMW4, SMW5, and the emerging SMW6 passing through Middle Eastern maritime corridors. Disruption to these pinch points causes immediate latency spikes, packet loss, and severe economic drag on remote engineering teams.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Subsea Fiber Chokepoint",
+            "definition": "Narrow maritime straits (like the Red Sea or Strait of Hormuz) where numerous high-capacity intercontinental telecommunication cables are densely clustered along shallow seabeds, making them vulnerable to physical cutting."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica & Wall Street Journal",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Corroborated reporting from marine tracking telemetry (AIS data) and shipping operational documentation.",
+          "original_url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+          "discussion_or_secondary_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWnBubG96c1ktVkN2VE9wYXM4SjRCQXQ1c0RDTkNQLXVsaHhwcU1MSzI0RUYtVVphWFdleXB0VHVpY3piZktaNUw0NmpUQ3Zxa2RUMmRHby13S3kySXZTQ1dLQnJfY2J3Vm9mcmMtWU5ITkl2c01EMEx0OXQzTVFGOHpDWWtnbklfb1RQaVp6ak9TWFV4ZWJWb1FZZ1EtWHhtcTdrNWI1OE5VZ2lNWFFxSFpEQQ"
+        }
+      }
+    },
+    {
+      "id": "hyperscale-datacenter-backlash-energy-gridlock-2026",
+      "topic_slug": "hyperscale-datacenter-civic-energy-backlash",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Civic Backlash Against AI Infrastructure Mounts as US Municipalities and European Cities Block Data Center Permits",
+      "summary_points": [
+        "In the wake of regional elections, voters and municipal councils across 40 jurisdictions in North America voted down zoning permits, property tax exemptions, and water allocation rights for hyperscale data centers.",
+        "In Amsterdam, civic and environmental demonstrators physically stormed a planned Microsoft facility site, protesting industrial power consumption amid escalating residential electricity tariffs.",
+        "Major cloud providers are encountering severe bottlenecks in grid connection queues, driving compute infrastructure capital toward secondary regions with surplus baseload power."
+      ],
+      "why_it_matters": "The constraint on frontier AI model scaling is no longer solely GPU silicon or algorithmic efficiency, but raw electrical grid capacity and civic zoning acceptance. For computer science and electrical engineers, power-aware computing, edge inferencing, and localized mini-grids are becoming paramount technical domains.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Interconnection Queue",
+            "definition": "The formal waiting list managed by regional electric grid operators to assess whether and how new large-scale power generators or high-load industrial consumers (like data centers) can safely connect to the grid."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Al Jazeera English / BBC Business",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Coordinated international reporting covering municipal ballot outcomes and industrial protest actions.",
+          "original_url": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres",
+          "discussion_or_secondary_url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre"
+        }
+      }
+    },
+    {
+      "id": "bangladesh-khatunganj-commodity-syndicate-tariff-intervention",
+      "topic_slug": "bangladesh-khatunganj-commodity-cartel-price-control",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Commerce Ministry Initiates Enforcement on Khatunganj Commodity Syndicates Amid Essential Food Price Spikes",
+      "summary_points": [
+        "The Ministry of Commerce and the Directorate of National Consumer Rights Protection (DNCRP) launched intensive physical and ledger audits across Chattogram's Khatunganj wholesale market to curb artificial hoarding.",
+        "Wholesale prices of pulses, edible cooking oil, and sugar experienced unprovoked hikes of Tk 5 to Tk 10 per kilogram over seven days despite ample bonded warehouse inventories and stabilized global shipping indices.",
+        "Authorities are considering emergency import duty waivers on critical food staples while requiring large importers to submit weekly verifiable stock registries to deter speculative price gouging."
+      ],
+      "why_it_matters": "Essential commodity inflation is the single most aggressive tax on the purchasing power of young Bangladeshi professionals and household budgets. Understanding the mechanics of Khatunganj wholesale syndicates reveals why domestic kitchen markets frequently diverge from international commodity benchmarks.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Bonded Warehouse",
+            "definition": "A secured government-licensed storage facility where imported commercial goods can be stored without immediate payment of customs duties until sold or processed."
+          },
+          {
+            "term": "Syndicate Hoarding",
+            "definition": "Collusive practices by a tight group of wholesale importers who artificially restrict market release of essential goods to create scarcity and force up retail prices."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Business Standard (TBS)",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Primary domestic business reporting verifying market prices at Khatunganj and Karwan Bazar wholesale desks.",
+          "original_url": "https://www.tbsnews.net/economy/bazaar/commodities-continue-be-dearer-328855",
+          "discussion_or_secondary_url": "https://www.tbsnews.net/bangladesh"
+        }
+      }
+    },
+    {
+      "id": "bangladesh-bank-interoperable-bangla-qr-merchant-mandate",
+      "topic_slug": "bangladesh-bank-bangla-qr-merchant-interoperability",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Bangladesh Bank Issues Directives Mandating Full Interoperable 'Bangla QR' Deployment for Micro-Merchants",
+      "summary_points": [
+        "Bangladesh Bank released a comprehensive compliance directive compelling all scheduled commercial banks, Mobile Financial Services (MFS), and Payment Service Providers (PSPs) to unify payment rails under the national 'Bangla QR' standard.",
+        "The policy strictly prohibits proprietary merchant QR lock-ins, requiring point-of-sale systems to accept instantaneous settlements across bKash, Nagad, Rocket, and domestic debit cards without inter-network surcharge fees.",
+        "Micro-merchants and informal street vendors will receive concessional Merchant Discount Rates (MDR), backed by automated digital credit assessment pipelines to facilitate collateral-free working capital."
+      ],
+      "why_it_matters": "Directly transforms Bangladesh's domestic payment ecosystem by eliminating fragmented, proprietary QR codes at grocery stores, pharmacies, and tea stalls. For engineering and tech builders, this unlocks programmatic access to open payment rails and fintech integrations nationwide.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Bangla QR",
+            "definition": "The National Interoperable Quick Response code payment standard established by Bangladesh Bank (based on the global EMVCo specification), allowing payments from any bank app or MFS wallet using a single merchant QR."
+          },
+          {
+            "term": "Merchant Discount Rate (MDR)",
+            "definition": "The percentage fee charged to a merchant by payment processors and banks for accepting customer payments via debit cards or digital wallets."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Bangladesh Bank Banking Regulations Gazette",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Official regulatory circular and monetary policy implementation reporting from the central bank payment systems department.",
+          "original_url": "https://www.bb.org.bd/en/index.php",
+          "discussion_or_secondary_url": "https://www.tbsnews.net/economy/banking"
+        }
+      }
+    },
+    {
+      "id": "ast-spacemobile-blacklift-rocket-launch-market-bottleneck",
+      "topic_slug": "ast-spacemobile-blacklift-rocket-launch-scarcity",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Commercial Satellite Operators Begin Developing Internal Launchers as Space Lift Shortages Worsen",
+      "summary_points": [
+        "Satellite direct-to-cell communications company AST SpaceMobile formally announced development of its proprietary 'Blacklift' launch vehicle to overcome extreme commercial launch manifest bottlenecks.",
+        "With heavy-lift capacity predominantly monopolized by government defense payloads and orbital constellation mega-projects, commercial satellite deployers face 18 to 24 month scheduling delays.",
+        "The move highlights severe supply chain tightness in rocket propulsion manufacturing, carbon composite airframes, and FAA launch site corridor approvals."
+      ],
+      "why_it_matters": "Reveals that the orbital commercial economy has shifted from satellite hardware design constraints to access bottlenecks in Earth-to-orbit logistics. For aerospace and mechanical engineers, propulsion systems and responsive launch platforms represent the highest-leverage frontier in global space tech.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Launch Manifest",
+            "definition": "The scheduled queue and operational calendar of payloads contracted to fly on specific rocket launches over an upcoming multi-year period."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica Space Desk",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Industry reporting verified via corporate aerospace engineering filings and satellite operator investor decks.",
+          "original_url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+          "discussion_or_secondary_url": "https://spacenews.com"
+        }
+      }
+    },
+    {
+      "id": "opp-eth-zurich-ssrf-summer-fellowship-2027",
+      "topic_slug": "opp-eth-zurich-student-summer-research-fellowship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "ETH Zurich Student Summer Research Fellowship (SSRF) 2027 Opens Applications for Global Undergraduates",
+      "summary_points": [
+        "ETH Zurich's Department of Computer Science and Department of Information Technology and Electrical Engineering opened calls for its prestigious 2-month summer research program in Switzerland.",
+        "Selected undergraduate and master's fellows work directly alongside world-renowned research chairs in Systems, Machine Learning, Robotics, Cybersecurity, and Computer Architecture.",
+        "The fellowship covers round-trip international airfare, housing accommodation in Zurich, and a monthly living allowance of CHF 1,750 (approximately $1,980 USD)."
+      ],
+      "why_it_matters": "One of the most competitive and career-defining research internships on the planet. For an engineering student at MIST or other Bangladeshi institutions, an ETH Zurich fellowship provides direct pedigree, high-tier European academic letters of recommendation, and an immediate pipeline into direct PhD admissions.",
+      "deep_dive_analysis": "The ETH Zurich Student Summer Research Fellowship (SSRF) represents the pinnacle of summer research opportunities for undergraduate and graduate students in computer science, electrical engineering, and applied physics worldwide. Running from July 1 to August 31 annually, the program embeds approximately 30 to 40 international students directly into ETH's frontier research laboratories in Zurich, Switzerland. Rather than treating interns as low-level coders, ETH faculty assign fellows substantial, publication-grade research problems ranging from low-power neuromorphic hardware design to verifiable zero-knowledge cryptographic primitives and distributed robotics systems.\n\nFrom a financial and logistical standpoint, the fellowship eliminates virtually all barriers for students from the Global South. The program provides full travel reimbursement for international flights, pre-arranged and fully funded single-occupancy student housing in Zurich, and a monthly stipend of CHF 1,750 to cover living costs, health insurance, and local transport. In addition, the department organizes formal research symposiums, technical seminars, and networking sessions connecting fellows with faculty leaders and European industrial research labs, including Google Brain Zurich and IBM Research Rueschlikon.\n\nTo build a winning application from Bangladesh, candidates must construct a tightly tailored research statement rather than a generic resume. ETH faculty review applications based on rigorous mathematical foundations, proven algorithmic capability, and demonstrated alignment with specific ongoing departmental publications. Engineering students should highlight independent projects, open-source code contributions, competitive programming ranks, or undergraduate capstone papers. Letters of recommendation that speak quantitatively to your independent problem-solving ability in laboratory or project environments carry the greatest weight during committee reviews.",
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-15",
+        "funding_or_reward": "Fully Funded (CHF 1,750/mo + Housing + Flights)",
+        "eligibility": "Undergraduate (final 2 years) & Master's students in CS, EEE, Robotics, and allied engineering disciplines worldwide."
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Research Proposal/Statement",
+            "definition": "A formal academic document detailing your specific research questions, theoretical approach, relevant literature, and methodology for a proposed investigation."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "ETH Zurich Department of Computer Science",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official institutional portal of ETH Zurich (Eidgenössische Technische Hochschule Zürich).",
+          "original_url": "https://inf.ethz.ch/studies/summer-research-fellowship.html",
+          "discussion_or_secondary_url": "https://ethz.ch"
+        }
+      }
+    },
+    {
+      "id": "opp-daad-wise-research-internship-germany-2027",
+      "topic_slug": "opp-daad-wise-research-internship-germany-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "DAAD WISE Fellowship 2027: Funded STEM Research Internships Across German Public Universities",
+      "summary_points": [
+        "The German Academic Exchange Service (DAAD) launched the Working Internships in Science and Engineering (WISE) application window for STEM students pursuing 2- to 3-month research visits.",
+        "Enables students to conduct experimental thesis and lab work at institutions like TU Munich, RWTH Aachen, KIT, and Max Planck Institutes under the direct supervision of German professors.",
+        "Provides a monthly stipend of €934, comprehensive health/liability insurance coverage, and a flat-rate international travel allowance."
+      ],
+      "why_it_matters": "Provides an officially recognized gateway to the German engineering and research ecosystem. Crucially, securing an official invitation letter from a German host professor is the primary gatekeeper—giving proactive students who cold-email faculty early a decisive structural advantage.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-11-30",
+        "funding_or_reward": "Fully Funded (€934/month + Travel Subsidy + Health Insurance)",
+        "eligibility": "Bachelor's students (5th or 6th semester enrolled) in engineering, physics, mathematics, and computer science."
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "DAAD",
+            "definition": "Deutscher Akademischer Austauschdienst (German Academic Exchange Service), the largest German support organization in the field of international academic cooperation."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "DAAD Official Funding Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official federal portal operated by the German Academic Exchange Service.",
+          "original_url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/",
+          "discussion_or_secondary_url": "https://daad-bangladesh.org"
+        }
+      }
+    },
+    {
+      "id": "opp-bangabandhu-innovation-grant-big-2027-incubation",
+      "topic_slug": "opp-bangabandhu-innovation-grant-national-startup-cohort-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Bangabandhu Innovation Grant (BIG) 2027 Opens Applications for Student Hardware and Software Startups",
+      "summary_points": [
+        "The iDEA Project under the ICT Division of Bangladesh announced the call for applications for the Bangabandhu Innovation Grant (BIG) 2027 national cohort.",
+        "Top-selected student and early-stage engineering tech startups will receive a BDT 10,00,000 (10 Lakh Taka) non-dilutive, equity-free grant alongside co-working space at the Janata Tower Software Technology Park.",
+        "The program connects university founders with angel investor networks, venture capital firms, and state institutional procurement pipelines in robotics, agri-tech, fintech, and clean energy."
+      ],
+      "why_it_matters": "Securing equity-free capital in Bangladesh is rare. If you and your engineering peers have built a functioning capstone project, drone system, or enterprise SaaS solution at university, this grant provides the seed capital needed to register a company and prototype without surrendering equity.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-31",
+        "funding_or_reward": "BDT 10,00,000 Equity-Free Seed Grant + Incubation",
+        "eligibility": "Bangladeshi undergraduate students, young graduates, and early-stage tech innovators with a verified prototype or MVP."
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Non-Dilutive Grant",
+            "definition": "Funding awarded to a business or researcher that does not require giving away equity, company shares, or intellectual property rights in exchange."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "iDEA Project / ICT Division Bangladesh",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official government enterprise incubation program under the Innovation, Design and Entrepreneurship Academy.",
+          "original_url": "https://big.gov.bd",
+          "discussion_or_secondary_url": "https://idea.gov.bd"
+        }
+      }
+    }
+  ]
+}
