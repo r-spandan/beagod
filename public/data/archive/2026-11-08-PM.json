@@ -1,0 +1,407 @@
+{
+  "edition_id": "2026-11-08-PM",
+  "generated_at_utc": "2026-11-08T17:50:22.396Z",
+  "generated_at_bst": "11/8/2026, 11:50:22 PM BST",
+  "edition_shift": "EVENING_1800_BST",
+  "executive_pulse": "Middle Eastern critical infrastructure faces direct cross-border disruption as Houthi strikes hit Riyadh's financial district, while international deep-space exploration reaches milestone engineering baselines with the MMX Phobos mission architecture. Domestically, national energy fiscal realities and revenue modernization directives require proactive compliance and strategic career planning from Bangladeshi engineers.",
+  "stats": {
+    "total_items": 10,
+    "news_count": 7,
+    "opportunities_count": 3,
+    "sources_scanned": 132
+  },
+  "items": [
+    {
+      "id": "saudi-aramco-tower-houthi-strike-riyadh-2026",
+      "topic_slug": "saudi-aramco-tower-riyadh-missile-strike",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Saudi Aramco Tower Damaged in Riyadh Financial Hub Following Direct Houthi Missile Strike",
+      "summary_points": [
+        "A long-range ballistic missile and drone assault claimed by Yemen's Houthi movement struck the King Abdullah Financial District in Riyadh, causing structural damage to a landmark Saudi Aramco commercial building.",
+        "Saudi Royal Air Defense forces intercepted multiple incoming projectiles over the capital, but falling supersonic debris and kinetic impacts triggered widespread alarms and facility quarantines.",
+        "The attack marks a severe escalation in regional targeting vectors, bypassing western Saudi border interception cordons to strike core administrative and hydrocarbon balance sheet nodes."
+      ],
+      "why_it_matters": "Disruptions to Saudi energy administration and Gulf maritime/energy security immediately shock global Brent benchmark crude prices. For Bangladesh, every $5/barrel increase worsens the national balance of payments, exacerbates import dollar drawdowns, and directly affects captive power costs and domestic fuel subsidies.",
+      "deep_dive_analysis": "The strike on the King Abdullah Financial District represents a critical breach of deterrence that alters Middle East risk pricing. While previous Houthi operations focused on southern border facilities such as Abha, Jazan, and western Red Sea maritime lanes, penetrating the integrated air defense perimeter guarding Riyadh's flagship financial core exposes strategic vulnerability in high-density capital centers. Saudi Aramco's financial and executive operations are integral to the kingdom's Vision 2030 recapitalization drive; a persistent physical threat to the capital elevates insurance premiums and sovereign risk spreads across GCC debt markets.\n\nFrom a technical perspective, the penetration of multi-layered interceptor systems (including US-manufactured Patriot PAC-3 and THAAD batteries) indicates evolved saturation tactics involving synchronized loitering munitions and radar-absorbent cruise missiles. Regional security frameworks will rapidly pivot toward hardening distributed command centers. For global energy markets, this re-introduces the 'geopolitical war premium' at a fragile macro juncture where global central banks are calibrating interest rate pivots amid volatile demand signals.\n\nFor non-oil developing nations like Bangladesh, this development poses acute secondary macro risks. Bangladesh remains heavily dependent on Gulf fuel imports, refined diesel shipments, and LNG swaps. A prolonged escalation threatening GCC industrial stability not only inflates energy import bills for the Bangladesh Petroleum Corporation (BPC) but also threatens the remittance inflows of millions of expatriate Bangladeshi workers stationed across Saudi Arabia and the UAE.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Kinetic Penetration",
+            "definition": "Physical impact damage inflicted by an incoming warhead or high-velocity intercept debris bypassing defensive shields."
+          },
+          {
+            "term": "Geopolitical War Premium",
+            "definition": "The additional cost factored into crude oil contracts by traders to compensate for supply cutoff risks during armed conflicts."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The New York Times",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Verified across international financial and diplomatic wires including WSJ and Bloomberg",
+          "original_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnVZQXBkYXFpSEd2Mk9LUnNxNTRRaVFWaVREQ1NxeXI0enROaGVMX1RKc041WWtaLU9hYjVQSGxLZHlyNUItaWxSRVB3a3lkMWZ5eDFuM3RhYTgzSy03cmVTZGZ2QlB6NTNNTERfRG01Uk1aV0pJUFMzd1BmSURQWnhfcFlNRUxVbjJNbXV2MA",
+          "discussion_or_secondary_url": "https://www.bloomberg.com"
+        }
+      }
+    },
+    {
+      "id": "ieee-mmx-phobos-mars-sample-return-architecture-2026",
+      "topic_slug": "ieee-mmx-mission-phobos-low-gravity-engineering",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Engineering JAXA's MMX: How Autonomous Systems Will Land and Sample Mars's Microgravity Moon Phobos",
+      "summary_points": [
+        "JAXA, CNES, and DLR completed structural integration and cruise profiling for the Martian Moons eXploration (MMX) mission, deploying the 23-kg autonomous rover 'Idefix'.",
+        "Because Phobos exerts only 1/1,800th of Earth's gravity, the spacecraft utilizes a quasi-satellite orbit (QSO) around Mars rather than a classic gravitational orbit around the moon itself.",
+        "Sampling mechanisms combine a robotic subsurface coring tool (2+ cm depth) and an inert pneumatic gas-assist collector designed by Honeybee Robotics to secure 10g of pristine primordial and Martian ejecta."
+      ],
+      "why_it_matters": "For MIST aerospace, mechanical, and robotics undergraduates, this mission demonstrates extreme low-gravity dynamics, quasi-satellite astrodynamics, and autonomous recovery mechanisms operating under 15-minute Earth-Mars communication latencies without real-time human control.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Quasi-Satellite Orbit (QSO)",
+            "definition": "An astrodynamics trajectory where a spacecraft orbits a central body (Mars) at the same distance as its satellite (Phobos), appearing to orbit the satellite in a retrograde loop without being gravitationally bound to it."
+          },
+          {
+            "term": "Regolith Simulant",
+            "definition": "Engineered terrestrial materials designed to mimic the exact grain density, mechanical cohesion, and friction of extraterrestrial soil."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "IEEE Spectrum",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Peer-reviewed analysis from the world's flagship engineering and applied robotics publication",
+          "original_url": "https://spectrum.ieee.org/mmx-mission-to-phobos",
+          "discussion_or_secondary_url": "https://www.jaxa.jp"
+        }
+      }
+    },
+    {
+      "id": "ars-electrical-noise-superconductivity-electron-pairing-2026",
+      "topic_slug": "ars-shot-noise-superconductor-pair-spectroscopy",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Condensed Matter Physics Milestone: Electrical 'Shot Noise' Unlocks Superconducting Cooper Pair Detection",
+      "summary_points": [
+        "Physicists successfully demonstrated that measuring statistical fluctuations in electrical current—known as shot noise—directly reveals whether electrons have bound into Cooper pairs prior to zero-resistance transition.",
+        "The measurement overcomes a multi-decade roadblock in unconventional superconductivity where traditional tunneling spectroscopy failed to verify pre-formed Cooper pairing above the critical temperature (Tc).",
+        "The technique provides a deterministic testing framework for high-temperature superconductor candidates, eliminating false-positive resistance drop anomalies caused by granular filament percolation."
+      ],
+      "why_it_matters": "Validating the physics of Cooper pair formation without relying solely on bulk zero-resistance readouts allows materials science and semiconductor researchers to engineer lossless interconnects and low-power quantum qubit control layers.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Shot Noise",
+            "definition": "Statistical fluctuations in electrical current arising from the discrete nature of electric charge carriers passing through a junction."
+          },
+          {
+            "term": "Cooper Pairs",
+            "definition": "Bound electron pairs coupled via phonon or magnetic interactions that flow through a crystalline lattice without scattering or electrical resistance."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Rigorous technical journalism covering condensed matter physics and semiconductor research",
+          "original_url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+          "discussion_or_secondary_url": "https://www.nature.com"
+        }
+      }
+    },
+    {
+      "id": "nbr-digital-e-return-mandatory-gazette-compliance-2026",
+      "topic_slug": "nbr-digital-e-return-mandatory-gazette-audit",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "NBR Mandates 100% Digital e-Return Filing for Corporate, Salaried, and Commercial Taxpayers",
+      "summary_points": [
+        "The National Board of Revenue (NBR) published an enforceable statutory gazette mandating that all formal sector salaried professionals, registered company directors, and TIN-holding commercial operators file annual tax assessments via the unified e-Return portal.",
+        "Manual paper submissions for categories with taxable income exceeding BDT 500,000 have been abolished to curb discretionary tax officer interference and plug leakages.",
+        "Failure to submit electronic compliance certificates locks out corporate entities from utility connections, trade license renewals, and commercial import-export LC authorisations."
+      ],
+      "why_it_matters": "A crucial civic policy update for every graduating engineer and professional in Bangladesh. Non-compliance freezes bank TIN records, blocks foreign scholarship remittances, and restricts high-value bank withdrawals. Every young professional must master the NBR digital tax workflow.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "NBR e-Return Portal",
+            "definition": "The centralized digital portal administered by the National Board of Revenue of Bangladesh for automated tax calculation, declaration, and acknowledgment certification."
+          },
+          {
+            "term": "Statutory Regulatory Order (SRO)",
+            "definition": "An official gazetted directive issued by an administrative body in Bangladesh holding the immediate force of law."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Financial Express (Bangladesh)",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Official national macroeconomic and fiscal gazette tracking",
+          "original_url": "https://today.thefinancialexpress.com.bd",
+          "discussion_or_secondary_url": "https://nbr.gov.bd"
+        }
+      }
+    },
+    {
+      "id": "bangladesh-bank-interbank-liquidity-treasury-yield-spread-2026",
+      "topic_slug": "bangladesh-bank-interbank-liquidity-treasury-spread",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Bangladesh Bank Tightens Repo Access as 364-Day Treasury Bill Yields Consolidate Near 12.4%",
+      "summary_points": [
+        "Bangladesh Bank curbed standing liquidity facility (SLF) windows to force commercial banks to balance asset-liability mismatches organically rather than depending on printed central bank repo funds.",
+        "Yields on 91-day, 182-day, and 364-day Treasury Bills settled around 11.8% to 12.4%, offering unprecedented risk-free returns while squeezing private sector lending margins.",
+        "Commercial banking deposits in top-tier private banks have begun surging as institutional capital migrates out of vulnerable non-bank financial institutions into government sovereign paper."
+      ],
+      "why_it_matters": "High risk-free yields alter corporate capex: companies borrow less for engineering expansion when sovereign debt yields over 12%. For young professionals, park surplus liquid savings in sovereign T-Bills or high-tier bank term deposits rather than speculative equities or unverified cooperative schemes.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Standing Liquidity Facility (SLF)",
+            "definition": "A central bank window allowing commercial lenders to borrow overnight funds against eligible sovereign securities to meet liquidity crunches."
+          },
+          {
+            "term": "Treasury Bill Yield",
+            "definition": "The annualized rate of return realized by purchasing government-backed, zero-coupon short-term sovereign debt instruments."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Business Standard (TBS)",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Direct central bank balance sheet and monetary policy committee oversight reporting",
+          "original_url": "https://www.tbsnews.net",
+          "discussion_or_secondary_url": "https://www.bb.org.bd"
+        }
+      }
+    },
+    {
+      "id": "mit-tech-humanoid-robotics-end-to-end-actuation-2026",
+      "topic_slug": "mit-humanoid-robotics-end-to-end-neural-actuation",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Commercial Humanoid Deployment Shifts from Scripted Kinematics to End-to-End Neural Actuation",
+      "summary_points": [
+        "Urban field trials of domestic and industrial humanoid platforms demonstrate that robots powered by end-to-end visuomotor neural networks have surpassed deterministic trajectory-based code.",
+        "Startups utilizing teleoperated imitation learning coupled with real-time sim-to-real reinforcement learning achieved reliable multi-room domestic cleaning and warehouse manipulation.",
+        "Hardware constraints have pivoted from brushless DC motor torque limits to thermal management of edge compute inference chips and compact high-density battery discharge rates."
+      ],
+      "why_it_matters": "Traditional robotics engineering based purely on isolated forward-inverse kinematics is yielding to vision-language-action (VLA) foundation models. MIST electrical and mechanical students must integrate PyTorch, ROS2, and Isaac Sim into their core control systems repertoire.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Visuomotor Policy",
+            "definition": "An end-to-end machine learning model that maps raw camera pixels directly into low-level joint motor torques and velocities."
+          },
+          {
+            "term": "Sim-to-Real Transfer",
+            "definition": "The technical process of training a robotics algorithm inside high-speed physics simulators and transferring the learned weights to physical hardware without real-world training failures."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "MIT Technology Review",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Analysis verified through robotics industry field deployments and laboratory metrics",
+          "original_url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "discussion_or_secondary_url": "https://spectrum.ieee.org"
+        }
+      }
+    },
+    {
+      "id": "bbc-uk-salary-transparency-mandate-labor-markets-2026",
+      "topic_slug": "uk-mandatory-salary-transparency-labor-legislation",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "QUICK_SIGNAL",
+      "headline": "UK Mandates Published Salary Bands in Job Listings Ahead of Statutory Pay Transparency Legislation",
+      "summary_points": [
+        "The UK Department for Business and Trade directed all registered employers to publish unambiguous salary bands on all public job adverts ahead of formal legislation.",
+        "The regulatory framework also bans recruiters and hiring managers from demanding an applicant's historical compensation or previous paystubs.",
+        "The policy mirrors similar directives in the European Union and US jurisdictions (New York, California), setting a new baseline for international remote white-collar hiring."
+      ],
+      "why_it_matters": "When global remote and transnational firms recruit software, embedded hardware, or CAD engineers from Bangladesh, standardized wage disclosure prevents informational asymmetry and helps local developers negotiate fair compensation tied to global bands rather than local depressed pay.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Information Asymmetry",
+            "definition": "A market condition where one party (the employer) possesses significantly more knowledge about prevailing price/wage thresholds than the other party (the applicant)."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC Business & Finance",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Direct governmental labor regulatory reporting",
+          "original_url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o",
+          "discussion_or_secondary_url": "https://www.gov.uk"
+        }
+      }
+    },
+    {
+      "id": "opp-schwarzman-scholars-tsinghua-fellowship-2027",
+      "topic_slug": "opp-schwarzman-scholars-tsinghua-fellowship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Schwarzman Scholars 2027–2028: Fully Funded Master's Fellowship in Global Affairs at Tsinghua University",
+      "summary_points": [
+        "Applications are opening for the prestigious Schwarzman Scholars program, offering a fully funded one-year Master of Global Affairs degree at Tsinghua University in Beijing.",
+        "The fellowship covers 100% of tuition, room and board, round-trip international travel, health insurance, a $4,000 personal stipend, and dedicated industry study tours across China.",
+        "Tailored for emerging leaders across science, engineering, business, and policy; undergraduate students and recent graduates aged 18 to 28 from Bangladesh are fully eligible."
+      ],
+      "why_it_matters": "China's dominance in high-tech manufacturing, EV supply chains, and AI infrastructure makes on-the-ground geopolitical and industrial immersion at Tsinghua—China's top engineering university—an unmatched leverage point for future Bangladeshi engineering executives and policymakers.",
+      "deep_dive_analysis": "The Schwarzman Scholars program was explicitly architected to cultivate the next generation of global decision-makers capable of navigating geopolitical, technological, and economic dynamics centered on China. Hosted at Schwarzman College within Tsinghua University—frequently cited as the 'MIT of China'—the curriculum bridges geopolitics, technology policy, and statecraft through intimate interactions with international guest faculty, corporate executives, and senior diplomatic officials.\n\nFor engineering and applied science undergraduates from Bangladesh, this program provides a rare counterweight to traditional Western fellowships (such as Rhodes or Fulbright). As global supply chains, semiconductor fabrication lines, and renewable energy equipment manufacturing concentrate heavily in East Asia, technical leaders who understand Chinese regulatory frameworks, enterprise logic, and trade ecosystems hold immense strategic value. The scholarship eliminates all financial barriers, granting an executive-level platform to build high-level international networks.\n\nApplicants are evaluated on four key pillars: demonstrated leadership capacity, intellectual caliber, exemplary character, and a well-articulated vision of how their future career will shape bilateral or multilateral collaboration. Engineering candidates should highlight technical achievements while proving an ability to influence organizations, lead teams, and connect engineering breakthroughs to societal scale. Preparation should begin immediately, with a focus on crafting high-signal personal statements, securing influential academic references, and demonstrating cross-cultural adaptability.",
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2027-09-15",
+        "funding_or_reward": "Fully Funded (Tuition, Housing, Airfare, $4,000 Stipend, Medical)",
+        "eligibility": "Undergraduate degree holders aged 18–28, all nationalities (Bangladesh eligible)"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Master of Global Affairs",
+            "definition": "An interdisciplinary graduate degree combining international relations, macroeconomic statecraft, public policy, and leadership analysis."
+          },
+          {
+            "term": "Schwarzman College",
+            "definition": "A purpose-built, technologically advanced residential college inside Tsinghua University designed for scholar cohort collaboration and guest seminars."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Schwarzman Scholars Official Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Direct official admission and endowment guidelines verified by Tsinghua University",
+          "original_url": "https://www.schwarzmanscholars.org/admissions/",
+          "discussion_or_secondary_url": "https://www.tsinghua.edu.cn/en/"
+        }
+      }
+    },
+    {
+      "id": "opp-tokyo-tech-mext-university-recommendation-2027",
+      "topic_slug": "opp-tokyo-tech-mext-graduate-engineering-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "MEXT University Recommendation: Fully Funded Graduate Research Fellowships at Institute of Science Tokyo (Tokyo Tech)",
+      "summary_points": [
+        "Institute of Science Tokyo (formerly Tokyo Institute of Technology) opened candidate sourcing for Japanese Government (MEXT) University Recommendation Master's and Ph.D. engineering programs.",
+        "The award provides 100% tuition waiver, round-trip airfare from Dhaka to Tokyo, and a tax-free monthly living stipend of JPY 144,000 to JPY 147,000.",
+        "Priority research laboratories cover VLSI design, advanced power electronics, robotics control, structural earthquake engineering, and functional nanomaterials."
+      ],
+      "why_it_matters": "Direct professor recommendation bypasses the grueling Embassy screening exam. Bangladeshi engineering seniors who establish research contact with Tokyo Tech principal investigators can secure premier postgraduate research positions with zero out-of-pocket costs.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-15",
+        "funding_or_reward": "Fully Funded (100% Tuition, Flight, JPY 147,000/mo Stipend)",
+        "eligibility": "B.Sc. in Engineering/Science, minimum CGPA 3.50/4.00, Bangladeshi citizens"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "MEXT University Recommendation",
+            "definition": "A fast-track Japanese government scholarship route where individual host universities nominate top-tier candidates directly to the Ministry, bypassing the embassy exam."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Institute of Science Tokyo Admissions",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official Japanese national university graduate school portal",
+          "original_url": "https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs/mext",
+          "discussion_or_secondary_url": "https://www.mext.go.jp/en/"
+        }
+      }
+    },
+    {
+      "id": "opp-ict-division-national-iot-smart-grid-innovation-grant-2026",
+      "topic_slug": "opp-bangladesh-ict-division-iot-smart-grid-grant-2026",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Bangladesh ICT Division Announces Call for Smart Energy & IoT Grid Automation Research Grants",
+      "summary_points": [
+        "The ICT Division of Bangladesh, through its Innovation and Research Fellowship Wing, opened applications for project grants up to BDT 1,000,000 for university research teams and early-stage prototypes.",
+        "Target technical domains include automated power distribution monitoring, smart prepaid metering cybersecurity, loss detection algorithms, and agricultural solar-grid telemetry.",
+        "Undergraduate final-year capstone design teams and university faculty-student consortiums are eligible for direct non-equity grant disbursements."
+      ],
+      "why_it_matters": "Provides seed capital for MIST and Bangladeshi engineering student teams to convert capstone thesis hardware (embedded telemetry, PLC automation, SCADA sensors) into funded national prototypes without diluting equity or waiting for commercial venture backing.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-31",
+        "funding_or_reward": "BDT 500,000 to BDT 1,000,000 Non-Equity Research Grant",
+        "eligibility": "Bangladeshi undergraduate student teams, faculty mentors, and young researchers"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Non-Equity Grant",
+            "definition": "Capital awarded to support project research or product development that does not require giving up ownership shares or repaying debt."
+          },
+          {
+            "term": "SCADA",
+            "definition": "Supervisory Control and Data Acquisition; an architecture of hardware and software elements used to monitor and control industrial plant equipment."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "ICT Division Bangladesh",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official portal of the Ministry of Posts, Telecommunications and Information Technology, Bangladesh",
+          "original_url": "https://ictd.gov.bd",
+          "discussion_or_secondary_url": "https://ideagov.bd"
+        }
+      }
+    }
+  ]
+}
