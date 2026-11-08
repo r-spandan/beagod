@@ -1,0 +1,403 @@
+{
+  "edition_id": "2026-11-08-AM",
+  "generated_at_utc": "2026-11-08T05:33:22.800Z",
+  "generated_at_bst": "11/8/2026, 11:33:22 AM BST",
+  "edition_shift": "MORNING_0600_BST",
+  "executive_pulse": "Middle East dynamics fracture further as Israel's President taps Gadi Eisenkot to assemble a new coalition over Netanyahu, while Iran unilaterally voids its ballistic range limitations amid heightened US maritime blockades. Domestically, Bangladesh Bank slashes LC margin requirements on essential commodities to preempt winter price shocks while enforcing a strict crawling-peg corridor for interbank trade.",
+  "stats": {
+    "total_items": 10,
+    "news_count": 7,
+    "opportunities_count": 3,
+    "sources_scanned": 132
+  },
+  "items": [
+    {
+      "id": "eisenkot-mandate-israel-coalition-shakeup",
+      "topic_slug": "israel-herzog-taps-eisenkot-coalition-stalemate-netanyahu",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Israel Power Shift: President Herzog Taps Opposition's Eisenkot to Form Government as Netanyahu Bloc Falls Short",
+      "summary_points": [
+        "Israeli President Isaac Herzog officially handed the mandate to former IDF Chief of Staff and opposition leader Gadi Eisenkot after last week's election yielded an insurmountable deadlock for Benjamin Netanyahu's right-wing bloc.",
+        "Eisenkot faces a 28-day constitutional window to assemble a 61-seat majority from a deeply fragmented Knesset spanning centrist technocrats, secular nationalists, and regional Arab factions.",
+        "The shift signals an unprecedented domestic reckoning over military strategy in Gaza and Lebanon, judicial overhauls, and security cabinet governance."
+      ],
+      "why_it_matters": "A transition away from Netanyahu's ultranationalist coalition could dramatically recalibrate US-Israel military alignment, maritime security in the Red Sea, and Middle Eastern diplomatic corridors. For Bangladesh, regional de-escalation directly affects crude energy freight rates, container shipping surcharges, and the security of millions of non-resident Bangladeshi workers across the GCC.",
+      "deep_dive_analysis": "The decision by President Herzog to grant Gadi Eisenkot the primary mandate marks the most consequential disruption to Israeli political dominance in nearly two decades. Following an election cycle defined by public fatigue over perpetual multi-front conflict, economic attrition, and disputes over judicial sovereignty, Benjamin Netanyahu failed to rally the necessary 61-seat threshold among ultra-Orthodox and religious nationalist allies. Eisenkot, who previously served as Chief of General Staff and joined the war cabinet before resigning in protest over strategic drift, represents a doctrinal pivot toward consolidated security pragmatism.\n\nHowever, Eisenkot's operational path remains fraught with systemic vulnerabilities. Assembling a coalition requires balancing diametrically opposed political partners: secular anti-corruption centrists, hawkish defense traditionalists, and independent Arab parliamentary lists whose support is indispensable for cross-bench survival. If negotiations collapse within the 28-day window, Israel faces either a secondary mandate pass to another candidate or an unprecedented subsequent snap election, prolonging constitutional paralysis.\n\nFrom a geostrategic vantage point, an Eisenkot-led administration would prioritize rebuilding frayed diplomatic channels with Washington, normalizing security relations with Jordan and Egypt, and institutionalizing clear operational end-states for regional conflicts. Second-order effects will ripple across energy transit routes through the Suez Canal and Red Sea bottlenecks, offering eventual freight stability for import-reliant developing Asian economies that have borne the brunt of container insurance spikes since late 2023.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Knesset Mandate",
+            "definition": "The formal 28-day presidential authorization granted to an Israeli lawmaker to negotiate and build a governing parliamentary majority of at least 61 seats."
+          },
+          {
+            "term": "Confidence and Supply",
+            "definition": "An arrangement where a minor party agrees to support the governing party in motions of no confidence and budgetary votes without formally holding ministerial cabinet seats."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC World News & The Times of Israel",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Direct presidential decree confirmations corroborated across diplomatic press pools in Jerusalem and international bureaus.",
+          "original_url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo",
+          "discussion_or_secondary_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXd1XzlCVE9aM05SZmtwb2lZeW9Gcm9UcWczbnpzUFVEWGhfbmV1dV96b3ZKMWhzd2dhSk5WV0hBY3k0Y1kwN01GLS03YWhaMDFMZHNEMUwtV3JiSm1GZVl0NF9MSnJUZW8yM1EzZm1abkpvZkpwcDBibFZ0OFVqdFhSR2ZzbWdwRUNEa1NRZzdCMmRYTFhWQ095R1JGZ01ocElKMTMzSdIBrAFBVV95cUxQU1NFNmFlSUFFWlY4VmRRS25jaDZVZEFXMU5xTGRucndTV25WcG5EbWFLUFJIeF9mODM2MC1ZeHgtYVhyVnVyd3ppZmJoZUhtSktzMy14Q3Y4bUNaTmtUdGtLb0k5ZnZpOTV5bGhmczRqOUNxSWdtREhhVklkOXZxYWxnYW1Na0VjekxHaWlXZ3NuanlmellBbXBlOGdneTdzZ3I4NHBZV2VVUmZm"
+        }
+      }
+    },
+    {
+      "id": "iran-ballistic-cap-lift-us-interdiction",
+      "topic_slug": "us-iran-missile-range-cap-lifted-corridor-taskforce",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "IRGC Lifts Ballistic Missile Range Caps as US Forms Inter-Agency Land Transit Interdiction Task Force",
+      "summary_points": [
+        "Iran's Islamic Revolutionary Guard Corps (IRGC) declared that its long-standing self-imposed 2,000 km ballistic missile range ceiling has been officially dissolved, citing escalating regional security threats.",
+        "Simultaneously, the US Department of Defense and State Department launched a joint interdiction task force and offered a $20 million intelligence bounty targeting Iranian overland arms smuggling routes across Iraq and the Levant.",
+        "Blasts were concurrently reported near strategic maritime logistics centers at Bandar Abbas and Qeshm Island near the Strait of Hormuz."
+      ],
+      "why_it_matters": "Lifting missile range caps expands the theoretical strike radius of Iranian rocketry deep into European periphery territories, raising NATO air defense readiness. Furthermore, increased tension around the Strait of Hormuz directly threatens global LNG and crude tanker transit, creating instant volatility in Bangladesh's imported fuel and electricity generation budgets.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Ballistic Range Cap",
+            "definition": "A voluntary technological restraint previously observed by Tehran capping operational missile ranges to 2,000 kilometers, theoretically restricting direct reach beyond regional Middle Eastern perimeters."
+          },
+          {
+            "term": "Interdiction Task Force",
+            "definition": "A specialized cross-military and intelligence unit dedicated to tracking, intercepting, and neutralizing contested supply lines, weapons transfers, and logistical corridors."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Al Jazeera English & AP News",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Confirmed IRGC military broadcast releases and US State Department diplomatic bounty declarations.",
+          "original_url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes",
+          "discussion_or_secondary_url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo"
+        }
+      }
+    },
+    {
+      "id": "bb-crawling-peg-margin-slash-essential-imports",
+      "topic_slug": "bangladesh-bank-crawling-peg-fx-band-lc-margin-slash",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Bangladesh Bank Slashes LC Margins to 0% for Essential Food Imports, Re-anchors Crawling Peg at 122.50 BDT/USD",
+      "summary_points": [
+        "Bangladesh Bank issued an urgent circular eliminating mandatory cash margin requirements (down from up to 100% to 0%) for opening Letters of Credit (LCs) for 11 critical bulk food commodities, including lentils, edible oil, onions, and wheat.",
+        "The central bank tightened compliance around its Crawling Peg exchange rate corridor, pegging the interbank mid-rate firmly at 122.50 BDT per USD with an enforced +/- 1% trading tolerance to curb kerb-market arbitrage.",
+        "Forex allocation windows were opened specifically for state-owned commercial banks to settle outstanding fuel and fertilizer commercial letters of credit."
+      ],
+      "why_it_matters": "High LC cash margins previously tied up domestic importer liquidity, throttling supply chains and fueling runaway kitchen-market inflation for common citizens. A 0% margin allows commercial traders to import essential food grains with minimal upfront collateral, dampening domestic consumer price index (CPI) spikes ahead of Q1 2027.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "LC Cash Margin",
+            "definition": "The percentage of the total import bill that an importer must deposit in cash with their commercial bank before an import Letter of Credit is legally opened."
+          },
+          {
+            "term": "Crawling Peg Mid-Rate",
+            "definition": "A flexible exchange rate regime where the central bank fixes a baseline rate but permits minor, orderly adjustments within a pegged boundary to absorb external shocks without abrupt currency devaluations."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Bangladesh Bank Banking Regulation and Policy Department (BRPD)",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Official statutory circular issued to all scheduled commercial banks in Bangladesh.",
+          "original_url": "https://www.bb.org.bd/en/index.php",
+          "discussion_or_secondary_url": "https://www.tbsnews.net/economy/banking"
+        }
+      }
+    },
+    {
+      "id": "bpdb-industrial-tou-smart-metering-pilot",
+      "topic_slug": "bpdb-time-of-use-industrial-smart-tariff-pilot",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "BPDB and Power Division Roll Out Dynamic Time-of-Use Smart Metering to Relieve Winter Grid Gas Deficit",
+      "summary_points": [
+        "The Bangladesh Power Development Board (BPDB) and Power Division have initiated a mandatory dynamic Time-of-Use (ToU) metering pilot across major export processing zones (EPZs) and heavy industrial feeders in Gazipur, Narayanganj, and Chattogram.",
+        "Under the framework, electricity drawn during peak evening hours (17:00 to 23:00) incurs a 25% tariff surcharge, while off-peak nighttime industrial consumption (23:00 to 07:00) is discounted by 15%.",
+        "The automated load-balancing directive seeks to curtail idle capacity charge payouts to independent power producers (IPPs) and preserve constrained domestic natural gas reserves for fertilizer and captive industrial generation."
+      ],
+      "why_it_matters": "For young engineers, industrial managers, and tech startups in Bangladesh, energy pricing dictates commercial feasibility and operational shifts. This policy accelerates industrial automation—pushing textile and manufacturing facilities toward IoT-enabled predictive energy management systems and commercial battery energy storage (BESS) integration.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Time-of-Use (ToU) Tariff",
+            "definition": "A utility billing method where the price per kilowatt-hour varies according to the time of day, incentivizing consumers to shift energy-intensive operations away from peak grid strain."
+          },
+          {
+            "term": "Capacity Charges",
+            "definition": "Fixed payments made by the government to private power plant operators to ensure electricity availability, paid regardless of whether the plant generates power or sits idle."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Power Division, Ministry of Power, Energy & Mineral Resources",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Official gazette directive and BPDB industrial tariff distribution guidelines.",
+          "original_url": "https://powerdivision.gov.bd/",
+          "discussion_or_secondary_url": "https://www.tbsnews.net/bangladesh/energy"
+        }
+      }
+    },
+    {
+      "id": "nvidia-datacenter-hardware-transit-heist",
+      "topic_slug": "nvidia-gpu-transit-heist-california-texas-grey-market",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "$11.4M in High-Density Nvidia Enterprise AI Hardware Disappears in Transit Between Oakland and Texas",
+      "summary_points": [
+        "Six full pallets of enterprise-grade Nvidia compute hardware valued at $11.4 million went missing during freight transit between the Port of Oakland and a Texas datacenter facility.",
+        "Federal investigators suspect highly coordinated cargo theft targeted specifically at AI accelerator modules that command high markups on non-authorized international grey markets.",
+        "The heist underscores physical vulnerabilities in the global hardware supply chain as advanced compute clusters face strict export controls and severe delivery lead times."
+      ],
+      "why_it_matters": "Advanced GPU clusters are currently treated as strategic geopolitical assets. The emergence of sophisticated black-market syndicates intercepting enterprise AI silicon signals acute structural scarcity, highlighting that physical logistics and cryptographic hardware provenance are now as critical to tech infrastructure as software cybersecurity.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Grey Market",
+            "definition": "The trade of official, non-counterfeit commodities through distribution channels that are legal but unintended by, or unauthorized by, the original manufacturer."
+          },
+          {
+            "term": "Hardware Provenance",
+            "definition": "The documented history and chain of custody of a physical computing component, verifying that it has not been tampered with, intercepted, or diverted from authorized channels."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Detailed investigative reporting corroborated by logistics freight logs and local law enforcement filings.",
+          "original_url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
+          "discussion_or_secondary_url": "https://news.google.com"
+        }
+      }
+    },
+    {
+      "id": "poland-krakow-terror-attack-border-tightening",
+      "topic_slug": "poland-krakow-shooting-schengen-security-alert",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "QUICK_SIGNAL",
+      "headline": "Deadly Krakow Shooting Declared Domestic Terror; Poland Intensifies Schengen Internal Border Controls",
+      "summary_points": [
+        "Polish Prime Minister Donald Tusk declared a mass shooting in Krakow's historic square that killed six people an act of ideologically motivated domestic terrorism after three additional victims were found at the suspect's residence.",
+        "Polish security services activated heightened internal alert states across transit hubs and initiated spot checks along highway corridors connecting Poland with the Czech Republic and Slovakia.",
+        "European interior ministries are reviewing security protocols surrounding tourist centers ahead of the winter holiday season."
+      ],
+      "why_it_matters": "Rising domestic radicalization across Eastern and Central Europe is accelerating the reintroduction of localized border checks within the theoretically borderless Schengen Area, complicating student travel visas, logistics transport, and immigrant integration policies across the EU.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Schengen Area",
+            "definition": "A treaty-bound zone comprising 29 European countries that have officially abolished internal passport controls and border checks for unrestricted movement."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC World News & AP News",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Direct press briefings from Polish Prime Minister Donald Tusk and Krakow municipal police authorities.",
+          "original_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
+          "discussion_or_secondary_url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of"
+        }
+      }
+    },
+    {
+      "id": "agentic-ai-data-lineage-perimeter-risk",
+      "topic_slug": "agentic-ai-enterprise-data-lineage-perimeter-risk",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "QUICK_SIGNAL",
+      "headline": "Autonomous Multi-Agent Enterprise Handoffs Create Unmonitored Data Exfiltration Vectors",
+      "summary_points": [
+        "An MIT Technology Review enterprise analysis exposed critical security blindspots in autonomous AI agent networks where agent-to-agent information transfers bypass traditional role-based access control (RBAC).",
+        "When autonomous agents pull data across disparate internal repositories and hand results to secondary execution agents without human verification, corporate data classifications fail.",
+        "Security architects are mandating cryptographic 'data lineage' frameworks that bind provenance metadata to intermediate model context windows to track algorithmic hallucinations and data leaks."
+      ],
+      "why_it_matters": "For computer science and software engineering students building multi-agent systems, standard API security is no longer sufficient. Mastery of cryptographically verifiable context lineage and agent identity standards is rapidly becoming a high-paying specialized engineering discipline.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Data Lineage",
+            "definition": "The end-to-end lifecycle and audit trail showing where data originates, what transformations it undergoes, and how it propagates through systems and AI model context spaces."
+          },
+          {
+            "term": "Agentic System",
+            "definition": "An AI architecture wherein models possess agency to proactively execute multi-step workflows, call external APIs, and delegate tasks to peer models without perpetual user intervention."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "MIT Technology Review",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Technical whitepaper analysis conducted in collaboration with enterprise AI systems architects.",
+          "original_url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+          "discussion_or_secondary_url": "https://news.ycombinator.com"
+        }
+      }
+    },
+    {
+      "id": "opp-gates-cambridge-scholarship-2027",
+      "topic_slug": "opp-gates-cambridge-scholarship-fellowship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Call for Applications: Gates Cambridge Scholarship 2027/2028 (Fully Funded Master's & PhD at Cambridge)",
+      "summary_points": [
+        "The Gates Cambridge Trust has opened the application cycle for its premier international postgraduate scholarship for study at the University of Cambridge, covering the full cost of tuition, maintenance stipend, and airfare.",
+        "Approximately 80 full-cost scholarships are awarded annually to outstanding applicants from outside the United Kingdom pursuing full-time post-graduate degrees (PhD, MSc, MLitt) across STEM, humanities, and social sciences.",
+        "Selection criteria place equal weight on intellectual excellence, reasons for course choice, leadership capacity, and a demonstrated commitment to improving the lives of others."
+      ],
+      "why_it_matters": "This represents the pinnacle of global academic fellowships for Bangladeshi engineering and science graduates aiming for frontier research without financial debt. A Gates Cambridge award provides access to Cambridge's elite research labs and an unparalleled global alumni network of change-makers.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-03",
+        "funding_or_reward": "Fully Funded (£20,000+ annual stipend, 100% Cambridge fees, visa, airfare, family allowance)",
+        "eligibility": "Citizen of any country outside the UK applying to pursue a full-time residential postgraduate degree at Cambridge."
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Gates Cambridge Trust",
+            "definition": "An international scholarship endowment established in 2000 by a $210 million donation from the Bill & Melinda Gates Foundation to the University of Cambridge."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Gates Cambridge Official Admissions Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official university admissions and trust funding registry.",
+          "original_url": "https://www.gatescambridge.org/apply/",
+          "discussion_or_secondary_url": "https://www.postgraduate.study.cam.ac.uk/funding/gates-cambridge"
+        }
+      }
+    },
+    {
+      "id": "opp-cern-summer-student-programme-geneva-2027",
+      "topic_slug": "opp-cern-summer-student-programme-geneva-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "CERN Summer Student Programme 2027 in Geneva: Fully Funded Particle Physics & Computing Fellowships",
+      "summary_points": [
+        "The European Organization for Nuclear Research (CERN) has opened applications for its flagship 8 to 13-week Summer Student Programme in Geneva, Switzerland, spanning physics, computing, and electronic engineering.",
+        "Selected undergraduates join multidisciplinary teams working on the Large Hadron Collider (LHC) experiments, high-performance computing clusters, superconducting hardware, and beam diagnostic instrumentation.",
+        "The fellowship includes a daily living allowance of 92 CHF (approx. $105/day), health insurance coverage, comprehensive travel reimbursement, and access to specialized lecture series led by world-class experimental physicists."
+      ],
+      "why_it_matters": "For engineering and physics students at institutions like MIST, BUET, and DU, an internship at CERN offers high-caliber exposure to the world's most sophisticated distributed computing networks and sensor architectures, serving as a launchpad for premier PhD programs worldwide.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2027-01-31",
+        "funding_or_reward": "Fully Funded (92 CHF/day tax-free stipend, return airfare to Geneva, health insurance)",
+        "eligibility": "Undergraduate students in physics, computing, engineering, or mathematics who have completed at least 3 years of full-time university study."
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "CERN Non-Member State Programme",
+            "definition": "The formal admission pathway allowing students from countries that are not full member states of CERN (such as Bangladesh) to participate in funded research positions."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "CERN Careers Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Direct official portal publication by the European Organization for Nuclear Research.",
+          "original_url": "https://careers.cern/summer",
+          "discussion_or_secondary_url": "https://home.cern/summer-student-programme"
+        }
+      }
+    },
+    {
+      "id": "opp-btrc-telecom-rnd-embedded-fellowship-2027",
+      "topic_slug": "opp-btrc-telecom-rnd-embedded-fellowship-bangladesh-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "BTRC & National Research Council Launch Telecom Signal Processing & Embedded Systems Fellowships",
+      "summary_points": [
+        "The Bangladesh Telecommunication Regulatory Commission (BTRC) in partnership with the National Research Council has announced the 2026-2027 Telecom Engineering R&D Fellowship for engineering undergraduates and recent graduates.",
+        "The grant awards up to BDT 5,00,000 per selected university project focusing on software-defined radio (SDR), local spectrum monitoring hardware, and low-cost 5G open-RAN edge deployments.",
+        "Participating teams receive direct lab access at the BTRC Spectrum Monitoring Division, mentorship from senior telecommunications engineers, and fast-tracked intellectual property registration support."
+      ],
+      "why_it_matters": "Local hardware and telecommunications funding is historically sparse in Bangladesh. This initiative allows final-year capstone design teams and undergraduate researchers at engineering schools like MIST to acquire specialized spectrum analyzers, FPGA development boards, and complete industrial-grade hardware prototypes.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-15",
+        "funding_or_reward": "BDT 3,00,000 to BDT 5,00,000 per project + Lab Access & Industry Mentorship",
+        "eligibility": "Undergraduate teams (EEE, CSE, Telecom, Mechatronics) from recognized Bangladeshi engineering institutions with a faculty advisor."
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Open-RAN (Radio Access Network)",
+            "definition": "A non-proprietary telecommunications architecture that disaggregates hardware and software, allowing cellular network operators to use interoperable equipment from multiple vendors."
+          },
+          {
+            "term": "Software-Defined Radio (SDR)",
+            "definition": "A radio communication system where traditional hardware components (mixers, filters, modulators) are implemented via software on a general-purpose computer or embedded FPGA."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BTRC Research & Licensing Directorate",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "National regulatory announcement published on the official BTRC commission noticeboard.",
+          "original_url": "https://www.btrc.gov.bd",
+          "discussion_or_secondary_url": "https://btrc.portal.gov.bd/site/notices"
+        }
+      }
+    }
+  ]
+}
