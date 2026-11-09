@@ -538,5 +538,65 @@
     "title": "Bangladesh ICT Division Announces Call for Smart Energy & IoT Grid Automation Research Grants",
     "topic_slug": "opp-bangladesh-ict-division-iot-smart-grid-grant-2026",
     "timestamp": "2026-11-08T17:50:22.396Z"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+    "title": "Nvidia Shares Plunge as Board Probes CEO Jensen Huang Over Counter-Espionage Breach With Alleged Chinese Intelligence Operative",
+    "topic_slug": "nvidia-huang-espionage-investigation-market-shock",
+    "timestamp": "2026-11-09T22:10:38.957Z"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+    "title": "Active Zero-Day Vulnerability Targeting Linux SSH Daemons Detected Across Enterprise Infrastructure",
+    "topic_slug": "linux-ssh-critical-remote-vulnerability-alert",
+    "timestamp": "2026-11-09T22:10:38.957Z"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+    "title": "Developer Workflow Alert: Claude Code Client Configurations Found Exposing Sensitive API Keys and Passwords Publicly on GitHub",
+    "topic_slug": "claude-code-credential-leakage-github-audit",
+    "timestamp": "2026-11-09T22:10:38.957Z"
+  },
+  {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action",
+    "title": "COP31 Opens in Turkey Under Geopolitical Energy Friction and Grid Reliability Bottlenecks",
+    "topic_slug": "cop31-climate-summit-energy-transition-turkey",
+    "timestamp": "2026-11-09T22:10:38.957Z"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo",
+    "title": "France Accuses Iranian State Hackers of Coordinated Industrial IoT Cyberattack on Supermarket Cold Chains",
+    "topic_slug": "france-iran-iot-supply-chain-cyberattack",
+    "timestamp": "2026-11-09T22:10:38.957Z"
+  },
+  {
+    "url": "https://www.tbsnews.net/economy/banking",
+    "title": "National Civic & Policy Brief: Bangladesh Bank Enforces Stricter Real-Time Cross-Border Settlement Audits to Shield Net Reserves",
+    "topic_slug": "bangladesh-bank-forex-reserves-settlement-audit-policy",
+    "timestamp": "2026-11-09T22:10:38.957Z"
+  },
+  {
+    "url": "https://www.tbsnews.net/bangladesh/energy",
+    "title": "National Civic & Policy Brief: Energy Ministry Issues Staggered Load Gazette for Export Processing Zones and Captive Power Plants",
+    "topic_slug": "bangladesh-energy-rationing-captive-power-gazette",
+    "timestamp": "2026-11-09T22:10:38.957Z"
+  },
+  {
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=1&origin=68&subjectGrps=&daad=&q=wise",
+    "title": "Actionable Global Opportunity: DAAD Working Internships in Science and Engineering (WISE) Germany 2027 Open for Applications",
+    "topic_slug": "opp-daad-wise-undergraduate-research-germany-2027",
+    "timestamp": "2026-11-09T22:10:38.957Z"
+  },
+  {
+    "url": "https://openlab.cern/education/summer-student-programme",
+    "title": "Actionable Global Opportunity: CERN openlab Summer Student Programme 2027 in Geneva Opens for Computing & Hardware Engineers",
+    "topic_slug": "opp-cern-openlab-computing-summer-student-2027",
+    "timestamp": "2026-11-09T22:10:38.957Z"
+  },
+  {
+    "url": "https://ictd.gov.bd/site/view/fellowship_and_grants",
+    "title": "Actionable Local Opportunity: Bangladesh ICT Division Announces National R&D Grants for Advanced AI & Microelectronics Research",
+    "topic_slug": "opp-bangladesh-ict-division-research-fellowship-2027",
+    "timestamp": "2026-11-09T22:10:38.957Z"
   }
 ]
