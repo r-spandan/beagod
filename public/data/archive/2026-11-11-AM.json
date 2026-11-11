@@ -1,0 +1,415 @@
+{
+  "edition_id": "2026-11-11-AM",
+  "generated_at_utc": "2026-11-11T05:40:36.324Z",
+  "generated_at_bst": "11/11/2026, 11:40:36 AM BST",
+  "edition_shift": "MORNING_0600_BST",
+  "executive_pulse": "AI commercialization reaches an inflection point as Anthropic sets terms for a landmark public offering despite frontier safety warnings, while Grok Build exposes 35,000 live enterprise codebases. Concurrently, escalating proxy tensions prompt US aircraft dispersal from British bases, while Dhaka deploys heavy security formations across urban transit hubs to counter destabilization bids.",
+  "stats": {
+    "total_items": 10,
+    "news_count": 7,
+    "opportunities_count": 3,
+    "sources_scanned": 133
+  },
+  "items": [
+    {
+      "id": "anthropic-claude-ipo-market-debut-2026",
+      "topic_slug": "anthropic-claude-ipo-market-debut-2026",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Anthropic Sets Terms for Public Listing at $1.3 Trillion Valuation Benchmark Amid Systemic Safety Reckoning",
+      "summary_points": [
+        "Anthropic, creator of the Claude AI ecosystem, finalized its initial public offering indicative share range at $70 to $78 per share, establishing an aggregate market valuation expectation of $1.3 trillion.",
+        "The pricing sits below peak secondary-market froth, reflecting institutional investor hesitance over astronomical compute infrastructure expenditures and mandatory catastrophic-risk mitigation covenants.",
+        "The regulatory prospectus reveals unprecedented disclosure regarding 'dual-use agentic capability thresholds,' marking the first time a publicly traded frontier AI firm legally categorizes autonomous code execution as a national security contingency."
+      ],
+      "why_it_matters": "Frontier AI lab valuations directly dictate compute allocation costs, API pricing models, and cloud infrastructure accessibility. For Bangladeshi software engineers building on LLM backbones, public listing metrics reveal the real capital floor required to operate frontier reasoning agents.",
+      "deep_dive_analysis": "The impending public debut of Anthropic marks the structural transition of frontier artificial intelligence from venture-capital subsidized experimentation to public market quarterly scrutiny. By anchoring its valuation at $1.3 trillion with an offering corridor of $70 to $78 per share, institutional underwriters have enforced a modest discount against unconstrained venture rounds. Wall Street is demanding transparent unit economics on token inference margins and multi-gigawatt sovereign data center commitments, forcing frontier labs to prove recurring enterprise value rather than speculative synthetic intelligence benchmarks.\n\nSimultaneously, the regulatory disclosures filed with securities authorities establish an unprecedented precedent for dual-use technology oversight. Anthropic's prospectus explicitly outlines catastrophic risk governance covenants, including automated compute throttling if frontier agentic models demonstrate autonomous cyber-offensive or biometric weapon synthesis capabilities. This dual reality—balancing fiduciary yield against existential risk safeguards—creates a legal blueprint that will constrain all subsequent AI enterprise offerings, including potential listings from rival conglomerates.\n\nFor emerging tech ecosystems, this transition will catalyze a seismic downstream effect. As public markets demand operating margin discipline, the era of subsidized developer API pricing is ending. Engineering organizations in the Global South must transition from brute-force token calls to local fine-tuning, quantized open-weights deployment, and strict architectural caching to insulate software business models from enterprise margin compression.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "Global Markets / Enterprise Technology"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Dual-Use Agentic Capability",
+            "definition": "Autonomous software models possessing capabilities that can be used equally for constructive civilian tasks (like software engineering) or hostile offensive operations (like weapon design or cyber warfare)."
+          },
+          {
+            "term": "Inference Margin",
+            "definition": "The net profit generated per token processed by an AI model after subtracting electricity, cooling, and compute infrastructure running costs."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC Business & Finance",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Verified regulatory and corporate financial filing coverage from major wire services.",
+          "original_url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo",
+          "discussion_or_secondary_url": "https://www.sec.gov/edgar"
+        }
+      }
+    },
+    {
+      "id": "grok-build-coding-agent-credential-leakage-2026",
+      "topic_slug": "grok-build-coding-agent-credential-leakage-2026",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Grok Build Coding Agent Exposed 35,000 Live Enterprise Workspaces and Infrastructure Keys",
+      "summary_points": [
+        "Independent cybersecurity researchers revealed that Grok Build, an autonomous agentic programming platform, misconfigured default project access control lists, exposing 35,000 private enterprise repositories to unauthenticated web access.",
+        "Exposed materials contained live production API secrets, cloud credentials, database connection strings, and sensitive aerospace telemetry scripts belonging to SpaceX and partner infrastructure contractors.",
+        "The breach highlights architectural systemic vulnerabilities in agentic IDEs that autonomously scaffold microservices and provision cloud buckets without strict zero-trust boundary verification."
+      ],
+      "why_it_matters": "Engineers utilizing agentic coding tools must realize that automated deployment scaffolding often shortcuts perimeter security. Relying on AI-generated deployment pipelines without auditing permission manifests leaves production systems catastrophically open.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "Software Engineers / Infrastructure Architects"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Access Control List (ACL)",
+            "definition": "A granular table of permissions specifying which users or system processes are granted access to specific data objects or network directories."
+          },
+          {
+            "term": "Zero-Trust Architecture",
+            "definition": "A security model requiring continuous authentication and cryptographic verification of every user and device, eliminating perimeter-based assumed trust."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Authoritative technical teardown by independent security researchers and software analysts.",
+          "original_url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+          "discussion_or_secondary_url": "https://cve.mitre.org"
+        }
+      }
+    },
+    {
+      "id": "us-justice-iran-raf-fairford-plot-indictment",
+      "topic_slug": "us-justice-iran-raf-fairford-plot-indictment",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "US Unseals Indictments Against Iran-Backed Operatives Targeting RAF Fairford Airbase Operations",
+      "summary_points": [
+        "The US Department of Justice unsealed federal indictments charging three foreign operatives linked to Iranian intelligence for orchestrating sabotage and surveillance plots targeting Royal Air Force Base Fairford in Gloucestershire, England.",
+        "The base serves as a pivotal forward operating installation for United States Air Force strategic heavy bombers and aerial refueling tanker wings deployed in European and Middle Eastern operations.",
+        "The legal disclosure follows emergency tactical dispersals over the weekend, wherein US aerial refueling assets were relocated to Ramstein Air Base in Germany to mitigate persistent drone and unconventional perimeter threats."
+      ],
+      "why_it_matters": "Direct targeting of allied installations across Western Europe signals an expansion of asymmetric hybrid warfare. As physical logistics and electronic chokepoints face disruption, global freight and energy shipping lanes absorb elevated insurance premiums.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "Global Strategic Observers"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Forward Operating Base (FOB)",
+            "definition": "A secured operational military position used to support tactical operations and rapid logistics deployment close to a strategic theater."
+          },
+          {
+            "term": "Asymmetric Sabotage",
+            "definition": "Unconventional, low-cost warfare tactics employed by smaller entities or proxy cells to disrupt high-value military infrastructure."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC World News",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Confirmed by formal US Department of Justice unsealed filings and UK Ministry of Defence statements.",
+          "original_url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo",
+          "discussion_or_secondary_url": "https://www.justice.gov"
+        }
+      }
+    },
+    {
+      "id": "bangladesh-interim-security-mobilization-dhaka-protests",
+      "topic_slug": "bangladesh-interim-security-mobilization-dhaka-protests",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Dhaka Deploys Joint Security Formations as Ousted Regime Loyalists Mobilize Street Agitations",
+      "summary_points": [
+        "Joint security forces—comprising the Bangladesh Army, Rapid Action Battalion, and Armed Police Battalions—established fortified checkpoints across Dhaka and divisional arteries following organized protests by loyalists of ousted Prime Minister Sheikh Hasina.",
+        "The interim government enacted special executive security protocols around government secretariats, key transit nodes, and diplomatic enclaves to preempt coordinated civil disobedience campaigns planned from external safe havens.",
+        "Special tribunals and forensic banking investigative panels concurrently frozen 41 additional corporate and real estate accounts tied to former regime operatives accused of illicit capital flight and destabilization financing."
+      ],
+      "why_it_matters": "Domestic stability and physical security directly govern public commute safety, semester academic calendars across universities like MIST, and supply chain continuity. Civic vigilance and operational resilience are essential during ongoing democratic transitions.",
+      "deep_dive_analysis": "The emergence of coordinated demonstrations across major metropolitan intersections represents a calculated attempt by political networks aligned with the deposed Awami League to test the operational bandwidth of the interim administration. Operating under directives from exiled leadership in neighboring territory, political organizers sought to exploit public friction over ongoing living costs and industrial wage negotiations to trigger mass confrontations with civilian law enforcement.\n\nIn response, the interim administration activated joint security command centers across Dhaka, Chattogram, and Sylhet, mobilizing mixed armed platoons authorized under special executive powers to safeguard vital infrastructure, utility substations, and telecommunication switches. Simultaneously, the Home Affairs Ministry issued directives instructing law enforcement to avoid lethal force while exercising rigorous surveillance against coordinated mob mobilization, utilizing closed-circuit city telemetry and drone monitoring.\n\nBeyond street confrontations, the operational confrontation is being fought through the financial system. The Bangladesh Financial Intelligence Unit (BFIU) and forensic task forces have escalated scrutiny over suspicious inter-district remittances and informal hundi channels suspected of underwriting flash protests. For citizens and university students, maintaining situational awareness of transit choke points, avoiding unverified rumors circulated via messaging applications, and understanding the institutional mechanisms of judicial transition are critical to personal security and civic responsibility.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "Bangladeshi Citizens & Students"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "BFIU (Bangladesh Financial Intelligence Unit)",
+            "definition": "The central national agency responsible for analyzing suspicious financial transactions, anti-money laundering compliance, and combating terror financing."
+          },
+          {
+            "term": "Key Point Installation (KPI)",
+            "definition": "Crucial national infrastructure—including transmission grids, power plants, and government secretariats—afforded statutory military and paramilitary protection."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC World News Wire",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Verified by field reports, interim administration press briefings, and national media dispatches.",
+          "original_url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko",
+          "discussion_or_secondary_url": "https://dmp.gov.bd"
+        }
+      }
+    },
+    {
+      "id": "bangladesh-power-division-gas-tariff-restructuring-ipp",
+      "topic_slug": "bangladesh-power-division-gas-tariff-restructuring-ipp",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Energy Ministry Gazettes Cost-Reflective Gas Pricing Framework for Independent Power Producers",
+      "summary_points": [
+        "The Ministry of Power, Energy and Mineral Resources published an official gazette establishing an automated quarterly tariff indexing mechanism for natural gas supplied to Independent Power Producers (IPPs).",
+        "The formula links commercial power gas tariffs directly to weighted blended procurement prices of domestic wellhead extraction and imported Spot Liquefied Natural Gas (LNG), eliminating legacy fixed subsidies.",
+        "Petrobangla indicated that while the revision will clear multi-month circular debt owed to private power producers, wholesale bulk electricity tariffs will adjust upward by 6.2% starting next billing cycle."
+      ],
+      "why_it_matters": "Energy tariff indexing impacts factory operating costs, domestic household utility expenditures, and consumer price inflation across Bangladesh. Understanding the math behind energy economics equips citizens to anticipate monthly inflation trajectories.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "Citizens & Industrial Consumers of Bangladesh"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Cost-Reflective Tariff",
+            "definition": "A utility pricing structure set to recover the full operational and capital expenditure incurred in producing and delivering the service without government subsidy."
+          },
+          {
+            "term": "Circular Debt",
+            "definition": "A cascade of unpaid arrears across the energy supply chain, where power off-takers owe generating plants, who in turn owe state fuel suppliers."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ministry of Power, Energy and Mineral Resources",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Official Bangladesh Gazette notification and Petrobangla operational briefing.",
+          "original_url": "https://mpemr.gov.bd",
+          "discussion_or_secondary_url": "https://berc.org.bd"
+        }
+      }
+    },
+    {
+      "id": "us-pentagon-space-launch-capacity-crunch-2026",
+      "topic_slug": "us-pentagon-space-launch-capacity-crunch-2026",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Pentagon Issues Urgent Warning Over Severe Orbital Heavy-Lift Launch Bottleneck",
+      "summary_points": [
+        "US Space Force and National Reconnaissance Office leadership issued formal industry advisories warning that commercial orbital launch capacity has reached critical saturation.",
+        "Surging commercial broadband constellation deployments combined with multi-manifest military satellite replacement cadences have created an 18-month backlog across medium- and heavy-lift launch providers.",
+        "The Department of Defense announced fast-tracked Phase 3 National Security Space Launch procurement lanes to incentivize secondary modular heavy-lift providers and reusable booster manufacturing."
+      ],
+      "why_it_matters": "Space access is the prerequisite infrastructure for global positioning, satellite communication, and terrestrial remote sensing. For aerospace and electrical engineering students, launch constraints underscore massive career demand in launch-vehicle avionics, structural propulsion, and orbital bus optimization.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "Aerospace Engineers / Satellite Technologists"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Heavy-Lift Launch Vehicle (HLV)",
+            "definition": "An orbital rocket capable of lifting between 20,000 to 50,000 kilograms of payload into Low Earth Orbit (LEO)."
+          },
+          {
+            "term": "NSSL (National Security Space Launch)",
+            "definition": "A United States government program designed to secure assured access to space for high-priority national defense and reconnaissance satellites."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica Space",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Specialized aerospace reporting citing verified US Space Systems Command statements.",
+          "original_url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+          "discussion_or_secondary_url": "https://www.spaceforce.mil"
+        }
+      }
+    },
+    {
+      "id": "israel-knesset-eisenkot-netanyahu-power-struggle",
+      "topic_slug": "israel-knesset-eisenkot-netanyahu-power-struggle",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Israel's 26th Knesset Sworn In as Opposition Leader Eisenkot Moves to Form Alternative Government",
+      "summary_points": [
+        "The newly elected members of Israel's Knesset were officially sworn in, with opposition leader Gadi Eisenkot receiving the primary mandate to assemble a governing coalition to displace long-standing Prime Minister Benjamin Netanyahu.",
+        "Eisenkot immediately unveiled a legislative program aimed at reversing contentious judicial overrides, restoring statutory oversight over defense procurement, and restructuring military conscription exemptions.",
+        "The political transition coincides with severe diplomatic friction following the Trump administration's proposal under Section 219 legislative frameworks to sunset unconditional annual foreign military financing."
+      ],
+      "why_it_matters": "Shifts in Israeli governance directly influence Middle East regional stability, Levantine maritime security, and diplomatic alignments across the Global South. A leadership change impacts security calculations across the Mediterranean and Gulf corridors.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "Global Foreign Policy Observers"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Knesset",
+            "definition": "The unicameral national legislature of Israel, composed of 120 members elected through proportional party-list representation."
+          },
+          {
+            "term": "Foreign Military Financing (FMF)",
+            "definition": "A US government program that provides grant-based funding to foreign nations to purchase American-made defense equipment and training services."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Washington Post",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Multi-bureau parliamentary dispatch corroborating Reuters and Haaretz legislative records.",
+          "original_url": "https://www.washingtonpost.com/world/2026/11/11/israel-knesset-netanyahu-eisenkot-government/",
+          "discussion_or_secondary_url": "https://main.knesset.gov.il"
+        }
+      }
+    },
+    {
+      "id": "opp-eth-zurich-robotics-systems-summer-fellowship-2027",
+      "topic_slug": "opp-eth-zurich-robotics-systems-summer-fellowship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "ETH Zurich Robotics Systems Summer Fellowship 2027: Fully Funded Elite Research Residency in Switzerland",
+      "summary_points": [
+        "The Department of Mechanical and Process Engineering at ETH Zurich opened applications for its 2027 Summer Research Fellowship in Autonomous Systems and Intelligent Robotics.",
+        "Selected undergraduate and master's students spend 8 to 10 weeks embedded within world-class robotics laboratories working on quadrupedal locomotion, aerial manipulation, and sensory-motor neural representations.",
+        "Award package covers comprehensive round-trip international airfare, private university residential housing in Zurich, and a monthly living stipend of CHF 1,850 (~$2,100 USD)."
+      ],
+      "why_it_matters": "ETH Zurich is globally ranked among the top 3 robotics and engineering institutions worldwide. For an engineering undergraduate at MIST, securing this fellowship guarantees premier scientific pedigree, direct European industry connections, and high-probability admission into elite PhD pipelines.",
+      "deep_dive_analysis": "Securing early-stage international research credentials is the most effective career accelerator for STEM undergraduates pursuing careers in hardware-software integration, autonomous navigation, and neural control. The ETH Zurich Robotics Systems Fellowship bypasses the typical bureaucratic barriers of European university admissions by offering a direct competitive merit channel evaluated purely on algorithmic aptitude, mechanical design portfolio, and theoretical foundation.\n\nFellows are paired directly with senior doctoral researchers and principal investigators in laboratories such as the Robotic Systems Lab (RSL) and the Autonomous Systems Lab (ASL)—the institutional birthplaces of foundational quadrupedal robots and drone navigation algorithms. Over the 10-week summer period, fellows execute an independent research project culminating in a conference-grade paper submission to IEEE ICRA or IROS. In addition to daily research supervision, the fellowship integrates weekly seminars on European research grant writing and commercialization spin-offs.\n\nFor applicants from institutions like MIST, the primary differentiator lies in presenting verifiable engineering artifacts rather than generic academic marks. Selection committees prioritize candidates who can demonstrate practical proficiency with ROS2 (Robot Operating System), C++20 real-time control, PyTorch/JAX neural modeling, or custom PCB and mechanical CAD fabrication. Constructing a dedicated GitHub portfolio showcasing clean code, hardware validation videos, and rigorous mathematical problem-solving directly optimizes an applicant's selection probability.",
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-15",
+        "funding_or_reward": "Fully Funded (Flights + Housing + CHF 1,850/mo)",
+        "eligibility": "Undergraduate & Early Master's STEM Students"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Sensory-Motor Representation",
+            "definition": "The computational encoding and mapping of sensory inputs (like cameras and LiDAR) directly into motor actuation commands (such as torque and joint angles)."
+          },
+          {
+            "term": "ROS2 (Robot Operating System 2)",
+            "definition": "An open-source, real-time middleware framework widely used across industry and academia for building modular robotics software stacks."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "ETH Zurich Student Exchange Office",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official university admissions portal and Department of Mechanical Engineering fellowship charter.",
+          "original_url": "https://ethz.ch/en/studies/non-degree-courses/summer-schools.html",
+          "discussion_or_secondary_url": "https://rsl.ethz.ch"
+        }
+      }
+    },
+    {
+      "id": "opp-astar-singapore-acis-computing-fellowship-2027",
+      "topic_slug": "opp-astar-singapore-acis-computing-fellowship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Singapore A*STAR Computing and Information Science (ACIS) PhD Scholarship 2027",
+      "summary_points": [
+        "Singapore's Agency for Science, Technology and Research (A*STAR) launched the 2027 application round for the ACIS Scholarship, funding up to 4 years of PhD research at NUS, NTU, SUTD, or SMU.",
+        "Focus areas include edge computing, neuromorphic hardware design, trustworthy agentic AI systems, cryptography, and quantum computational algorithms.",
+        "Fellowship provides full university tuition coverage, a monthly living stipend of S$3,200 to S$3,700, book allowances, computer subsidies, and a dedicated S$15,000 conference travel fund."
+      ],
+      "why_it_matters": "Singapore stands as Southeast Asia's sovereign computing hub. This program provides Bangladeshi computer science and electrical engineering seniors with a frictionless, high-stipend pathway into tier-one research without requiring personal funding or GRE examinations.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2027-01-31",
+        "funding_or_reward": "Fully Funded (100% Tuition + S$3,700/mo + S$15k Travel)",
+        "eligibility": "Graduating Seniors & Master's in CS/EE/Physics"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Neuromorphic Hardware",
+            "definition": "Silicon microchips engineered to mimic the biological neural structure and event-driven spikes of the human brain to achieve extreme energy efficiency."
+          },
+          {
+            "term": "Edge Computing",
+            "definition": "A distributed computing paradigm that processes algorithmic data near the physical source of data collection rather than in centralized cloud servers."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "A*STAR Graduate Academy Singapore",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Singapore statutory research board official education and scholarship agency.",
+          "original_url": "https://www.a-star.edu.sg/scholarships/for-graduate-studies/a-star-computing-and-information-science-scholarship",
+          "discussion_or_secondary_url": "https://www.nus.edu.sg/admissions/graduate-studies"
+        }
+      }
+    },
+    {
+      "id": "opp-biman-caab-avionics-telemetry-trainee-2027",
+      "topic_slug": "opp-biman-caab-avionics-telemetry-trainee-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "QUICK_SIGNAL",
+      "headline": "Biman Bangladesh Airlines & CAAB Graduate Avionics & Radar Systems Traineeship 2027",
+      "summary_points": [
+        "Biman Bangladesh Airlines in coordination with the Civil Aviation Authority of Bangladesh (CAAB) announced the intake for 25 Graduate Engineering Apprentices in Avionics, Radar, and Telemetry Systems.",
+        "The 12-month paid training program operates at Hazrat Shahjalal International Airport (DAC) maintenance hangars and CAAB Radar Control Centers, providing operational certification on Boeing 787/777 electronic line-replaceable units (LRUs).",
+        "Selected trainees receive a monthly training stipend of BDT 45,000, specialized type-certification coursework, and eligibility for direct absorption as Assistant Maintenance Engineers (Avionics)."
+      ],
+      "why_it_matters": "National engineering graduates often struggle to attain certified civil aviation maintenance ratings. This structured institutional gateway converts theoretical electrical and mechanical engineering degrees into highly valued statutory aviation credentials.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-20",
+        "funding_or_reward": "Paid Traineeship (BDT 45,000/mo + EASA-aligned Certification)",
+        "eligibility": "B.Sc. in EEE, Aeronautical, ME, or CSE (Minimum CGPA 3.25)"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Line-Replaceable Unit (LRU)",
+            "definition": "A modular aviation component (such as a flight control computer or radar transceiver) designed to be rapidly removed and replaced on an aircraft flight line."
+          },
+          {
+            "term": "Type-Certification",
+            "definition": "A regulatory license issued by civil aviation authorities certifying an engineer to maintain, repair, and sign off airworthiness on a specific commercial aircraft model."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Biman Bangladesh Airlines Human Resources Division",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official national flag carrier recruitment circular and CAAB regulatory notice.",
+          "original_url": "https://www.biman-airlines.com/career",
+          "discussion_or_secondary_url": "http://caab.portal.gov.bd"
+        }
+      }
+    }
+  ]
+}
