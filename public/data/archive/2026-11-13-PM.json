@@ -1,0 +1,403 @@
+{
+  "edition_id": "2026-11-13-PM",
+  "generated_at_utc": "2026-11-13T06:03:27.896Z",
+  "generated_at_bst": "11/13/2026, 12:03:27 PM BST",
+  "edition_shift": "EVENING_1800_BST",
+  "executive_pulse": "US diplomatic envoys secure Moscow's consent to integrate European negotiators into Ukraine peace talks as frontlines freeze, while the FBI exposes a sophisticated $400M North Korean deepfake video espionage scheme targeting critical infrastructure. Domestically, Bangladesh Bank and the NBR implement stringent digital FX settlement and mandatory e-Return tax audit architectures.",
+  "stats": {
+    "total_items": 10,
+    "news_count": 7,
+    "opportunities_count": 3,
+    "sources_scanned": 138
+  },
+  "items": [
+    {
+      "id": "geopolitics-us-russia-europe-peace-talks-framework",
+      "topic_slug": "us-russia-europe-peace-talks-framework",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Moscow Accepts European Ingress into US-Brokered Ukraine Peace Framework",
+      "summary_points": [
+        "US special envoys Witkoff and Kushner completed shuttle diplomacy rounds between Dublin and Moscow, confirming Russian willingness to admit major European powers directly into multilateral ceasefire talks.",
+        "Ukrainian President Volodymyr Zelensky formally welcomed the shift, maintaining that direct European involvement is essential for binding security guarantees and Ukraine's eventual integration into the European Union.",
+        "Parallel confidence-building measures in Abu Dhabi yielded an initial comprehensive prisoner exchange, even as territorial and neutrality concessions remain the primary deadlock."
+      ],
+      "why_it_matters": "A stabilization of the Eastern European theater would alleviate persistent global wheat, fertilizer, and crude transport risk premia, directly calming imported inflation and external shipping freight bills for import-dependent economies like Bangladesh.",
+      "deep_dive_analysis": "The inclusion of Brussels, Paris, and Berlin marks a structural pivot from unilateral US-Russia bilateral channels toward an institutionalized continental security architecture. Washington's initial bilateral negotiations risked alienating frontline NATO allies who feared a fait accompli that compromised Eastern European sovereignty. By forcing European participation, the US ensures that the immense financial burdens of post-war reconstruction—estimated to exceed $600 billion—and ongoing military underwriting are distributed across European budgets.\n\nMoscow's tactical acquiescence reflects domestic economic exhaustion and an urgent need to secure targeted sanctions relief, particularly regarding frozen sovereign reserves and hydrocarbon export restrictions. For Kyiv, European seating ensures that sovereignty, EU accession corridors, and long-term security guarantees are hardcoded into any armistice rather than traded away in high-level superpower bargaining.\n\nFor developing economies in South Asia, the trajectory toward a frozen conflict or managed settlement curtails the volatility of the Black Sea maritime trade corridor. Sustained freight normalization will dampen grain import costs and lower fertilizer supply shocks, softening food inflation pressures across Bangladesh's domestic market.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Shuttle Diplomacy",
+            "definition": "Negotiations conducted by an outside mediator who travels back and forth between two or more conflicting parties who refuse to meet directly."
+          },
+          {
+            "term": "Risk Premia",
+            "definition": "The additional return or cost demanded by investors and shippers to compensate for operating in high-risk, volatile geopolitical environments."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Washington Post / Reuters",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Corroborated across multilateral press briefings and diplomatic dispatches in Washington, Moscow, and Dublin.",
+          "original_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWdyUWhPQnRiR210eElwazFOZ2pyWWgxN2FWX09VU0ZSZUpFcVlweFllV2E4aF9CcXpwQkhybkVzMjkwdTBOY3JTRFBXdlZBOXVvU2l5cjBKX1Znel9XR2JJb0gwbVlQOV9TenpJUkY2ZG1YcXEtRWdNWTQ0MDJTM3pQdnRHSkE0WXlWQjA5Y2JXQkpUN2hoSkkyTXhrTE1FdnUyblFjWDdqWHZTMGM1LVU4V2oxZnpqZzBj",
+          "discussion_or_secondary_url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126"
+        }
+      }
+    },
+    {
+      "id": "tech-fbi-north-korea-facestealer-deepfake-hack",
+      "topic_slug": "fbi-north-korea-facestealer-deepfake-hack",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "FBI Unmasks $400M 'FaceStealer' Campaign Using Real-Time Generative Video Clones",
+      "summary_points": [
+        "The Federal Bureau of Investigation published an urgent advisory warning that North Korean state-sponsored threat groups have stolen over $400 million across 900 corporate targets using real-time video deepfakes.",
+        "Attackers pose as executive recruiters and venture capital partners on platforms like Google Meet and Zoom, orchestrating live technical interviews to push malicious dependency scripts into engineering repos.",
+        "Over 18 months, the scheme compromised internal developer workstations, extracted cryptographic private keys, and weaponized software build pipelines."
+      ],
+      "why_it_matters": "Remote engineering hires and freelance developers in Bangladesh are prime targets for social engineering campaigns where technical vetting tasks contain obfuscated credential stealers.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Generative Video Cloning",
+            "definition": "The algorithmic generation and synchronization of facial geometry and voice patterns in real-time video streams using deep generative neural networks."
+          },
+          {
+            "term": "Software Supply Chain Attack",
+            "definition": "A cyberattack that compromises downstream customers by infiltrating trusted components or dependency packages during development."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC World News / FBI Cyber Division",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Joint federal law enforcement alert verified by global cybersecurity incident responders.",
+          "original_url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o",
+          "discussion_or_secondary_url": "https://arstechnica.com/information-technology/"
+        }
+      }
+    },
+    {
+      "id": "tech-google-gemini-4-hydrogen-deployment",
+      "topic_slug": "google-gemini-4-hydrogen-deployment",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Google Releases Gemini 4 Hydrogen, Slashing Inference Latency by 40% for Edge Devices",
+      "summary_points": [
+        "Google has deployed Gemini 4 Hydrogen to production API endpoints, officially deprecating the Gemini 3.8 Flash series.",
+        "Hydrogen integrates sparse mixture-of-experts (MoE) optimizations and aggressive sub-byte quantization, enabling low-power servers and edge hardware to process 128k token contexts natively.",
+        "Unlike prior heavyweight frontier releases, Google executed a zero-wait global developer rollout, granting API access across all tiers immediately."
+      ],
+      "why_it_matters": "Software engineers and students in Dhaka building production AI applications gain access to high-throughput, low-latency reasoning engines at significantly lower token costs.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Sub-Byte Quantization",
+            "definition": "A model compression technique reducing neural network weights below 8 bits (e.g., 2-bit or 4-bit representation) to cut memory usage without major accuracy loss."
+          },
+          {
+            "term": "Sparse MoE (Mixture of Experts)",
+            "definition": "An architecture where only a subset of specialized neural sub-networks are activated for each incoming token, lowering computational overhead."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Technical reporting directly verifying API documentation, benchmarking reports, and developer telemetry.",
+          "original_url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+          "discussion_or_secondary_url": "https://news.ycombinator.com"
+        }
+      }
+    },
+    {
+      "id": "tech-faa-nationwide-ai-air-traffic-management",
+      "topic_slug": "faa-nationwide-ai-air-traffic-management",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "QUICK_SIGNAL",
+      "headline": "FAA Expands Predictive AI Routing to Entire US Airspace to Counter Terminal Congestion",
+      "summary_points": [
+        "The US Federal Aviation Administration expanded its automated air traffic advisory system nationwide after localized trials decreased terminal holding delays by 18%.",
+        "The system processes real-time weather telemetry, wake turbulence models, and airline schedule variance to autonomously suggest dynamic route modifications.",
+        "Air traffic controller unions have voiced operational concerns over black-box automation and lack of human-in-the-loop validation during edge-case severe weather events."
+      ],
+      "why_it_matters": "Demonstrates the real-world operational integration of algorithmic optimization into safety-critical civil infrastructure, a vital template for aerospace and systems engineering students.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Human-in-the-Loop",
+            "definition": "A systems design pattern where an automated or algorithmic process requires explicit human approval or oversight before executing high-consequence actions."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Verified regulatory policy and aviation tech reporting with official FAA statements.",
+          "original_url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+          "discussion_or_secondary_url": "https://www.reuters.com/business/aerospace-defense/"
+        }
+      }
+    },
+    {
+      "id": "national-bangladesh-bank-interbank-fx-crawling-peg-reform",
+      "topic_slug": "bangladesh-bank-interbank-fx-crawling-peg-reform",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Bangladesh Bank Enforces Automated Real-Time FX Matching to Compress Parallel Currency Spread",
+      "summary_points": [
+        "Bangladesh Bank rolled out a mandatory real-time electronic matching engine for interbank foreign exchange trades, requiring authorized dealers to execute transactions strictly within a revised crawling-peg corridor.",
+        "The central bank declared that any off-market transactions or unrecorded premiums beyond the official midpoint band (BDT 122.50 ± 1.5%) will result in instant revocation of authorized dealer (AD) licenses.",
+        "Gross foreign exchange reserves officially consolidated at $21.2 billion (BPM6 standard), bolstered by sustained remittance inflows and curbs on invoice manipulation."
+      ],
+      "why_it_matters": "A unified interbank exchange rate stabilizes the domestic purchasing power of the Taka, directly determining how expensive foreign university tuition, tech hardware imports, and cloud subscription bills will be for citizens.",
+      "deep_dive_analysis": "The central bank's shift to a mechanized interbank matching engine addresses the multi-tier exchange rate distortion that historically starved the formal banking sector of foreign liquidity. Under the previous manual matching regime, banks regularly circumvented the published crawling-peg corridor by charging off-the-books premia to corporate importers, feeding the informal 'kerb' market and driving remittance flows toward illicit Hundi networks.\n\nBy routing all FX transactions through an automated clearing system with real-time central bank surveillance, Bangladesh Bank eliminates counterparty negotiation opacity. Authorized dealers can no longer hoard dollars anticipating further rapid devaluation, which was exacerbating the artificial liquidity squeeze.\n\nFor businesses and individual citizens, this reform marks a critical step toward complete currency convertibility on the current account. While it temporarily forces marginal importers with low credit viability to re-price consumer goods, it lays the groundwork for institutional macroeconomic stability, credit rating upgrades, and the lowering of sovereign borrowing costs across international financial markets.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Crawling Peg Corridor",
+            "definition": "An exchange rate mechanism where the currency's value is pegged to a basket of currencies with permission to fluctuate within a narrow, pre-set percentage band."
+          },
+          {
+            "term": "BPM6 Standard",
+            "definition": "The IMF's Balance of Payments and International Investment Position Manual (6th Edition), calculating purely usable, unencumbered foreign reserves."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Financial Express Bangladesh / Bangladesh Bank Circulars",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Direct official directive from Bangladesh Bank's Foreign Exchange Policy Department (FEPD).",
+          "original_url": "https://thefinancialexpress.com.bd/economy/bangladesh/central-bank-tightens-fx-dealing-guidelines",
+          "discussion_or_secondary_url": "https://www.bb.org.bd"
+        }
+      }
+    },
+    {
+      "id": "national-nbr-mandatory-digital-ereturn-gazette",
+      "topic_slug": "nbr-mandatory-digital-ereturn-gazette",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "NBR Gazettes Compulsory Digital e-Return Submission for Salaried Professionals and Corporate TINs",
+      "summary_points": [
+        "The National Board of Revenue (NBR) issued a statutory regulatory order mandating online filing via the e-Return portal for all salaried private-sector and government employees within major municipal corporations.",
+        "Failure to submit electronic tax returns before the statutory December deadline will automatically flag bank accounts, halting credit card limit renewals and loan disbursements.",
+        "The digital audit pipeline connects NBR databases directly with Bangladesh Road Transport Authority (BRTA) and land registry records to cross-examine declared asset values."
+      ],
+      "why_it_matters": "Every graduating engineer and working professional must transition to formal electronic tax documentation; holding a TIN without verifiable e-Return filings now restricts personal banking, passport processing, and utility hookups.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Statutory Regulatory Order (SRO)",
+            "definition": "An executive decree issued by a government ministry or statutory agency under delegated authority, having the full force of law."
+          },
+          {
+            "term": "Taxpayer Identification Number (TIN)",
+            "definition": "A unique 12-digit number assigned to individuals and businesses in Bangladesh for tracking tax assessments and financial compliance."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Business Standard (TBS)",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Verified from official National Board of Revenue (NBR) gazette notifications.",
+          "original_url": "https://www.tbsnews.net/economy/nbr-makes-online-tax-returns-mandatory-all-corporate-employees",
+          "discussion_or_secondary_url": "https://etaxnbr.gov.bd"
+        }
+      }
+    },
+    {
+      "id": "national-bpdb-quarterly-dynamic-fuel-tariff-formula",
+      "topic_slug": "bpdb-quarterly-dynamic-fuel-tariff-formula",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Power Division Introduces Quarterly Dynamic Tariff Formula Linked to Global LNG Prices",
+      "summary_points": [
+        "The Ministry of Power, Energy, and Mineral Resources unveiled an automatic quarterly tariff adjustment formula for industrial and commercial electricity consumers, pegging retail rates to international spot LNG prices.",
+        "Under the new framework, bulk power purchase subsidies will be tapered down over 18 months, with automated metering infrastructure (AMI) mandated across all high-voltage industrial connections.",
+        "The policy aims to liquidate outstanding capacity payments and unpaid receivables owed to independent power producers (IPPs), stabilizing national grid dispatch reliability."
+      ],
+      "why_it_matters": "Factory overhead costs will fluctuate directly with global commodity spikes, accelerating corporate adoption of rooftop solar, captive microgrids, and energy efficiency audits across Bangladesh's manufacturing base.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Capacity Charges",
+            "definition": "Guaranteed contractual payments made to power plant operators to keep generating capacity on standby, regardless of actual electricity produced."
+          },
+          {
+            "term": "Automated Metering Infrastructure (AMI)",
+            "definition": "An integrated system of smart meters, communication networks, and data management systems enabling two-way communication between utilities and customers."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Daily Star Business Wire",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Reported via Energy Division gazette briefings and Bangladesh Energy Regulatory Commission (BERC) public orders.",
+          "original_url": "https://www.thedailystar.net/business/economy/news/power-division-approves-dynamic-energy-pricing-framework",
+          "discussion_or_secondary_url": "https://berc.org.bd"
+        }
+      }
+    },
+    {
+      "id": "opp-kaust-vsrp-undergraduate-research-internship-2027",
+      "topic_slug": "kaust-vsrp-undergraduate-research-internship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "KAUST Visiting Student Research Program (VSRP) 2027: Fully-Funded Global Engineering Labs",
+      "summary_points": [
+        "King Abdullah University of Science and Technology (KAUST) has opened continuous applications for its 2027 Visiting Student Research Program across semiconductor, robotics, and clean energy labs.",
+        "Selected undergraduate and master's researchers spend 3 to 6 months working alongside world-class faculty with state-of-the-art cleanroom and nanofabrication access.",
+        "Package includes full funding: monthly stipend ($1,000 USD), roundtrip international airfare, private campus housing, visa support, and comprehensive health insurance."
+      ],
+      "why_it_matters": "Offers MIST and Bangladeshi engineering undergraduates an internationally recognized research credential, direct co-authorship on peer-reviewed IEEE/Nature papers, and guaranteed admission fast-tracks to KAUST graduate fellowships.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "Rolling (Year-Round Review)",
+        "funding_or_reward": "Fully Funded ($1,000/mo + Housing + Flight)",
+        "eligibility": "Undergraduate (3rd/4th year) or MS students in Engineering, CS, Physics, or Math with GPA ≥ 3.5/4.0"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Nanofabrication Cleanroom",
+            "definition": "A controlled environment with hyper-filtered air and strict operational protocols designed to manufacture semiconductor circuits and micro-electromechanical systems."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "KAUST Academic Affairs Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official university international research exchange admissions page.",
+          "original_url": "https://vsrp.kaust.edu.sa/",
+          "discussion_or_secondary_url": "https://www.kaust.edu.sa/en/study/internships"
+        }
+      }
+    },
+    {
+      "id": "opp-mitacs-globalink-research-internship-canada-2027",
+      "topic_slug": "mitacs-globalink-research-internship-canada-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Mitacs Globalink Research Internship (GRI) Canada 2027: 12-Week Undergrad Placement",
+      "summary_points": [
+        "The Canadian government and university consortia have issued early guidelines for the 2027 Mitacs Globalink cycle across 70+ Canadian research universities (including Toronto, UBC, and McGill).",
+        "Open to undergraduate students to undertake 12-week intensive research projects under Canadian professors across aerospace, AI, environmental engineering, and biomedical sciences.",
+        "Fully funded grant covers roundtrip flights, housing stipend, daily allowance, student health coverage, and professional mentorship development workshops."
+      ],
+      "why_it_matters": "Mitacs alumni receive the prestigious Globalink Graduate Fellowship, unlocking non-repayable CA$15,000 stipends if returning to Canada for Master's or PhD programs.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-09-20 (Annual Cycle Preparation Window)",
+        "funding_or_reward": "Fully Funded (Flights + CA$12,000 Equivalent Stipend & Housing)",
+        "eligibility": "Full-time enrolled undergraduate students with 1 to 3 semesters remaining until graduation"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Graduate Fellowship",
+            "definition": "A financial award provided to graduate students that covers tuition and living costs without requiring mandatory teaching or administrative assistantships."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Mitacs Canada International Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official Canadian non-profit federal research partner portal.",
+          "original_url": "https://www.mitacs.ca/our-programs/globalink-research-internship-students/",
+          "discussion_or_secondary_url": "https://globalink.mitacs.ca"
+        }
+      }
+    },
+    {
+      "id": "opp-bangladesh-startup-bangladesh-idea-seed-grant-2027",
+      "topic_slug": "bangladesh-startup-bangladesh-idea-seed-grant-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "iDEA Project & Startup Bangladesh: BDT 10–50 Lakh Equity-Free Pre-Seed Capital Call",
+      "summary_points": [
+        "The Innovation Design and Entrepreneurship Academy (iDEA) Project under the ICT Division opened applications for university-led deep-tech and hardware innovation prototypes.",
+        "Selected university innovators receive an initial equity-free pre-seed grant of BDT 10 Lakh, with follow-on seed investments up to BDT 50 Lakh through Startup Bangladesh Limited for validated MVPs.",
+        "Incubation includes free coworking space at the Bangabandhu Hi-Tech City, IP registration legal support, cloud server credits, and mentorship from local engineering leaders."
+      ],
+      "why_it_matters": "Enables final-year thesis teams at MIST, BUET, and national universities to transform capstone hardware/software projects into legally incorporated, venture-funded startups without sacrificing equity.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-15",
+        "funding_or_reward": "BDT 10–50 Lakh Equity-Free Grant + Incubation",
+        "eligibility": "Bangladeshi students or recent graduates with verified technology prototypes or working software MVPs"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Equity-Free Grant",
+            "definition": "Non-dilutive capital given to founders where the funding body takes 0% ownership or equity shares in the enterprise."
+          },
+          {
+            "term": "Minimum Viable Product (MVP)",
+            "definition": "The most early-stage version of a product with just enough core features to be tested and validated by real users."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "ICT Division / iDEA Project Official Gazette",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Government of Bangladesh official startup incubation and seed-grant portal.",
+          "original_url": "https://idea.gov.bd/",
+          "discussion_or_secondary_url": "https://startupbangladesh.vc/"
+        }
+      }
+    }
+  ]
+}

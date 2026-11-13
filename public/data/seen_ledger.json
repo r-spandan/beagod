@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
-    "title": "Alphabet Sheds $500B in Market Cap as AI Overviews Erode High-Margin Search Ad Unit Economics",
-    "topic_slug": "alphabet-ai-margin-collapse-search-revenue",
-    "timestamp": "2026-10-30T05:17:26.826Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
-    "title": "Binance Hit by Suspected Multi-Billion Cyber Exploit Attributed to DPRK 'TraderTraitor' Unit",
-    "topic_slug": "binance-tradertraitor-exploit-breach",
-    "timestamp": "2026-10-30T05:17:26.826Z"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-    "title": "US Classifies Foreign Industrial Robotics as National Security Threat, Threatens Section 232 Tariffs",
-    "topic_slug": "us-industrial-robot-national-security-tariffs",
-    "timestamp": "2026-10-30T05:17:26.826Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo",
-    "title": "Beijing Expels Record Tally of Party and Military Cadres in Sweeping Disciplinary Consolidation",
-    "topic_slug": "china-cpc-record-anti-corruption-military-purges",
-    "timestamp": "2026-10-30T05:17:26.826Z"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
-    "title": "Massive Cyber Leak Exposes Sensitive Identities of 41,000 DHS and Undercover ICE Personnel",
-    "topic_slug": "us-dhs-ice-personnel-mass-credential-leak",
-    "timestamp": "2026-10-30T05:17:26.826Z"
-  },
-  {
-    "url": "https://www.bb.org.bd/en/index.php/mediaroom/circular",
-    "title": "Bangladesh Bank & Finance Ministry Mandate Unified Biometric Clearinghouse for National Savings Instruments",
-    "topic_slug": "bangladesh-bank-unified-biometric-sanchayapatra-clearinghouse",
-    "timestamp": "2026-10-30T05:17:26.826Z"
-  },
-  {
-    "url": "https://berc.org.bd/notices",
-    "title": "BERC Mandates Mandatory Smart-Meter Load Shaving Across All Urban Industrial Power Feeders",
-    "topic_slug": "berc-smart-grid-industrial-peak-load-management",
-    "timestamp": "2026-10-30T05:17:26.826Z"
-  },
-  {
-    "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/helmut-schmidt-programme/",
-    "title": "DAAD Helmut-Schmidt-Programme 2027: Fully Funded Master's in Governance & Public Policy in Germany",
-    "topic_slug": "opp-daad-helmut-schmidt-programme-2027",
-    "timestamp": "2026-10-30T05:17:26.826Z"
-  },
-  {
-    "url": "https://www.mpi-inf.mpg.de/education/summer-internship/",
-    "title": "Max Planck Institute for Informatics (MPI-INF) Summer Internship 2027: Fully Funded Research Fellowship",
-    "topic_slug": "opp-max-planck-informatics-summer-internship-2027",
-    "timestamp": "2026-10-30T05:17:26.826Z"
-  },
-  {
-    "url": "https://startupbangladesh.vc/apply/",
-    "title": "Startup Bangladesh Ltd Opens BDT 1 Crore DeepTech Seed Financing Call for University Founders",
-    "topic_slug": "opp-startup-bangladesh-seed-innovation-grant-call-2027",
-    "timestamp": "2026-10-30T05:17:26.826Z"
-  },
-  {
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz",
     "title": "Strait of Hormuz Mine Explosions Damage Four Tankers, Igniting Global Crude Freight Shockwaves",
     "topic_slug": "iran-hormuz-tanker-limpet-mine-attacks-oil-chokepoint",
@@ -598,5 +538,65 @@
     "title": "Biman Bangladesh Airlines & CAAB Graduate Avionics & Radar Systems Traineeship 2027",
     "topic_slug": "opp-biman-caab-avionics-telemetry-trainee-2027",
     "timestamp": "2026-11-11T05:40:36.324Z"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWdyUWhPQnRiR210eElwazFOZ2pyWWgxN2FWX09VU0ZSZUpFcVlweFllV2E4aF9CcXpwQkhybkVzMjkwdTBOY3JTRFBXdlZBOXVvU2l5cjBKX1Znel9XR2JJb0gwbVlQOV9TenpJUkY2ZG1YcXEtRWdNWTQ0MDJTM3pQdnRHSkE0WXlWQjA5Y2JXQkpUN2hoSkkyTXhrTE1FdnUyblFjWDdqWHZTMGM1LVU4V2oxZnpqZzBj",
+    "title": "Moscow Accepts European Ingress into US-Brokered Ukraine Peace Framework",
+    "topic_slug": "us-russia-europe-peace-talks-framework",
+    "timestamp": "2026-11-13T06:03:27.896Z"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o",
+    "title": "FBI Unmasks $400M 'FaceStealer' Campaign Using Real-Time Generative Video Clones",
+    "topic_slug": "fbi-north-korea-facestealer-deepfake-hack",
+    "timestamp": "2026-11-13T06:03:27.896Z"
+  },
+  {
+    "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+    "title": "Google Releases Gemini 4 Hydrogen, Slashing Inference Latency by 40% for Edge Devices",
+    "topic_slug": "google-gemini-4-hydrogen-deployment",
+    "timestamp": "2026-11-13T06:03:27.896Z"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+    "title": "FAA Expands Predictive AI Routing to Entire US Airspace to Counter Terminal Congestion",
+    "topic_slug": "faa-nationwide-ai-air-traffic-management",
+    "timestamp": "2026-11-13T06:03:27.896Z"
+  },
+  {
+    "url": "https://thefinancialexpress.com.bd/economy/bangladesh/central-bank-tightens-fx-dealing-guidelines",
+    "title": "Bangladesh Bank Enforces Automated Real-Time FX Matching to Compress Parallel Currency Spread",
+    "topic_slug": "bangladesh-bank-interbank-fx-crawling-peg-reform",
+    "timestamp": "2026-11-13T06:03:27.896Z"
+  },
+  {
+    "url": "https://www.tbsnews.net/economy/nbr-makes-online-tax-returns-mandatory-all-corporate-employees",
+    "title": "NBR Gazettes Compulsory Digital e-Return Submission for Salaried Professionals and Corporate TINs",
+    "topic_slug": "nbr-mandatory-digital-ereturn-gazette",
+    "timestamp": "2026-11-13T06:03:27.896Z"
+  },
+  {
+    "url": "https://www.thedailystar.net/business/economy/news/power-division-approves-dynamic-energy-pricing-framework",
+    "title": "Power Division Introduces Quarterly Dynamic Tariff Formula Linked to Global LNG Prices",
+    "topic_slug": "bpdb-quarterly-dynamic-fuel-tariff-formula",
+    "timestamp": "2026-11-13T06:03:27.896Z"
+  },
+  {
+    "url": "https://vsrp.kaust.edu.sa/",
+    "title": "KAUST Visiting Student Research Program (VSRP) 2027: Fully-Funded Global Engineering Labs",
+    "topic_slug": "kaust-vsrp-undergraduate-research-internship-2027",
+    "timestamp": "2026-11-13T06:03:27.896Z"
+  },
+  {
+    "url": "https://www.mitacs.ca/our-programs/globalink-research-internship-students/",
+    "title": "Mitacs Globalink Research Internship (GRI) Canada 2027: 12-Week Undergrad Placement",
+    "topic_slug": "mitacs-globalink-research-internship-canada-2027",
+    "timestamp": "2026-11-13T06:03:27.896Z"
+  },
+  {
+    "url": "https://idea.gov.bd/",
+    "title": "iDEA Project & Startup Bangladesh: BDT 10–50 Lakh Equity-Free Pre-Seed Capital Call",
+    "topic_slug": "bangladesh-startup-bangladesh-idea-seed-grant-2027",
+    "timestamp": "2026-11-13T06:03:27.896Z"
   }
 ]

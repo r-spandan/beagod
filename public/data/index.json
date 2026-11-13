@@ -1,6 +1,13 @@
 {
-  "latest_edition_id": "2026-11-11-AM",
+  "latest_edition_id": "2026-11-13-PM",
   "editions": [
+    {
+      "edition_id": "2026-11-13-PM",
+      "shift": "PM",
+      "date": "2026-11-13",
+      "label": "2026-11-13 [PM]",
+      "filename": "2026-11-13-PM.json"
+    },
     {
       "edition_id": "2026-11-11-AM",
       "shift": "AM",
