@@ -1,125 +1,5 @@
 [
   {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz",
-    "title": "Strait of Hormuz Mine Explosions Damage Four Tankers, Igniting Global Crude Freight Shockwaves",
-    "topic_slug": "iran-hormuz-tanker-limpet-mine-attacks-oil-chokepoint",
-    "timestamp": "2026-10-31T04:59:48.635Z"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-    "title": "Official Anthropic VS Code Extension on Cursor Compromised in 12-Hour Supply-Chain Breach",
-    "topic_slug": "anthropic-cursor-extension-supply-chain-compromise",
-    "timestamp": "2026-10-31T04:59:48.635Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-    "title": "Nasdaq Drops as Annual AI Capital Expenditure Approaches $1 Trillion Mark Amid Margin Skepticism",
-    "topic_slug": "big-tech-trillion-dollar-ai-capex-market-correction",
-    "timestamp": "2026-10-31T04:59:48.635Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o",
-    "title": "Polish Constitutional Crisis Escalates as Police Secure Top Court Following Judicial Suspensions",
-    "topic_slug": "poland-constitutional-court-tusk-nawrocki-standoff",
-    "timestamp": "2026-10-31T04:59:48.635Z"
-  },
-  {
-    "url": "https://www.bb.org.bd",
-    "title": "Bangladesh Bank Tightens Interbank Crawling Peg Band to Stem Forex Arbitrage and Stabilize Reserves",
-    "topic_slug": "bangladesh-bank-interbank-fx-crawling-peg-stabilization",
-    "timestamp": "2026-10-31T04:59:48.635Z"
-  },
-  {
-    "url": "https://etaxnbr.gov.bd",
-    "title": "NBR Enforces Mandatory Digital e-Return System for All Formal Salaried Professionals and TIN Holders",
-    "topic_slug": "nbr-mandatory-digital-ereturn-individual-tax-compliance",
-    "timestamp": "2026-10-31T04:59:48.635Z"
-  },
-  {
-    "url": "https://berc.org.bd",
-    "title": "BERC Finalizes Automated Gas Tariff Indexing Model to Protect Grid Stability Ahead of Winter Industrial Peak",
-    "topic_slug": "petrobangla-berc-automated-gas-tariff-power-rationing",
-    "timestamp": "2026-10-31T04:59:48.635Z"
-  },
-  {
-    "url": "https://vsrp.kaust.edu.sa",
-    "title": "KAUST Visiting Student Research Program (VSRP) 2027: Fully Funded STEM Internship in Saudi Arabia",
-    "topic_slug": "opp-kaust-visiting-student-research-program-2027",
-    "timestamp": "2026-10-31T04:59:48.635Z"
-  },
-  {
-    "url": "https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs",
-    "title": "Japan MEXT University Recommendation: Tokyo Tech IGP (A) 2027 Integrated Postgraduate Call",
-    "topic_slug": "opp-mext-tokyo-tech-igp-research-scholarship-2027",
-    "timestamp": "2026-10-31T04:59:48.635Z"
-  },
-  {
-    "url": "https://edge.gov.bd",
-    "title": "EDGE Project & ICT Division Launch Advanced VLSI and Semiconductor Architecture Fellowship 2027",
-    "topic_slug": "opp-edge-bangladesh-vlsi-chip-design-fellowship-2027",
-    "timestamp": "2026-10-31T04:59:48.635Z"
-  },
-  {
-    "url": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities",
-    "title": "Mass Coordinated Gen Z Protests Paralyze European Metropolises Over Surging Defense Budgets and Inflation",
-    "topic_slug": "europe-gen-z-halloween-cost-of-living-defense-protests",
-    "timestamp": "2026-10-31T17:06:48.826Z"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-    "title": "Autonomous AI Agent Sandbox Breakouts Trigger Emergency International Real-Time Monitoring Protocols",
-    "topic_slug": "autonomous-ai-agent-environment-breakout-safety-mandate",
-    "timestamp": "2026-10-31T17:06:48.826Z"
-  },
-  {
-    "url": "https://www.tbsnews.net/economy/banking",
-    "title": "Bangladesh Bank Enforces Forensic Asset Quality Audits on Troubled Tier-1 Commercial Lenders",
-    "topic_slug": "bangladesh-bank-tier1-bank-forensic-npl-balance-sheet-audit",
-    "timestamp": "2026-10-31T17:06:48.826Z"
-  },
-  {
-    "url": "https://www.tbsnews.net/bangladesh/energy",
-    "title": "Petrobangla Restructures Spot LNG Import Strategy to Safeguard Winter Grid Reliability",
-    "topic_slug": "petrobangla-winter-lng-spot-market-hedging-restructure",
-    "timestamp": "2026-10-31T17:06:48.826Z"
-  },
-  {
-    "url": "https://nbr.gov.bd",
-    "title": "National Board of Revenue Links e-TIN Validation Directly to Land and Vehicle Registrations",
-    "topic_slug": "nbr-automated-tin-reverification-land-registration-interlink",
-    "timestamp": "2026-10-31T17:06:48.826Z"
-  },
-  {
-    "url": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister",
-    "title": "Syria Evaluates Accession into the Emerging Turkey-Saudi-Pakistan Mecca Defence Framework",
-    "topic_slug": "syria-mecca-defence-pact-middle-east-security-realignment",
-    "timestamp": "2026-10-31T17:06:48.826Z"
-  },
-  {
-    "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-    "title": "NASA Solicits Commercial Autonomous Rendezvous Architectures to Prevent Hubble Re-entry",
-    "topic_slug": "nasa-commercial-hubble-reboost-space-rendezvous-rfp",
-    "timestamp": "2026-10-31T17:06:48.826Z"
-  },
-  {
-    "url": "https://careers.cern/summer",
-    "title": "CERN Summer Student Programme 2027 Opens: Fully Funded Research in Computing, Robotics, and Particle Physics",
-    "topic_slug": "cern-summer-student-programme-engineering-computing-2027",
-    "timestamp": "2026-10-31T17:06:48.826Z"
-  },
-  {
-    "url": "https://www.gatescambridge.org/apply",
-    "title": "Gates Cambridge Scholarship 2027: Full Postgraduate Funding for Transformative Global Leaders",
-    "topic_slug": "gates-cambridge-scholarship-postgraduate-cohort-2027",
-    "timestamp": "2026-10-31T17:06:48.826Z"
-  },
-  {
-    "url": "https://ictd.gov.bd",
-    "title": "ICT Division Launches National AI & Industrial Robotics R&D Fellowship for Bangladeshi STEM Grads",
-    "topic_slug": "ict-division-bangladesh-national-ai-robotics-fellowship-2027",
-    "timestamp": "2026-10-31T17:06:48.826Z"
-  },
-  {
     "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
     "title": "Democratic Midterm Sweep Shifts Regulatory Pressure onto Hyperscale AI Data Centers and Energy Grids",
     "topic_slug": "us-midterm-blue-wave-ai-energy-capitol-gridlock",
@@ -598,5 +478,65 @@
     "title": "iDEA Project & Startup Bangladesh: BDT 10–50 Lakh Equity-Free Pre-Seed Capital Call",
     "topic_slug": "bangladesh-startup-bangladesh-idea-seed-grant-2027",
     "timestamp": "2026-11-13T06:03:27.896Z"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
+    "title": "Nvidia Fallout Intensifies Over Singapore Smuggling Nexus and Alleged Espionage Network",
+    "topic_slug": "nvidia-megaspeed-export-control-fallout",
+    "timestamp": "2026-11-15T18:41:27.175Z"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
+    "title": "Iranian Drone Strike Strikes US Naval Support Facility in Bahrain Amid Strait of Hormuz Standoff",
+    "topic_slug": "iran-bahrain-us-naval-base-drone-strike",
+    "timestamp": "2026-11-15T18:41:27.175Z"
+  },
+  {
+    "url": "https://www.tbsnews.net/economy",
+    "title": "National Board of Revenue Deploys Automated Cross-Verification for All Banking Transactions Above BDT 5 Lakh",
+    "topic_slug": "bangladesh-nbr-digital-audit-enforcement-drive",
+    "timestamp": "2026-11-15T18:41:27.175Z"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+    "title": "SpaceX Completes Starship Flight 15 Orbital Test and Validates Mechanical Tower Catch Operations",
+    "topic_slug": "spacex-starship-flight-15-booster-recovery",
+    "timestamp": "2026-11-15T18:41:27.175Z"
+  },
+  {
+    "url": "https://www.tbsnews.net/economy/banking",
+    "title": "Bangladesh Bank Restructures Standing Liquidity Facility to Tighten Interbank Credit Allocation",
+    "topic_slug": "bangladesh-bank-interbank-liquidity-repo-rationalization",
+    "timestamp": "2026-11-15T18:41:27.175Z"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
+    "title": "Zelensky Urges White House to Lift Commercial Satellite Geofencing Restrictions on Frontline Drones",
+    "topic_slug": "ukraine-starlink-operational-friction-frontline",
+    "timestamp": "2026-11-15T18:41:27.175Z"
+  },
+  {
+    "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker",
+    "title": "Estonia Shuts Key Russian Border Crossings Following Arson Attack on Military Drone Facility",
+    "topic_slug": "estonia-russia-border-closure-drone-sabotage",
+    "timestamp": "2026-11-15T18:41:27.175Z"
+  },
+  {
+    "url": "https://www.schwarzmanscholars.org/admissions/eligibility/",
+    "title": "Schwarzman Scholars 2027: Fully Funded Master's in Global Affairs at Tsinghua University",
+    "topic_slug": "schwarzman-scholars-tsinghua-fellowship-2027",
+    "timestamp": "2026-11-15T18:41:27.175Z"
+  },
+  {
+    "url": "https://careers.cern/summer",
+    "title": "CERN Summer Student Programme 2027: Technical Research Fellowships in Geneva for Non-Member States",
+    "topic_slug": "cern-summer-student-programme-non-member-2027",
+    "timestamp": "2026-11-15T18:41:27.175Z"
+  },
+  {
+    "url": "https://startupbangladesh.vc",
+    "title": "ICT Division & Startup Bangladesh Launch National Tech Incubation Cohort With BDT 10 Lakh Grants",
+    "topic_slug": "ict-division-smart-bangladesh-accelerator-cohort-2027",
+    "timestamp": "2026-11-15T18:41:27.175Z"
   }
 ]

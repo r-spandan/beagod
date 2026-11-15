@@ -1,0 +1,411 @@
+{
+  "edition_id": "2026-11-15-AM",
+  "generated_at_utc": "2026-11-15T18:41:27.175Z",
+  "generated_at_bst": "11/16/2026, 12:41:27 AM BST",
+  "edition_shift": "MORNING_0600_BST",
+  "executive_pulse": "Semiconductor export compliance and critical defense infrastructure face sharp scrutiny following high-profile executive fallout at Nvidia and direct Iranian drone strikes in Bahrain. Meanwhile, Bangladesh initiates sweeping digital revenue enforcement and interbank settlement overhauls to stabilize fiscal balances before year-end.",
+  "stats": {
+    "total_items": 10,
+    "news_count": 7,
+    "opportunities_count": 3,
+    "sources_scanned": 131
+  },
+  "items": [
+    {
+      "id": "nvidia-megaspeed-export-control-fallout-2026",
+      "topic_slug": "nvidia-megaspeed-export-control-fallout",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Nvidia Fallout Intensifies Over Singapore Smuggling Nexus and Alleged Espionage Network",
+      "summary_points": [
+        "Singapore-based computing firm Megaspeed faces imminent inclusion on the US Commerce Department's Entity List following revelations of illicit GPU diversion to Chinese research institutes.",
+        "US Congressional committees have formally summoned former Nvidia leadership regarding covert supply chains that bypassed dual-use Blackwell and Hopper compute export caps via third-party transit hubs.",
+        "The Commerce Department is drafting sweeping biometric and cryptographic hardware-tracking mandates that require chipmakers to verify end-point GPU physical telemetry before activation."
+      ],
+      "why_it_matters": "For computer science and electrical engineers in South Asia, Western tech export policies are transitioning from software-based license agreements to hardware-level attestation. Computing clusters and AI cloud instances deployed in non-aligned nations will soon face stringent cryptographic attestation checks, restricting access to advanced compute fabric.",
+      "deep_dive_analysis": "The unfolding crisis surrounding Nvidia and Megaspeed marks a paradigm shift in how Washington polices high-performance computing (HPC) hardware. For nearly three years, advanced semiconductor export restrictions relied primarily on Know-Your-Customer (KYC) documentation provided by intermediaries across Southeast Asian transshipment hubs like Singapore and Malaysia. The discovery that enterprise-grade AI silicon was systematically routed through shell hardware aggregators demonstrates that legal paper barriers are fundamentally ineffective against multi-billion-dollar compute arbitrage.\n\nIn response, the US Bureau of Industry and Security (BIS) is moving toward hard cryptographic enforcement. Under proposed rules, future enterprise GPUs will incorporate hardware root-of-trust (RoT) micro-controllers designed to report continuous, cryptographically signed geolocation and telemetry packets back to parent vendors. If a chip is activated outside its designated sovereign IP boundaries or disconnected from authorized verification relays, the firmware triggers progressive performance throttling or complete hardware deactivation.\n\nThis structural evolution transforms enterprise hardware engineering. Research institutions and startups in emerging tech ecosystems like Bangladesh must prepare for segregated compute tiers: a fully verified Western-aligned enclave requiring extensive cryptographic compliance, and an alternative domestic or non-Western semiconductor pipeline operating on lower-efficiency, legacy architectures.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Entity List",
+            "definition": "A trade restriction roster maintained by the US Department of Commerce that prohibits listed foreign entities from acquiring US-origin dual-use technology without a specific license."
+          },
+          {
+            "term": "Hardware Root of Trust (RoT)",
+            "definition": "A foundational, tamper-proof hardware block within a microchip that performs cryptographic functions and verifies that firmware and execution environments are authentic."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC Business & Finance",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Corroborated across MIT Technology Review analysis and official Congressional testimony summons.",
+          "original_url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
+          "discussion_or_secondary_url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
+        }
+      }
+    },
+    {
+      "id": "iran-bahrain-us-naval-base-drone-strike-2026",
+      "topic_slug": "iran-bahrain-us-naval-base-drone-strike",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Iranian Drone Strike Strikes US Naval Support Facility in Bahrain Amid Strait of Hormuz Standoff",
+      "summary_points": [
+        "Unmanned loitering munitions struck outer logistical sectors of the US Naval Support Activity Bahrain, marking the second direct strike in 72 hours.",
+        "Regional maritime security commands have issued high-risk advisories across the Strait of Hormuz, causing commercial LNG and crude tanker insurance premiums to spike by 18%.",
+        "Tehran asserts the strike was retaliatory following covert operations against Islamic Revolutionary Guard Corps naval assets in the Persian Gulf."
+      ],
+      "why_it_matters": "Bangladesh imports over 70% of its liquefied natural gas (LNG) and refined petroleum through maritime sea lanes passing near the Strait of Hormuz. Any persistent disruption escalates imported energy costs, immediately straining Bangladesh Bank's foreign currency reserves and risking domestic power load-shedding.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Loitering Munition",
+            "definition": "An aerial weapon system (often called a 'kamikaze drone') that lingers over a target area before diving and detonating its built-in explosive payload upon impact."
+          },
+          {
+            "term": "War Risk Premium",
+            "definition": "An additional insurance fee charged on maritime vessels navigating designated conflict or high-threat maritime corridors."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC World News",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Multi-sourced field report confirmed by regional naval maritime tracking commands.",
+          "original_url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
+          "discussion_or_secondary_url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden"
+        }
+      }
+    },
+    {
+      "id": "bangladesh-nbr-digital-audit-enforcement-drive-2026",
+      "topic_slug": "bangladesh-nbr-digital-audit-enforcement-drive",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "National Board of Revenue Deploys Automated Cross-Verification for All Banking Transactions Above BDT 5 Lakh",
+      "summary_points": [
+        "The National Board of Revenue (NBR) has deployed automated data bridges between the core banking solutions of commercial banks and the Central Intelligence Cell (CIC).",
+        "Bank accounts registering annual cumulative credit transactions exceeding BDT 500,000 without a matched electronic Tax Identification Number (e-TIN) and digital e-Return will face immediate 10% withholding surcharges.",
+        "The directive is aimed at broadening the direct income tax base and curbing unaccounted capital circulation across merchant mobile financial service (MFS) wallets."
+      ],
+      "why_it_matters": "All salaried professionals, freelance software developers, and engineering graduates operating in Bangladesh must ensure their banking accounts are linked to compliant e-Return filings. Unmatched accounts face automated tax deductions at source and administrative freeze warnings.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Tax Deducted at Source (TDS)",
+            "definition": "A mechanism where tax is collected directly at the origin of income generation before payment is disbursed to the recipient."
+          },
+          {
+            "term": "Core Banking Solution (CBS)",
+            "definition": "A networked software platform utilized by banks to manage fundamental transactions, account records, and reporting in real-time."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Business Standard (TBS)",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Direct circular from NBR Central Intelligence Cell and Ministry of Finance.",
+          "original_url": "https://www.tbsnews.net/economy",
+          "discussion_or_secondary_url": "https://nbr.gov.bd"
+        }
+      }
+    },
+    {
+      "id": "spacex-starship-flight-15-booster-recovery-2026",
+      "topic_slug": "spacex-starship-flight-15-booster-recovery",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "SpaceX Completes Starship Flight 15 Orbital Test and Validates Mechanical Tower Catch Operations",
+      "summary_points": [
+        "SpaceX completed its 15th Integrated Flight Test (IFT-15), returning the Super Heavy booster directly to Starbase, Texas, for a successful chopstick catch maneuver.",
+        "The upper-stage Starship vehicle tested thermal protection improvements during reentry over the Indian Ocean, surviving hypersonic plasma heating without structural breach.",
+        "The milestone clears immediate technological bottlenecks for commercial satellite constellation launches and orbital fuel propellant depot demonstrations."
+      ],
+      "why_it_matters": "Rapid booster reusability lowers the projected payload cost to Low Earth Orbit (LEO) below $150 per kilogram. This dramatically expands commercial satellite communication access and remote sensing capabilities for developing nations seeking domestic satellite redundancy.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Mechazilla Chopstick Catch",
+            "definition": "A launch-tower retrieval system that uses mechanical arms to catch a decelerating rocket booster mid-air, eliminating heavy landing legs."
+          },
+          {
+            "term": "Hypersonic Reentry",
+            "definition": "Atmospheric entry of a space vehicle at speeds greater than Mach 5, creating intense compressive friction and ionized plasma shields."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Detailed aerospace reporting corroborated by live telemetry and telemetry verification data.",
+          "original_url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+          "discussion_or_secondary_url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
+        }
+      }
+    },
+    {
+      "id": "bangladesh-bank-interbank-liquidity-repo-rationalization-2026",
+      "topic_slug": "bangladesh-bank-interbank-liquidity-repo-rationalization",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Bangladesh Bank Restructures Standing Liquidity Facility to Tighten Interbank Credit Allocation",
+      "summary_points": [
+        "Bangladesh Bank has adjusted its Standing Liquidity Facility (SLF) and repo interest corridors, capping overnight borrowing quotas for cash-strapped commercial banks.",
+        "Under the revised monetary guidelines, banks must maintain a minimum cash reserve ratio (CRR) without drawing on uncollateralized overdraft buffers from the central bank.",
+        "The move is calculated to suppress core inflationary pressure and realign interbank money-market yields toward realistic macroeconomic rates."
+      ],
+      "why_it_matters": "Tighter central bank liquidity facilities force commercial banks to compete for domestic deposits, driving up fixed-deposit interest rates while making personal, consumer, and corporate credit significantly more expensive for young professionals and businesses.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Standing Liquidity Facility (SLF)",
+            "definition": "A central bank window that allows eligible financial institutions to borrow liquidity overnight against approved government security collaterals."
+          },
+          {
+            "term": "Cash Reserve Ratio (CRR)",
+            "definition": "The statutory minimum percentage of total customer deposits that commercial banks must hold in cash reserves with the central bank."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Business Standard (TBS)",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Official Bangladesh Bank Monetary Policy Department circular dispatch.",
+          "original_url": "https://www.tbsnews.net/economy/banking",
+          "discussion_or_secondary_url": "https://www.bb.org.bd"
+        }
+      }
+    },
+    {
+      "id": "ukraine-starlink-operational-friction-frontline-2026",
+      "topic_slug": "ukraine-starlink-operational-friction-frontline",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Zelensky Urges White House to Lift Commercial Satellite Geofencing Restrictions on Frontline Drones",
+      "summary_points": [
+        "Ukrainian President Volodymyr Zelensky formally requested the US executive branch intervene regarding geographic coordinate restrictions applied to Starlink terminals.",
+        "Defense analysts confirm commercial geofencing blocks drone telemetry within occupied border zones, complicating counter-battery coordination against advancing Russian artillery.",
+        "The dispute highlights deep operational friction between private dual-use commercial satellite providers and national defense command hierarchies."
+      ],
+      "why_it_matters": "Modern defense engineering and autonomous robotics are utterly dependent on commercial satcom constellations. Engineers developing UAV/UGV systems must account for vendor-level operational shutdowns, exposing vulnerabilities in civilian-grade dual-use tech stacks.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Geofencing",
+            "definition": "The software configuration of a virtual geographic boundary to restrict device operation or network transmission when crossing predetermined coordinates."
+          },
+          {
+            "term": "Dual-Use Technology",
+            "definition": "Hardware, software, or raw industrial materials capable of being utilized for both benign civilian applications and lethal military operations."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC World News",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "On-record presidential address corroborated by defense analysts and satellite communications specialists.",
+          "original_url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
+          "discussion_or_secondary_url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker"
+        }
+      }
+    },
+    {
+      "id": "estonia-russia-border-closure-drone-sabotage-2026",
+      "topic_slug": "estonia-russia-border-closure-drone-sabotage",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "QUICK_SIGNAL",
+      "headline": "Estonia Shuts Key Russian Border Crossings Following Arson Attack on Military Drone Facility",
+      "summary_points": [
+        "Tallinn announced the indefinite closure of multiple eastern border checkpoints following the arrest of eight individuals linked to an attempted arson at a drone production hub.",
+        "Estonian internal security agencies stated the sabotage operation was coordinated through Russian state intelligence networks targeting NATO unmanned systems infrastructure.",
+        "Baltic defense ministries have placed critical defense assembly facilities on elevated counter-hybrid sabotage protocols."
+      ],
+      "why_it_matters": "Hybrid grey-zone warfare is increasingly targeting physical industrial assets and supply chains within NATO borders, accelerating decoupling in European technology manufacturing.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Hybrid Warfare",
+            "definition": "A military strategy blending conventional combat, asymmetric cyberattacks, industrial sabotage, and political disinformation without formally declaring war."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Al Jazeera English",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Official Estonian Ministry of the Interior press release and Baltic wire reports.",
+          "original_url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker",
+          "discussion_or_secondary_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUFF1cUVodW5kTUZwQzdzMnQ4UnlMMVhpSHpQV05xVDFPVndKa25QR3RhQXU5dmNMTUwwZW5sZ3c0TTUwTjMwNTZWREg0Tndfdmk3QVZITmpjTlR1bEZZbnU5blRZVHZrVHZ1T3hwRkVOMklhaENZSUFUaTctYkhSbWxaVm1vQTlDbFpuNGJHZXRhbjNwRVpoWnFmYnRqazNJcDlIUnFjRGpKbHkzamNmWjFB"
+        }
+      }
+    },
+    {
+      "id": "opp-schwarzman-scholars-tsinghua-fellowship-2027",
+      "topic_slug": "schwarzman-scholars-tsinghua-fellowship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Schwarzman Scholars 2027: Fully Funded Master's in Global Affairs at Tsinghua University",
+      "summary_points": [
+        "Offers a fully funded 1-year Master of Global Affairs degree at Schwarzman College, Tsinghua University in Beijing, designed for high-caliber emerging global leaders.",
+        "Covers complete tuition, on-campus room and board, round-trip travel to Beijing, health insurance, a $4,000 personal stipend, and dedicated study tours across China.",
+        "Eligible applicants must hold an undergraduate degree by August 2027, be between 18 and 28 years old, and demonstrate exceptional leadership capacity in their respective fields."
+      ],
+      "why_it_matters": "For ambitious Bangladeshi engineers and civic leaders, this program offers direct, high-level immersion into China's industrial strategy, semiconductor ecosystems, and state-backed technology apparatus, bridging critical geopolitical gaps between East and South Asia.",
+      "deep_dive_analysis": "The Schwarzman Scholars program represents one of the most prestigious leadership fellowships globally, modeled deliberately to counter-balance the historic Anglo-American focus of the Rhodes and Marshall scholarships. Hosted at Tsinghua University—consistently ranked among the top institutions globally for engineering, artificial intelligence, and physical sciences—the scholarship immerses cohorts in an unprecedented environment where academic theory intersects directly with state-level industrial policy.\n\nFor STEM and engineering graduates from institutions such as MIST, BUET, or IBA, this fellowship provides a distinct strategic edge. While traditional paths direct technical talent toward standard US or European Master of Science tracks, Schwarzman focuses on macro-governance, technological diplomacy, and global supply chain resilience. Fellows engage in closed-door sessions with high-ranking policymakers, enterprise executives, and international diplomats, examining how technical innovations operate within geopolitical frameworks.\n\nApplicants undergo an exceptionally competitive multi-stage review emphasizing leadership potential, intellectual agility, and character. Successful candidates demonstrate how their technical expertise will address real-world governance challenges—such as climate-resilient civil infrastructure, cross-border energy grids, or national AI safety frameworks. The program covers all logistical and living costs, making it fully accessible regardless of individual financial background.",
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2027-09-15",
+        "funding_or_reward": "Fully Funded (Tuition, Housing, Flights, + $4,000 Stipend)",
+        "eligibility": "Undergraduate degree holders/seniors aged 18-28; all academic disciplines eligible."
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Schwarzman College",
+            "definition": "A dedicated residential college within Tsinghua University designed to train global leaders in public policy, international relations, and economic governance."
+          },
+          {
+            "term": "Track II Diplomacy",
+            "definition": "Non-governmental, informal policy interactions between private citizens, academics, and industry experts aimed at building international trust and resolving complex conflicts."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Schwarzman Scholars Admissions",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official scholarship administration portal and international student advisory board.",
+          "original_url": "https://www.schwarzmanscholars.org/admissions/eligibility/",
+          "discussion_or_secondary_url": "https://www.tsinghua.edu.cn/en/"
+        }
+      }
+    },
+    {
+      "id": "opp-cern-summer-student-programme-member-non-member-2027",
+      "topic_slug": "cern-summer-student-programme-non-member-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "CERN Summer Student Programme 2027: Technical Research Fellowships in Geneva for Non-Member States",
+      "summary_points": [
+        "CERN is accepting applications for its 8-to-13-week Summer Student Programme in Geneva, Switzerland, open to undergraduate and early graduate students in physics, engineering, and computing.",
+        "Fellows receive 93 Swiss Francs (CHF) per day net living allowance, full round-trip travel coverage from Bangladesh, comprehensive health insurance, and hands-on experimental team placement.",
+        "Students work on high-energy detector design, distributed computing (ROOT/Grid architectures), cryogenic cooling systems, or data analysis pipelines."
+      ],
+      "why_it_matters": "Bangladeshi undergraduate engineers from mechanical, electrical, computer science, and aeronautical disciplines gain rare access to the world's most sophisticated particle physics laboratory, dramatically boosting applications to premier global PhD programs.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2027-01-31",
+        "funding_or_reward": "Fully Funded (93 CHF/day stipend + round-trip travel + health insurance)",
+        "eligibility": "Enrolled 3rd/4th-year undergraduate or Master's students in STEM from any recognized university."
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "LHC (Large Hadron Collider)",
+            "definition": "The world's largest and highest-energy particle accelerator, located at CERN beneath the Franco-Swiss border."
+          },
+          {
+            "term": "Cryogenics",
+            "definition": "The branch of physics and engineering that studies the behavior and handling of materials at extremely low temperatures (near absolute zero)."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "CERN Careers Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official Human Resources department dispatch from the European Organization for Nuclear Research.",
+          "original_url": "https://careers.cern/summer",
+          "discussion_or_secondary_url": "https://home.cern"
+        }
+      }
+    },
+    {
+      "id": "opp-ict-division-smart-bangladesh-accelerator-cohort-2027",
+      "topic_slug": "ict-division-smart-bangladesh-accelerator-cohort-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "ICT Division & Startup Bangladesh Launch National Tech Incubation Cohort With BDT 10 Lakh Grants",
+      "summary_points": [
+        "The Bangladesh Ministry of Post, Telecommunications and Information Technology is soliciting applications for its university-anchored deep-tech incubation round.",
+        "Selected student and alumni founder teams receive BDT 1,000,000 equity-free proof-of-concept (PoC) seed financing, dedicated prototyping lab space, and mentorship from industry executives.",
+        "Priority sectors include agricultural robotics, edge-computing IoT for riverine telemetry, and open-source civic technology pipelines for local government service delivery."
+      ],
+      "why_it_matters": "Undergraduate engineering cohorts at MIST, BUET, and other institutions can fund hardware prototyping and pilot deployments without giving up equity or taking on high-interest commercial debt.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2027-02-15",
+        "funding_or_reward": "BDT 1,000,000 Non-Dilutive Grant + Incubation Co-working Space",
+        "eligibility": "Bangladeshi teams led by enrolled students or recent graduates (within 3 years)."
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Non-Dilutive Funding",
+            "definition": "Capital injected into a startup or venture that does not require the founders to surrender equity, voting shares, or ownership stakes."
+          },
+          {
+            "term": "Proof of Concept (PoC)",
+            "definition": "A preliminary demonstration that a specific technical idea, engineering method, or product concept is practically feasible."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "ICT Division Bangladesh",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official gazette notification and portal release from Startup Bangladesh Limited.",
+          "original_url": "https://startupbangladesh.vc",
+          "discussion_or_secondary_url": "https://ictd.gov.bd"
+        }
+      }
+    }
+  ]
+}
