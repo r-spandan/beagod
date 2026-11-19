@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-    "title": "Democratic Midterm Sweep Shifts Regulatory Pressure onto Hyperscale AI Data Centers and Energy Grids",
-    "topic_slug": "us-midterm-blue-wave-ai-energy-capitol-gridlock",
-    "timestamp": "2026-11-05T06:05:34.400Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-    "title": "Sophisticated Cyberattack Compromises French National Blood Bank Cold-Chain Telemetry Systems",
-    "topic_slug": "france-efs-blood-storage-cold-chain-cyberattack",
-    "timestamp": "2026-11-05T06:05:34.400Z"
-  },
-  {
-    "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
-    "title": "Binance Forensics Reveal Multi-Month $6.3B Breach Orchestrated via Trojanized Developer Job Interviews",
-    "topic_slug": "binance-social-engineering-dev-interview-supply-chain-attack",
-    "timestamp": "2026-11-05T06:05:34.400Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-    "title": "Hong Kong Court Sentences Democracy Activist Joshua Wong to 10 Years in Landmark Subversion Trial",
-    "topic_slug": "hong-kong-joshua-wong-national-security-law-sentencing",
-    "timestamp": "2026-11-05T06:05:34.400Z"
-  },
-  {
-    "url": "https://www.tbsnews.net/economy/banking",
-    "title": "Bangladesh Bank Tightens Standing Lending Facility to Enforce Interbank Call Money Discipline",
-    "topic_slug": "bangladesh-bank-interbank-liquidity-repo-reforms-2026",
-    "timestamp": "2026-11-05T06:05:34.400Z"
-  },
-  {
-    "url": "https://nbr.gov.bd",
-    "title": "National Board of Revenue Links Digital e-Return System with Citizen Land and Automobile Databases",
-    "topic_slug": "nbr-mandatory-digital-signature-audit-compliance-2026",
-    "timestamp": "2026-11-05T06:05:34.400Z"
-  },
-  {
-    "url": "https://www.bb.org.bd",
-    "title": "Bangladesh External Account Posts Rare Monthly Surplus on Inward Remittance Surge and Curtailed Import LCs",
-    "topic_slug": "bangladesh-external-current-account-remittance-surplus-nov-2026",
-    "timestamp": "2026-11-05T06:05:34.400Z"
-  },
-  {
-    "url": "https://www.schwarzmanscholars.org/admissions/",
-    "title": "Schwarzman Scholars 2027–2028 Cohort Opens Applications: Fully Funded Global Affairs Master's at Tsinghua University",
-    "topic_slug": "opp-schwarzman-scholars-tsinghua-leadership-fellowship-2027",
-    "timestamp": "2026-11-05T06:05:34.400Z"
-  },
-  {
-    "url": "https://cbs.riken.jp/en/summer/",
-    "title": "RIKEN Center for Brain Science and Computational Science Calls for 2027 Summer Research Interns",
-    "topic_slug": "opp-riken-summer-student-research-internship-japan-2027",
-    "timestamp": "2026-11-05T06:05:34.400Z"
-  },
-  {
-    "url": "https://ictd.gov.bd/site/notices",
-    "title": "ICT Division Bangladesh Launches Annual FY26–27 Research & Innovation Grant Call for University Lab Projects",
-    "topic_slug": "opp-ict-division-national-rd-innovation-grant-call-2026-27",
-    "timestamp": "2026-11-05T06:05:34.400Z"
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
     "title": "Paraguayan Congress Impeaches and Arrests President Santiago Peña Following Catastrophic Retail Banking Run",
     "topic_slug": "paraguay-santiago-pena-impeachment-banking-crisis",
@@ -598,5 +538,65 @@
     "title": "Bangladesh Bank Financial Technology & Data Science Fellowship 2027: Central Bank Analytics Cohort",
     "topic_slug": "opp-bangladesh-bank-fintech-data-fellowship-2027",
     "timestamp": "2026-11-18T06:53:23.650Z"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
+    "title": "ICJ Delivers Historic Verdict: Myanmar Found Guilty of Genocide Against Rohingya Minorities",
+    "topic_slug": "icj-myanmar-rohingya-genocide-definitive-verdict",
+    "timestamp": "2026-11-19T20:20:37.725Z"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
+    "title": "Trump, Putin, and Xi Issue Joint Trilateral Declaration Following Historic Geneva Summit",
+    "topic_slug": "trump-putin-xi-trilateral-peace-declaration-talks",
+    "timestamp": "2026-11-19T20:20:37.725Z"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdUt2S1FLQ01XdnQwd3NpX3U1Skg0UFAyVWxkWDViVXNWS0V2YWt4LU00WWZmbDZEZk9hb2QzLWpXY3RqTEhHZ255bnNOTEdvWnloUlI1bmszYkNaZlFIZGJlckxjSVk0aHduY0R3OXA3MW14OWRFTFo3V2RlakRvQjFhZW9Oemo1SnJPTzd4RGN5M0xGRzk5SXV3",
+    "title": "Houthi Long-Range Strike Damages Public Investment Fund Tower in Central Riyadh",
+    "topic_slug": "houthi-strike-riyadh-public-investment-fund-hq",
+    "timestamp": "2026-11-19T20:20:37.725Z"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o",
+    "title": "Anthropic Files for Landmark $150 Billion IPO Amid Rapid Enterprise Agent Monetization",
+    "topic_slug": "anthropic-historic-public-ipo-filing-ai-market-shift",
+    "timestamp": "2026-11-19T20:20:37.725Z"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o",
+    "title": "European Semiconductor Alliance Backs Silicon Photonics to Circumvent Copper Interconnect Limits",
+    "topic_slug": "europe-silicon-photonics-semiconductor-datacenter-breakthrough",
+    "timestamp": "2026-11-19T20:20:37.725Z"
+  },
+  {
+    "url": "https://www.tbsnews.net/economy/banking/bangladesh-bank-fx-netting-portal-directive",
+    "title": "Bangladesh Bank Mandates Real-Time FX Netting Portal to Compress Remittance-Kerb Spreads",
+    "topic_slug": "bangladesh-bank-unified-interbank-fx-clearing-settlement-portal",
+    "timestamp": "2026-11-19T20:20:37.725Z"
+  },
+  {
+    "url": "https://www.tbsnews.net/bangladesh/energy/titas-prepaid-gas-meter-mandate-gazette-2026",
+    "title": "Energy Ministry Gazettes Universal Prepaid Smart Gas Metering Across Titas & Bakhrabad Franchise Areas",
+    "topic_slug": "energy-ministry-universal-prepaid-smart-gas-metering-rollout",
+    "timestamp": "2026-11-19T20:20:37.725Z"
+  },
+  {
+    "url": "https://www.epfl.ch/schools/ic/education/summer-research-fellowships/",
+    "title": "EPFL Summer Research Fellowship 2027: Fully Funded STEM Internship in Switzerland",
+    "topic_slug": "epfl-summer-research-internship-computer-sciences-2027",
+    "timestamp": "2026-11-19T20:20:37.725Z"
+  },
+  {
+    "url": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/weidenfeld-hoffmann-scholarships-and-leadership-programme",
+    "title": "University of Oxford: Weidenfeld-Hoffmann Scholarships & Leadership Programme 2027",
+    "topic_slug": "oxford-weidenfeld-hoffmann-scholarships-leadership-programme-2027",
+    "timestamp": "2026-11-19T20:20:37.725Z"
+  },
+  {
+    "url": "https://most.gov.bd/site/view/notices/NST-Fellowship-Notice-2026-2027",
+    "title": "Ministry of Science and Technology: National Science & Technology (NST) Fellowships 2026-2027",
+    "topic_slug": "most-bangladesh-national-science-technology-fellowship-2027",
+    "timestamp": "2026-11-19T20:20:37.725Z"
   }
 ]

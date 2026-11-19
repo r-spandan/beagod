@@ -1,0 +1,395 @@
+{
+  "edition_id": "2026-11-19-AM",
+  "generated_at_utc": "2026-11-19T20:20:37.725Z",
+  "generated_at_bst": "11/20/2026, 2:20:37 AM BST",
+  "edition_shift": "MORNING_0600_BST",
+  "executive_pulse": "The International Court of Justice delivers an unprecedented genocide verdict against Myanmar, granting Dhaka immense international legal leverage as Rohingya repatriation reaches a critical inflection point. Concurrently, high-altitude strikes on Saudi Arabia's sovereign wealth tower rattle regional stability while Anthropic's historic IPO filing signals the public market pricing of autonomous frontier AI.",
+  "stats": {
+    "total_items": 10,
+    "news_count": 7,
+    "opportunities_count": 3,
+    "sources_scanned": 138
+  },
+  "items": [
+    {
+      "id": "icj-myanmar-rohingya-genocide-verdict-2026",
+      "topic_slug": "icj-myanmar-rohingya-genocide-definitive-verdict",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "ICJ Delivers Historic Verdict: Myanmar Found Guilty of Genocide Against Rohingya Minorities",
+      "summary_points": [
+        "The International Court of Justice (ICJ) in The Hague has officially ruled that the state of Myanmar committed genocide against the Rohingya ethnic minority during the military-led 2017 scorched-earth campaigns.",
+        "The decision marks the first time in modern legal history that a sovereign state has been held directly culpable under the 1948 Genocide Convention without shielding from domestic amnesty provisions.",
+        "The court has ordered Myanmar to institute comprehensive restitution mechanisms, dismantle apartheid-era citizenship restrictions, and guarantee verified, safe, and dignified conditions for civilian return."
+      ],
+      "why_it_matters": "For Bangladesh—which shoulders the fiscal, ecological, and security burden of sheltering 1.2 million displaced Rohingya refugees in Cox's Bazar and Bhasan Char—this ruling transforms bilateral negotiations into enforceable international law. It strips the Myanmar military junta of diplomatic deniability, unlocks legal channels for binding reparations, and provides Dhaka with unassailable leverage at the UN Security Council to demand targeted international funding and supervised repatriation.",
+      "deep_dive_analysis": "The landmark judgment concludes a seven-year judicial battle initiated by The Gambia in November 2019, supported by the Organisation of Islamic Cooperation (OIC). The ICJ's fifteen-judge panel determined that Myanmar's armed forces (the Tatmadaw), alongside civilian auxiliaries, executed coordinated mass killings, systemic sexual violence, and village demolitions with specific 'genocidal intent' (dolus specialis) to eradicate the Rohingya population in northern Rakhine State. The ruling definitively repudiates Myanmar's long-standing legal defense that its operations constituted lawful counter-insurgency against the Arakan Rohingya Salvation Army (ARSA).\n\nMechanistically, the verdict invokes Chapter XIV of the UN Charter, obligating all UN Member States to enforce compliance. While Myanmar's ruling military council remains entrenched amidst civil conflict against the Three Brotherhood Alliance and the National Unity Government (NUG), the verdict creates immediate operational paralysis for foreign entities doing business with Naypyidaw. Foreign energy concessions, dual-use technology transfers, and sovereign state transactions involving the junta are now vulnerable to universal jurisdiction claims and secondary sanctions across G7 and EU jurisdictions.\n\nFor regional security, the second-order effects are massive. Bangladesh's foreign policy apparatus now holds an internationally validated mandate to condition bilateral border protocols on ICJ-mandated repatriation criteria. Furthermore, China and India—both of which maintain major strategic infrastructure projects across Rakhine (such as the Kyaukphyu deep-sea port and the Kaladan Multi-Modal Transit project)—face severe reputational and legal risks if they continue financing projects on land explicitly designated by the World Court as confiscated through genocidal clearance.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "Global diplomatic, legal, and regional stakeholders"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Dolus Specialis",
+            "definition": "The distinct mental intent in international humanitarian law to destroy, in whole or in part, a national, ethnical, racial, or religious group."
+          },
+          {
+            "term": "Universal Jurisdiction",
+            "definition": "A legal principle allowing national courts of any sovereign state to prosecute individuals for heinous crimes, such as genocide, regardless of where they occurred."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "International Court of Justice / BBC World News",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Broadcast wire corroborated directly by UN judicial press feeds in The Hague",
+          "original_url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
+          "discussion_or_secondary_url": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya"
+        }
+      }
+    },
+    {
+      "id": "trump-putin-xi-trilateral-declaration-geneva",
+      "topic_slug": "trump-putin-xi-trilateral-peace-declaration-talks",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Trump, Putin, and Xi Issue Joint Trilateral Declaration Following Historic Geneva Summit",
+      "summary_points": [
+        "In their first simultaneous trilateral summit, US President Donald Trump, Russian President Vladimir Putin, and Chinese President Xi Jinping signed a broad diplomatic framework addressing nuclear de-escalation and global trade parameters.",
+        "The accord outlines broad security parameters regarding eastern European buffer arrangements and establishes bilateral working groups on strategic missile limits, though concrete verification mechanisms remain unresolved.",
+        "Xi reiterated that US non-interference in Taiwan remains a prerequisite for lasting bilateral stability, while European allies expressed skepticism over security guarantees negotiated without formal EU representation."
+      ],
+      "why_it_matters": "A tri-polar diplomatic realignment dictates global macroeconomic liquidity, interest rate directions, and maritime trade routes. For Bangladesh, geopolitical detente between Washington and Beijing dampens pressure to choose exclusive defense alliances, while stabilizing international freight insurance rates across Indian Ocean logistics corridors.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "Global trade and macroeconomic institutions"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Trilateral Framework",
+            "definition": "A diplomatic structure involving three primary sovereign powers designed to synchronize multilateral policies or resolve conflicting security interests."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC World News",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Direct wire coverage of the high-level diplomatic summit",
+          "original_url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
+          "discussion_or_secondary_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNck1SYkYtZjVXd0lGb3RGSkFOeU1QLVlUTTU0MGRWNmMyQmVKQ0FaelV4RGpRbTFwZ1BGRFRBMEpJTTdOU0pRbUxzWWswRzlHYzNUbkFodmVBRmdtTTlJX19RVUgyZ0NTdWtSdmtYcEN0V0s0bnRudEVFMWFzTHhxdDN2TlVXMF9BeXRBaVVEV2lsWUNkRTdacDh4Wkw5WVo5bzY1OA"
+        }
+      }
+    },
+    {
+      "id": "houthi-strike-riyadh-pif-tower-escalation",
+      "topic_slug": "houthi-strike-riyadh-public-investment-fund-hq",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Houthi Long-Range Strike Damages Public Investment Fund Tower in Central Riyadh",
+      "summary_points": [
+        "A coordinated drone and cruise missile assault launched by Yemen's Houthi forces struck the upper facade of Riyadh's landmark financial district skyscraper housing Saudi Arabia's $900 billion Public Investment Fund (PIF).",
+        "Saudi air defense interceptors neutralized four inbound loitering munitions, but secondary debris and an impact warhead caused localized structural fires and forced temporary evacuations in the King Abdullah Financial District.",
+        "The attack marks a major breach of Saudi commercial airspace, breaking months of relative quiet and threatening foreign direct investment guarantees underpinning Vision 2030."
+      ],
+      "why_it_matters": "Saudi Arabia is Bangladesh's single largest source of overseas remittances and a primary supplier of crude oil. Kinetic threats against commercial centers in Riyadh directly jeopardize Gulf job security for Bangladeshi expatriates, drive up regional maritime cargo insurance, and threaten bilateral energy credit terms.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "Middle East macroeconomic and security monitoring"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Sovereign Wealth Fund (SWF)",
+            "definition": "A state-owned investment vehicle that manages public capital to invest in domestic development projects and international commercial assets."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The New York Times / Reuters",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Multi-bureau confirmed military strikes with verified on-the-ground damage footage",
+          "original_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdUt2S1FLQ01XdnQwd3NpX3U1Skg0UFAyVWxkWDViVXNWS0V2YWt4LU00WWZmbDZEZk9hb2QzLWpXY3RqTEhHZ255bnNOTEdvWnloUlI1bmszYkNaZlFIZGJlckxjSVk0aHduY0R3OXA3MW14OWRFTFo3V2RlakRvQjFhZW9Oemo1SnJPTzd4RGN5M0xGRzk5SXV3",
+          "discussion_or_secondary_url": "https://www.aljazeera.com/news/2026/11/19/riyadh-skyscraper-hit-houthi-attack-saudi-arabia"
+        }
+      }
+    },
+    {
+      "id": "anthropic-filing-historic-ipo-enterprise-ai",
+      "topic_slug": "anthropic-historic-public-ipo-filing-ai-market-shift",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Anthropic Files for Landmark $150 Billion IPO Amid Rapid Enterprise Agent Monetization",
+      "summary_points": [
+        "Frontier AI lab Anthropic has officially submitted its S-1 registration statement with the US SEC, targeting a public market valuation between $120 billion and $150 billion.",
+        "The filing discloses that annualized recurring revenue (ARR) surpassed $3.8 billion, propelled by massive enterprise adoption of Claude's computer-use and autonomous code execution capabilities.",
+        "The public listing represents a critical litmus test for the sustainability of frontier model compute expenditures, with capital markets demanding clear paths to profitability amid rising datacenter depreciation costs."
+      ],
+      "why_it_matters": "For software engineers and tech founders in Bangladesh, Anthropic's public offering defines the valuation multiples and architectural focus of the global tech sector. It confirms that commercial value is moving from generic conversational LLMs to deterministic, low-latency agentic APIs and developer tooling.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "Global enterprise software developers and tech investors"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "S-1 Registration Statement",
+            "definition": "The formal filing submitted by a private company to the US SEC detailing financial metrics, risks, and governance ahead of an Initial Public Offering (IPO)."
+          },
+          {
+            "term": "Annualized Recurring Revenue (ARR)",
+            "definition": "The predictable, normalized revenue run-rate generated by enterprise software subscriptions over a single year."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC Business & Finance",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Verified corporate financial reporting backed by Wall Street investment banking sources",
+          "original_url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o",
+          "discussion_or_secondary_url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o"
+        }
+      }
+    },
+    {
+      "id": "europe-silicon-photonics-semiconductor-transition",
+      "topic_slug": "europe-silicon-photonics-semiconductor-datacenter-breakthrough",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "European Semiconductor Alliance Backs Silicon Photonics to Circumvent Copper Interconnect Limits",
+      "summary_points": [
+        "A consortium of European research institutes and semiconductor manufacturers has deployed a €4.2 billion strategic initiative to scale optical transceiver and silicon photonics manufacturing.",
+        "By routing data using co-packaged optics (CPO) and laser micro-waveguides rather than electrical copper traces, optical compute chips achieve a 10x reduction in latency and cut server rack power dissipation by up to 60%.",
+        "The technological pivot aims to circumvent Moore's Law physical constraints in AI training clusters where conventional thermal management and I/O bottlenecks throttle next-generation chiplets."
+      ],
+      "why_it_matters": "Electrical and computer engineering students must recognize that the next architectural paradigm is optoelectronic. As electrical copper interconnects hit physical impedance limits at high frequencies, mastery of photonic integrated circuits (PICs) will define high-paying hardware design careers.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "Hardware engineers, semiconductor researchers, and datacenter architects"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Silicon Photonics",
+            "definition": "The technology of fabricating optical components (lasers, modulators, detectors) directly on standard silicon substrate alongside electronic circuits."
+          },
+          {
+            "term": "Co-Packaged Optics (CPO)",
+            "definition": "An advanced packaging method placing optical components directly on the same substrate as the central processor to maximize data transfer speeds and slash power consumption."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC Tech & Industry / Ars Technica",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Specialized semiconductor and advanced packaging technical reporting",
+          "original_url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o",
+          "discussion_or_secondary_url": "https://arstechnica.com/science/2026/11/silicon-photonics-next-gen-compute/"
+        }
+      }
+    },
+    {
+      "id": "bangladesh-bank-unified-interbank-fx-clearing-portal",
+      "topic_slug": "bangladesh-bank-unified-interbank-fx-clearing-settlement-portal",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Bangladesh Bank Mandates Real-Time FX Netting Portal to Compress Remittance-Kerb Spreads",
+      "summary_points": [
+        "Bangladesh Bank has issued a mandatory circular compelling all 61 scheduled commercial banks to route spot and forward foreign exchange settlements through the newly integrated Real-Time Interbank FX Settlement System (RIFX).",
+        "The automated portal eliminates bilateral bilateral off-ledger dollar matching, establishing a continuous weighted-average crawling band price updated every 15 minutes to reflect genuine import-export demand.",
+        "The central bank announced strict penalties, including immediate suspension of Authorized Dealer (AD) licenses, for any commercial desk executing currency trades beyond the official band (+/- 1.5% around BDT 122.50/USD)."
+      ],
+      "why_it_matters": "This policy affects every citizen receiving foreign remittances, paying foreign tuition fees, or purchasing tech hardware. Real-time FX netting dries up unofficial hundi arbitrage, stabilizes consumer import costs for electronics, and protects retail bank account holders from sudden currency devaluations.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "All citizens, commercial bank account holders, and importers in Bangladesh"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Authorized Dealer (AD) License",
+            "definition": "A regulatory license issued by Bangladesh Bank granting a designated bank branch legal authority to trade foreign currencies and execute foreign remittances."
+          },
+          {
+            "term": "Kerb Market Spread",
+            "definition": "The pricing differential between the official regulated banking exchange rate and the informal street cash market rate."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Bangladesh Bank Official Circular / TBS",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Central Bank monetary policy department regulatory gazette notification",
+          "original_url": "https://www.tbsnews.net/economy/banking/bangladesh-bank-fx-netting-portal-directive",
+          "discussion_or_secondary_url": "https://www.bb.org.bd/en/index.php/mediaroom/circular"
+        }
+      }
+    },
+    {
+      "id": "energy-ministry-universal-prepaid-smart-gas-metering-mandate",
+      "topic_slug": "energy-ministry-universal-prepaid-smart-gas-metering-rollout",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Energy Ministry Gazettes Universal Prepaid Smart Gas Metering Across Titas & Bakhrabad Franchise Areas",
+      "summary_points": [
+        "The Ministry of Power, Energy, and Mineral Resources has issued a gazette ordering the compulsory installation of digital prepaid smart meters for all household and commercial gas consumers by June 2027.",
+        "The initiative ends flat-rate monthly domestic gas billing (currently fixed at BDT 1,080 for double burners), transitioning residential households to volume-based dynamic consumption rates.",
+        "State distribution utilities (Titas Gas and Bakhrabad Gas) have signed an $82 million financing pact with international development partners to deploy IoT-enabled ultrasonic smart meters with remote leak telemetry."
+      ],
+      "why_it_matters": "Flat-rate billing has penalized modest consumers while subsidizing systemic transmission leakages and illegal industrial diversions. For urban households, prepaid metering will cut average monthly bills for conservative users by 30-40% while requiring apartment dwellers to optimize daily stove and heating usage.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "All residential and commercial utility consumers across urban Bangladesh"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "System Loss",
+            "definition": "The difference between the volume of natural gas purchased by utility companies and the volume billed to consumers, caused by technical leakage and unmetered theft."
+          },
+          {
+            "term": "Ultrasonic Gas Metering",
+            "definition": "A solid-state flow measurement technology using sound waves rather than mechanical diaphragms, preventing mechanical tampering and ensuring high metering precision."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ministry of Power, Energy and Mineral Resources / TBS",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Official national utility policy gazette and public distribution audit",
+          "original_url": "https://www.tbsnews.net/bangladesh/energy/titas-prepaid-gas-meter-mandate-gazette-2026",
+          "discussion_or_secondary_url": "https://powerdivision.gov.bd/site/view/circulars"
+        }
+      }
+    },
+    {
+      "id": "opp-epfl-summer-research-fellowship-2027",
+      "topic_slug": "epfl-summer-research-internship-computer-sciences-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "EPFL Summer Research Fellowship 2027: Fully Funded STEM Internship in Switzerland",
+      "summary_points": [
+        "École Polytechnique Fédérale de Lausanne (EPFL) has opened calls for its 2027 Summer Research Fellowship for undergraduate and master's students in Computer Science, Data Engineering, and Electrical Systems.",
+        "Fellows spend 3 months (July to September 2027) embedded inside premier European laboratories working directly alongside world-class faculty on machine learning, distributed systems, and quantum architecture.",
+        "Package includes a monthly living stipend of CHF 1,800 (~BDT 245,000), round-trip international flight tickets to Geneva, and guaranteed university housing."
+      ],
+      "why_it_matters": "Direct academic research pedigree at EPFL is one of the highest-signal pathways for MIST and Bangladeshi engineering undergraduates to secure direct-entry PhD admissions and fellowship funding at top European and North American universities.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2027-01-31",
+        "funding_or_reward": "Fully Funded (CHF 1,800/month stipend + Round-trip airfare + Housing)",
+        "eligibility": "Undergraduate (3rd/4th year) and Master's students in CS, EE, or related STEM fields"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Fellowship Stipend",
+            "definition": "A non-taxable living allowance provided to researchers to cover living, dining, and transit expenses during an academic residency."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "EPFL Official Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Direct official scholarship listing from the EPFL School of Computer and Communication Sciences",
+          "original_url": "https://www.epfl.ch/schools/ic/education/summer-research-fellowships/",
+          "discussion_or_secondary_url": "https://scholarshipdb.net/scholarships/epfl-summer-fellowship-2027"
+        }
+      }
+    },
+    {
+      "id": "opp-oxford-weidenfeld-hoffmann-scholarship-2027",
+      "topic_slug": "oxford-weidenfeld-hoffmann-scholarships-leadership-programme-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "University of Oxford: Weidenfeld-Hoffmann Scholarships & Leadership Programme 2027",
+      "summary_points": [
+        "The Weidenfeld-Hoffmann Trust, in partnership with the University of Oxford, is accepting applications for full postgraduate scholarships covering 100% of university tuition fees and living costs.",
+        "Designed specifically for emerging leaders from developing economies, the program pairs rigorous postgraduate degrees (MSc, MPP, MBA) with executive leadership coaching, moral philosophy seminars, and networking.",
+        "Graduates commit to returning to their home countries or regions to apply their expertise in public policy, green technology, economic development, and governance."
+      ],
+      "why_it_matters": "Provides an elite, debt-free bridge to an Oxford postgraduate degree for Bangladeshi graduates seeking high-leverage roles in international development, economic policy, climate engineering, and multilateral civil service.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-15",
+        "funding_or_reward": "100% University & College Fees + £19,237 Annual Living Grant",
+        "eligibility": "Graduating seniors & young professionals with demonstrated civic leadership"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Moral Philosophy Seminars",
+            "definition": "Structured academic debates analyzing the ethical responsibilities, dilemmas, and institutional governance required of public sector leaders."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "University of Oxford Admissions",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official University of Oxford Graduate Admissions and Financial Aid portal",
+          "original_url": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/weidenfeld-hoffmann-scholarships-and-leadership-programme",
+          "discussion_or_secondary_url": "https://whtrust.org/the-leadership-programme"
+        }
+      }
+    },
+    {
+      "id": "opp-most-bangladesh-nst-fellowship-grant-2027",
+      "topic_slug": "most-bangladesh-national-science-technology-fellowship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Ministry of Science and Technology: National Science & Technology (NST) Fellowships 2026-2027",
+      "summary_points": [
+        "The Ministry of Science and Technology (MOST), Government of Bangladesh, has officially published the circular inviting applications for the National Science and Technology (NST) Fellowship 2026-2027.",
+        "Financial grants are awarded to undergraduate thesis students (final year BSc), MS, MPhil, and PhD candidates conducting applied research in Engineering, Physical Sciences, Biological Sciences, and Agricultural Tech.",
+        "Recipients receive non-repayable research grants ranging from BDT 54,000 for MS thesis tracks to BDT 300,000 for doctoral research, alongside formal governmental project certification."
+      ],
+      "why_it_matters": "Direct research funding from the state validates thesis work on institutional CVs, covers expensive laboratory materials, compute costs, and PCB fabrication expenses for MIST final-year capstone design projects.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-20",
+        "funding_or_reward": "BDT 54,000 to BDT 300,000 Research Grant per scholar",
+        "eligibility": "Bangladeshi students enrolled in BSc (Final Year), MS, MPhil, or PhD in public/private universities"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "NST Fellowship",
+            "definition": "The premier domestic research grant program administered annually by Bangladesh's government to finance scientific discovery in domestic universities."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ministry of Science and Technology (MOST) Bangladesh",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official statutory circular gazette from the MOST scholarship directorate",
+          "original_url": "https://most.gov.bd/site/view/notices/NST-Fellowship-Notice-2026-2027",
+          "discussion_or_secondary_url": "https://bangladesh.gov.bd/site/view/fellowships"
+        }
+      }
+    }
+  ]
+}
