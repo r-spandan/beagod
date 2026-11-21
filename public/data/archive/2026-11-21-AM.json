@@ -1,0 +1,415 @@
+{
+  "edition_id": "2026-11-21-AM",
+  "generated_at_utc": "2026-11-21T18:57:50.033Z",
+  "generated_at_bst": "11/22/2026, 12:57:50 AM BST",
+  "edition_shift": "MORNING_0600_BST",
+  "executive_pulse": "The US administration signals aggressive protectionist curbs on offshore AI compute infrastructure, while UN autonomous weapons talks stall in Geneva. Domestically, Bangladesh Bank and the National Board of Revenue deploy stringent currency audit filters and universal digital tax mandates to reinforce macro-fiscal stability.",
+  "stats": {
+    "total_items": 10,
+    "news_count": 7,
+    "opportunities_count": 3,
+    "sources_scanned": 135
+  },
+  "items": [
+    {
+      "id": "trump-us-firm-overseas-ai-datacenter-ban-proposal",
+      "topic_slug": "white-house-proposed-ban-us-ai-data-centers-overseas",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "US Threatens Export & Capital Ban on Tech Giants Building Hyperscale AI Data Centers Overseas",
+      "summary_points": [
+        "The US administration announced an impending policy initiative aimed at blocking American tech corporations (such as Microsoft, Google, and Amazon) from constructing high-tier AI data centers in overseas jurisdictions.",
+        "The proposed policy aims to secure advanced semiconductor hardware (GPUs and TPUs) within continental US borders, citing national security risks, power grid weaponization, and IP leakage to geopolitical rivals.",
+        "Global cloud and AI infrastructure providers warn that an overseas freeze will cripple distributed latency architectures and derail multi-billion-dollar sovereign AI initiatives across Europe, the Gulf, and Southeast Asia."
+      ],
+      "why_it_matters": "If implemented, regional hubs in Singapore, Malaysia, and India hosting US cloud infrastructure will face critical hardware caps. For software engineers and tech startups in Bangladesh relying on AWS, Azure, and GCP regional data centers, compute costs will surge and access to sub-50ms latency tier-1 inference models will narrow significantly.",
+      "deep_dive_analysis": "The White House proposal to restrict US corporations from exporting hyperscale compute infrastructure marks a paradigm shift from chip export controls to full-stack physical containment. Historically, export control measures under the Bureau of Industry and Security (BIS) restricted the physical sale of advanced silicon—such as Nvidia's H100 and B200 accelerators—to foreign entities. However, hyperscalers bypassed these domestic compute bottlenecks by deploying mega-clusters in international zones, establishing sovereign partnerships in the UAE, Saudi Arabia, and Europe. This new posture seeks to treat compute infrastructure itself as strategic sovereign infrastructure that cannot be exported even under American corporate ownership.\n\nThe mechanical implications for the global digital ecosystem are severe. Modern distributed training and low-latency inference require geographically distributed edge and core data centers. Restricting deployment strictly to US soil introduces structural network bottlenecks, driving up intercontinental fiber transit costs and creating geopolitical retaliation risks. European and Asian regulators will likely accelerate indigenous silicon manufacturing (RISC-V and sovereign ASICs) to decouple from American supply chains. For emerging economies, the cost of accessing cutting-edge frontier AI APIs will become increasingly bifurcated by geographic location and sovereign licensing agreements.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Hyperscale Data Center",
+            "definition": "Massive computational facilities housing tens of thousands of networked servers and specialized accelerators, engineered to scale processing power for large foundation models."
+          },
+          {
+            "term": "Sovereign AI",
+            "definition": "A nation's capability and strategic policy to build, operate, and control its own AI infrastructure, data, and foundational models without depending on foreign technology monopolies."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC Business & Finance",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Verified via global financial wire and presidential policy briefings.",
+          "original_url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
+          "discussion_or_secondary_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaDRIZFpnNlRXZHZKZTRoS2pMUUF1RnQyWm5Yc29xeHFyWkkwYjRNQnBlRmd3N0JpNHdlT3Z1dEJiVTlDVUN1TVVBd1RqeFhBS3plLTBESjBqdlF5MFRzMldCWnFIVW1aT01LaVJ2YVNTTHRzbTZTNzJhUDhSY2RndFJETnMyMHhzUUFpUHExMHR1YVhpbGF5R2loYkFpU2VHXzhILXBjMGpzd2otbkZ1aU1aemJKb3psY0FJRGJ4SzJXSC1WcG5z"
+        }
+      }
+    },
+    {
+      "id": "un-autonomous-weapons-treaty-gridlock-geneva-2028",
+      "topic_slug": "un-autonomous-weapons-convention-gridlock-geneva",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "UN Geneva Talks on Regulating AI 'Killer Robots' Collapse into Four-Year Deferral to 2028",
+      "summary_points": [
+        "Diplomatic delegations at the United Nations Convention on Certain Conventional Weapons (CCW) in Geneva failed to achieve consensus on binding legal limits for lethal autonomous weapons systems (LAWS).",
+        "Major military powers resisted treaty mandates that would enforce human-in-the-loop requirements for target selection and dynamic kinetic strikes, agreeing only to non-binding discussions extending into 2028.",
+        "Humanitarian watchdogs and defense analysts warn that battlefield deployments in Eastern Europe and the Middle East are accelerating fully automated targeting cycles far ahead of international law."
+      ],
+      "why_it_matters": "For defense engineers, computer vision specialists, and military technologists, ethical red lines are being dismantled in real time. Tactical autonomous swarms are moving from theoretical research into active combat doctrine, shaping the procurement and geopolitical posture of non-aligned defense forces including the Bangladesh Armed Forces.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "LAWS (Lethal Autonomous Weapons Systems)",
+            "definition": "Weapon platforms equipped with sensors and algorithms that can identify, select, and engage human or vehicular targets without direct human intervention."
+          },
+          {
+            "term": "Human-in-the-Loop",
+            "definition": "A command structure requirement ensuring that a human operator retains operational authority and must confirm kinetic engagement decisions before lethal force is executed."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Associated Press (AP News)",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Direct diplomatic reporting from UN CCW negotiations in Geneva.",
+          "original_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY3JlX1Q4VXpOM1lnZ2s3aUdnSmxhOExuMl9PUlVwSUpZclY1R3RSb04wdzljcmNaQzJoOENYYmxCQ2tLaXpma2RhQ3hHeWdwYURDN2ZBaGxYT0k5MkEyVDFubm5GX2FfYWVsd2Q0VkQwTWh6X2x0SF9qZS1kWW8za2Nod0I2QV9DQlVsSHpjRnhRN3ZaUWNjb1dpRHYzdw",
+          "discussion_or_secondary_url": "https://www.theguardian.com/world/lethal-autonomous-weapons"
+        }
+      }
+    },
+    {
+      "id": "canary-token-ai-supply-chain-privacy-exfiltration-audit",
+      "topic_slug": "ai-supply-chain-canary-token-data-leak-vulnerability",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Cybersecurity Audit of 2M 'Canary Tokens' Exposes Widespread Enterprise Data Leaks Across AI Supply Chains",
+      "summary_points": [
+        "Security researchers embedded two million unique, trackable canary tokens into training corpora and retrieval-augmented generation (RAG) pipelines, uncovering rampant unmanaged enterprise data leakage.",
+        "Tokens intended to remain strictly sandboxed were exfiltrated across third-party analytics trackers, intermediary API logging hubs, and public vector stores within hours of ingestion.",
+        "The findings prove that intermediate orchestration platforms and wrapper services routinely log raw user payloads in cleartext, invalidating enterprise NDAs and standard client confidentiality guarantees."
+      ],
+      "why_it_matters": "Software engineers and tech entrepreneurs in Bangladesh building AI wrappers or integrating LLM APIs into fintech, healthcare, and logistics must audit their middleware. Relying on default logging in LangChain, LlamaIndex, or cloud vector databases exposes proprietary client data to third-party scrapers and regulatory fines.",
+      "deep_dive_analysis": "The injection of two million canary tokens across commercial AI pipelines constitutes the largest empirical privacy audit of the generative AI ecosystem to date. In cybersecurity, a canary token is an alert-triggering data artifact—such as a mock credential, unique hash, or tracking URL—that notifies researchers the instant it is accessed or routed through unauthorized networks. By planting these tokens into corporate prompts, customer service bots, and synthetic training sets, researchers systematically proved that the 'AI supply chain' suffers from structural architectural leakage.\n\nThe technical failure occurs primarily at the orchestration and vectorization layer rather than within the foundational model weights themselves. When developers feed enterprise data through RAG pipelines, intermediate microservices—including semantic caching layers, third-party monitoring agents, and cloud vector databases—frequently retain raw context strings in unencrypted logging formats. Over 38% of injected tokens were indexed by public telemetry crawlers or shared with external model optimization pipelines without enterprise authorization.\n\nFor engineering leaders, this audit destroys the illusion that zero-retention commercial API agreements offer complete operational security. Engineering teams must transition to zero-trust client-side masking, local embedding engines, and cryptographically verified isolated execution environments (TEE) before confidential IP or sensitive user telemetry touches third-party inference infrastructure.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Canary Token",
+            "definition": "A unique data marker or cryptographic breadcrumb deliberately placed inside systems to notify security teams whenever it is leaked, opened, or executed."
+          },
+          {
+            "term": "RAG (Retrieval-Augmented Generation)",
+            "definition": "An AI framework that fetches external, proprietary documents from a database and injects them into an LLM's prompt window to provide up-to-date, specialized answers."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Specialized investigative reporting on cybersecurity and software infrastructure.",
+          "original_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "discussion_or_secondary_url": "https://news.ycombinator.com"
+        }
+      }
+    },
+    {
+      "id": "metr-ai-evaluation-benchmark-coding-judgment-divergence",
+      "topic_slug": "metr-ai-evaluation-coding-exponential-vs-judgment-plateau",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "METR Benchmark Update Reveals Divergence: Exponential Gains in Code Synthesis, Plateau in Strategic Judgment",
+      "summary_points": [
+        "AI evaluation organization METR released an update to its landmark capability time-horizon model, tracking frontier systems across autonomous execution tasks.",
+        "While model competence on deterministic, synthetic coding benchmarks continues along an exponential trajectory, capability curves for ambiguous, multi-step strategic judgment have flattened.",
+        "The research emphasizes that current foundation models excel at executing discrete software instructions but fail when required to assess trade-offs under incomplete information."
+      ],
+      "why_it_matters": "For computer science and engineering undergraduates at MIST, rote syntax memorization and basic coding are rapidly commoditized. Career longevity demands mastering system architecture, verification, domain expertise, and high-context engineering judgment that models fundamentally cannot navigate.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "METR (Model Evaluation and Threat Research)",
+            "definition": "A leading nonprofit AI governance and empirical evaluation institute assessing dangerous capabilities and autonomous agency in frontier models."
+          },
+          {
+            "term": "Time-Horizon Evaluation",
+            "definition": "A benchmark measuring the maximum duration and task complexity an autonomous AI agent can successfully execute without human correction."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "MIT Technology Review",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Rigorous analysis by MIT's premier emerging tech publication.",
+          "original_url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+          "discussion_or_secondary_url": "https://metr.org"
+        }
+      }
+    },
+    {
+      "id": "bangladesh-bank-forex-lc-audit-directive-2026",
+      "topic_slug": "bangladesh-bank-mandatory-pre-import-lc-verification-forex",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Bangladesh Bank Tightens Offshore FX Verification, Mandating Real-Time Forensic Clearing for Import LCs Above $50k",
+      "summary_points": [
+        "Bangladesh Bank issued an emergency prudential directive mandating all scheduled commercial banks to route Letters of Credit (LCs) valued above $50,000 through an automated pre-clearing forensic audit system.",
+        "The measure is engineered to eradicate trade-based money laundering, invoice over-invoicing, and illicit capital flight through non-essential consumer imports.",
+        "Gross foreign exchange reserves stabilized around $20.8 billion (BPM6 basis), with the central bank prioritizing hard currency allocations strictly for fuel, fertilizer, and raw industrial inputs."
+      ],
+      "why_it_matters": "Directly impacts every consumer and business in Bangladesh. Importers of consumer electronics, laptops, and vehicle components will face clearance delays, sustaining elevated retail prices. Conversely, it shields the BDT exchange rate from sharp devaluation, keeping domestic inflation from spiraling.",
+      "deep_dive_analysis": "Bangladesh Bank's latest circular marks a decisive step toward closing persistent trade misinvoicing loopholes that have historically drained the nation's foreign exchange reserves. Under conventional banking practices, post-import inspections frequently allowed shell importers to overbill industrial machinery or software licensing fees, moving hard foreign currency into offshore accounts while underpaying customs duties. By introducing mandatory pre-clearing forensic verification on any import transaction crossing $50,000, the central bank is effectively inserting a real-time price-validation layer cross-referenced with global commodities databases.\n\nThis operational tightening arrives as central bank leadership strives to maintain foreign exchange reserves above the critical 3-month import cover benchmark mandated under the International Monetary Fund's (IMF) Extended Credit Facility. With global energy prices fluctuating and major infrastructure debt servicing obligations approaching maturity in late 2026, the central bank has opted for strict micro-prudential rationing rather than artificial currency intervention.\n\nFor citizens, households, and businesses, the secondary effects are clear: while essential commodities (staple grains, LNG, and fertilizer) remain insulated, non-essential and intermediate capital goods will face higher documentation friction. The interbank exchange rate will maintain stability against the US dollar, but local hardware importers will pass verification overhead costs down to tech consumers and domestic manufacturers.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "BPM6 Methodology",
+            "definition": "The IMF's Balance of Payments and International Investment Position Manual (6th edition), standardizing gross reserve reporting by excluding illiquid or encumbered assets."
+          },
+          {
+            "term": "Trade-Based Money Laundering (TBML)",
+            "definition": "The illicit transfer of capital across borders by deliberately over- or under-invoicing the price, quantity, or quality of commercial trade goods."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Business Standard (TBS)",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Domestic fiscal, central banking, and macroeconomic policy desk.",
+          "original_url": "https://www.tbsnews.net",
+          "discussion_or_secondary_url": "https://www.bb.org.bd"
+        }
+      }
+    },
+    {
+      "id": "nbr-mandatory-digital-ereturn-universal-rollout",
+      "topic_slug": "nbr-bangladesh-mandatory-universal-ereturn-digital-tax-2026",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "NBR Gazette Mandates 100% Digital e-Return Filing for Salaried Citizens, Phasing Out Paper Tax Submissions",
+      "summary_points": [
+        "The National Board of Revenue (NBR) published an official gazette mandating that all individual taxpayers holding a Taxpayer Identification Number (TIN) in urban city corporations file via the online e-Return system.",
+        "Manual, paper-based submissions for government officials, corporate executives, and private salaried professionals have been officially discontinued to curb bureaucratic harassment and document loss.",
+        "The platform automatically integrates National ID (NID) data, bank account interest statements, and registered mobile wallets, eliminating arbitrary tax assessment disputes."
+      ],
+      "why_it_matters": "Every working professional, graduating engineer, and side-hustler in Bangladesh must now maintain digitized financial records. Failure to file an e-Return blocks essential civic services, including property registration, bank loan approvals, and trade licenses, making digital tax literacy a non-negotiable adult skill.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "e-Return Portal",
+            "definition": "The National Board of Revenue's digital web interface enabling individual taxpayers to calculate liabilities, declare wealth, and submit returns electronically."
+          },
+          {
+            "term": "Tax Assessment Year",
+            "definition": "The 12-month period immediately following the financial year during which an individual's earned income is declared and evaluated for taxation."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Daily Star (National Desk)",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Official national gazette and legislative reporting in Bangladesh.",
+          "original_url": "https://www.thedailystar.net/business",
+          "discussion_or_secondary_url": "https://etaxnbr.gov.bd"
+        }
+      }
+    },
+    {
+      "id": "baltic-sea-russian-ship-drone-strike-finland-alert",
+      "topic_slug": "gulf-of-finland-drone-strike-russian-freighter-maritime-security",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Maritime Drone Strike Hits Russia-Bound Bulk Cargo Vessel in Gulf of Finland, Escalating Baltic Flashpoint",
+      "summary_points": [
+        "A commercial freighter en route to the Russian exclave of Kaliningrad sustained structural damage following a long-range maritime drone strike in international waters within the Gulf of Finland.",
+        "Finnish defense forces and maritime border guards deployed naval assets and heightened security protocols across critical undersea telecommunications and energy transit corridors.",
+        "The strike demonstrates that maritime asymmetric warfare is expanding into northern European choke points, threatening commercial Baltic shipping insurance rates."
+      ],
+      "why_it_matters": "Escalation in the Baltic Sea directly impacts global maritime shipping insurance premiums. As maritime transit routes face higher security risk premiums, global bulk fertilizer, crude, and grain freight costs increase, trickling down into elevated landed costs at Chittagong Port.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": "N/A"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Maritime Drone (USV)",
+            "definition": "Unmanned Surface Vessels remotely operated or autonomously guided over water, armed with explosives for asymmetric anti-shipping strikes."
+          },
+          {
+            "term": "War Risk Surcharge",
+            "definition": "An additional insurance fee levied by global underwriters on commercial vessels operating in or transiting through zones designated as volatile conflict areas."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Reuters World Wire",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Verified by Finnish Coast Guard statements and international maritime security logs.",
+          "original_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE",
+          "discussion_or_secondary_url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
+        }
+      }
+    },
+    {
+      "id": "opp-knight-hennessy-scholars-stanford-2027",
+      "topic_slug": "opp-knight-hennessy-scholars-stanford-university-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Knight-Hennessy Scholars Program 2027 at Stanford University: Fully Funded Graduate Fellowship Across All Disciplines",
+      "summary_points": [
+        "Stanford University has opened early planning and dossier assembly for the 2027 Cohort of the Knight-Hennessy Scholars (KHS) program, funding up to 100 high-potential leaders worldwide.",
+        "Covers 100% of tuition, room, board, academic travel stipends, and leadership development workshops for any graduate degree at Stanford (MS, PhD, MBA, or MD).",
+        "Open to all nationalities; applicants must hold a bachelor's degree earned within the past five years or be currently enrolled seniors graduating by summer 2027."
+      ],
+      "why_it_matters": "For MIST engineering and science undergraduates, this is one of the highest-leverage academic fellowships in the world. It provides direct entry to Stanford's labs in artificial intelligence, robotics, materials science, and civil infrastructure, combined with full financial security in Silicon Valley.",
+      "deep_dive_analysis": "The Knight-Hennessy Scholars program represents the premier multidisciplinary graduate fellowship in the United States, established to cultivate visionary, courageous leaders capable of solving complex global challenges. Unlike traditional departmental research assistantships that tie funding strictly to a specific laboratory grant, KHS grants scholars complete academic and financial independence. Recipients receive full tuition coverage, living allowances covering housing and living costs in the San Francisco Bay Area, books, academic equipment, and dedicated travel grants for three full years.\n\nTo build a competitive candidacy from Bangladesh, applicants must master two independent, synchronized admissions processes: first, securing admission into their target Stanford graduate department (such as Computer Science, Electrical Engineering, or Management Science & Engineering); second, winning selection by the Knight-Hennessy committee. Selection hinges on three core evaluation pillars: Independence of Thought (sharp analytical reasoning and intellectual curiosity), Purposeful Leadership (demonstrated initiative in organizing people to solve systemic problems), and a Civic Mindset (dedication to community and national development).\n\nUndergraduates should immediately begin building their dossier by formalizing research publications, securing concrete recommendations from research advisors, and documenting measurable leadership outcomes (such as collegiate engineering teams, open-source projects, or civic tech initiatives).",
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-10-07",
+        "funding_or_reward": "Fully Funded (Full tuition, generous living stipend, travel & book allowance)",
+        "eligibility": "Graduating seniors or bachelor's degree holders graduated after Jan 2022, open to all nationalities"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Dual-Application Mechanism",
+            "definition": "An admissions process where candidates must independently apply to and be accepted by both a university graduate degree program and a standalone fellowship foundation."
+          },
+          {
+            "term": "King Global Leadership Program (KGLP)",
+            "definition": "The core leadership curriculum of Knight-Hennessy, featuring workshops, executive coaching, and civic development projects."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Stanford University KHS Official Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official administrative website for Stanford Knight-Hennessy admissions.",
+          "original_url": "https://knight-hennessy.stanford.edu/admission",
+          "discussion_or_secondary_url": "https://www.stanford.edu/academics/graduate-degree-programs/"
+        }
+      }
+    },
+    {
+      "id": "opp-mitacs-globalink-research-internship-canada-2027",
+      "topic_slug": "opp-mitacs-globalink-research-internship-canada-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Mitacs Globalink Research Internship (GRI) 2027: Fully Funded 12-Week Undergrad Summer Research in Canada",
+      "summary_points": [
+        "Mitacs has initiated advance project matching announcements for its 2027 Globalink Research Internship across top Canadian institutions (Toronto, UBC, McGill, Waterloo).",
+        "Selected candidates receive full round-trip international airfare, accommodation, a comprehensive living stipend, medical insurance, and direct laboratory placement under Canadian faculty.",
+        "Eligible participants are full-time undergraduate students who have completed at least 2 to 3 years of their bachelor's degree in engineering, physical sciences, or computing."
+      ],
+      "why_it_matters": "Provides a direct, fully funded launchpad to publish peer-reviewed papers in North American research facilities and unlocks post-graduate Mitacs fellowship funding worth up to $15,000 if returning to Canada for Master's or PhD studies.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-09-18",
+        "funding_or_reward": "Fully Funded (Airfare, accommodation, CAD 200/week stipend, health coverage)",
+        "eligibility": "Full-time 2nd/3rd year undergraduate engineering & science students, minimum CGPA 3.50/4.00"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Mitacs Globalink",
+            "definition": "A Canadian national, non-profit research agency that funds international academic collaborations and student research exchanges across Canadian universities."
+          },
+          {
+            "term": "Globalink Graduate Fellowship",
+            "definition": "An exclusive scholarship available only to GRI alumni who choose to return to a Canadian university for master's or doctoral studies."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Mitacs Canada Official Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official Canadian government-partnered national research portal.",
+          "original_url": "https://www.mitacs.ca/our-programs/globalink-research-internship-students/",
+          "discussion_or_secondary_url": "https://www.educanada.ca"
+        }
+      }
+    },
+    {
+      "id": "opp-berc-sreda-clean-energy-grid-fellowship-2027",
+      "topic_slug": "opp-sreda-national-clean-energy-grid-engineering-fellowship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "QUICK_SIGNAL",
+      "headline": "SREDA & Power Division Clean Grid Fellowship 2027: National Traineeship for Electrical & Systems Engineers",
+      "summary_points": [
+        "Sustainable and Renewable Energy Development Authority (SREDA) opens applications for its 6-month Energy Transition & Smart Grid Fellowship in Dhaka.",
+        "Fellows work directly on SCADA integration, rooftop solar wheeling tariffs, and battery energy storage systems (BESS) feasibility studies under senior government power engineers.",
+        "Provides a monthly stipend of BDT 45,000, specialized technical training certifications, and fast-track consideration for public power utility recruitments (BPDB, PGCB, DESCO)."
+      ],
+      "why_it_matters": "Offers immediate hands-on technical exposure to Bangladesh's national grid modernizations, directly positioning graduating engineers from MIST, BUET, and RUET for high-paying roles in the renewable energy and power distribution sector.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-15",
+        "funding_or_reward": "BDT 45,000/month stipend + technical certification",
+        "eligibility": "Final-year or recent engineering graduates (EEE, Mechanical, CSE, Energy Engineering) from recognized Bangladeshi universities"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "BESS (Battery Energy Storage System)",
+            "definition": "Industrial-scale rechargeable battery setups that capture renewable solar/wind generation during peak hours and release it during deficit periods to balance grid frequency."
+          },
+          {
+            "term": "Net Metering Wheeling",
+            "definition": "The administrative mechanism permitting industrial entities to transmit privately generated renewable electricity across public transmission lines to their own factories."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "SREDA Bangladesh Official Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official autonomous statutory body under the Ministry of Power, Energy and Mineral Resources.",
+          "original_url": "http://www.sreda.gov.bd",
+          "discussion_or_secondary_url": "https://powerdivision.gov.bd"
+        }
+      }
+    }
+  ]
+}

@@ -1,125 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
-    "title": "Paraguayan Congress Impeaches and Arrests President Santiago Peña Following Catastrophic Retail Banking Run",
-    "topic_slug": "paraguay-santiago-pena-impeachment-banking-crisis",
-    "timestamp": "2026-11-07T05:31:57.943Z"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-    "title": "Chainalysis Discloses Total Customer Credential and Telemetry Compromise via Autonomous AI Attack Vectors",
-    "topic_slug": "chainalysis-autonomous-agent-telemetry-breach",
-    "timestamp": "2026-11-07T05:31:57.943Z"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
-    "title": "Vessels Loiter Near Critical Subsea Cables Following Escalating Middle East Infrastructure Threats",
-    "topic_slug": "mideast-subsea-cables-maritime-transit-security",
-    "timestamp": "2026-11-07T05:31:57.943Z"
-  },
-  {
-    "url": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres",
-    "title": "Civic Backlash Against AI Infrastructure Mounts as US Municipalities and European Cities Block Data Center Permits",
-    "topic_slug": "hyperscale-datacenter-civic-energy-backlash",
-    "timestamp": "2026-11-07T05:31:57.943Z"
-  },
-  {
-    "url": "https://www.tbsnews.net/economy/bazaar/commodities-continue-be-dearer-328855",
-    "title": "Commerce Ministry Initiates Enforcement on Khatunganj Commodity Syndicates Amid Essential Food Price Spikes",
-    "topic_slug": "bangladesh-khatunganj-commodity-cartel-price-control",
-    "timestamp": "2026-11-07T05:31:57.943Z"
-  },
-  {
-    "url": "https://www.bb.org.bd/en/index.php",
-    "title": "Bangladesh Bank Issues Directives Mandating Full Interoperable 'Bangla QR' Deployment for Micro-Merchants",
-    "topic_slug": "bangladesh-bank-bangla-qr-merchant-interoperability",
-    "timestamp": "2026-11-07T05:31:57.943Z"
-  },
-  {
-    "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
-    "title": "Commercial Satellite Operators Begin Developing Internal Launchers as Space Lift Shortages Worsen",
-    "topic_slug": "ast-spacemobile-blacklift-rocket-launch-scarcity",
-    "timestamp": "2026-11-07T05:31:57.943Z"
-  },
-  {
-    "url": "https://inf.ethz.ch/studies/summer-research-fellowship.html",
-    "title": "ETH Zurich Student Summer Research Fellowship (SSRF) 2027 Opens Applications for Global Undergraduates",
-    "topic_slug": "opp-eth-zurich-student-summer-research-fellowship-2027",
-    "timestamp": "2026-11-07T05:31:57.943Z"
-  },
-  {
-    "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/",
-    "title": "DAAD WISE Fellowship 2027: Funded STEM Research Internships Across German Public Universities",
-    "topic_slug": "opp-daad-wise-research-internship-germany-2027",
-    "timestamp": "2026-11-07T05:31:57.943Z"
-  },
-  {
-    "url": "https://big.gov.bd",
-    "title": "Bangabandhu Innovation Grant (BIG) 2027 Opens Applications for Student Hardware and Software Startups",
-    "topic_slug": "opp-bangabandhu-innovation-grant-national-startup-cohort-2027",
-    "timestamp": "2026-11-07T05:31:57.943Z"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-    "title": "US Senate Prepares Vote on BAAJA Legislation to Overhaul Energy Permitting for Hyperscale AI Datacenters",
-    "topic_slug": "us-senate-baaja-energy-infrastructure-permitting-reform",
-    "timestamp": "2026-11-07T17:39:51.106Z"
-  },
-  {
-    "url": "https://www.bb.org.bd/en/index.php/mediaroom/circular",
-    "title": "Bangladesh Bank Directs Forensic Portfolio Audits Across 14 Distressed NBFIs to Ring-Fence Bad Debt",
-    "topic_slug": "bangladesh-bank-forensic-audit-nbfi-quarantine",
-    "timestamp": "2026-11-07T17:39:51.106Z"
-  },
-  {
-    "url": "https://berc.org.bd/site/view/notices",
-    "title": "BERC Implements Dynamic Monthly Tariff Cost-Pass-Through Formula for Captive Power and Industrial Gas",
-    "topic_slug": "berc-automated-monthly-captive-gas-tariff-adjustment",
-    "timestamp": "2026-11-07T17:39:51.106Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po",
-    "title": "Russian Missile Strikes Knock Out Kyiv Power Grid Ahead of High-Stakes Trilateral Talks in Abu Dhabi",
-    "topic_slug": "ukraine-grid-infrastructure-strikes-diplomacy-abu-dhabi",
-    "timestamp": "2026-11-07T17:39:51.106Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
-    "title": "Tesla Signals Wind-Down of Cybertruck Lines to Reallocate Gigafactory Capacity Toward Cybercab Robotaxis",
-    "topic_slug": "tesla-cybertruck-phaseout-cybercab-autonomous-robotaxi",
-    "timestamp": "2026-11-07T17:39:51.106Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o",
-    "title": "New Zealand General Election Delivers Hung Parliament, Commencing Protracted Coalition Negotiations",
-    "topic_slug": "new-zealand-general-election-deadlock-coalition",
-    "timestamp": "2026-11-07T17:39:51.106Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o",
-    "title": "Italian Foreign Ministry Data Compromised in Coordinated Pro-Russian Hybrid Cyber Incursion",
-    "topic_slug": "italy-foreign-ministry-cyberattack-data-leak",
-    "timestamp": "2026-11-07T17:39:51.106Z"
-  },
-  {
-    "url": "https://www.ntu.edu.sg/education/student-exchanges/summer-research-internship-(sri)",
-    "title": "NTU Singapore Summer Research Internship (SRI) 2027: Funded 8-Week Global STEM Cohort",
-    "topic_slug": "opp-ntu-singapore-summer-research-internship-2027",
-    "timestamp": "2026-11-07T17:39:51.106Z"
-  },
-  {
-    "url": "https://admission.kaist.ac.kr/intl-graduate/scholarships",
-    "title": "KAIST Graduate International Scholarship Cohort Fall 2027: Full Tuition and Research Stipend Call",
-    "topic_slug": "opp-kaist-international-graduate-scholarship-fall-2027",
-    "timestamp": "2026-11-07T17:39:51.106Z"
-  },
-  {
-    "url": "https://bhtpa.gov.bd/notices",
-    "title": "BHTPA & EDGE Project Announce National VLSI and Embedded Hardware Fellowship 2027",
-    "topic_slug": "opp-bhtpa-edge-vlsi-embedded-hardware-fellowship-2027",
-    "timestamp": "2026-11-07T17:39:51.106Z"
-  },
-  {
     "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo",
     "title": "Israel Power Shift: President Herzog Taps Opposition's Eisenkot to Form Government as Netanyahu Bloc Falls Short",
     "topic_slug": "israel-herzog-taps-eisenkot-coalition-stalemate-netanyahu",
@@ -598,5 +478,65 @@
     "title": "Ministry of Science and Technology: National Science & Technology (NST) Fellowships 2026-2027",
     "topic_slug": "most-bangladesh-national-science-technology-fellowship-2027",
     "timestamp": "2026-11-19T20:20:37.725Z"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
+    "title": "US Threatens Export & Capital Ban on Tech Giants Building Hyperscale AI Data Centers Overseas",
+    "topic_slug": "white-house-proposed-ban-us-ai-data-centers-overseas",
+    "timestamp": "2026-11-21T18:57:50.033Z"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY3JlX1Q4VXpOM1lnZ2s3aUdnSmxhOExuMl9PUlVwSUpZclY1R3RSb04wdzljcmNaQzJoOENYYmxCQ2tLaXpma2RhQ3hHeWdwYURDN2ZBaGxYT0k5MkEyVDFubm5GX2FfYWVsd2Q0VkQwTWh6X2x0SF9qZS1kWW8za2Nod0I2QV9DQlVsSHpjRnhRN3ZaUWNjb1dpRHYzdw",
+    "title": "UN Geneva Talks on Regulating AI 'Killer Robots' Collapse into Four-Year Deferral to 2028",
+    "topic_slug": "un-autonomous-weapons-convention-gridlock-geneva",
+    "timestamp": "2026-11-21T18:57:50.033Z"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "title": "Cybersecurity Audit of 2M 'Canary Tokens' Exposes Widespread Enterprise Data Leaks Across AI Supply Chains",
+    "topic_slug": "ai-supply-chain-canary-token-data-leak-vulnerability",
+    "timestamp": "2026-11-21T18:57:50.033Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "title": "METR Benchmark Update Reveals Divergence: Exponential Gains in Code Synthesis, Plateau in Strategic Judgment",
+    "topic_slug": "metr-ai-evaluation-coding-exponential-vs-judgment-plateau",
+    "timestamp": "2026-11-21T18:57:50.033Z"
+  },
+  {
+    "url": "https://www.tbsnews.net",
+    "title": "Bangladesh Bank Tightens Offshore FX Verification, Mandating Real-Time Forensic Clearing for Import LCs Above $50k",
+    "topic_slug": "bangladesh-bank-mandatory-pre-import-lc-verification-forex",
+    "timestamp": "2026-11-21T18:57:50.033Z"
+  },
+  {
+    "url": "https://www.thedailystar.net/business",
+    "title": "NBR Gazette Mandates 100% Digital e-Return Filing for Salaried Citizens, Phasing Out Paper Tax Submissions",
+    "topic_slug": "nbr-bangladesh-mandatory-universal-ereturn-digital-tax-2026",
+    "timestamp": "2026-11-21T18:57:50.033Z"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE",
+    "title": "Maritime Drone Strike Hits Russia-Bound Bulk Cargo Vessel in Gulf of Finland, Escalating Baltic Flashpoint",
+    "topic_slug": "gulf-of-finland-drone-strike-russian-freighter-maritime-security",
+    "timestamp": "2026-11-21T18:57:50.033Z"
+  },
+  {
+    "url": "https://knight-hennessy.stanford.edu/admission",
+    "title": "Knight-Hennessy Scholars Program 2027 at Stanford University: Fully Funded Graduate Fellowship Across All Disciplines",
+    "topic_slug": "opp-knight-hennessy-scholars-stanford-university-2027",
+    "timestamp": "2026-11-21T18:57:50.033Z"
+  },
+  {
+    "url": "https://www.mitacs.ca/our-programs/globalink-research-internship-students/",
+    "title": "Mitacs Globalink Research Internship (GRI) 2027: Fully Funded 12-Week Undergrad Summer Research in Canada",
+    "topic_slug": "opp-mitacs-globalink-research-internship-canada-2027",
+    "timestamp": "2026-11-21T18:57:50.033Z"
+  },
+  {
+    "url": "http://www.sreda.gov.bd",
+    "title": "SREDA & Power Division Clean Grid Fellowship 2027: National Traineeship for Electrical & Systems Engineers",
+    "topic_slug": "opp-sreda-national-clean-energy-grid-engineering-fellowship-2027",
+    "timestamp": "2026-11-21T18:57:50.033Z"
   }
 ]
