@@ -1,245 +1,5 @@
 [
   {
-    "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo",
-    "title": "Israel Power Shift: President Herzog Taps Opposition's Eisenkot to Form Government as Netanyahu Bloc Falls Short",
-    "topic_slug": "israel-herzog-taps-eisenkot-coalition-stalemate-netanyahu",
-    "timestamp": "2026-11-08T05:33:22.800Z"
-  },
-  {
-    "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes",
-    "title": "IRGC Lifts Ballistic Missile Range Caps as US Forms Inter-Agency Land Transit Interdiction Task Force",
-    "topic_slug": "us-iran-missile-range-cap-lifted-corridor-taskforce",
-    "timestamp": "2026-11-08T05:33:22.800Z"
-  },
-  {
-    "url": "https://www.bb.org.bd/en/index.php",
-    "title": "Bangladesh Bank Slashes LC Margins to 0% for Essential Food Imports, Re-anchors Crawling Peg at 122.50 BDT/USD",
-    "topic_slug": "bangladesh-bank-crawling-peg-fx-band-lc-margin-slash",
-    "timestamp": "2026-11-08T05:33:22.800Z"
-  },
-  {
-    "url": "https://powerdivision.gov.bd/",
-    "title": "BPDB and Power Division Roll Out Dynamic Time-of-Use Smart Metering to Relieve Winter Grid Gas Deficit",
-    "topic_slug": "bpdb-time-of-use-industrial-smart-tariff-pilot",
-    "timestamp": "2026-11-08T05:33:22.800Z"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
-    "title": "$11.4M in High-Density Nvidia Enterprise AI Hardware Disappears in Transit Between Oakland and Texas",
-    "topic_slug": "nvidia-gpu-transit-heist-california-texas-grey-market",
-    "timestamp": "2026-11-08T05:33:22.800Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
-    "title": "Deadly Krakow Shooting Declared Domestic Terror; Poland Intensifies Schengen Internal Border Controls",
-    "topic_slug": "poland-krakow-shooting-schengen-security-alert",
-    "timestamp": "2026-11-08T05:33:22.800Z"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-    "title": "Autonomous Multi-Agent Enterprise Handoffs Create Unmonitored Data Exfiltration Vectors",
-    "topic_slug": "agentic-ai-enterprise-data-lineage-perimeter-risk",
-    "timestamp": "2026-11-08T05:33:22.800Z"
-  },
-  {
-    "url": "https://www.gatescambridge.org/apply/",
-    "title": "Call for Applications: Gates Cambridge Scholarship 2027/2028 (Fully Funded Master's & PhD at Cambridge)",
-    "topic_slug": "opp-gates-cambridge-scholarship-fellowship-2027",
-    "timestamp": "2026-11-08T05:33:22.800Z"
-  },
-  {
-    "url": "https://careers.cern/summer",
-    "title": "CERN Summer Student Programme 2027 in Geneva: Fully Funded Particle Physics & Computing Fellowships",
-    "topic_slug": "opp-cern-summer-student-programme-geneva-2027",
-    "timestamp": "2026-11-08T05:33:22.800Z"
-  },
-  {
-    "url": "https://www.btrc.gov.bd",
-    "title": "BTRC & National Research Council Launch Telecom Signal Processing & Embedded Systems Fellowships",
-    "topic_slug": "opp-btrc-telecom-rnd-embedded-fellowship-bangladesh-2027",
-    "timestamp": "2026-11-08T05:33:22.800Z"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnVZQXBkYXFpSEd2Mk9LUnNxNTRRaVFWaVREQ1NxeXI0enROaGVMX1RKc041WWtaLU9hYjVQSGxLZHlyNUItaWxSRVB3a3lkMWZ5eDFuM3RhYTgzSy03cmVTZGZ2QlB6NTNNTERfRG01Uk1aV0pJUFMzd1BmSURQWnhfcFlNRUxVbjJNbXV2MA",
-    "title": "Saudi Aramco Tower Damaged in Riyadh Financial Hub Following Direct Houthi Missile Strike",
-    "topic_slug": "saudi-aramco-tower-riyadh-missile-strike",
-    "timestamp": "2026-11-08T17:50:22.396Z"
-  },
-  {
-    "url": "https://spectrum.ieee.org/mmx-mission-to-phobos",
-    "title": "Engineering JAXA's MMX: How Autonomous Systems Will Land and Sample Mars's Microgravity Moon Phobos",
-    "topic_slug": "ieee-mmx-mission-phobos-low-gravity-engineering",
-    "timestamp": "2026-11-08T17:50:22.396Z"
-  },
-  {
-    "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
-    "title": "Condensed Matter Physics Milestone: Electrical 'Shot Noise' Unlocks Superconducting Cooper Pair Detection",
-    "topic_slug": "ars-shot-noise-superconductor-pair-spectroscopy",
-    "timestamp": "2026-11-08T17:50:22.396Z"
-  },
-  {
-    "url": "https://today.thefinancialexpress.com.bd",
-    "title": "NBR Mandates 100% Digital e-Return Filing for Corporate, Salaried, and Commercial Taxpayers",
-    "topic_slug": "nbr-digital-e-return-mandatory-gazette-audit",
-    "timestamp": "2026-11-08T17:50:22.396Z"
-  },
-  {
-    "url": "https://www.tbsnews.net",
-    "title": "Bangladesh Bank Tightens Repo Access as 364-Day Treasury Bill Yields Consolidate Near 12.4%",
-    "topic_slug": "bangladesh-bank-interbank-liquidity-treasury-spread",
-    "timestamp": "2026-11-08T17:50:22.396Z"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-    "title": "Commercial Humanoid Deployment Shifts from Scripted Kinematics to End-to-End Neural Actuation",
-    "topic_slug": "mit-humanoid-robotics-end-to-end-neural-actuation",
-    "timestamp": "2026-11-08T17:50:22.396Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o",
-    "title": "UK Mandates Published Salary Bands in Job Listings Ahead of Statutory Pay Transparency Legislation",
-    "topic_slug": "uk-mandatory-salary-transparency-labor-legislation",
-    "timestamp": "2026-11-08T17:50:22.396Z"
-  },
-  {
-    "url": "https://www.schwarzmanscholars.org/admissions/",
-    "title": "Schwarzman Scholars 2027–2028: Fully Funded Master's Fellowship in Global Affairs at Tsinghua University",
-    "topic_slug": "opp-schwarzman-scholars-tsinghua-fellowship-2027",
-    "timestamp": "2026-11-08T17:50:22.396Z"
-  },
-  {
-    "url": "https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs/mext",
-    "title": "MEXT University Recommendation: Fully Funded Graduate Research Fellowships at Institute of Science Tokyo (Tokyo Tech)",
-    "topic_slug": "opp-tokyo-tech-mext-graduate-engineering-2027",
-    "timestamp": "2026-11-08T17:50:22.396Z"
-  },
-  {
-    "url": "https://ictd.gov.bd",
-    "title": "Bangladesh ICT Division Announces Call for Smart Energy & IoT Grid Automation Research Grants",
-    "topic_slug": "opp-bangladesh-ict-division-iot-smart-grid-grant-2026",
-    "timestamp": "2026-11-08T17:50:22.396Z"
-  },
-  {
-    "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-    "title": "Nvidia Shares Plunge as Board Probes CEO Jensen Huang Over Counter-Espionage Breach With Alleged Chinese Intelligence Operative",
-    "topic_slug": "nvidia-huang-espionage-investigation-market-shock",
-    "timestamp": "2026-11-09T22:10:38.957Z"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-    "title": "Active Zero-Day Vulnerability Targeting Linux SSH Daemons Detected Across Enterprise Infrastructure",
-    "topic_slug": "linux-ssh-critical-remote-vulnerability-alert",
-    "timestamp": "2026-11-09T22:10:38.957Z"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-    "title": "Developer Workflow Alert: Claude Code Client Configurations Found Exposing Sensitive API Keys and Passwords Publicly on GitHub",
-    "topic_slug": "claude-code-credential-leakage-github-audit",
-    "timestamp": "2026-11-09T22:10:38.957Z"
-  },
-  {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action",
-    "title": "COP31 Opens in Turkey Under Geopolitical Energy Friction and Grid Reliability Bottlenecks",
-    "topic_slug": "cop31-climate-summit-energy-transition-turkey",
-    "timestamp": "2026-11-09T22:10:38.957Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo",
-    "title": "France Accuses Iranian State Hackers of Coordinated Industrial IoT Cyberattack on Supermarket Cold Chains",
-    "topic_slug": "france-iran-iot-supply-chain-cyberattack",
-    "timestamp": "2026-11-09T22:10:38.957Z"
-  },
-  {
-    "url": "https://www.tbsnews.net/economy/banking",
-    "title": "National Civic & Policy Brief: Bangladesh Bank Enforces Stricter Real-Time Cross-Border Settlement Audits to Shield Net Reserves",
-    "topic_slug": "bangladesh-bank-forex-reserves-settlement-audit-policy",
-    "timestamp": "2026-11-09T22:10:38.957Z"
-  },
-  {
-    "url": "https://www.tbsnews.net/bangladesh/energy",
-    "title": "National Civic & Policy Brief: Energy Ministry Issues Staggered Load Gazette for Export Processing Zones and Captive Power Plants",
-    "topic_slug": "bangladesh-energy-rationing-captive-power-gazette",
-    "timestamp": "2026-11-09T22:10:38.957Z"
-  },
-  {
-    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=1&origin=68&subjectGrps=&daad=&q=wise",
-    "title": "Actionable Global Opportunity: DAAD Working Internships in Science and Engineering (WISE) Germany 2027 Open for Applications",
-    "topic_slug": "opp-daad-wise-undergraduate-research-germany-2027",
-    "timestamp": "2026-11-09T22:10:38.957Z"
-  },
-  {
-    "url": "https://openlab.cern/education/summer-student-programme",
-    "title": "Actionable Global Opportunity: CERN openlab Summer Student Programme 2027 in Geneva Opens for Computing & Hardware Engineers",
-    "topic_slug": "opp-cern-openlab-computing-summer-student-2027",
-    "timestamp": "2026-11-09T22:10:38.957Z"
-  },
-  {
-    "url": "https://ictd.gov.bd/site/view/fellowship_and_grants",
-    "title": "Actionable Local Opportunity: Bangladesh ICT Division Announces National R&D Grants for Advanced AI & Microelectronics Research",
-    "topic_slug": "opp-bangladesh-ict-division-research-fellowship-2027",
-    "timestamp": "2026-11-09T22:10:38.957Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo",
-    "title": "Anthropic Sets Terms for Public Listing at $1.3 Trillion Valuation Benchmark Amid Systemic Safety Reckoning",
-    "topic_slug": "anthropic-claude-ipo-market-debut-2026",
-    "timestamp": "2026-11-11T05:40:36.324Z"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-    "title": "Grok Build Coding Agent Exposed 35,000 Live Enterprise Workspaces and Infrastructure Keys",
-    "topic_slug": "grok-build-coding-agent-credential-leakage-2026",
-    "timestamp": "2026-11-11T05:40:36.324Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo",
-    "title": "US Unseals Indictments Against Iran-Backed Operatives Targeting RAF Fairford Airbase Operations",
-    "topic_slug": "us-justice-iran-raf-fairford-plot-indictment",
-    "timestamp": "2026-11-11T05:40:36.324Z"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko",
-    "title": "Dhaka Deploys Joint Security Formations as Ousted Regime Loyalists Mobilize Street Agitations",
-    "topic_slug": "bangladesh-interim-security-mobilization-dhaka-protests",
-    "timestamp": "2026-11-11T05:40:36.324Z"
-  },
-  {
-    "url": "https://mpemr.gov.bd",
-    "title": "Energy Ministry Gazettes Cost-Reflective Gas Pricing Framework for Independent Power Producers",
-    "topic_slug": "bangladesh-power-division-gas-tariff-restructuring-ipp",
-    "timestamp": "2026-11-11T05:40:36.324Z"
-  },
-  {
-    "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
-    "title": "Pentagon Issues Urgent Warning Over Severe Orbital Heavy-Lift Launch Bottleneck",
-    "topic_slug": "us-pentagon-space-launch-capacity-crunch-2026",
-    "timestamp": "2026-11-11T05:40:36.324Z"
-  },
-  {
-    "url": "https://www.washingtonpost.com/world/2026/11/11/israel-knesset-netanyahu-eisenkot-government/",
-    "title": "Israel's 26th Knesset Sworn In as Opposition Leader Eisenkot Moves to Form Alternative Government",
-    "topic_slug": "israel-knesset-eisenkot-netanyahu-power-struggle",
-    "timestamp": "2026-11-11T05:40:36.324Z"
-  },
-  {
-    "url": "https://ethz.ch/en/studies/non-degree-courses/summer-schools.html",
-    "title": "ETH Zurich Robotics Systems Summer Fellowship 2027: Fully Funded Elite Research Residency in Switzerland",
-    "topic_slug": "opp-eth-zurich-robotics-systems-summer-fellowship-2027",
-    "timestamp": "2026-11-11T05:40:36.324Z"
-  },
-  {
-    "url": "https://www.a-star.edu.sg/scholarships/for-graduate-studies/a-star-computing-and-information-science-scholarship",
-    "title": "Singapore A*STAR Computing and Information Science (ACIS) PhD Scholarship 2027",
-    "topic_slug": "opp-astar-singapore-acis-computing-fellowship-2027",
-    "timestamp": "2026-11-11T05:40:36.324Z"
-  },
-  {
-    "url": "https://www.biman-airlines.com/career",
-    "title": "Biman Bangladesh Airlines & CAAB Graduate Avionics & Radar Systems Traineeship 2027",
-    "topic_slug": "opp-biman-caab-avionics-telemetry-trainee-2027",
-    "timestamp": "2026-11-11T05:40:36.324Z"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWdyUWhPQnRiR210eElwazFOZ2pyWWgxN2FWX09VU0ZSZUpFcVlweFllV2E4aF9CcXpwQkhybkVzMjkwdTBOY3JTRFBXdlZBOXVvU2l5cjBKX1Znel9XR2JJb0gwbVlQOV9TenpJUkY2ZG1YcXEtRWdNWTQ0MDJTM3pQdnRHSkE0WXlWQjA5Y2JXQkpUN2hoSkkyTXhrTE1FdnUyblFjWDdqWHZTMGM1LVU4V2oxZnpqZzBj",
     "title": "Moscow Accepts European Ingress into US-Brokered Ukraine Peace Framework",
     "topic_slug": "us-russia-europe-peace-talks-framework",
@@ -538,5 +298,65 @@
     "title": "SREDA & Power Division Clean Grid Fellowship 2027: National Traineeship for Electrical & Systems Engineers",
     "topic_slug": "opp-sreda-national-clean-energy-grid-engineering-fellowship-2027",
     "timestamp": "2026-11-21T18:57:50.033Z"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWM5Vm8yZ0dtNTRyRFIxYjc0R3ZZMEwxeGNsT0dUWXV6STNtU2VXN0tkY1ROZHdWVkpwWHF3NXpQMk16SS1TU2VwVUJSSUtpek9FcHVmNE80eTBjNzFqdHVIa2NHSUp1WHBXRWZDMEFKUHJfNVB5cHZGT0JCUng0cktmRXowWVd4T0JyZ1RzQW5ubTk0OUZHSE11aDE0SkJjZENuelpNOGExSXMyc2dDNDNB?oc=5",
+    "title": "United States Imposes Sweeping New Tariffs on China and EU Citing Industrial Overcapacity",
+    "topic_slug": "us-sweeping-tariffs-china-eu-overcapacity-trade-war",
+    "timestamp": "2026-11-25T21:28:10.382Z"
+  },
+  {
+    "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+    "title": "FCC Authorizes SpaceX Constellation Expansion Toward Massive Orbital Scale",
+    "topic_slug": "fcc-spacex-one-million-satellite-authorization-constellation",
+    "timestamp": "2026-11-25T21:28:10.382Z"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
+    "title": "Tech Equities Slide as Markets Scrutinize Hyperscaler AI Infrastructure Returns",
+    "topic_slug": "nasdaq-ai-capex-correction-hyperscaler-roi-scrutiny",
+    "timestamp": "2026-11-25T21:28:10.382Z"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
+    "title": "US Jury Convicts Huawei of Intellectual Property Theft and Sanctions Violations",
+    "topic_slug": "us-jury-convicts-huawei-cisco-tmobile-trade-secrets",
+    "timestamp": "2026-11-25T21:28:10.382Z"
+  },
+  {
+    "url": "https://www.tbsnews.net/economy/bazaar/commodities-continue-be-dearer-328855",
+    "title": "Commerce Ministry Slashes Import Duties and Steps Up Monitoring to Curb Essential Food Inflation",
+    "topic_slug": "bangladesh-commerce-ministry-essential-commodities-duty-cut-inflation",
+    "timestamp": "2026-11-25T21:28:10.382Z"
+  },
+  {
+    "url": "https://mpemr.gov.bd",
+    "title": "Petrobangla & BERC Finalize Winter Natural Gas Allocation Framework for National Grid",
+    "topic_slug": "petrobangla-berc-winter-gas-rationing-industrial-captive-power",
+    "timestamp": "2026-11-25T21:28:10.382Z"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+    "title": "Kagi Launches Privacy-Centric Email Platform to Challenge Big Tech Monopolies",
+    "topic_slug": "kagi-launches-privacy-first-encrypted-email-ecosystem",
+    "timestamp": "2026-11-25T21:28:10.382Z"
+  },
+  {
+    "url": "https://careers.cern/summer-student-programme",
+    "title": "CERN Summer Student Programme 2027: Fully Funded Research Fellowship in Geneva",
+    "topic_slug": "opp-cern-summer-student-programme-switzerland-2027",
+    "timestamp": "2026-11-25T21:28:10.382Z"
+  },
+  {
+    "url": "https://www.r-ccs.riken.jp/en/careers/internship/",
+    "title": "RIKEN Center for Computational Science (R-CCS) International Summer Internship 2027",
+    "topic_slug": "opp-riken-summer-student-internship-japan-2027",
+    "timestamp": "2026-11-25T21:28:10.382Z"
+  },
+  {
+    "url": "https://idea.gov.bd",
+    "title": "ICT Division iDEA Project Innovation Grant Call 2027: BDT 10 Lakh Seed Grant for Tech Startups",
+    "topic_slug": "opp-bangladesh-ict-division-idea-innovation-grant-2027",
+    "timestamp": "2026-11-25T21:28:10.382Z"
   }
 ]

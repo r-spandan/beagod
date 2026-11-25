@@ -1,0 +1,399 @@
+{
+  "edition_id": "2026-11-25-AM",
+  "generated_at_utc": "2026-11-25T21:28:10.382Z",
+  "generated_at_bst": "11/26/2026, 3:28:10 AM BST",
+  "edition_shift": "MORNING_0600_BST",
+  "executive_pulse": "Washington escalates trade barriers with aggressive new tariffs on China and the EU citing manufacturing overcapacity, triggering sharp Wall Street volatility across hyperscaler AI valuations. Domestically, Dhaka rolls out targeted duty exemptions and strict supply-chain monitoring to mitigate essential food commodity spikes ahead of the winter fiscal quarter.",
+  "stats": {
+    "total_items": 10,
+    "news_count": 7,
+    "opportunities_count": 3,
+    "sources_scanned": 133
+  },
+  "items": [
+    {
+      "id": "item-20261125-01",
+      "topic_slug": "us-sweeping-tariffs-china-eu-overcapacity-trade-war",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "United States Imposes Sweeping New Tariffs on China and EU Citing Industrial Overcapacity",
+      "summary_points": [
+        "The United States has unveiled aggressive tariff hikes targeting fourteen major trading partners, with headline punitive duties aimed directly at Chinese clean-tech, machinery, and selected European industrial exports.",
+        "The White House and U.S. Trade Representative justified the measures by citing state-subsidized manufacturing overcapacity that deflates global pricing and threatens domestic American industrial re-shoring.",
+        "European and Asian trade ministries warned of retaliatory countermeasures, sparking renewed concern over stagflationary supply chain friction and maritime shipping cost surges."
+      ],
+      "why_it_matters": "For Bangladesh, aggressive tariff fragmentation between the West, China, and the EU presents both acute risks and tactical opportunities. If Chinese manufacturing goods are blocked from Western markets, Beijing will aggressively dump secondary intermediate goods and electronics into South and Southeast Asia, squeezing domestic light manufacturing. Conversely, Western buyers seeking to diversify supply chains away from tariff-hit markets will redirect additional garment, textile, and light engineering procurement toward Bangladesh, provided domestic factories maintain steady energy and foreign exchange logistics.",
+      "deep_dive_analysis": "The latest tranche of U.S. tariffs marks a structural turning point from targeted anti-dumping actions to an open economic containment doctrine. By explicitly citing structural 'industrial overcapacity', Washington is penalizing foreign economic models reliant on government capital allocation—specifically China's state-backed scaling of solar cells, batteries, electric vehicles, and legacy-node semiconductors. Crucially, extending these measures to European industrial exports signals that U.S. protectionism is expanding beyond bilateral rivalry into a broad perimeter defense of American domestic re-industrialization.\n\nThe transmission mechanism into developing economies is immediate. Multinationals operating on high-volume, low-margin arbitrage must re-evaluate global supply routings. When tariff barriers abruptly rise on primary producer hubs, trade flows deflect: Chinese industrial capacity searches for alternative export destinations across non-aligned Global South markets, exerting deflationary pressure on local manufacturing in markets like Bangladesh, India, and Vietnam. Concurrently, freight container rates typically spike as supply chains frantically front-load shipments before enforcement deadlines.\n\nOver the medium horizon, this escalates currency and macroeconomic fragility across emerging markets. Tariff-induced import price stickiness in the U.S. restricts the Federal Reserve from initiating aggressive interest rate reductions, preserving strong U.S. Dollar liquidity premiums. For Bangladesh Bank, this prolongs the difficulty of replenishing foreign exchange reserves and maintaining stable Taka valuation, making imported raw materials and capital machinery for Bangladeshi infrastructure projects continuously dearer.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Industrial Overcapacity",
+            "definition": "A condition where a nation's factory production capacity vastly exceeds domestic consumer demand, forcing companies to export surplus goods abroad at ultra-low or subsidized prices."
+          },
+          {
+            "term": "Trade Deflection",
+            "definition": "The rerouting of exports toward secondary, tariff-free international markets after high tariffs block their entry into their primary target destination."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Bloomberg",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Verified by parallel reports from BBC Business, Reuters, and the New York Times.",
+          "original_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWM5Vm8yZ0dtNTRyRFIxYjc0R3ZZMEwxeGNsT0dUWXV6STNtU2VXN0tkY1ROZHdWVkpwWHF3NXpQMk16SS1TU2VwVUJSSUtpek9FcHVmNE80eTBjNzFqdHVIa2NHSUp1WHBXRWZDMEFKUHJfNVB5cHZGT0JCUng0cktmRXowWVd4T0JyZ1RzQW5ubTk0OUZHSE11aDE0SkJjZENuelpNOGExSXMyc2dDNDNB?oc=5",
+          "discussion_or_secondary_url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o"
+        }
+      }
+    },
+    {
+      "id": "item-20261125-02",
+      "topic_slug": "fcc-spacex-one-million-satellite-authorization-constellation",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "FCC Authorizes SpaceX Constellation Expansion Toward Massive Orbital Scale",
+      "summary_points": [
+        "The Federal Communications Commission (FCC) has granted regulatory clearances allowing SpaceX to expand low-Earth orbit deployment frameworks targeting up to one million satellite nodes and ground transceiver links over successive phases.",
+        "The authorization covers direct-to-cellular capabilities, gigabit satellite backhaul, and next-generation V-band and Ku/Ka-band spectrum allocations.",
+        "Astronomical consortiums and orbital debris monitoring agencies have raised urgent questions regarding orbital slot saturation, collision management algorithms, and radio-astronomy interference."
+      ],
+      "why_it_matters": "For telecom and electrical engineers in Bangladesh, this massive scaling accelerates the death of traditional cellular 'dead zones'. As direct-to-cell satellite constellations mature, rural and disaster-prone coastal belts like the Sundarbans and Haor basins will bypass multimillion-dollar terrestrial microwave tower infrastructure. Understanding non-terrestrial networks (NTN), satellite phased-array antenna design, and orbital spectrum engineering will become prime high-value skill sets for telecom graduates.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Direct-to-Cell",
+            "definition": "Satellite technology that allows standard, unmodified LTE/5G smartphones on the ground to connect directly to satellites in orbit without proprietary satellite dishes."
+          },
+          {
+            "term": "Non-Terrestrial Networks (NTN)",
+            "definition": "Telecommunication systems that use spaceborne (satellites) or airborne platforms instead of land-based cell towers to transmit mobile data."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica Space",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Specialized aerospace reporting citing official FCC filings and spectrum authorization dockets.",
+          "original_url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+          "discussion_or_secondary_url": "https://www.fcc.gov"
+        }
+      }
+    },
+    {
+      "id": "item-20261125-03",
+      "topic_slug": "nasdaq-ai-capex-correction-hyperscaler-roi-scrutiny",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Tech Equities Slide as Markets Scrutinize Hyperscaler AI Infrastructure Returns",
+      "summary_points": [
+        "The Nasdaq dropped nearly 4% as institutional investors sold down major semiconductor and cloud infrastructure equities amid mounting skepticism over enterprise AI revenue realization.",
+        "Despite hundreds of billions committed to GPU clusters and specialized data center power infrastructure, monetization metrics from downstream corporate AI deployments continue to lag capital expenditure guidance.",
+        "Hedge funds and asset managers are rotating capital into defensive utilities, energy infrastructure, and cash-flow-positive legacy industrials."
+      ],
+      "why_it_matters": "This market recalibration signals the transition of AI from speculative hype to ruthless utility: venture capital will no longer fund wrapper startups that lack defensible unit economics. For software engineers and computer science students at MIST, mastering surface-level API calls is no longer a viable career moat. Value is shifting rapidly to systems engineering, on-device model optimization (quantization, edge-inference), and tangible enterprise data pipeline architecture.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Capex (Capital Expenditure)",
+            "definition": "Funds used by a company to acquire, upgrade, and maintain physical assets such as data centers, servers, and power plants."
+          },
+          {
+            "term": "Hyperscaler",
+            "definition": "Massive cloud and internet service providers (such as Microsoft Azure, AWS, and Google Cloud) capable of scaling computing infrastructure exponentially."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC Business & Finance",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Consensus wire reporting across London and New York financial desks.",
+          "original_url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
+          "discussion_or_secondary_url": "https://www.bloomberg.com/markets"
+        }
+      }
+    },
+    {
+      "id": "item-20261125-04",
+      "topic_slug": "us-jury-convicts-huawei-cisco-tmobile-trade-secrets",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "US Jury Convicts Huawei of Intellectual Property Theft and Sanctions Violations",
+      "summary_points": [
+        "A U.S. federal jury has found Chinese telecom giant Huawei guilty of criminal trade secret theft involving T-Mobile's testing robot technology and Cisco router source codes, alongside sanctions evasion.",
+        "The verdict concludes a multi-year Department of Justice prosecution, establishing formal legal precedent for severe institutional penalties and extended export-control blacklists.",
+        "The ruling cements the complete decoupling of Western and Chinese networking stacks, forcing global telecom carriers to make permanent architectural commitments between competing standards."
+      ],
+      "why_it_matters": "Bangladesh's national digital infrastructure—including 4G backbones, submarine cable terminal equipment, and preliminary 5G trials—relies heavily on cost-effective Huawei and ZTE telecommunication hardware. As legal and geopolitical enforcement tightens, Western tech vendors and international financial institutions will increasingly condition multilateral aid and concessional loans on strict supply chain sanitization, putting pressure on Bangladeshi mobile network operators to navigate complex hardware bifurcations.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Trade Secret Theft",
+            "definition": "The unlawful acquisition or misappropriation of confidential commercial information or proprietary source code that provides an enterprise with a competitive edge."
+          },
+          {
+            "term": "Dual-Use Technology",
+            "definition": "Hardware, software, or components developed for civilian commercial purposes that can also be repurposed for military or intelligence applications."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica Tech Policy",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Direct coverage of U.S. Department of Justice federal district court proceedings.",
+          "original_url": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
+          "discussion_or_secondary_url": "https://www.justice.gov"
+        }
+      }
+    },
+    {
+      "id": "item-20261125-05",
+      "topic_slug": "bangladesh-commerce-ministry-essential-commodities-duty-cut-inflation",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Commerce Ministry Slashes Import Duties and Steps Up Monitoring to Curb Essential Food Inflation",
+      "summary_points": [
+        "The Ministry of Commerce, in coordination with the National Board of Revenue (NBR), has issued an immediate regulatory order slashing customs duties and advance income taxes on pulses, edible oil, and sugar.",
+        "The intervention follows persistent retail market inflation across wholesale hubs like Chattogram's Khatunganj and Dhaka's Kawran Bazar, where pulses and staple commodities rose by Tk 5 to Tk 10 per kilogram despite stable global booking prices.",
+        "Directorate of National Consumer Rights Protection (DNCRP) teams have been deployed with executive magistracy powers to penalize artificial hoarding, price syndication, and unrecorded supply bottlenecks."
+      ],
+      "why_it_matters": "Food inflation directly erodes real household purchasing power in Bangladesh, squeezing student budgets, family living costs, and disposable income. The tariff slash and market raids are designed to prevent speculative middlemen from using currency fluctuations as a pretext to inflate food bills. For citizens, understanding how import duty reductions affect retail shelves helps demystify daily cost-of-living mechanics.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Advance Income Tax (AIT)",
+            "definition": "A tax collected upfront by the revenue authority at the port of entry when commercial goods are imported, which directly affects the landed retail price."
+          },
+          {
+            "term": "Syndication",
+            "definition": "An informal or illegal cartel arrangement between major wholesale importers who artificially restrict market supply to drive up consumer prices."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Business Standard (TBS)",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Field-verified domestic wholesale and retail commodity reporting across Chattogram and Dhaka markets.",
+          "original_url": "https://www.tbsnews.net/economy/bazaar/commodities-continue-be-dearer-328855",
+          "discussion_or_secondary_url": "https://mincom.gov.bd"
+        }
+      }
+    },
+    {
+      "id": "item-20261125-06",
+      "topic_slug": "petrobangla-berc-winter-gas-rationing-industrial-captive-power",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Petrobangla & BERC Finalize Winter Natural Gas Allocation Framework for National Grid",
+      "summary_points": [
+        "Petrobangla and the Bangladesh Energy Regulatory Commission (BERC) have established a revised seasonal gas allocation matrix prioritizing domestic urea fertilizer factories and national power generation over private captive power units.",
+        "With European and Asian spot LNG prices fluctuating due to winter heating demand, Bangladesh is rationing LNG spot purchases to preserve central bank foreign exchange reserves.",
+        "Industrial textile and export manufacturing zones in Gazipur, Savar, and Narayanganj will receive scheduled low-pressure windows, prompting industry demands for accelerated domestic gas field workovers."
+      ],
+      "why_it_matters": "Energy rationing directly impacts Bangladesh's industrial output and export delivery schedules. For engineers and citizens, gas pressure drops mean lower power generation capacity, occasional load shedding, and higher operating costs for factories that must run diesel backup generators. This highlights the critical imperative for Bangladesh to speed up renewable integration and improve industrial energy efficiency.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Captive Power Plant",
+            "definition": "A dedicated on-site electricity generation facility built by an industrial factory to secure its own power supply independent of the national grid."
+          },
+          {
+            "term": "Workover",
+            "definition": "Complex maintenance and technical remediation performed on an existing oil or gas well to restore or increase its hydrocarbon production rate."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ministry of Power, Energy & Mineral Resources",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Official statutory guidelines and reporting cross-verified with TBS and Energy & Power Bangladesh.",
+          "original_url": "https://mpemr.gov.bd",
+          "discussion_or_secondary_url": "https://www.petrobangla.org.bd"
+        }
+      }
+    },
+    {
+      "id": "item-20261125-07",
+      "topic_slug": "kagi-launches-privacy-first-encrypted-email-ecosystem",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "QUICK_SIGNAL",
+      "headline": "Kagi Launches Privacy-Centric Email Platform to Challenge Big Tech Monopolies",
+      "summary_points": [
+        "Independent search engine Kagi has officially released a privacy-focused email service engineered with zero-telemetry tracking and client-side encryption.",
+        "The architecture introduces user-controlled AI filtering executed strictly within isolated, privacy-preserving client sandboxes.",
+        "The launch addresses growing technical backlash against pervasive ad profiling and forced automated model training on personal corporate correspondence."
+      ],
+      "why_it_matters": "Data sovereignty and privacy are essential hygiene for modern digital professionals. For Bangladeshi software developers and students building proprietary systems, shifting critical developer communications, API keys, and business correspondence away from advertising-funded providers mitigates data-scraping and leak vulnerabilities.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": null,
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Client-Side Encryption",
+            "definition": "A security model where data is encrypted directly on the sender's device before being transmitted to the server, ensuring service providers cannot read user contents."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Direct technical architecture breakdown and product analysis.",
+          "original_url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+          "discussion_or_secondary_url": "https://kagi.com"
+        }
+      }
+    },
+    {
+      "id": "item-20261125-08",
+      "topic_slug": "opp-cern-summer-student-programme-switzerland-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "CERN Summer Student Programme 2027: Fully Funded Research Fellowship in Geneva",
+      "summary_points": [
+        "The European Organization for Nuclear Research (CERN) has opened applications for its flagship 2027 Summer Student Programme in Geneva, Switzerland.",
+        "Undergraduate and early master's students in Physics, Computing, Electrical, Mechanical, and Software Engineering spend 8 to 13 weeks working directly on high-energy particle physics experiments and massive distributed computing infrastructure.",
+        "Selected fellows receive a comprehensive living stipend (approx. 90 CHF/day tax-free), full round-trip travel coverage from Dhaka to Geneva, and comprehensive health insurance."
+      ],
+      "why_it_matters": "CERN is one of the premier scientific engineering facilities on Earth. For MIST and Bangladeshi engineering undergraduates, this fellowship provides world-class hands-on exposure to distributed systems, ultra-fast detector electronics, cryogenic instrumentation, and petabyte-scale data pipelines, dramatically strengthening PhD and global research scholarship profiles.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2027-01-31",
+        "funding_or_reward": "Fully Funded (Stipend ~90 CHF/day + Roundtrip Airfare + Health Insurance)",
+        "eligibility": "Undergraduate/Master's students in Engineering, Computer Science, Mathematics, or Physics with at least 3 years of completed university study."
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "High-Energy Physics (HEP) Computing",
+            "definition": "The specialized distributed grid and parallel computing architectures engineered to process the massive petabyte-scale collision data streams produced by particle colliders."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "CERN Careers Official Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official United Nations-affiliated international research laboratory hiring portal.",
+          "original_url": "https://careers.cern/summer-student-programme",
+          "discussion_or_secondary_url": "https://home.cern"
+        }
+      }
+    },
+    {
+      "id": "item-20261125-09",
+      "topic_slug": "opp-riken-summer-student-internship-japan-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "RIKEN Center for Computational Science (R-CCS) International Summer Internship 2027",
+      "summary_points": [
+        "RIKEN, Japan's premier scientific research institute and host of the Fugaku supercomputer, is accepting applications for its 2027 International HPC Summer Program in Kobe, Japan.",
+        "Interns work alongside leading researchers in high-performance computing (HPC), quantum computing algorithms, fluid dynamics simulations, and AI-accelerated materials discovery.",
+        "The fellowship covers round-trip international flights, furnished on-campus housing, and a daily research allowance for 6 to 8 weeks."
+      ],
+      "why_it_matters": "High-performance computing and supercomputing architecture are critical bottlenecks in modern engineering simulation and foundation model training. Participating in research at Fugaku's host institution gives Bangladeshi engineers rare access to world-leading compute clusters, opening direct pathways into funded Japanese MEXT scholarships and top-tier global graduate labs.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2027-02-15",
+        "funding_or_reward": "Fully Funded (Roundtrip Flight to Japan + Daily Living Allowance + Free Housing)",
+        "eligibility": "Undergraduate (3rd/4th year) and Graduate students in Computer Science, Applied Mathematics, Computational Engineering, or Physics."
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "HPC (High-Performance Computing)",
+            "definition": "The practice of aggregating computing power across thousands of interconnected processor nodes to solve massive scientific calculation problems in parallel."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "RIKEN Center for Computational Science",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "National research and development institute of Japan.",
+          "original_url": "https://www.r-ccs.riken.jp/en/careers/internship/",
+          "discussion_or_secondary_url": "https://www.riken.jp/en/"
+        }
+      }
+    },
+    {
+      "id": "item-20261125-10",
+      "topic_slug": "opp-bangladesh-ict-division-idea-innovation-grant-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "ICT Division iDEA Project Innovation Grant Call 2027: BDT 10 Lakh Seed Grant for Tech Startups",
+      "summary_points": [
+        "The Innovation Design and Entrepreneurship Academy (iDEA) project under the ICT Division of Bangladesh has opened its Call for Proposals for early-stage tech innovators and student founders.",
+        "Selected startups receive up to BDT 10,00,000 (10 Lakh Taka) in equity-free non-refundable seed funding, alongside dedicated mentoring, legal incubation support, and co-working space access at Agargaon ICT Tower.",
+        "Priority technology sectors include Agritech, Healthtech, Embedded Robotics/IoT hardware, Clean Energy systems, and FinTech platforms addressing domestic market inefficiencies."
+      ],
+      "why_it_matters": "For student engineering teams at MIST, BUET, and across Bangladesh building capstone projects, hardware prototypes, or SaaS platforms, the iDEA grant provides zero-dilution risk capital. It allows teams to build initial inventory, procure specialized microcontroller units, or cover cloud server bills without surrendering company equity to private angel investors.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2027-01-15",
+        "funding_or_reward": "BDT 10,00,000 Equity-Free Seed Grant + Free Incubation Co-Working Space",
+        "eligibility": "Bangladeshi citizens, university undergraduates, or early-stage startup teams with an operational software or hardware prototype."
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Equity-Free Grant",
+            "definition": "Funding awarded to an entrepreneur or company that does not require giving up any percentage of ownership, shares, or profit returns to the funder."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Startup Bangladesh / iDEA Project ICT Division",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official government project portal under the Ministry of Posts, Telecommunications and Information Technology.",
+          "original_url": "https://idea.gov.bd",
+          "discussion_or_secondary_url": "https://ictd.gov.bd"
+        }
+      }
+    }
+  ]
+}
