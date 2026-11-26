@@ -1,0 +1,411 @@
+{
+  "edition_id": "2026-11-26-AM",
+  "generated_at_utc": "2026-11-26T21:15:43.507Z",
+  "generated_at_bst": "11/27/2026, 3:15:43 AM BST",
+  "edition_shift": "MORNING_0600_BST",
+  "executive_pulse": "Myanmar's defiance of the ICJ genocide verdict cements protracted geopolitical deadlock along Bangladesh's southeastern frontier, while escalating Red Sea and Persian Gulf infrastructure strikes threaten expat security and energy supply chains. Simultaneously, bionic sensory nerve feedback marks a clinical leap for biomedical engineering, even as AI data center demand drives an aggressive fossil-fuel infrastructure buildout.",
+  "stats": {
+    "total_items": 10,
+    "news_count": 7,
+    "opportunities_count": 3,
+    "sources_scanned": 134
+  },
+  "items": [
+    {
+      "id": "myanmar-icj-genocide-ruling-rohingya-stalemate",
+      "topic_slug": "myanmar-icj-genocide-ruling-rohingya-stalemate",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Myanmar Rejects Key ICJ Genocide Enforcement Clauses as Regional Border Tensions Compound",
+      "summary_points": [
+        "The International Court of Justice (ICJ) in The Hague issued binding findings reaffirming Myanmar's state responsibility under the 1948 Genocide Convention regarding the Rohingya minority, ordering structural reparations and unimpeded repatriation guarantees.",
+        "Myanmar's military junta officially refused compliance with key reparative mechanisms, claiming external judicial overreach and asserting ongoing martial jurisdiction over Rakhine State.",
+        "The non-compliance verdict extinguishes near-term diplomatic roadmaps for safe Rohingya repatriation from Cox's Bazar, cementing a long-term fiscal, security, and humanitarian burden on Bangladesh."
+      ],
+      "why_it_matters": "Directly impacts Bangladesh's national security, macroeconomic budget, and geopolitical leverage. For citizens and future leaders, it signals that the 1.2+ million refugee population will remain dependent on Dhaka's stressed domestic infrastructure and dwindling foreign humanitarian aid indefinitely.",
+      "deep_dive_analysis": "The International Court of Justice's substantive ruling in the case brought by The Gambia marks a definitive legal condemnation of the Myanmar military's coordinated clearance operations against the Rohingya population. By formally establishing state non-compliance with provisional measures and demanding structural verification of civil rights restoration, the ICJ has exhausted its institutional legal tools. However, Myanmar's State Administration Council (SAC) has explicitly rejected the tribunal's enforcement orders, exploiting ongoing UN Security Council veto dynamics where regional powers shield Naypyidaw from Chapter VII economic or military sanctions.\n\nFor Bangladesh, this legal impasse transforms an ostensibly transient refugee management challenge into a permanent geopolitical vulnerability. With the Arakan Army (AA) now controlling over 80% of central and northern Rakhine State following catastrophic junta battlefield losses throughout 2025 and 2026, Dhaka faces a fragmented cross-border reality. Rejection of the ICJ mandate means neither the junta nor rebel ethnic militias accept legal obligations to absorb returnees, leaving Bangladesh's southeastern border corridor vulnerable to arms smuggling, narcotics networks, and armed insurgent spillover into Bandarban and Teknaf.\n\nSecond-order economic impacts are severe. International humanitarian funding pools are drying up as multilateral donor attention diverts to Eastern Europe and the Levant, forcing the Bangladesh interim and future administrations to divert scarce tax revenue to maintain basic camp stability. Strategic planners in Dhaka must now transition from a purely legal-diplomatic repatriation framework toward direct, pragmatic transactional diplomacy with non-state regional actors inside Rakhine, while fortifying electronic and kinetic border infrastructure.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "ICJ Provisional Measures",
+            "definition": "Legally binding temporary injunctions issued by the UN's top court to prevent irreversible harm while a full dispute is adjudicated."
+          },
+          {
+            "term": "Chapter VII Mandate",
+            "definition": "The section of the United Nations Charter granting the UN Security Council the authority to enforce decisions via trade embargoes, sanctions, or armed intervention."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "BBC World News",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Direct reporting on The Hague international judicial proceedings and official diplomatic communiqués",
+          "original_url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo",
+          "discussion_or_secondary_url": "https://www.icj-cij.org/case/178"
+        }
+      }
+    },
+    {
+      "id": "bangladesh-rmg-wage-dispute-labor-unrest",
+      "topic_slug": "bangladesh-rmg-wage-dispute-labor-unrest",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "RMG Industrial Belt Sees Fresh Wage Agitations as Inflation Outpaces Statutory Minimums",
+      "summary_points": [
+        "Garment manufacturing hubs in Ashulia, Gazipur, and Savar faced localized factory shutdowns following clashes between industrial police and labor unions over wage adjustment provisions.",
+        "Workers demand mid-cycle upward revisions and subsidized rationing, citing headline food inflation consistently above 11% eroding the baseline wage structure set earlier.",
+        "BGMEA and BKMEA factory owners warned international apparel buyers of order fulfillment delays, emphasizing that production cost surges cannot be absorbed under current export pricing matrices."
+      ],
+      "why_it_matters": "The RMG sector accounts for over 83% of Bangladesh's gross foreign exchange export earnings. Continued industrial friction directly risks factory relocations to Vietnam or India, jeopardizing national dollar inflows, banking stability, and macro employment.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Cost-Push Inflation",
+            "definition": "An overall rise in prices resulting from increases in the cost of wages and raw materials, reducing real purchasing power."
+          },
+          {
+            "term": "FOB Pricing",
+            "definition": "'Free on Board' pricing, where buyers only pay for goods delivered to the shipping port, forcing manufacturers to absorb domestic operational spikes."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Al Jazeera English",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Direct on-the-ground labor reportage corroborated by local industrial police dispatches",
+          "original_url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages",
+          "discussion_or_secondary_url": "https://www.bgmea.com.bd/page/circulars"
+        }
+      }
+    },
+    {
+      "id": "bangladesh-planning-commission-adp-reallocation-directive",
+      "topic_slug": "bangladesh-planning-commission-adp-reallocation-directive",
+      "type": "NEWS",
+      "category": "ECONOMY_FINANCE",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Planning Commission Enforces Strict Project Vetting to Curbside ADP Deficits and Forex Outflow",
+      "summary_points": [
+        "The Planning Commission and Ministry of Finance issued revised guidelines restricting foreign-currency-intensive Annual Development Programme (ADP) allocations for unapproved infrastructure schemes.",
+        "Priority funding is now legally constrained to high-readiness energy grids, direct industrial port connectivity, and localized food security interventions.",
+        "Ministries are instructed to scrap redundant project vehicle procurements and overseas junkets, redirecting domestic revenue toward targeted fiscal consolidation."
+      ],
+      "why_it_matters": "Impacts civic governance and public finances across Bangladesh. Halting white-elephant infrastructure projects reduces sovereign debt stress and spares citizens from debt-driven utility tariff hikes and indirect tax spikes.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Annual Development Programme (ADP)",
+            "definition": "The government's annual budgeted investment portfolio allocated to develop public infrastructure, energy, education, and health."
+          },
+          {
+            "term": "Fiscal Consolidation",
+            "definition": "Policies aimed at reducing government deficits and sovereign debt accumulation by cutting expenditures and raising revenue."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "The Business Standard (TBS)",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "National macroeconomic and public policy coverage sourced from official finance gazettes",
+          "original_url": "https://www.tbsnews.net/bangladesh",
+          "discussion_or_secondary_url": "https://plancomm.gov.bd/"
+        }
+      }
+    },
+    {
+      "id": "middle-east-refinery-strikes-diaspora-energy-risk",
+      "topic_slug": "middle-east-refinery-strikes-diaspora-energy-risk",
+      "type": "NEWS",
+      "category": "GEOPOLITICS",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Persian Gulf and Red Sea Energy Strikes Threaten Global Oil Benchmarks and Expat Safety",
+      "summary_points": [
+        "A targeted strike on Saudi Aramco's Jazan refinery complex killed a migrant worker and disrupted critical distillation units, while a simultaneous drone attack in Kuwait killed two European defense contractors.",
+        "Tehran has denied direct operational responsibility, but international maritime insurers raised war-risk premiums for crude vessels transiting the Bab el-Mandeb and Strait of Hormuz.",
+        "The flare-up threatens Bangladesh's energy import bill while escalating security concerns for the millions of Bangladeshi migrant workers stationed in Gulf energy and construction clusters."
+      ],
+      "why_it_matters": "Every $5 increase in crude oil prices drains roughly $400M from Bangladesh Bank's foreign exchange reserves annually. Furthermore, worker safety incidents in the Gulf jeopardize remittance flows, the core stabilizing pillar of the domestic economy.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "War Risk Premium",
+            "definition": "An additional insurance fee charged to vessels operating in zones subject to active armed conflict or drone/missile threats."
+          },
+          {
+            "term": "Distillation Unit",
+            "definition": "The core refining equipment that separates crude petroleum into actionable components like diesel, jet fuel, and gasoline."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Al Jazeera English",
+          "source_type": "MAJOR_OUTLET",
+          "credibility_note": "Regional reporting cross-verified with Saudi Energy Ministry official bulletins",
+          "original_url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations",
+          "discussion_or_secondary_url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o"
+        }
+      }
+    },
+    {
+      "id": "mit-neural-interface-tactile-bionic-prosthetics",
+      "topic_slug": "mit-neural-interface-tactile-bionic-prosthetics",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "Closed-Loop Peripheral Nerve Interfaces Restore Real-Time Sensory Perception to Bionic Prosthetics",
+      "summary_points": [
+        "Biomedical engineers at MIT and partner neuro-rehabilitation clinics have successfully deployed a closed-loop bionic hand directly integrated with residual forearm peripheral nerves.",
+        "The system converts mechanical fingertip pressure into calibrated biomimetic electrical pulses, allowing amputees to sense texture and apply precise micro-force without visual feedback.",
+        "Unlike earlier myoelectric prosthetics that relied solely on muscle electromagnets, this architecture bridges bidirectional communication across nervous tissue and silicon processors."
+      ],
+      "why_it_matters": "A watershed for biomedical, electrical, and mechatronics engineers. It marks the transition of bionics from crude electromechanical tools into authentic neuro-integrated biological extensions, opening up new paradigms for neural prostheses and robotic teleoperation.",
+      "deep_dive_analysis": "For over three decades, advanced prosthetic limbs operated under a severe open-loop limitation: while a patient could contract residual muscles to trigger surface electrodes (myoelectric sensing) and close a robotic grip, they received zero somatic tactile feedback. To prevent crushing fragile objects or dropping heavy items, amputees were forced to constantly monitor their artificial limbs visually. The breakthrough detailed by MIT Technology Review solves this through an osseointegrated, bidirectional neural interface wired directly into surviving afferent nerve bundles in the forearm.\n\nThe engineering mechanism hinges on high-density pressure transducers embedded beneath synthetic elastomeric skin. When the artificial fingertip contacts a surface, onboard analog front-ends digitize force gradients and route them to an embedded micro-controller running real-time neural decoding models. These models map physical force metrics into exact frequencies and pulse-width modulated electrical micro-currents. These currents are then delivered via targeted intraneural electrode arrays into the median and ulnar nerves, simulating the exact sensory encoding generated by biological mechanoreceptors (such as Merkel cells and Meissner's corpuscles).\n\nBeyond restoring quality of life to amputees, this technology directly accelerates commercial humanoid robotics and hazardous-environment teleoperation. When human operators interface with robotic manipulators in deep-sea salvage, nuclear decommissioning, or micro-surgical robotics, closed-loop sensory feedback reduces operational error rates by orders of magnitude. For engineering scholars at institutions like MIST, this highlights the immense convergence occurring between neuromorphic embedded computing, biocompatible micro-electromechanical systems (MEMS), and low-latency DSP algorithms.",
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Closed-Loop Neural Interface",
+            "definition": "A bidirectional system that reads biological signals to move a machine and simultaneously writes sensory signals back into the nervous system."
+          },
+          {
+            "term": "Afferent Nerve Bundles",
+            "definition": "Sensory nerve fibers that conduct bioelectrical impulses inward from peripheral receptors toward the central nervous system."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "MIT Technology Review",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Rigorous scientific investigation verifying clinical trials and neuro-engineering papers",
+          "original_url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+          "discussion_or_secondary_url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/"
+        }
+      }
+    },
+    {
+      "id": "ladybird-independent-browser-engine-alpha-release",
+      "topic_slug": "ladybird-independent-browser-engine-alpha-release",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Ladybird Releases First Public Alpha, Challenging the Google Blink and Apple WebKit Monopoly",
+      "summary_points": [
+        "The Ladybird Browser Initiative has published its first downloadable alpha release for Linux and macOS, built entirely without upstream code from Chromium (Blink), Safari (WebKit), or Firefox (Gecko).",
+        "Written from scratch in C++ and LibWeb, the open-source browser passed core Web Platform Tests (WPT) and achieved functional rendering of standard JavaScript-heavy modern web apps.",
+        "Backed by independent donors and non-profit governance, the release represents the first credible new browser engine project in over a decade to resist corporate web standard consolidation."
+      ],
+      "why_it_matters": "Google's near-monopoly on browser engines gives it unvetted power over web standards, privacy frameworks, and ad-blocking capabilities. An independent engine protects an open internet architecture and offers computer engineers a modern, clean codebase to learn browser systems design.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Browser Engine",
+            "definition": "The core software component that transforms raw HTML, CSS, and JavaScript code into visual, interactive web pages."
+          },
+          {
+            "term": "Web Platform Tests (WPT)",
+            "definition": "A standardized cross-browser test suite ensuring software engines render web specifications consistently."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Ars Technica",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "Direct hands-on benchmark and architecture teardown of the compiled binary release",
+          "original_url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+          "discussion_or_secondary_url": "https://github.com/LadybirdBrowser/ladybird"
+        }
+      }
+    },
+    {
+      "id": "ai-hyperscaler-power-demand-natural-gas-boom",
+      "topic_slug": "ai-hyperscaler-power-demand-natural-gas-boom",
+      "type": "NEWS",
+      "category": "TECH_ENGINEERING",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Hyperscale AI Compute Demands Trigger Massive Natural Gas Power Plant Buildout",
+      "summary_points": [
+        "Leading tech conglomerates have signed multi-gigawatt power purchase agreements directly tied to newly planned combined-cycle natural gas turbine plants to fuel AI data centers.",
+        "Intermittent renewables and multi-year interconnection delays for nuclear micro-reactors have forced hyperscalers to prioritize on-demand fossil generation to meet 24/7 cluster uptime requirements.",
+        "Global LNG demand projections have revised sharply upward through 2035, tightening competitive procurement for energy-importing nations across developing Asia."
+      ],
+      "why_it_matters": "Reveals the physical reality behind abstract AI software. When Western cloud providers consume huge volumes of global natural gas, nations like Bangladesh face stiffer competition and higher spot-market prices for vital LNG shipments to run domestic power plants.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": false,
+        "deadline": null,
+        "funding_or_reward": "N/A",
+        "eligibility": null
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Combined-Cycle Turbine",
+            "definition": "An efficient power plant system that uses both a gas turbine and a steam turbine together to generate up to 50% more electricity from the same fuel."
+          },
+          {
+            "term": "Interconnection Queue",
+            "definition": "The official waiting list and review process managed by electrical grid operators to approve new power generation projects connecting to the transmission grid."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "MIT Technology Review",
+          "source_type": "NICHE_CREDIBLE",
+          "credibility_note": "In-depth energy systems analysis tracking utility filings and hyperscaler grid contracts",
+          "original_url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+          "discussion_or_secondary_url": "https://www.iea.org/reports/electricity-2026"
+        }
+      }
+    },
+    {
+      "id": "opp-eth-zurich-summer-research-fellowship-2027",
+      "topic_slug": "opp-eth-zurich-summer-research-fellowship-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "CRITICAL_DEEP_DIVE",
+      "headline": "ETH Zurich Student Summer Research Fellowship 2027: Fully Funded STEM Lab Residency in Switzerland",
+      "summary_points": [
+        "ETH Zurich's Department of Computer Science and Information Technology opens applications for its international Summer Research Fellowship.",
+        "Selected undergraduate and master's students spend July and August embedded in elite Swiss labs working on AI, systems security, robotics, and high-performance computing.",
+        "The fellowship covers round-trip international airfare, full university accommodation, and a monthly living stipend of CHF 1,750 (~BDT 245,000)."
+      ],
+      "why_it_matters": "One of the most prestigious stepping stones for undergraduate engineering students targeting direct PhD admission at top-tier global universities. High-achieving MIST students gain world-class research publications and strong academic letters of recommendation.",
+      "deep_dive_analysis": "The ETH Zurich Student Summer Research Fellowship represents a premier tier-one global research program for undergraduate students enrolled in computer science, electrical engineering, mathematics, and related engineering disciplines. Hosted at continental Europe's highest-ranked technical university, the fellowship removes all financial barriers by pairing students directly with leading faculty for nine rigorous weeks. Selected fellows do not simply shadow researchers; they are integrated as active co-authors on ongoing foundational projects spanning distributed systems, formal verification, generative algorithms, and bio-inspired robotics.\n\nThe application process evaluates demonstrated technical excellence, analytical clarity, and research passion rather than superficial institutional pedigree. Applicants must submit official transcripts, two comprehensive academic recommendation letters, a verified CV highlighting software or hardware project contributions (such as competitive programming awards, hackathon systems, or GitHub repositories), and a precise 1-page research statement outlining specific faculty labs aligned with their target research trajectory.\n\nFor an undergraduate engineer in Bangladesh, this program functions as an unparalleled springboard. Publishing a paper or securing an unreserved recommendation letter from an ETH Zurich professor regularly unlocks fully funded direct-entry PhD pathways, institutional fellowships (such as DAAD, Fulbright, or Erasmus Mundus), and high-caliber corporate R&D roles across Europe and North America.",
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2026-12-15",
+        "funding_or_reward": "Fully Funded (Airfare + Housing + CHF 1,750/mo Stipend)",
+        "eligibility": "Enrolled Undergraduate or Master's students in CS, EEE, or related STEM fields"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Research Statement",
+            "definition": "A formal academic essay outlining your past technical achievements, research methodology interests, and the specific problems you intend to investigate."
+          },
+          {
+            "term": "Formal Verification",
+            "definition": "A mathematical technique used to prove that computer code or hardware circuits strictly adhere to their intended specifications without bugs."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "ETH Zurich Department of Computer Science",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official university departmental portal publishing annual fellowship guidelines",
+          "original_url": "https://inf.ethz.ch/studies/summer-fellowship.html",
+          "discussion_or_secondary_url": "https://www.ethz.ch/en.html"
+        }
+      }
+    },
+    {
+      "id": "opp-schwarzman-scholars-tsinghua-leadership-2027",
+      "topic_slug": "opp-schwarzman-scholars-tsinghua-leadership-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "Schwarzman Scholars Class of 2027–2028: Fully Funded Master of Global Affairs at Tsinghua University",
+      "summary_points": [
+        "Schwarzman Scholars is accepting international applications for its one-year fully funded Master's degree in Global Affairs at Tsinghua University in Beijing.",
+        "Open to graduates and final-year undergraduates of any academic discipline aged 18 to 28 who display exceptional leadership capacity, intellect, and global perspective.",
+        "Award package covers 100% of tuition, room and board, round-trip travel to Beijing, an in-country study tour, health insurance, and a personal living stipend of $5,000."
+      ],
+      "why_it_matters": "Gives future Bangladeshi technologists, civic reformers, and entrepreneurs an elite peer network and direct exposure to China's geopolitical, supply chain, and technological ecosystem with zero personal debt.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2027-09-15",
+        "funding_or_reward": "Fully Funded ($85,000+ total value per scholar)",
+        "eligibility": "Undergraduate degree holders or graduating seniors aged 18-28 from any field"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Global Affairs Fellowship",
+            "definition": "A postgraduate scholarship focused on training future diplomats, executives, and innovators in geopolitics, public policy, and international economics."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Schwarzman Scholars Official Portal",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Direct official scholarship admissions and eligibility guidelines",
+          "original_url": "https://www.schwarzmanscholars.org/admissions/",
+          "discussion_or_secondary_url": "https://www.tsinghua.edu.cn/en/"
+        }
+      }
+    },
+    {
+      "id": "opp-btrc-telecom-ai-research-grant-2027",
+      "topic_slug": "opp-btrc-telecom-ai-research-grant-2027",
+      "type": "OPPORTUNITY",
+      "category": "OPPORTUNITIES",
+      "importance_tier": "STANDARD_BRIEF",
+      "headline": "BTRC Telecom & Cyber Innovation Research Grant 2027: Funding for Domestic Wireless and AI R&D",
+      "summary_points": [
+        "The Bangladesh Telecommunication Regulatory Commission (BTRC) has published its 2027 R&D call for university-led telecommunications and cyber innovation projects.",
+        "Grants range from BDT 500,000 to BDT 2,500,000 for undergraduate capstone teams and faculty labs tackling localized 5G/6G propagation, Bangla NLP, and critical infrastructure cybersecurity.",
+        "Proposals require proof-of-concept roadmaps, an accredited faculty advisor, and must solve documented technical bottlenecks in domestic telecom networks."
+      ],
+      "why_it_matters": "Provides immediate capital for MIST and Bangladeshi engineering student teams to purchase specialized SDR hardware, high-end compute cards, and RF test gear without relying on out-of-pocket spending for final-year design projects.",
+      "deep_dive_analysis": null,
+      "opportunity_meta": {
+        "is_opportunity": true,
+        "deadline": "2027-01-20",
+        "funding_or_reward": "BDT 500,000 to BDT 2,500,000 per project",
+        "eligibility": "Undergraduate / Postgraduate engineering teams at accredited Bangladeshi universities"
+      },
+      "side_panel": {
+        "jargon_buster": [
+          {
+            "term": "Software-Defined Radio (SDR)",
+            "definition": "A radio communication system where traditional hardware components (like mixers and filters) are implemented via software on a computer."
+          },
+          {
+            "term": "Proof-of-Concept (PoC)",
+            "definition": "A realization of a certain method or idea to demonstrate its practical feasibility before full-scale engineering manufacturing."
+          }
+        ],
+        "source_verification": {
+          "primary_source_name": "Bangladesh Telecommunication Regulatory Commission",
+          "source_type": "OPPORTUNITY_PORTAL",
+          "credibility_note": "Official Bangladesh government statutory authority procurement and research gazette",
+          "original_url": "http://www.btrc.gov.bd/",
+          "discussion_or_secondary_url": "https://mopt.gov.bd/"
+        }
+      }
+    }
+  ]
+}
